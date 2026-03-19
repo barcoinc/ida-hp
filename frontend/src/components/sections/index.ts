@@ -1,0 +1,11 @@
+export { default as HeroSection } from './HeroSection';
+export { default as WhySection } from './WhySection';
+export { default as WhatSection } from './WhatSection';
+export { default as HowSection } from './HowSection';
+export { default as FlowSection } from './FlowSection';
+export { default as TargetSection } from './TargetSection';
+export { default as ProfileSection } from './ProfileSection';
+export { default as CTASection } from './CTASection';
+export { default as ScrollSlideWhy } from './ScrollSlideWhy';
+export { default as ScrollSlideWhat } from './ScrollSlideWhat';
+export { default as ScrollSlideHow } from './ScrollSlideHow';

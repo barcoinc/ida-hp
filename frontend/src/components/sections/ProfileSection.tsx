@@ -33,20 +33,17 @@ export default function ProfileSection() {
             <Grid size={{ xs: 12, md: 4 }}>
               <motion.div variants={slideInLeft}>
                 <Box
+                  component="img"
+                  src="/images/profile-ida.png"
+                  alt="井田 孝 プロフィール写真"
                   sx={{
                     width: '100%',
                     aspectRatio: '3/4',
-                    backgroundColor: palette.accent.lightNavy,
+                    objectFit: 'cover',
+                    objectPosition: 'center top',
                     borderRadius: 1,
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'center',
                   }}
-                >
-                  <Typography sx={{ color: palette.text.light, fontSize: '0.85rem' }}>
-                    PHOTO
-                  </Typography>
-                </Box>
+                />
               </motion.div>
             </Grid>
 

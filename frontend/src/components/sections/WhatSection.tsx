@@ -79,11 +79,11 @@ export default function WhatSection() {
                 <motion.div variants={fadeInUp} style={{ height: '100%' }}>
                   <Box
                     sx={{
-                      p: 4,
                       height: '100%',
                       backgroundColor: '#fff',
                       borderRadius: 1,
                       border: `1px solid ${palette.accent.warmGray}`,
+                      overflow: 'hidden',
                       transition: 'all 0.5s ease',
                       '&:hover': {
                         borderColor: palette.secondary.main,
@@ -92,29 +92,44 @@ export default function WhatSection() {
                       },
                     }}
                   >
-                    <Typography
-                      sx={{
-                        fontFamily: '"Cormorant Garamond", serif',
-                        fontSize: '2rem',
-                        color: palette.secondary.main,
-                        mb: 1,
-                        fontWeight: 300,
-                      }}
-                    >
-                      {s.num}
-                    </Typography>
-                    <Typography variant="h4" sx={{ mb: 0.5, fontSize: '1.1rem', color: palette.text.primary }}>
-                      {s.title}
-                    </Typography>
-                    <Typography
-                      variant="body2"
-                      sx={{ color: palette.text.light, fontSize: '0.8rem', mb: 2, letterSpacing: '0.04em' }}
-                    >
-                      {s.sub}
-                    </Typography>
-                    <Typography variant="body2" sx={{ color: palette.text.secondary, lineHeight: 1.9 }}>
-                      {s.text}
-                    </Typography>
+                    {i === 2 && (
+                      <Box
+                        component="img"
+                        src="/images/seminar.jpg"
+                        alt="セミナー・講演の様子"
+                        sx={{
+                          width: '100%',
+                          height: 180,
+                          objectFit: 'cover',
+                          objectPosition: 'center',
+                        }}
+                      />
+                    )}
+                    <Box sx={{ p: 4 }}>
+                      <Typography
+                        sx={{
+                          fontFamily: '"Cormorant Garamond", serif',
+                          fontSize: '2rem',
+                          color: palette.secondary.main,
+                          mb: 1,
+                          fontWeight: 300,
+                        }}
+                      >
+                        {s.num}
+                      </Typography>
+                      <Typography variant="h4" sx={{ mb: 0.5, fontSize: '1.1rem', color: palette.text.primary }}>
+                        {s.title}
+                      </Typography>
+                      <Typography
+                        variant="body2"
+                        sx={{ color: palette.text.light, fontSize: '0.8rem', mb: 2, letterSpacing: '0.04em' }}
+                      >
+                        {s.sub}
+                      </Typography>
+                      <Typography variant="body2" sx={{ color: palette.text.secondary, lineHeight: 1.9 }}>
+                        {s.text}
+                      </Typography>
+                    </Box>
                   </Box>
                 </motion.div>
               </Grid>

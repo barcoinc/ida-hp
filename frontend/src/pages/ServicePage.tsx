@@ -271,6 +271,21 @@ export default function ServicePage() {
             <motion.div variants={fadeInUp}><Typography sx={{ fontFamily: '"Cormorant Garamond", serif', fontSize: '2.5rem', color: palette.secondary.main, fontWeight: 300, mb: 2, textAlign: 'center' }}>03</Typography></motion.div>
             <motion.div variants={fadeInUp}><Typography variant="h2" sx={{ textAlign: 'center', mb: 2, fontSize: { xs: '1.3rem', md: '1.7rem' } }}>セミナー・講師活動</Typography></motion.div>
             <motion.div variants={fadeInUp}><Typography variant="body1" sx={{ textAlign: 'center', mb: 8, color: palette.text.secondary, maxWidth: 640, mx: 'auto', lineHeight: 2 }}>予防医学の考え方を、研究者ならではの視点で分かりやすく伝えるセミナーや講演を行っています。</Typography></motion.div>
+            <motion.div variants={fadeInUp}>
+              <Box
+                component="img"
+                src="/images/seminar.jpg"
+                alt="セミナー・講演の様子"
+                sx={{
+                  width: '100%',
+                  maxHeight: 360,
+                  objectFit: 'cover',
+                  objectPosition: 'center',
+                  borderRadius: 1,
+                  mb: 6,
+                }}
+              />
+            </motion.div>
             <Grid container spacing={4} sx={{ mb: 8 }}>
               {[
                 { title: 'はじめての予防医学セミナー', text: '予防医学の基本的な考え方や、健康を守るための生活習慣について分かりやすく解説します。' },

@@ -83,17 +83,16 @@ export default function AboutPage() {
                   }}
                 >
                   <Box
+                    component="img"
+                    src="/images/profile-ida.png"
+                    alt="井田 孝"
                     sx={{
                       width: '100%',
                       height: { xs: 200, md: '65vh' },
-                      backgroundColor: palette.accent.lightNavy,
-                      display: 'flex',
-                      alignItems: 'center',
-                      justifyContent: 'center',
+                      objectFit: 'cover',
+                      objectPosition: 'center top',
                     }}
-                  >
-                    <Typography sx={{ color: palette.text.light, fontSize: '0.85rem' }}>PHOTO</Typography>
-                  </Box>
+                  />
                 </Box>
 
                 {/* Quote + text */}
@@ -245,9 +244,12 @@ export default function AboutPage() {
             <Grid container spacing={6} sx={{ maxWidth: 800, mx: 'auto' }}>
               <Grid size={{ xs: 12, md: 4 }}>
                 <motion.div variants={slideInLeft}>
-                  <Box sx={{ width: '100%', aspectRatio: '3/4', backgroundColor: palette.accent.lightNavy, borderRadius: 1, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                    <Typography sx={{ color: palette.text.light, fontSize: '0.85rem' }}>PHOTO</Typography>
-                  </Box>
+                  <Box
+                    component="img"
+                    src="/images/hero-main.jpg"
+                    alt="井田 孝 研究室にて"
+                    sx={{ width: '100%', aspectRatio: '3/4', objectFit: 'cover', objectPosition: 'center', borderRadius: 1 }}
+                  />
                 </motion.div>
               </Grid>
               <Grid size={{ xs: 12, md: 8 }}>

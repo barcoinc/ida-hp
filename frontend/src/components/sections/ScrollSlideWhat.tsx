@@ -30,19 +30,12 @@ export default function ScrollSlideWhat() {
           <Typography
             variant="h2"
             sx={{
-              fontSize: { xs: '1.1rem', sm: '1.4rem', md: '1.7rem' },
+              fontSize: { xs: '1.3rem', sm: '1.6rem', md: '2rem' },
               color: palette.text.primary,
               lineHeight: 1.8,
             }}
           >
-            痩せたい人も、疲れやすい人も、今は健康な人も。
-            <br />
-            私が診るのは「症状」じゃなく、
-            <br />
-            <Box component="span" sx={{ color: palette.secondary.main, fontWeight: 500 }}>
-              「あなたの身体を最高の状態にすること」
-            </Box>
-            です。
+            私がサポートしていること
           </Typography>
         </Box>
       </Container>

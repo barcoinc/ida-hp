@@ -9,6 +9,7 @@ export { default as TargetSection } from './TargetSection';
 export { default as ProfileSection } from './ProfileSection';
 export { default as CTASection } from './CTASection';
 export { default as ScrollSlideWhy } from './ScrollSlideWhy';
+export { default as ScrollSlideWhyEnd } from './ScrollSlideWhyEnd';
 export { default as ScrollSlideWhat } from './ScrollSlideWhat';
 export { default as ScrollSlideService } from './ScrollSlideService';
 export { default as ScrollSlideHowService } from './ScrollSlideHowService';

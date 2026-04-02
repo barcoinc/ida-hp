@@ -5,6 +5,7 @@ import {
   HeroSection,
   ScrollSlideWhy,
   WhyDetailSection,
+  ScrollSlideWhyEnd,
   ScrollSlideWhat,
   ScrollSlideService,
   ScrollSlideHowService,
@@ -39,10 +40,11 @@ export default function TopPage() {
       {/* WHY詳細（通常スクロール） */}
       <WhyDetailSection />
 
-      {/* WHAT → 3つの入口 → HOW 3サービス（ズームフェード） */}
+      {/* WHY結び → WHAT → 3つの入口 → HOW 3サービス（ズームフェード） */}
       <HeroSection
         showHero={false}
         behindSlides={[
+          <ScrollSlideWhyEnd key="why-end" />,
           <ScrollSlideWhat key="what" />,
           <ScrollSlideService key="service" />,
           <ScrollSlideHowService key="how-service" />,

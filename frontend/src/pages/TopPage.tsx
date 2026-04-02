@@ -8,7 +8,7 @@ import {
   WhyDetailSection,
   ScrollSlideWhat,
   WhatDetailSection,
-  ScrollSlideHowService,
+  HowServiceSection,
   HowSection,
   FlowSection,
   TargetSection,
@@ -47,7 +47,8 @@ export default function TopPage() {
           <ScrollSlideCurtain
             key="curtain-why"
             bgcolor="#ffffff"
-            text="その想いが、予防医学の道へ私を動かしました。"
+            text="そもそも、そんな状態にならない人を増やしたい。前の段階で、できることが山ほどある。"
+            sub="そんな想いで日々、この仕事をしています。"
           />,
           <ScrollSlideWhat key="what" />,
         ]}
@@ -56,20 +57,10 @@ export default function TopPage() {
       {/* WHAT詳細 / 3つの入口（通常スクロール） */}
       <WhatDetailSection />
 
-      {/* WHAT結び → HOW 3サービス（ズームフェード） */}
-      <HeroSection
-        showHero={false}
-        behindSlides={[
-          <ScrollSlideCurtain
-            key="curtain-what"
-            bgcolor="#f8f6f3"
-            text="あなたに合った入口から、始められます。"
-          />,
-          <ScrollSlideHowService key="how-service" />,
-        ]}
-      />
+      {/* HOW 3サービス（通常スクロール） */}
+      <HowServiceSection />
 
-      {/* HOW詳細以降（通常スクロール） */}
+      {/* HOW詳細（通常スクロール） */}
       <HowSection />
       <FlowSection />
       <TargetSection />

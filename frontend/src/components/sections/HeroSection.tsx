@@ -171,6 +171,7 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
               top: { xs: '50%', md: '38%' },
               left: { xs: '50%', md: '8%' },
               transform: { xs: 'translateX(-50%) translateY(-50%)', md: 'none' },
+              width: { xs: 'max-content', md: 'auto' },
               zIndex: 2,
               textAlign: { xs: 'center', md: 'left' },
             }}
@@ -183,7 +184,7 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
               <Typography
                 sx={{
                   fontFamily: '"Noto Serif JP", serif',
-                  fontSize: { xs: 'clamp(0.95rem, 4.2vw, 1.5rem)', sm: '1.8rem', md: 'clamp(2rem, 3.2vw, 2.6rem)' },
+                  fontSize: { xs: '1.5rem', sm: '1.8rem', md: 'clamp(2rem, 3.2vw, 2.6rem)' },
                   fontWeight: 300,
                   color: palette.text.primary,
                   lineHeight: 1.8,
@@ -209,6 +210,7 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
               bottom: { xs: '15%', md: '12%' },
               right: { xs: '50%', md: '6%' },
               transform: { xs: 'translateX(50%)', md: 'none' },
+              width: { xs: 'max-content', md: 'auto' },
               zIndex: 2,
               textAlign: { xs: 'center', md: 'right' },
             }}

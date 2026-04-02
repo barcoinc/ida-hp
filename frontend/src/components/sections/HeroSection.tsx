@@ -158,7 +158,7 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
                   color: palette.text.primary,
                   lineHeight: 1.8,
                   letterSpacing: '0.04em',
-                  whiteSpace: 'nowrap',
+                  whiteSpace: { xs: 'normal', md: 'nowrap' },
                 }}
               >
                 ある日突然、健康を失い
@@ -196,7 +196,7 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
                   fontSize: { xs: '0.78rem', md: '1rem' },
                   lineHeight: 2,
                   letterSpacing: '0.06em',
-                  whiteSpace: 'nowrap',
+                  whiteSpace: { xs: 'normal', md: 'nowrap' },
                 }}
               >
                 食事・栄養・検査で、
@@ -217,7 +217,7 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
                   fontSize: { xs: '0.7rem', md: '0.8rem' },
                   letterSpacing: '0.08em',
                   opacity: 0.7,
-                  whiteSpace: 'nowrap',
+                  whiteSpace: { xs: 'normal', md: 'nowrap' },
                 }}
               >
                 元・抗がん剤研究者 ／ 予防医学士® &nbsp;井田 孝

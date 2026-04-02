@@ -1,28 +1,10 @@
-import { useRef, type ReactNode } from 'react';
-import { Box, Typography, Button } from '@mui/material';
-import { motion, useScroll, useTransform, type MotionValue } from 'framer-motion';
-import { useNavigate } from 'react-router-dom';
+import { useRef, useState, type ReactNode } from 'react';
+import { Box, Typography } from '@mui/material';
+import { motion, useScroll, useMotionValueEvent } from 'framer-motion';
 import { palette } from '../../theme/palette';
 
 const elegantEase: [number, number, number, number] = [0.22, 1, 0.36, 1];
-
-function calcScale(layerIdx: number, totalSlides: number, v: number): number {
-  const seg = 1 / totalSlides;
-  const zoomStart = (layerIdx + 1) * seg - 0.08;
-  const zoomEnd = (layerIdx + 1) * seg;
-  if (v <= zoomStart) return 1;
-  if (v >= zoomEnd) return 1.5;
-  return 1 + 0.5 * ((v - zoomStart) / (zoomEnd - zoomStart));
-}
-
-function calcOpacity(layerIdx: number, totalSlides: number, v: number): number {
-  const seg = 1 / totalSlides;
-  const zoomStart = (layerIdx + 1) * seg - 0.08;
-  const fadeEnd = (layerIdx + 1) * seg - 0.01;
-  if (v <= zoomStart) return 1;
-  if (v >= fadeEnd) return 0;
-  return 1 - (v - zoomStart) / (fadeEnd - zoomStart);
-}
+const zoomFadeTransition = { duration: 0.6, ease: elegantEase };
 
 interface HeroSectionProps {
   splashDone?: boolean;
@@ -30,7 +12,6 @@ interface HeroSectionProps {
 }
 
 export default function HeroSection({ splashDone = true, behindSlides = [] }: HeroSectionProps) {
-  const navigate = useNavigate();
   const d = splashDone ? 0.2 : 3.2;
 
   const totalSlides = behindSlides.length + 1;
@@ -42,34 +23,17 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
     offset: ['start start', 'end start'],
   });
 
-  const heroScale = useTransform(scrollYProgress, (v) => calcScale(0, totalSlides, v));
-  const heroOpacity = useTransform(scrollYProgress, (v) => calcOpacity(0, totalSlides, v));
-  const heroPointer = useTransform(heroOpacity, (v) => (v < 0.1 ? ('none' as const) : ('auto' as const)));
+  const [activeSlide, setActiveSlide] = useState(0);
+  const activeSlideRef = useRef(0);
+  const seg = 1 / totalSlides;
 
-  const s0s = useTransform(scrollYProgress, (v) => (totalSlides > 2 ? calcScale(1, totalSlides, v) : 1));
-  const s0o = useTransform(scrollYProgress, (v) => (totalSlides > 2 ? calcOpacity(1, totalSlides, v) : 1));
-  const s1s = useTransform(scrollYProgress, (v) => (totalSlides > 3 ? calcScale(2, totalSlides, v) : 1));
-  const s1o = useTransform(scrollYProgress, (v) => (totalSlides > 3 ? calcOpacity(2, totalSlides, v) : 1));
-  const s2s = useTransform(scrollYProgress, (v) => (totalSlides > 4 ? calcScale(3, totalSlides, v) : 1));
-  const s2o = useTransform(scrollYProgress, (v) => (totalSlides > 4 ? calcOpacity(3, totalSlides, v) : 1));
-  const s3s = useTransform(scrollYProgress, (v) => (totalSlides > 5 ? calcScale(4, totalSlides, v) : 1));
-  const s3o = useTransform(scrollYProgress, (v) => (totalSlides > 5 ? calcOpacity(4, totalSlides, v) : 1));
-
-  const s0p = useTransform(s0o, (v) => (v < 0.1 ? ('none' as const) : ('auto' as const)));
-  const s1p = useTransform(s1o, (v) => (v < 0.1 ? ('none' as const) : ('auto' as const)));
-  const s2p = useTransform(s2o, (v) => (v < 0.1 ? ('none' as const) : ('auto' as const)));
-  const s3p = useTransform(s3o, (v) => (v < 0.1 ? ('none' as const) : ('auto' as const)));
-
-  const slideTransforms: {
-    scale: MotionValue<number>;
-    opacity: MotionValue<number>;
-    pointerEvents: MotionValue<'none' | 'auto'>;
-  }[] = [
-    { scale: s0s, opacity: s0o, pointerEvents: s0p },
-    { scale: s1s, opacity: s1o, pointerEvents: s1p },
-    { scale: s2s, opacity: s2o, pointerEvents: s2p },
-    { scale: s3s, opacity: s3o, pointerEvents: s3p },
-  ];
+  useMotionValueEvent(scrollYProgress, 'change', (v) => {
+    const newActive = Math.min(Math.floor(v / seg), totalSlides - 1);
+    if (newActive !== activeSlideRef.current) {
+      activeSlideRef.current = newActive;
+      setActiveSlide(newActive);
+    }
+  });
 
   return (
     <Box ref={wrapperRef} sx={{ height: `${scrollVh}vh`, position: 'relative' }}>
@@ -85,14 +49,17 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
             );
           }
 
-          const t = slideTransforms[i];
+          const isExiting = activeSlide > i + 1;
           return (
             <motion.div
               key={i}
+              animate={{
+                scale: isExiting ? 1.5 : 1,
+                opacity: isExiting ? 0 : 1,
+              }}
+              transition={zoomFadeTransition}
               style={{
-                scale: t.scale,
-                opacity: t.opacity,
-                pointerEvents: t.pointerEvents,
+                pointerEvents: isExiting ? 'none' : 'auto',
                 position: 'absolute',
                 top: 0, left: 0, width: '100%', height: '100%', zIndex,
               }}
@@ -104,17 +71,23 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
 
         {/* Front: Hero — left-aligned with photo space */}
         <motion.div
+          animate={{
+            opacity: activeSlide >= 1 ? 0 : 1,
+          }}
+          transition={zoomFadeTransition}
           style={{
-            opacity: heroOpacity,
-            pointerEvents: heroPointer,
+            pointerEvents: activeSlide >= 1 ? 'none' : 'auto',
             position: 'absolute',
             top: 0, left: 0, width: '100%', height: '100%',
             zIndex: behindSlides.length + 1,
           }}
         >
          <motion.div
+           animate={{
+             scale: activeSlide >= 1 ? 1.5 : 1,
+           }}
+           transition={zoomFadeTransition}
            style={{
-             scale: heroScale,
              position: 'absolute',
              inset: 0,
              transformOrigin: 'center center',
@@ -198,6 +171,19 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
               </Typography>
             </motion.div>
 
+          </Box>
+
+          {/* Sub-copy — bottom right */}
+          <Box
+            sx={{
+              position: 'absolute',
+              bottom: { xs: '15%', md: '12%' },
+              right: { xs: '50%', md: '6%' },
+              transform: { xs: 'translateX(50%)', md: 'none' },
+              zIndex: 2,
+              textAlign: { xs: 'center', md: 'right' },
+            }}
+          >
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -206,7 +192,6 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
               <Typography
                 sx={{
                   color: palette.text.secondary,
-                  mt: { xs: 3, md: 4 },
                   fontSize: { xs: '0.85rem', md: '1rem' },
                   lineHeight: 2,
                   letterSpacing: '0.06em',
@@ -226,85 +211,13 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
               <Typography
                 sx={{
                   color: palette.text.light,
-                  mt: 3,
+                  mt: 2,
                   fontSize: '0.8rem',
                   letterSpacing: '0.08em',
                   opacity: 0.7,
                 }}
               >
                 元・抗がん剤研究者 ／ 予防医学士® &nbsp;井田 孝
-              </Typography>
-            </motion.div>
-
-            <motion.div
-              initial={{ opacity: 0, y: 16 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1.2, delay: d + 1.0, ease: elegantEase }}
-            >
-              <Button
-                variant="contained"
-                size="large"
-                onClick={() => navigate('/contact')}
-                sx={{
-                  mt: 4,
-                  backgroundColor: palette.primary.main,
-                  color: '#fff',
-                  px: 4,
-                  py: 1.5,
-                  fontSize: '0.9rem',
-                  transition: 'all 0.4s ease',
-                  '&:hover': {
-                    backgroundColor: palette.primary.light,
-                    transform: 'translateY(-2px)',
-                    boxShadow: '0 8px 24px rgba(26,39,68,0.2)',
-                  },
-                }}
-              >
-                まず1時間、話してみる（無料）
-              </Button>
-            </motion.div>
-          </Box>
-
-          {/* Sub-copy — bottom right (PC only) */}
-          <Box
-            sx={{
-              display: { xs: 'none', md: 'block' },
-              position: 'absolute',
-              bottom: '12%',
-              right: '6%',
-              zIndex: 2,
-              textAlign: 'right',
-            }}
-          >
-            <motion.div
-              initial={{ opacity: 0, y: 16 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1.2, delay: d + 1.0, ease: elegantEase }}
-            >
-              <Typography
-                sx={{
-                  fontSize: '0.8125rem',
-                  letterSpacing: '0.08em',
-                  color: palette.text.primary,
-                  lineHeight: 1.8,
-                  opacity: 0.7,
-                  whiteSpace: 'nowrap',
-                }}
-              >
-                予防医学 × 科学的根拠 — あなたの身体を最高の状態に。
-              </Typography>
-              <Typography
-                sx={{
-                  fontFamily: '"Cormorant Garamond", serif',
-                  fontStyle: 'italic',
-                  fontSize: '1rem',
-                  color: palette.text.light,
-                  mt: 1.5,
-                  lineHeight: 1.6,
-                  opacity: 0.45,
-                }}
-              >
-                Preventive medicine for your best self.
               </Typography>
             </motion.div>
           </Box>

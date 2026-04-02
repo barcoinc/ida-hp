@@ -37,8 +37,9 @@ interface HeroSectionProps {
 export default function HeroSection({ splashDone = true, behindSlides = [], showHero = true }: HeroSectionProps) {
   const d = splashDone ? 0.2 : 3.2;
 
-  const totalSlides = behindSlides.length + 1;
+  const totalSlides = showHero ? behindSlides.length + 1 : behindSlides.length;
   const scrollVh = totalSlides * 160;
+  const lo = showHero ? 1 : 0; // layer offset
 
   const wrapperRef = useRef<HTMLDivElement>(null);
   const { scrollYProgress } = useScroll({
@@ -50,14 +51,14 @@ export default function HeroSection({ splashDone = true, behindSlides = [], show
   const heroOpacity = useTransform(scrollYProgress, (v) => calcOpacity(0, totalSlides, v));
   const heroPointer = useTransform(heroOpacity, (v) => (v < 0.1 ? ('none' as const) : ('auto' as const)));
 
-  const s0s = useTransform(scrollYProgress, (v) => (totalSlides > 2 ? calcScale(1, totalSlides, v) : 1));
-  const s0o = useTransform(scrollYProgress, (v) => (totalSlides > 2 ? calcOpacity(1, totalSlides, v) : 1));
-  const s1s = useTransform(scrollYProgress, (v) => (totalSlides > 3 ? calcScale(2, totalSlides, v) : 1));
-  const s1o = useTransform(scrollYProgress, (v) => (totalSlides > 3 ? calcOpacity(2, totalSlides, v) : 1));
-  const s2s = useTransform(scrollYProgress, (v) => (totalSlides > 4 ? calcScale(3, totalSlides, v) : 1));
-  const s2o = useTransform(scrollYProgress, (v) => (totalSlides > 4 ? calcOpacity(3, totalSlides, v) : 1));
-  const s3s = useTransform(scrollYProgress, (v) => (totalSlides > 5 ? calcScale(4, totalSlides, v) : 1));
-  const s3o = useTransform(scrollYProgress, (v) => (totalSlides > 5 ? calcOpacity(4, totalSlides, v) : 1));
+  const s0s = useTransform(scrollYProgress, (v) => (totalSlides > 0 + lo + 1 ? calcScale(0 + lo, totalSlides, v) : 1));
+  const s0o = useTransform(scrollYProgress, (v) => (totalSlides > 0 + lo + 1 ? calcOpacity(0 + lo, totalSlides, v) : 1));
+  const s1s = useTransform(scrollYProgress, (v) => (totalSlides > 1 + lo + 1 ? calcScale(1 + lo, totalSlides, v) : 1));
+  const s1o = useTransform(scrollYProgress, (v) => (totalSlides > 1 + lo + 1 ? calcOpacity(1 + lo, totalSlides, v) : 1));
+  const s2s = useTransform(scrollYProgress, (v) => (totalSlides > 2 + lo + 1 ? calcScale(2 + lo, totalSlides, v) : 1));
+  const s2o = useTransform(scrollYProgress, (v) => (totalSlides > 2 + lo + 1 ? calcOpacity(2 + lo, totalSlides, v) : 1));
+  const s3s = useTransform(scrollYProgress, (v) => (totalSlides > 3 + lo + 1 ? calcScale(3 + lo, totalSlides, v) : 1));
+  const s3o = useTransform(scrollYProgress, (v) => (totalSlides > 3 + lo + 1 ? calcOpacity(3 + lo, totalSlides, v) : 1));
 
   const s0p = useTransform(s0o, (v) => (v < 0.1 ? ('none' as const) : ('auto' as const)));
   const s1p = useTransform(s1o, (v) => (v < 0.1 ? ('none' as const) : ('auto' as const)));

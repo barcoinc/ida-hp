@@ -1,27 +1,31 @@
 import { useRef, type ReactNode } from 'react';
-import { Box, Typography, Button } from '@mui/material';
+import { Box, Typography } from '@mui/material';
 import { motion, useScroll, useTransform, type MotionValue } from 'framer-motion';
-import { useNavigate } from 'react-router-dom';
 import { palette } from '../../theme/palette';
 
 const elegantEase: [number, number, number, number] = [0.22, 1, 0.36, 1];
 
+/**
+ * 閾値トリガー型: スクロール区間の大部分は scale=1 を保持し、
+ * 区間の末尾 4% でステップ的に 1→1.5 へジャンプ
+ */
 function calcScale(layerIdx: number, totalSlides: number, v: number): number {
   const seg = 1 / totalSlides;
-  const zoomStart = (layerIdx + 1) * seg - 0.08;
-  const zoomEnd = (layerIdx + 1) * seg;
-  if (v <= zoomStart) return 1;
-  if (v >= zoomEnd) return 1.5;
-  return 1 + 0.5 * ((v - zoomStart) / (zoomEnd - zoomStart));
+  const threshold = (layerIdx + 1) * seg - 0.04;
+  const end = (layerIdx + 1) * seg;
+  if (v <= threshold) return 1;
+  if (v >= end) return 1.5;
+  const t = (v - threshold) / (end - threshold);
+  return 1 + 0.5 * t;
 }
 
 function calcOpacity(layerIdx: number, totalSlides: number, v: number): number {
   const seg = 1 / totalSlides;
-  const zoomStart = (layerIdx + 1) * seg - 0.08;
-  const fadeEnd = (layerIdx + 1) * seg - 0.01;
-  if (v <= zoomStart) return 1;
-  if (v >= fadeEnd) return 0;
-  return 1 - (v - zoomStart) / (fadeEnd - zoomStart);
+  const threshold = (layerIdx + 1) * seg - 0.04;
+  const end = (layerIdx + 1) * seg - 0.01;
+  if (v <= threshold) return 1;
+  if (v >= end) return 0;
+  return 1 - (v - threshold) / (end - threshold);
 }
 
 interface HeroSectionProps {
@@ -30,7 +34,6 @@ interface HeroSectionProps {
 }
 
 export default function HeroSection({ splashDone = true, behindSlides = [] }: HeroSectionProps) {
-  const navigate = useNavigate();
   const d = splashDone ? 0.2 : 3.2;
 
   const totalSlides = behindSlides.length + 1;
@@ -102,7 +105,7 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
           );
         })}
 
-        {/* Front: Hero — left-aligned with photo space */}
+        {/* Front: Hero */}
         <motion.div
           style={{
             opacity: heroOpacity,
@@ -128,7 +131,7 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
             }}
           />
 
-          {/* Background image (placeholder gradient for now) */}
+          {/* Background image */}
           <motion.div
             initial={{ opacity: 0, scale: 1.05 }}
             animate={{ opacity: 1, scale: 1 }}
@@ -197,7 +200,19 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
                 を無くしたい。
               </Typography>
             </motion.div>
+          </Box>
 
+          {/* Sub-copy — bottom right */}
+          <Box
+            sx={{
+              position: 'absolute',
+              bottom: { xs: '15%', md: '12%' },
+              right: { xs: '50%', md: '6%' },
+              transform: { xs: 'translateX(50%)', md: 'none' },
+              zIndex: 2,
+              textAlign: { xs: 'center', md: 'right' },
+            }}
+          >
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -206,7 +221,6 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
               <Typography
                 sx={{
                   color: palette.text.secondary,
-                  mt: { xs: 3, md: 4 },
                   fontSize: { xs: '0.85rem', md: '1rem' },
                   lineHeight: 2,
                   letterSpacing: '0.06em',
@@ -226,85 +240,13 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
               <Typography
                 sx={{
                   color: palette.text.light,
-                  mt: 3,
+                  mt: 2,
                   fontSize: '0.8rem',
                   letterSpacing: '0.08em',
                   opacity: 0.7,
                 }}
               >
                 元・抗がん剤研究者 ／ 予防医学士® &nbsp;井田 孝
-              </Typography>
-            </motion.div>
-
-            <motion.div
-              initial={{ opacity: 0, y: 16 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1.2, delay: d + 1.0, ease: elegantEase }}
-            >
-              <Button
-                variant="contained"
-                size="large"
-                onClick={() => navigate('/contact')}
-                sx={{
-                  mt: 4,
-                  backgroundColor: palette.primary.main,
-                  color: '#fff',
-                  px: 4,
-                  py: 1.5,
-                  fontSize: '0.9rem',
-                  transition: 'all 0.4s ease',
-                  '&:hover': {
-                    backgroundColor: palette.primary.light,
-                    transform: 'translateY(-2px)',
-                    boxShadow: '0 8px 24px rgba(26,39,68,0.2)',
-                  },
-                }}
-              >
-                まず1時間、話してみる（無料）
-              </Button>
-            </motion.div>
-          </Box>
-
-          {/* Sub-copy — bottom right (PC only) */}
-          <Box
-            sx={{
-              display: { xs: 'none', md: 'block' },
-              position: 'absolute',
-              bottom: '12%',
-              right: '6%',
-              zIndex: 2,
-              textAlign: 'right',
-            }}
-          >
-            <motion.div
-              initial={{ opacity: 0, y: 16 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1.2, delay: d + 1.0, ease: elegantEase }}
-            >
-              <Typography
-                sx={{
-                  fontSize: '0.8125rem',
-                  letterSpacing: '0.08em',
-                  color: palette.text.primary,
-                  lineHeight: 1.8,
-                  opacity: 0.7,
-                  whiteSpace: 'nowrap',
-                }}
-              >
-                予防医学 × 科学的根拠 — あなたの身体を最高の状態に。
-              </Typography>
-              <Typography
-                sx={{
-                  fontFamily: '"Cormorant Garamond", serif',
-                  fontStyle: 'italic',
-                  fontSize: '1rem',
-                  color: palette.text.light,
-                  mt: 1.5,
-                  lineHeight: 1.6,
-                  opacity: 0.45,
-                }}
-              >
-                Preventive medicine for your best self.
               </Typography>
             </motion.div>
           </Box>

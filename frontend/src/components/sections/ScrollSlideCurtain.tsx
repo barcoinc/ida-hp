@@ -21,11 +21,11 @@ export default function ScrollSlideCurtain({ bgcolor = '#ffffff', text, sub }: P
       <Container>
         <Box sx={{ maxWidth: 680, mx: 'auto', textAlign: 'center' }}>
           <Typography
+            variant="h2"
             sx={{
               color: palette.text.primary,
-              fontWeight: 500,
-              fontSize: { xs: '1.1rem', md: '1.4rem' },
-              lineHeight: 2,
+              fontSize: { xs: '1.3rem', sm: '1.6rem', md: '2rem' },
+              lineHeight: 1.8,
             }}
           >
             {text}

@@ -15,7 +15,34 @@ export default function WhyDetailSection() {
           style={{ maxWidth: 680, margin: '0 auto' }}
         >
           <motion.div variants={fadeInUp}>
-            <Box sx={{ mb: 6 }} />
+            <Typography
+              variant="body2"
+              sx={{
+                color: palette.secondary.main,
+                letterSpacing: '0.15em',
+                mb: 3,
+                fontWeight: 500,
+                textAlign: 'center',
+              }}
+            >
+              WHY
+            </Typography>
+          </motion.div>
+
+          <motion.div variants={fadeInUp}>
+            <Typography
+              variant="h2"
+              sx={{
+                textAlign: 'center',
+                mb: 6,
+                fontSize: { xs: '1.4rem', md: '1.8rem' },
+                color: palette.text.primary,
+              }}
+            >
+              ある日突然、健康を失う。
+              <br />
+              その「絶望」を、私はたくさん見てきました。
+            </Typography>
           </motion.div>
 
           <motion.div variants={fadeInUp}>

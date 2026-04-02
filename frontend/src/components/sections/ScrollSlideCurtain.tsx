@@ -43,7 +43,7 @@ export default function ScrollSlideCurtain({ bgcolor = '#ffffff', bgImage, text,
             sx={{
               position: 'absolute',
               inset: 0,
-              background: `linear-gradient(135deg, ${bgcolor}ee 0%, ${bgcolor}aa 30%, ${bgcolor}88 50%, ${bgcolor}aa 70%, ${bgcolor}ee 100%)`,
+              background: `radial-gradient(ellipse 80% 70% at 50% 50%, ${bgcolor}dd 0%, ${bgcolor}99 40%, ${bgcolor}55 70%, ${bgcolor}33 100%)`,
             }}
           />
         </>

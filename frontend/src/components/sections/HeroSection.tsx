@@ -31,9 +31,10 @@ function calcOpacity(layerIdx: number, totalSlides: number, v: number): number {
 interface HeroSectionProps {
   splashDone?: boolean;
   behindSlides?: ReactNode[];
+  showHero?: boolean;
 }
 
-export default function HeroSection({ splashDone = true, behindSlides = [] }: HeroSectionProps) {
+export default function HeroSection({ splashDone = true, behindSlides = [], showHero = true }: HeroSectionProps) {
   const d = splashDone ? 0.2 : 3.2;
 
   const totalSlides = behindSlides.length + 1;
@@ -106,7 +107,7 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
         })}
 
         {/* Front: Hero */}
-        <motion.div
+        {showHero && <motion.div
           style={{
             opacity: heroOpacity,
             pointerEvents: heroPointer,
@@ -298,7 +299,7 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
             />
           </Box>
          </motion.div>
-        </motion.div>
+        </motion.div>}
       </Box>
     </Box>
   );

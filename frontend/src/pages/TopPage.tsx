@@ -5,10 +5,8 @@ import {
   HeroSection,
   ScrollSlideWhy,
   ScrollSlideWhat,
-  ScrollSlideHow,
-  WhySection,
-  WhatSection,
-  HowSection,
+  WhyDetailSection,
+  WhatDetailSection,
   FlowSection,
   TargetSection,
   ProfileSection,
@@ -28,18 +26,28 @@ export default function TopPage() {
         {!splashDone && <SplashScreen onComplete={handleSplashComplete} />}
       </AnimatePresence>
 
+      {/* Hero → WHYスライド（ズームフェード） */}
       <HeroSection
         splashDone={splashDone}
         behindSlides={[
           <ScrollSlideWhy key="why" />,
-          <ScrollSlideWhat key="what" />,
-          <ScrollSlideHow key="how" />,
         ]}
       />
 
-      <WhySection />
-      <WhatSection />
-      <HowSection />
+      {/* WHY詳細（通常スクロール） */}
+      <WhyDetailSection />
+
+      {/* WHY詳細 → WHATスライド（ズームフェード） */}
+      <HeroSection
+        showHero={false}
+        behindSlides={[
+          <ScrollSlideWhat key="what" />,
+        ]}
+      />
+
+      {/* WHAT詳細（通常スクロール） */}
+      <WhatDetailSection />
+
       <FlowSection />
       <TargetSection />
       <ProfileSection />

@@ -36,27 +36,7 @@ export default function ScrollSlideWhy() {
               mb: 4,
             }}
           >
-            ある日突然、健康を失う。
-            <br />
-            その
-            <Box component="span" sx={{ color: palette.secondary.main }}>「絶望」</Box>
-            を、
-            <br />
-            私はたくさん見てきました。
-          </Typography>
-
-          <Typography
-            variant="body1"
-            sx={{
-              color: palette.text.secondary,
-              fontSize: { xs: '0.85rem', md: '0.95rem' },
-              lineHeight: 2,
-              opacity: 0.75,
-            }}
-          >
-            大手製薬会社で抗がん剤の新薬開発に6年間携わり、
-            <br />
-            予防医学の道へ。
+            なぜ、この仕事をしているのか
           </Typography>
         </Box>
       </Container>

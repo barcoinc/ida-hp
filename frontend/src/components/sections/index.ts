@@ -1,6 +1,8 @@
 export { default as HeroSection } from './HeroSection';
 export { default as WhySection } from './WhySection';
+export { default as WhyDetailSection } from './WhyDetailSection';
 export { default as WhatSection } from './WhatSection';
+export { default as WhatDetailSection } from './WhatDetailSection';
 export { default as HowSection } from './HowSection';
 export { default as FlowSection } from './FlowSection';
 export { default as TargetSection } from './TargetSection';

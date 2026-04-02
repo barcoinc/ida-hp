@@ -41,6 +41,11 @@ export default function Header() {
             <Typography
               component={Link}
               to="/"
+              onClick={() => {
+                if (window.location.pathname === '/') {
+                  window.scrollTo({ top: 0, behavior: 'smooth' });
+                }
+              }}
               sx={{
                 fontFamily: '"Cormorant Garamond", serif',
                 fontSize: '1.4rem',

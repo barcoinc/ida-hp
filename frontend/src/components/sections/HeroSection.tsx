@@ -75,7 +75,7 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
   ];
 
   return (
-    <Box ref={wrapperRef} sx={{ height: `${scrollVh}vh`, position: 'relative' }}>
+    <Box ref={wrapperRef} sx={{ height: `${scrollVh}vh`, position: 'relative', overflow: 'hidden' }}>
       <Box sx={{ position: 'sticky', top: 0, height: '100vh', overflow: 'hidden' }}>
         {/* Behind slides */}
         {behindSlides.map((slide, i) => {

@@ -40,11 +40,15 @@ export default function TopPage() {
       {/* WHY詳細（通常スクロール） */}
       <WhyDetailSection />
 
-      {/* 幕 → WHAT（ズームフェード） */}
+      {/* WHY結び → WHAT（ズームフェード） */}
       <HeroSection
         showHero={false}
         behindSlides={[
-          <ScrollSlideCurtain key="curtain-why" bgcolor="#ffffff" />,
+          <ScrollSlideCurtain
+            key="curtain-why"
+            bgcolor="#ffffff"
+            text="その想いが、予防医学の道へ私を動かしました。"
+          />,
           <ScrollSlideWhat key="what" />,
         ]}
       />
@@ -52,11 +56,15 @@ export default function TopPage() {
       {/* WHAT詳細 / 3つの入口（通常スクロール） */}
       <WhatDetailSection />
 
-      {/* 幕 → HOW 3サービス（ズームフェード） */}
+      {/* WHAT結び → HOW 3サービス（ズームフェード） */}
       <HeroSection
         showHero={false}
         behindSlides={[
-          <ScrollSlideCurtain key="curtain-what" bgcolor="#f8f6f3" />,
+          <ScrollSlideCurtain
+            key="curtain-what"
+            bgcolor="#f8f6f3"
+            text="あなたに合った入口から、始められます。"
+          />,
           <ScrollSlideHowService key="how-service" />,
         ]}
       />

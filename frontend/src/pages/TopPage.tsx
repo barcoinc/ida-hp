@@ -47,6 +47,7 @@ export default function TopPage() {
           <ScrollSlideCurtain
             key="curtain-why"
             bgcolor="#ffffff"
+            bgImage="/images/lecture.jpg"
             text="それが、今の仕事をしている理由です。"
           />,
           <ScrollSlideWhat key="what" />,

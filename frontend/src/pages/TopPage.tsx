@@ -3,11 +3,11 @@ import { AnimatePresence } from 'framer-motion';
 import SplashScreen from '../components/SplashScreen';
 import {
   HeroSection,
+  ScrollSlideCurtain,
   ScrollSlideWhy,
   WhyDetailSection,
-  ScrollSlideWhyEnd,
   ScrollSlideWhat,
-  ScrollSlideService,
+  WhatDetailSection,
   ScrollSlideHowService,
   HowSection,
   FlowSection,
@@ -40,13 +40,23 @@ export default function TopPage() {
       {/* WHY詳細（通常スクロール） */}
       <WhyDetailSection />
 
-      {/* WHY結び → WHAT → 3つの入口 → HOW 3サービス（ズームフェード） */}
+      {/* 幕 → WHAT（ズームフェード） */}
       <HeroSection
         showHero={false}
         behindSlides={[
-          <ScrollSlideWhyEnd key="why-end" />,
+          <ScrollSlideCurtain key="curtain-why" bgcolor="#ffffff" />,
           <ScrollSlideWhat key="what" />,
-          <ScrollSlideService key="service" />,
+        ]}
+      />
+
+      {/* WHAT詳細 / 3つの入口（通常スクロール） */}
+      <WhatDetailSection />
+
+      {/* 幕 → HOW 3サービス（ズームフェード） */}
+      <HeroSection
+        showHero={false}
+        behindSlides={[
+          <ScrollSlideCurtain key="curtain-what" bgcolor="#f8f6f3" />,
           <ScrollSlideHowService key="how-service" />,
         ]}
       />

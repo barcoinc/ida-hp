@@ -170,7 +170,7 @@ export default function HeroSection({ splashDone = true, behindSlides = [], show
           <Box
             sx={{
               position: 'absolute',
-              top: { xs: '50%', md: '38%' },
+              top: { xs: '42%', md: '38%' },
               left: { xs: '50%', md: '8%' },
               transform: { xs: 'translateX(-50%) translateY(-50%)', md: 'none' },
               width: { xs: 'max-content', md: 'auto' },
@@ -209,7 +209,7 @@ export default function HeroSection({ splashDone = true, behindSlides = [], show
           <Box
             sx={{
               position: 'absolute',
-              bottom: { xs: '15%', md: '12%' },
+              bottom: { xs: '22%', md: '12%' },
               right: { xs: '50%', md: '6%' },
               transform: { xs: 'translateX(50%)', md: 'none' },
               width: { xs: 'max-content', md: 'auto' },

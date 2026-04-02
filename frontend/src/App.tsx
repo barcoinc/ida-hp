@@ -10,7 +10,7 @@ export default function App() {
       <CssBaseline />
       <BrowserRouter>
         <Header />
-        <main style={{ position: 'relative', zIndex: 0 }}>
+        <main>
           <Routes>
             <Route path="/" element={<TopPage />} />
             <Route path="/about" element={<AboutPage />} />

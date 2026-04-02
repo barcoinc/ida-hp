@@ -47,8 +47,7 @@ export default function TopPage() {
           <ScrollSlideCurtain
             key="curtain-why"
             bgcolor="#ffffff"
-            text="そもそも、そんな状態にならない人を増やしたい。前の段階で、できることが山ほどある。"
-            sub="そんな想いで日々、この仕事をしています。"
+            text="それが、今の仕事をしている理由です。"
           />,
           <ScrollSlideWhat key="what" />,
         ]}

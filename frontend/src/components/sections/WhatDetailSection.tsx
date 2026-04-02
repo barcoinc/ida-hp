@@ -34,30 +34,50 @@ export default function WhatDetailSection() {
         >
           <motion.div variants={fadeInUp}>
             <Typography
-              variant="body2"
+              variant="h2"
               sx={{
-                color: palette.secondary.main,
-                letterSpacing: '0.15em',
-                mb: 3,
-                fontWeight: 500,
                 textAlign: 'center',
+                mb: 2,
+                fontSize: { xs: '1.3rem', md: '1.7rem' },
+                color: palette.text.primary,
               }}
             >
-              3つの入口
+              私がやるのは
+              <br />
+              <Box component="span" sx={{ color: palette.secondary.main, fontWeight: 500 }}>
+                「あなたの身体を最高の状態にすること」
+              </Box>
+              です。
             </Typography>
           </motion.div>
 
           <motion.div variants={fadeInUp}>
             <Typography
-              variant="h2"
+              variant="body1"
               sx={{
                 textAlign: 'center',
                 mb: 8,
-                fontSize: { xs: '1.3rem', md: '1.7rem' },
+                color: palette.text.secondary,
+                lineHeight: 2,
+              }}
+            >
+              体調が優れない人、痩せたい人、疲れやすい人、今は健康な人、
+              <br />
+              どんな人にもお役に立つことが出来ます。
+            </Typography>
+          </motion.div>
+
+          <motion.div variants={fadeInUp}>
+            <Typography
+              variant="h3"
+              sx={{
+                textAlign: 'center',
+                mb: 6,
+                fontSize: { xs: '1.1rem', md: '1.4rem' },
                 color: palette.text.primary,
               }}
             >
-              あなたに合った入口から、始められます。
+              例えば・・・
             </Typography>
           </motion.div>
 

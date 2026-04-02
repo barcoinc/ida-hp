@@ -183,7 +183,7 @@ export default function HeroSection({ splashDone = true, behindSlides = [] }: He
               <Typography
                 sx={{
                   fontFamily: '"Noto Serif JP", serif',
-                  fontSize: { xs: '1.5rem', sm: '1.8rem', md: 'clamp(2rem, 3.2vw, 2.6rem)' },
+                  fontSize: { xs: 'clamp(0.95rem, 4.2vw, 1.5rem)', sm: '1.8rem', md: 'clamp(2rem, 3.2vw, 2.6rem)' },
                   fontWeight: 300,
                   color: palette.text.primary,
                   lineHeight: 1.8,

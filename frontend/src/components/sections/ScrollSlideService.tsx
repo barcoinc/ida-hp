@@ -43,7 +43,7 @@ export default function ScrollSlideService() {
               textAlign: 'center',
             }}
           >
-            SERVICE
+            WHAT
           </Typography>
 
           <Typography

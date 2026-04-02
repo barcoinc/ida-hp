@@ -7,18 +7,21 @@ const services = [
     title: '個別伴走サポート',
     sub: '体質改善プラン',
     text: '一人ひとりの体質や生活習慣に合わせ、検査データと科学的根拠をもとに体質改善をサポートします。',
+    image: '',
   },
   {
     num: '02',
     title: 'ファスティング指導',
     sub: 'オプティマムファスティング',
     text: '栄養学に基づいた安全なファスティング。筋肉量を維持しながら、効率よく脂肪を落とします。',
+    image: '',
   },
   {
     num: '03',
     title: 'セミナー・講師活動',
     sub: '予防医学セミナー',
     text: '予防医学の考え方を、研究者ならではの視点でわかりやすく伝えます。のべ200名以上の登壇実績。',
+    image: '/images/seminar.jpg',
   },
 ];
 
@@ -77,9 +80,22 @@ export default function ScrollSlideHowService() {
                   backgroundColor: '#fff',
                   borderRadius: 1,
                   border: `1px solid ${palette.accent.warmGray}`,
-                  p: { xs: 2.5, md: 3 },
+                  overflow: 'hidden',
                 }}
               >
+                {s.image && (
+                  <Box
+                    component="img"
+                    src={s.image}
+                    alt={s.title}
+                    sx={{
+                      width: '100%',
+                      height: { xs: 120, md: 140 },
+                      objectFit: 'cover',
+                    }}
+                  />
+                )}
+                <Box sx={{ p: { xs: 2.5, md: 3 } }}>
                 <Typography
                   sx={{
                     fontFamily: '"Cormorant Garamond", serif',
@@ -106,6 +122,7 @@ export default function ScrollSlideHowService() {
                 >
                   {s.text}
                 </Typography>
+                </Box>
               </Box>
             ))}
           </Box>

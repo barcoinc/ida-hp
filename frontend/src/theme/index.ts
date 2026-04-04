@@ -41,6 +41,16 @@ const theme = createTheme({
       defaultProps: {
         maxWidth: 'lg',
       },
+      styleOverrides: {
+        root: {
+          paddingLeft: 24,
+          paddingRight: 24,
+          '@media (min-width: 600px)': {
+            paddingLeft: 32,
+            paddingRight: 32,
+          },
+        },
+      },
     },
   },
 });

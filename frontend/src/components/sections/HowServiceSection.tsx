@@ -10,14 +10,14 @@ const services = [
     title: '個別伴走サポート',
     sub: '体質改善プラン',
     text: '一人ひとりの体質や生活習慣に合わせ、検査データと科学的根拠をもとに体質改善をサポートします。',
-    image: '',
+    image: '/images/service1.jpg',
   },
   {
     num: '02',
     title: 'ファスティング指導',
     sub: 'オプティマムファスティング',
     text: '栄養学に基づいた安全なファスティング。筋肉量を維持しながら、効率よく脂肪を落とします。',
-    image: '',
+    image: '/images/service2.jpg',
   },
   {
     num: '03',

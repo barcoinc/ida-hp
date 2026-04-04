@@ -41,70 +41,40 @@ export default function AboutPage() {
               display: 'flex', alignItems: 'center', justifyContent: 'center',
             }}
           >
-            <Container maxWidth="lg" sx={{ pt: { xs: 7, md: 0 }, pb: { xs: 2, md: 0 } }}>
-              <Box
-                sx={{
-                  display: 'grid',
-                  gridTemplateColumns: { xs: '1fr', md: '1fr 38%' },
-                  rowGap: { xs: 1.5, md: 2 },
-                  columnGap: { xs: 0, md: 8 },
-                  alignItems: { md: 'center' },
-                }}
-              >
-                {/* Title */}
-                <Box sx={{ order: { xs: 1, md: 1 } }}>
-                  <Typography sx={{ fontSize: { xs: '1.25rem', md: '1.5rem' }, fontWeight: 300, letterSpacing: '0.08em', color: palette.text.primary, mb: { xs: 1, md: 1.5 } }}>
-                    代表メッセージ
-                  </Typography>
-                  <Typography sx={{ fontFamily: '"Cormorant Garamond", serif', fontStyle: 'italic', fontSize: { xs: '0.75rem', md: '0.875rem' }, color: palette.secondary.main, letterSpacing: '0.15em' }}>
-                    Message from Founder
-                  </Typography>
-                </Box>
-
-                {/* Name */}
-                <Box sx={{ order: { xs: 2, md: 3 }, mt: { md: 3 } }}>
-                  <Typography sx={{ fontFamily: '"Cormorant Garamond", serif', fontStyle: 'italic', fontSize: '0.6875rem', color: palette.text.light, letterSpacing: '0.1em', opacity: 0.6 }}>
-                    Founder
-                  </Typography>
-                  <Typography sx={{ fontSize: { xs: '1rem', md: '1.125rem' }, color: palette.text.primary, letterSpacing: '0.15em', mt: 0.5 }}>
-                    井田 孝
-                  </Typography>
-                </Box>
-
-                {/* Photo placeholder */}
-                <Box
-                  sx={{
-                    order: { xs: 3 },
-                    gridColumn: { md: '2 / 3' },
-                    gridRow: { md: '1 / 4' },
-                    width: { xs: '65%', md: '100%' },
-                    mx: { xs: 'auto', md: 0 },
-                    my: { xs: 1, md: 0 },
-                  }}
-                >
+            <Container maxWidth="md">
+              <Box sx={{ maxWidth: 800, mx: 'auto', display: 'flex', flexDirection: { xs: 'column', md: 'row' }, alignItems: 'center', gap: { xs: 4, md: 6 } }}>
+                {/* Photo - shows first on mobile */}
+                <Box sx={{ width: { xs: '50%', md: '35%' }, flexShrink: 0 }}>
                   <Box
                     component="img"
                     src="/images/profile-ida.png"
                     alt="井田 孝"
                     sx={{
                       width: '100%',
-                      height: { xs: 200, md: '65vh' },
+                      aspectRatio: '3/4',
                       objectFit: 'cover',
                       objectPosition: 'center top',
                     }}
                   />
                 </Box>
 
-                {/* Quote + text */}
-                <Box sx={{ order: { xs: 4, md: 2 } }}>
+                {/* Text content */}
+                <Box sx={{ textAlign: { xs: 'center', md: 'left' } }}>
+                  <Typography sx={{ fontSize: { xs: '1.1rem', md: '1.5rem' }, fontWeight: 300, letterSpacing: '0.08em', color: palette.text.primary, mb: 0.5 }}>
+                    代表メッセージ
+                  </Typography>
+                  <Typography sx={{ fontFamily: '"Cormorant Garamond", serif', fontStyle: 'italic', fontSize: { xs: '0.7rem', md: '0.875rem' }, color: palette.secondary.main, letterSpacing: '0.15em', mb: 3 }}>
+                    Message from Founder
+                  </Typography>
+
                   <Typography
                     sx={{
-                      fontSize: { xs: '1.05rem', sm: '1.4rem', md: '1.6rem' },
+                      fontSize: { xs: '1rem', md: '1.5rem' },
                       fontWeight: 300,
                       letterSpacing: '0.05em',
                       color: palette.text.primary,
-                      lineHeight: 1.8,
-                      mb: { xs: 1.5, md: 4 },
+                      lineHeight: 1.9,
+                      mb: 2,
                     }}
                   >
                     ある日突然、健康を失う
@@ -115,18 +85,29 @@ export default function AboutPage() {
                     <Box component="span" sx={{ color: palette.secondary.main }}>「希望」</Box>
                     を灯したい
                   </Typography>
+
                   <Typography
                     sx={{
-                      fontSize: { xs: '0.8125rem', md: '0.9375rem' },
+                      fontSize: { xs: '0.8rem', md: '0.95rem' },
                       color: palette.text.secondary,
-                      lineHeight: { xs: 1.8, md: 2.2 },
+                      lineHeight: 2,
                       letterSpacing: '0.08em',
+                      mb: 3,
                     }}
                   >
                     この想いを胸に、
                     <br />
                     予防医学の叡智をお届けしています。
                   </Typography>
+
+                  <Box>
+                    <Typography sx={{ fontFamily: '"Cormorant Garamond", serif', fontStyle: 'italic', fontSize: '0.65rem', color: palette.text.light, letterSpacing: '0.1em', opacity: 0.6 }}>
+                      Founder
+                    </Typography>
+                    <Typography sx={{ fontSize: { xs: '0.95rem', md: '1.125rem' }, color: palette.text.primary, letterSpacing: '0.15em', mt: 0.5 }}>
+                      井田 孝
+                    </Typography>
+                  </Box>
                 </Box>
               </Box>
             </Container>
@@ -173,41 +154,41 @@ export default function AboutPage() {
         <Container maxWidth="md">
           <Box sx={{ maxWidth: 700, mx: 'auto' }}>
             <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, amount: 0.3 }} transition={{ duration: 1 }}>
-              <Typography sx={{ fontSize: { xs: '1.3rem', md: '1.8rem' }, fontWeight: 300, letterSpacing: '0.06em', color: palette.secondary.main, lineHeight: 1.8, textAlign: 'center', mb: { xs: 6, md: 8 }, py: { xs: 4, md: 6 }, borderTop: `1px solid ${palette.divider}`, borderBottom: `1px solid ${palette.divider}` }}>
-                そもそも、そんな状態にならない人を増やしたい。
-                <br />
-                前の段階で、できることが山ほどある。
+              <Typography sx={{ fontSize: { xs: '0.95rem', md: '1.5rem' }, fontWeight: 300, letterSpacing: '0.06em', color: palette.secondary.main, lineHeight: 2, textAlign: 'center', mb: { xs: 6, md: 8 }, py: { xs: 4, md: 6 }, borderTop: `1px solid ${palette.divider}`, borderBottom: `1px solid ${palette.divider}` }}>
+                <Box component="span" sx={{ display: 'block' }}>そもそも、</Box>
+                <Box component="span" sx={{ display: 'block' }}>そんな状態にならない人を増やしたい。</Box>
+                <Box component="span" sx={{ display: 'block' }}>前の段階で、できることが山ほどある。</Box>
               </Typography>
             </motion.div>
 
             <motion.div initial={{ opacity: 0, y: 16 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, amount: 0.5 }} transition={{ duration: 0.8, ease: elegantEase }}>
-              <Typography sx={{ fontSize: { xs: '0.9375rem', md: '1.0625rem' }, lineHeight: 2.4, letterSpacing: '0.1em', color: palette.text.primary, fontWeight: 300, textAlign: 'center', mb: { xs: 8, md: 12 } }}>
-                大手製薬会社で6年間、
-                <br />
-                抗がん剤の新薬開発に携わってきました。
-                <br /><br />
-                がんの苦しみを何とかできないか。
-                <br />
-                そんな思いで、膨大な論文を読み、研究を重ねてきた。
-                <br /><br />
-                でも現実は、10年で亡くなるはずだった人が
-                <br />
-                11年生きられた。
-                <br />
-                それが「画期的な成果」と呼ばれる世界。
-              </Typography>
+              <Box sx={{ textAlign: 'center', mb: { xs: 8, md: 12 } }}>
+                <Typography sx={{ fontSize: { xs: '0.9rem', md: '1.0625rem' }, lineHeight: 2.2, letterSpacing: '0.08em', color: palette.text.primary, fontWeight: 300, mb: 4 }}>
+                  <Box component="span" sx={{ display: 'block' }}>大手製薬会社で6年間、</Box>
+                  <Box component="span" sx={{ display: 'block' }}>抗がん剤の新薬開発に携わってきました。</Box>
+                </Typography>
+                <Typography sx={{ fontSize: { xs: '0.9rem', md: '1.0625rem' }, lineHeight: 2.2, letterSpacing: '0.08em', color: palette.text.primary, fontWeight: 300, mb: 4 }}>
+                  <Box component="span" sx={{ display: 'block' }}>がんの苦しみを何とかできないか。</Box>
+                  <Box component="span" sx={{ display: 'block' }}>そんな思いで、膨大な論文を読み、</Box>
+                  <Box component="span" sx={{ display: 'block' }}>研究を重ねてきた。</Box>
+                </Typography>
+                <Typography sx={{ fontSize: { xs: '0.9rem', md: '1.0625rem' }, lineHeight: 2.2, letterSpacing: '0.08em', color: palette.text.primary, fontWeight: 300 }}>
+                  <Box component="span" sx={{ display: 'block' }}>でも現実は、</Box>
+                  <Box component="span" sx={{ display: 'block' }}>10年で亡くなるはずだった人が</Box>
+                  <Box component="span" sx={{ display: 'block' }}>11年生きられた。</Box>
+                  <Box component="span" sx={{ display: 'block' }}>それが「画期的な成果」と呼ばれる世界。</Box>
+                </Typography>
+              </Box>
             </motion.div>
 
             <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, amount: 0.3 }} transition={{ duration: 1 }}>
-              <Typography sx={{ fontSize: { xs: '1.25rem', md: '1.6rem' }, fontWeight: 300, letterSpacing: '0.06em', color: palette.text.primary, lineHeight: 1.8, textAlign: 'center', mb: { xs: 2, md: 3 }, pt: { xs: 4, md: 6 }, borderTop: `1px solid ${palette.divider}` }}>
-                「なぜ」が分かれば、
-                <br />
+              <Typography sx={{ fontSize: { xs: '1rem', md: '1.6rem' }, fontWeight: 300, letterSpacing: '0.06em', color: palette.text.primary, lineHeight: 1.8, textAlign: 'center', mb: { xs: 2, md: 3 }, pt: { xs: 4, md: 6 }, borderTop: `1px solid ${palette.divider}` }}>
+                <Box component="span" sx={{ display: 'block' }}>「なぜ」が分かれば、</Box>
                 <Box component="span" sx={{ color: palette.secondary.main }}>身体は変わります。</Box>
               </Typography>
               <Typography sx={{ fontSize: { xs: '0.9375rem', md: '1.0625rem' }, lineHeight: 2.4, letterSpacing: '0.1em', color: palette.text.secondary, fontWeight: 300, textAlign: 'center', mb: { xs: 6, md: 8 } }}>
-                あなたの専属コンシェルジュとして、
-                <br />
-                一生モノの健康づくりをサポートしていきます。
+                <Box component="span" sx={{ display: { xs: 'inline', md: 'block' } }}>あなたの専属コンシェルジュとして、</Box>
+                <Box component="span" sx={{ display: { xs: 'inline', md: 'block' } }}>一生モノの健康づくりをサポートしていきます。</Box>
               </Typography>
             </motion.div>
 
@@ -241,14 +222,14 @@ export default function AboutPage() {
               </Box>
             </motion.div>
 
-            <Grid container spacing={6} sx={{ maxWidth: 800, mx: 'auto' }}>
+            <Grid container spacing={{ xs: 4, md: 6 }} sx={{ maxWidth: 800, mx: 'auto', alignItems: 'center' }}>
               <Grid size={{ xs: 12, md: 4 }}>
                 <motion.div variants={slideInLeft}>
                   <Box
                     component="img"
                     src="/images/hero-main.jpg"
                     alt="井田 孝 研究室にて"
-                    sx={{ width: '100%', aspectRatio: '3/4', objectFit: 'cover', objectPosition: 'center', borderRadius: 1 }}
+                    sx={{ width: { xs: '65%', md: '100%' }, mx: { xs: 'auto', md: 0 }, display: 'block', aspectRatio: '3/4', objectFit: 'cover', objectPosition: 'center', borderRadius: 1 }}
                   />
                 </motion.div>
               </Grid>
@@ -283,8 +264,10 @@ export default function AboutPage() {
         <Container>
           <motion.div variants={staggerContainer} initial="hidden" whileInView="visible" viewport={viewportConfig} style={{ maxWidth: 600, margin: '0 auto' }}>
             <motion.div variants={fadeInUp}>
-              <Typography variant="h2" sx={{ mb: 4, fontSize: { xs: '1.3rem', md: '1.7rem' }, lineHeight: 1.8 }}>
-                「少しでも健康を見直してみようかな」<br />と思ったなら、<br />ぜひ、話してみませんか。
+              <Typography variant="h2" sx={{ mb: 4, fontSize: { xs: '1.05rem', md: '1.7rem' }, lineHeight: 1.8, wordBreak: 'keep-all' }}>
+                <Box component="span" sx={{ display: 'block' }}>「少しでも健康を見直してみようかな」</Box>
+                <Box component="span" sx={{ display: 'block' }}>と思ったなら、</Box>
+                <Box component="span">ぜひ話してみませんか。</Box>
               </Typography>
             </motion.div>
             <motion.div variants={fadeInUp}>

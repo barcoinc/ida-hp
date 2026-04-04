@@ -29,7 +29,7 @@ export default function ProfileSection() {
             </Typography>
           </motion.div>
 
-          <Grid container spacing={6} sx={{ maxWidth: 900, mx: 'auto' }}>
+          <Grid container spacing={{ xs: 4, md: 6 }} sx={{ maxWidth: 900, mx: 'auto' }}>
             <Grid size={{ xs: 12, md: 4 }}>
               <motion.div variants={slideInLeft}>
                 <Box
@@ -37,7 +37,9 @@ export default function ProfileSection() {
                   src="/images/profile-ida.png"
                   alt="井田 孝 プロフィール写真"
                   sx={{
-                    width: '100%',
+                    width: { xs: '70%', md: '100%' },
+                    mx: { xs: 'auto', md: 0 },
+                    display: 'block',
                     aspectRatio: '3/4',
                     objectFit: 'cover',
                     objectPosition: 'center top',

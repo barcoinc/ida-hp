@@ -38,8 +38,9 @@ export default function WhatDetailSection() {
               sx={{
                 textAlign: 'center',
                 mb: 2,
-                fontSize: { xs: '1.3rem', md: '1.7rem' },
+                fontSize: { xs: '1.1rem', md: '1.7rem' },
                 color: palette.text.primary,
+                wordBreak: 'keep-all',
               }}
             >
               私がやるのは
@@ -47,6 +48,7 @@ export default function WhatDetailSection() {
               <Box component="span" sx={{ color: palette.secondary.main, fontWeight: 500 }}>
                 「あなたの身体を最高の状態にすること」
               </Box>
+              <br />
               です。
             </Typography>
           </motion.div>
@@ -59,9 +61,12 @@ export default function WhatDetailSection() {
                 mb: 8,
                 color: palette.text.secondary,
                 lineHeight: 2,
+                fontSize: { xs: '0.9rem', md: '1rem' },
+                wordBreak: 'keep-all',
               }}
             >
-              体調が優れない人、痩せたい人、疲れやすい人、今は健康な人、
+              <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>体調が優れない人、痩せたい人、</Box>
+              <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>疲れやすい人、今は健康な人、</Box>
               <br />
               どんな人にもお役に立つことが出来ます。
             </Typography>

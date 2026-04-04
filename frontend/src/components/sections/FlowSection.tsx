@@ -78,7 +78,7 @@ export default function FlowSection() {
           <motion.div variants={fadeInUp}>
             <Typography
               variant="body1"
-              sx={{ textAlign: 'center', mb: 8, color: palette.text.secondary }}
+              sx={{ textAlign: 'center', mb: 8, color: palette.text.secondary, fontSize: { xs: '0.9rem', md: '1rem' }, wordBreak: 'keep-all' }}
             >
               「なぜ」の積み重ねで、身体が変わる。
             </Typography>
@@ -116,7 +116,7 @@ export default function FlowSection() {
                     >
                       {s.title}
                     </Typography>
-                    <Typography variant="body2" sx={{ color: palette.text.secondary }}>
+                    <Typography variant="body2" sx={{ color: palette.text.secondary, fontSize: { xs: '0.85rem', md: '0.875rem' } }}>
                       {s.text}
                     </Typography>
                   </Box>

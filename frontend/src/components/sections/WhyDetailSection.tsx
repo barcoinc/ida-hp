@@ -35,55 +35,68 @@ export default function WhyDetailSection() {
               sx={{
                 textAlign: 'center',
                 mb: 6,
-                fontSize: { xs: '1.4rem', md: '1.8rem' },
+                fontSize: { xs: '1.2rem', md: '1.8rem' },
                 color: palette.text.primary,
+                wordBreak: 'keep-all',
               }}
             >
               ある日突然、健康を失う。
               <br />
-              その「絶望」を、私はたくさん見てきました。
+              <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>その「絶望」を、</Box>
+              <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>私はたくさん見てきました。</Box>
             </Typography>
           </motion.div>
 
           <motion.div variants={fadeInUp}>
-            <Box sx={{ borderLeft: `2px solid ${palette.secondary.main}`, pl: 4, py: 1 }}>
-              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2 }}>
-                仕事を頑張ってきた。家族のために走り続けてきた。
-                <br />
-                そんな人が、ある日突然、思い描いていた人生が思うようにいかなくなる。
-                <br />
-                そういう場面を、何度も見てきました。
+            <Box sx={{ borderLeft: `2px solid ${palette.secondary.main}`, pl: { xs: 2.5, md: 4 }, py: 1 }}>
+              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>仕事を頑張ってきた。</Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>家族のために走り続けてきた。</Box>
+                {' '}
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>そんな人が、ある日突然、</Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>思い描いていた人生が</Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>思うようにいかなくなる。</Box>
+                {' '}
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>そういう場面を、何度も見てきました。</Box>
               </Typography>
 
-              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2 }}>
-                私はもともと、大手製薬会社で抗がん剤の新薬開発に携わっていました。
-                <br />
-                がんの苦しみを何とかできないか。そんな思いで、膨大な論文を読み、研究を重ねてきた。
+              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>私はもともと、大手製薬会社で</Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>抗がん剤の新薬開発に携わっていました。</Box>
+                {' '}
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>がんの苦しみを何とかできないか。</Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>そんな思いで、膨大な論文を読み、</Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>研究を重ねてきた。</Box>
               </Typography>
 
-              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2 }}>
-                でも現実は、抗がん剤の世界では、10年で亡くなるはずだった人が、11年生きられた。
-                <br />
-                それが、「画期的な成果」と呼ばれる世界。
+              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>でも現実は、抗がん剤の世界では、</Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>10年で亡くなるはずだった人が、</Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>11年生きられた。</Box>
+                {' '}
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>それが、「画期的な成果」と呼ばれる世界。</Box>
               </Typography>
 
-              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2 }}>
-                その薬が必要な人がいることは、わかっています。
-                <br />
-                でも私は思った。
+              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>その薬が必要な人がいることは、</Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>わかっています。</Box>
+                {' '}
+                <Box component="span" sx={{ display: 'block' }}>でも私は思った。</Box>
               </Typography>
 
               <Typography
                 variant="body1"
-                sx={{ color: palette.text.primary, fontWeight: 500, fontSize: '1.05rem', mb: 3, lineHeight: 2 }}
+                sx={{ color: palette.text.primary, fontWeight: 500, fontSize: { xs: '0.95rem', md: '1.05rem' }, mb: 3, lineHeight: 2 }}
               >
-                そもそも、そんな状態にならない人を増やしたい。
-                <br />
-                前の段階で、できることが山ほどある。
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>そもそも、そんな状態にならない人を</Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>増やしたい。</Box>
+                {' '}
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>前の段階で、できることが山ほどある。</Box>
               </Typography>
 
-              <Typography variant="body1" sx={{ color: palette.text.secondary, lineHeight: 2 }}>
-                その想いが、予防医学の道へ私を動かしました。
+              <Typography variant="body1" sx={{ color: palette.text.secondary, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>その想いが、予防医学の道へ</Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>私を動かしました。</Box>
               </Typography>
             </Box>
           </motion.div>

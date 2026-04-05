@@ -8,16 +8,36 @@ import {
   MenuItem,
   Alert,
   CircularProgress,
+  FormControl,
+  FormLabel,
+  FormGroup,
+  FormControlLabel,
+  Checkbox,
 } from '@mui/material';
 import { motion } from 'framer-motion';
 import { fadeInUp, scaleIn, staggerContainer, viewportConfig } from '../hooks/useScrollAnimation';
 import { palette } from '../theme/palette';
 
 const consultationTypes = [
-  { value: 'diet', label: '痩せたい・身体を絞りたい' },
-  { value: 'health', label: '身体の違和感・不調を改善したい' },
-  { value: 'maintenance', label: '今の健康を、ずっとキープしたい' },
-  { value: 'other', label: 'その他・まずは相談したい' },
+  { value: 'free_consultation', label: '1時間の個別相談（無料）に申し込む' },
+  { value: 'service_inquiry', label: 'サービス内容について質問したい' },
+  { value: 'corporate', label: '法人・団体での利用を検討している' },
+  { value: 'other', label: 'その他' },
+];
+
+const concernOptions = [
+  { value: 'fatigue', label: '疲れが取れない・体が重い' },
+  { value: 'health_check', label: '健康診断の結果を改善したい' },
+  { value: 'diet', label: '効率的なダイエット・食事法を知りたい' },
+  { value: 'prevention', label: '将来の病気リスクを下げたい' },
+  { value: 'none', label: '特にない（まずは話を聞いてみたい）' },
+];
+
+const timeSlots = [
+  { value: '', label: '選択してください' },
+  { value: 'morning', label: '午前（9:00〜12:00）' },
+  { value: 'afternoon', label: '午後（13:00〜17:00）' },
+  { value: 'evening', label: '夕方（17:00〜19:00）' },
 ];
 
 export default function ContactPage() {
@@ -25,9 +45,23 @@ export default function ContactPage() {
     name: '',
     email: '',
     phone: '',
-    consultationType: '',
+    consultationType: 'free_consultation',
+    concerns: [] as string[],
+    preferredDate1: '',
+    preferredTime1: '',
+    preferredDate2: '',
+    preferredTime2: '',
     message: '',
   });
+
+  const handleConcernChange = (value: string) => {
+    setFormData((prev) => ({
+      ...prev,
+      concerns: prev.concerns.includes(value)
+        ? prev.concerns.filter((c) => c !== value)
+        : [...prev.concerns, value],
+    }));
+  };
   const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle');
 
   const handleSubmit = async (e: FormEvent) => {
@@ -41,7 +75,18 @@ export default function ContactPage() {
       });
       if (!res.ok) throw new Error('送信に失敗しました');
       setStatus('sent');
-      setFormData({ name: '', email: '', phone: '', consultationType: '', message: '' });
+      setFormData({
+        name: '',
+        email: '',
+        phone: '',
+        consultationType: 'free_consultation',
+        concerns: [],
+        preferredDate1: '',
+        preferredTime1: '',
+        preferredDate2: '',
+        preferredTime2: '',
+        message: '',
+      });
     } catch {
       setStatus('error');
     }
@@ -97,26 +142,33 @@ export default function ContactPage() {
                 </Alert>
               )}
 
+              {/* 1. お名前（必須） */}
               <TextField
                 fullWidth required label="お名前"
                 value={formData.name}
                 onChange={(e) => setFormData({ ...formData, name: e.target.value })}
                 sx={{ mb: 3 }}
               />
+
+              {/* 2. メールアドレス（必須） */}
               <TextField
                 fullWidth required type="email" label="メールアドレス"
                 value={formData.email}
                 onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                 sx={{ mb: 3 }}
               />
+
+              {/* 3. 電話番号（任意） */}
               <TextField
                 fullWidth label="電話番号（任意）"
                 value={formData.phone}
                 onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
                 sx={{ mb: 3 }}
               />
+
+              {/* 4. ご相談の種類（必須） */}
               <TextField
-                fullWidth required select label="ご相談内容"
+                fullWidth required select label="ご相談の種類"
                 value={formData.consultationType}
                 onChange={(e) => setFormData({ ...formData, consultationType: e.target.value })}
                 sx={{ mb: 3 }}
@@ -125,6 +177,107 @@ export default function ContactPage() {
                   <MenuItem key={t.value} value={t.value}>{t.label}</MenuItem>
                 ))}
               </TextField>
+
+              {/* 5. 今、一番気になっていること（任意 / チェックボックス） */}
+              <FormControl component="fieldset" sx={{ mb: 3, width: '100%' }}>
+                <FormLabel
+                  component="legend"
+                  sx={{
+                    color: palette.text.secondary,
+                    fontSize: '0.875rem',
+                    mb: 1,
+                    '&.Mui-focused': { color: palette.text.secondary },
+                  }}
+                >
+                  今、一番気になっていること（任意・複数選択可）
+                </FormLabel>
+                <FormGroup>
+                  {concernOptions.map((option) => (
+                    <FormControlLabel
+                      key={option.value}
+                      control={
+                        <Checkbox
+                          checked={formData.concerns.includes(option.value)}
+                          onChange={() => handleConcernChange(option.value)}
+                          sx={{
+                            color: palette.divider,
+                            '&.Mui-checked': { color: palette.secondary.main },
+                          }}
+                        />
+                      }
+                      label={option.label}
+                      sx={{ color: palette.text.primary }}
+                    />
+                  ))}
+                </FormGroup>
+              </FormControl>
+
+              {/* 6. 個別相談の希望日時（任意） */}
+              <Box sx={{ mb: 3 }}>
+                <Typography
+                  variant="body2"
+                  sx={{ color: palette.text.secondary, mb: 2 }}
+                >
+                  個別相談の希望日時（任意）
+                </Typography>
+
+                {/* 第一希望 */}
+                <Typography variant="body2" sx={{ color: palette.text.primary, mb: 1, fontWeight: 500 }}>
+                  第一希望
+                </Typography>
+                <Box sx={{ display: 'flex', gap: 2, mb: 2 }}>
+                  <TextField
+                    type="date"
+                    label="日付"
+                    value={formData.preferredDate1}
+                    onChange={(e) => setFormData({ ...formData, preferredDate1: e.target.value })}
+                    sx={{ flex: 1 }}
+                    slotProps={{ inputLabel: { shrink: true } }}
+                  />
+                  <TextField
+                    select
+                    label="時間帯"
+                    value={formData.preferredTime1}
+                    onChange={(e) => setFormData({ ...formData, preferredTime1: e.target.value })}
+                    sx={{ flex: 1 }}
+                  >
+                    {timeSlots.map((slot) => (
+                      <MenuItem key={slot.value} value={slot.value}>{slot.label}</MenuItem>
+                    ))}
+                  </TextField>
+                </Box>
+
+                {/* 第二希望 */}
+                <Typography variant="body2" sx={{ color: palette.text.primary, mb: 1, fontWeight: 500 }}>
+                  第二希望
+                </Typography>
+                <Box sx={{ display: 'flex', gap: 2, mb: 1 }}>
+                  <TextField
+                    type="date"
+                    label="日付"
+                    value={formData.preferredDate2}
+                    onChange={(e) => setFormData({ ...formData, preferredDate2: e.target.value })}
+                    sx={{ flex: 1 }}
+                    slotProps={{ inputLabel: { shrink: true } }}
+                  />
+                  <TextField
+                    select
+                    label="時間帯"
+                    value={formData.preferredTime2}
+                    onChange={(e) => setFormData({ ...formData, preferredTime2: e.target.value })}
+                    sx={{ flex: 1 }}
+                  >
+                    {timeSlots.map((slot) => (
+                      <MenuItem key={slot.value} value={slot.value}>{slot.label}</MenuItem>
+                    ))}
+                  </TextField>
+                </Box>
+                <Typography variant="caption" sx={{ color: palette.text.light }}>
+                  ※後ほど日程調整のご連絡を差し上げます。
+                </Typography>
+              </Box>
+
+              {/* 7. メッセージ（任意） */}
               <TextField
                 fullWidth multiline rows={5} label="メッセージ（任意）"
                 value={formData.message}

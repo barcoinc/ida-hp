@@ -43,15 +43,14 @@ export default function CTASection() {
               variant="h2"
               sx={{
                 mb: 4,
-                fontSize: { xs: '1.3rem', md: '1.7rem' },
+                fontSize: { xs: '1.05rem', md: '1.7rem' },
                 color: palette.text.primary,
                 lineHeight: 1.8,
+                wordBreak: 'keep-all',
               }}
             >
-              「少しでも健康を見直してみようかな」
-              <br />
-              と思ったなら、
-              <br />
+              <Box component="span" sx={{ display: 'block' }}>「少しでも健康を見直してみようかな」</Box>
+              <Box component="span" sx={{ display: 'block' }}>と思ったなら、</Box>
               ぜひ、話してみませんか。
             </Typography>
           </motion.div>
@@ -59,9 +58,10 @@ export default function CTASection() {
           <motion.div variants={fadeInUp}>
             <Typography
               variant="body1"
-              sx={{ color: palette.text.secondary, mb: 6, lineHeight: 2 }}
+              sx={{ color: palette.text.secondary, mb: 6, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' }, wordBreak: 'keep-all' }}
             >
-              突然、健康を失う。その「絶望」を味わう前に。
+              <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>突然、健康を失う。</Box>
+              <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>その「絶望」を味わう前に。</Box>
               <br />
               あなたの話を、聞かせてください。
             </Typography>

@@ -55,8 +55,9 @@ export default function ScrollSlideCurtain({ bgcolor = '#ffffff', bgImage, text,
             variant="h2"
             sx={{
               color: palette.text.primary,
-              fontSize: { xs: '1.3rem', sm: '1.6rem', md: '2rem' },
+              fontSize: { xs: '1.1rem', sm: '1.6rem', md: '2rem' },
               lineHeight: 1.8,
+              wordBreak: 'keep-all',
             }}
           >
             {text}

@@ -173,9 +173,9 @@ export default function HeroSection({ splashDone = true, behindSlides = [], show
               top: { xs: '42%', md: '38%' },
               left: { xs: '50%', md: '8%' },
               transform: { xs: 'translateX(-50%) translateY(-50%)', md: 'none' },
-              width: { xs: 'max-content', md: 'auto' },
               zIndex: 2,
               textAlign: { xs: 'center', md: 'left' },
+              maxWidth: { xs: '90vw', md: 'none' },
             }}
           >
             <motion.div
@@ -186,17 +186,20 @@ export default function HeroSection({ splashDone = true, behindSlides = [], show
               <Typography
                 sx={{
                   fontFamily: '"Noto Serif JP", serif',
-                  fontSize: { xs: '1.5rem', sm: '1.8rem', md: 'clamp(2rem, 3.2vw, 2.6rem)' },
+                  fontSize: { xs: '1.25rem', sm: '1.8rem', md: 'clamp(2rem, 3.2vw, 2.6rem)' },
                   fontWeight: 300,
                   color: palette.text.primary,
                   lineHeight: 1.8,
                   letterSpacing: '0.04em',
+                  wordBreak: 'keep-all',
                 }}
               >
-                ある日突然、健康を失い
-                <br />
-                思い描く人生をあきらめる
-                <br />
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>ある日突然、</Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>健康を失い</Box>
+                <Box component="span" sx={{ display: { xs: 'none', md: 'inline' } }}><br /></Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>思い描く人生を</Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>あきらめる</Box>
+                <Box component="span" sx={{ display: { xs: 'none', md: 'inline' } }}><br /></Box>
                 <Box component="span" sx={{ color: palette.secondary.main, fontWeight: 400 }}>
                   「絶望」
                 </Box>
@@ -210,11 +213,12 @@ export default function HeroSection({ splashDone = true, behindSlides = [], show
             sx={{
               position: 'absolute',
               bottom: { xs: '22%', md: '12%' },
-              right: { xs: '50%', md: '6%' },
-              transform: { xs: 'translateX(50%)', md: 'none' },
-              width: { xs: 'max-content', md: 'auto' },
+              left: { xs: '50%', md: 'auto' },
+              right: { xs: 'auto', md: '6%' },
+              transform: { xs: 'translateX(-50%)', md: 'none' },
               zIndex: 2,
               textAlign: { xs: 'center', md: 'right' },
+              maxWidth: { xs: '90vw', md: 'none' },
             }}
           >
             <motion.div
@@ -225,14 +229,16 @@ export default function HeroSection({ splashDone = true, behindSlides = [], show
               <Typography
                 sx={{
                   color: palette.text.secondary,
-                  fontSize: { xs: '0.85rem', md: '1rem' },
+                  fontSize: { xs: '0.8rem', md: '1rem' },
                   lineHeight: 2,
                   letterSpacing: '0.06em',
+                  wordBreak: 'keep-all',
                 }}
               >
                 食事・栄養・検査で、
                 <br />
-                ずっと健康でいられるサポートを。
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>ずっと健康でいられる</Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>サポートを。</Box>
               </Typography>
             </motion.div>
 
@@ -245,12 +251,14 @@ export default function HeroSection({ splashDone = true, behindSlides = [], show
                 sx={{
                   color: palette.text.light,
                   mt: 2,
-                  fontSize: '0.8rem',
+                  fontSize: { xs: '0.7rem', md: '0.8rem' },
                   letterSpacing: '0.08em',
                   opacity: 0.7,
+                  wordBreak: 'keep-all',
                 }}
               >
-                元・抗がん剤研究者 ／ 予防医学士® &nbsp;井田 孝
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>元・抗がん剤研究者</Box>
+                <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>／ 予防医学士®&nbsp;井田 孝</Box>
               </Typography>
             </motion.div>
           </Box>

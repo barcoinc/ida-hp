@@ -398,7 +398,6 @@ export default function ServicePage() {
                   <Grid size={{ xs: 12, md: 4 }} key={i}>
                     <motion.div variants={fadeInUp} style={{ height: '100%' }}>
                       <Box sx={{ p: 4, height: '100%', backgroundColor: palette.background.paper, borderRadius: 1, border: `1px solid ${palette.accent.warmGray}` }}>
-                        {s.num && <Typography sx={{ fontFamily: '"Cormorant Garamond", serif', fontSize: '2rem', color: palette.secondary.main, fontWeight: 300, mb: 1 }}>{s.num}</Typography>}
                         <Typography variant="h4" sx={{ mb: 2, fontSize: '1rem' }}>{s.title}</Typography>
                         <Typography variant="body2" sx={{ color: palette.text.secondary, lineHeight: 1.9 }}>{s.text}</Typography>
                       </Box>

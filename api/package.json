@@ -1,6 +1,7 @@
 {
   "private": true,
   "dependencies": {
-    "@vercel/node": "^5.1.0"
+    "@vercel/node": "^5.1.0",
+    "resend": "^4.0.0"
   }
 }

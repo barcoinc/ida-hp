@@ -14,7 +14,6 @@ import { motion } from 'framer-motion';
 import { fadeInUp, staggerContainer, viewportConfig } from '../hooks/useScrollAnimation';
 import { palette } from '../theme/palette';
 
-// TODO: noteのRSSフィードから取得するように変更
 interface BlogPost {
   id: string;
   title: string;
@@ -24,53 +23,25 @@ interface BlogPost {
   url: string;
 }
 
-// ダミーデータ（noteのRSS取得実装後は削除）
-const dummyPosts: BlogPost[] = [
-  {
-    id: '1',
-    title: '健康診断の数値、気にしていますか？',
-    description: '健康診断の結果を見て「まあ大丈夫だろう」と思っていませんか？実は、その数値の裏には...',
-    thumbnail: '/images/hero-main.jpg',
-    publishedAt: '2024-01-15',
-    url: '#',
-  },
-  {
-    id: '2',
-    title: '疲れが取れない原因は○○だった',
-    description: '「寝ても疲れが取れない」そんな悩みを抱えている方は多いのではないでしょうか。実は...',
-    thumbnail: '/images/lecture.jpg',
-    publishedAt: '2024-01-10',
-    url: '#',
-  },
-  {
-    id: '3',
-    title: '予防医学という選択肢',
-    description: '病気になってから治療するのではなく、病気にならない身体づくり。それが予防医学の考え方です...',
-    thumbnail: '/images/seminar.jpg',
-    publishedAt: '2024-01-05',
-    url: '#',
-  },
-];
-
 export default function BlogPage() {
   const [posts, setPosts] = useState<BlogPost[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // TODO: noteのRSSフィードから記事を取得
-    // const fetchPosts = async () => {
-    //   const res = await fetch('/api/blog');
-    //   const data = await res.json();
-    //   setPosts(data);
-    //   setLoading(false);
-    // };
-    // fetchPosts();
-
-    // ダミーデータをセット（実装後は削除）
-    setTimeout(() => {
-      setPosts(dummyPosts);
-      setLoading(false);
-    }, 500);
+    const fetchPosts = async () => {
+      try {
+        const res = await fetch('/api/note');
+        if (!res.ok) throw new Error('Failed to fetch');
+        const data = await res.json();
+        setPosts(data);
+      } catch (error) {
+        console.error('Failed to fetch blog posts:', error);
+        setPosts([]);
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchPosts();
   }, []);
 
   const formatDate = (dateString: string) => {

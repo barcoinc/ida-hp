@@ -4,6 +4,7 @@ import theme from './theme';
 import { Header, Footer } from './components/common';
 import ScrollToTop from './components/common/ScrollToTop';
 import { TopPage, AboutPage, ServicePage, ContactPage, BlogPage, NotFoundPage } from './pages';
+import BlogDetailPage from './pages/BlogDetailPage';
 
 export default function App() {
   return (
@@ -19,6 +20,7 @@ export default function App() {
             <Route path="/service" element={<ServicePage />} />
             <Route path="/contact" element={<ContactPage />} />
             <Route path="/blog" element={<BlogPage />} />
+            <Route path="/blog/:id" element={<BlogDetailPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </main>

@@ -5,8 +5,25 @@ import { palette } from '../../theme/palette';
 
 export default function HowSection() {
   return (
-    <Box sx={{ py: { xs: 10, md: 14 }, backgroundColor: palette.background.default }}>
-      <Container>
+    <Box
+      sx={{
+        py: { xs: 10, md: 14 },
+        position: 'relative',
+        backgroundImage: 'url(/images/medical-consultation.png)',
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        '&::before': {
+          content: '""',
+          position: 'absolute',
+          top: 0,
+          left: 0,
+          right: 0,
+          bottom: 0,
+          backgroundColor: 'rgba(255, 255, 255, 0.92)',
+        },
+      }}
+    >
+      <Container sx={{ position: 'relative', zIndex: 1 }}>
         <motion.div
           variants={staggerContainer}
           initial="hidden"
@@ -56,7 +73,7 @@ export default function HowSection() {
           </motion.div>
 
           <motion.div variants={fadeInUp}>
-            <Box sx={{ borderLeft: `2px solid ${palette.accent.warmGray}`, pl: { xs: 2.5, md: 4 }, py: 1 }}>
+            <Box sx={{ textAlign: 'center' }}>
               <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, fontSize: { xs: '0.9rem', md: '1rem' } }}>
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>健康サービスで「結局、何か買わされた」</Box>
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>という経験がある方もいると思います。</Box>

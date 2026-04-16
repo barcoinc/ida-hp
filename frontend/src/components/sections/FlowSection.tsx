@@ -18,21 +18,25 @@ const steps = [
     step: 'STEP 1',
     title: '1時間の個別相談（無料）',
     text: '今の状態・目標・気になることを、一緒に整理します。',
+    icon: '/images/icon-chat.png',
   },
   {
     step: 'STEP 2',
     title: '検査で「今」を数値化',
     text: '自宅でできる検査キットで、身体の現状を見える化。感覚ではなく、データから始めます。',
+    icon: '/images/icon-checklist.png',
   },
   {
     step: 'STEP 3',
     title: 'あなた専用プランをご提案',
     text: '痩せたい・違和感改善・健康キープ、どこからでも入れます。',
+    icon: '/images/icon-lightbulb.png',
   },
   {
     step: 'STEP 4',
     title: '3〜6ヶ月の伴走サポート',
     text: '1ヶ月ごとに確認・調整。サポートが外れても、ひとりで続けられる状態を目指します。',
+    icon: '/images/icon-handshake.png',
   },
 ];
 
@@ -94,13 +98,25 @@ export default function FlowSection() {
                     py: 4,
                     borderBottom:
                       i < steps.length - 1 ? `1px solid ${palette.divider}` : 'none',
+                    alignItems: 'flex-start',
                   }}
                 >
-                  <Box sx={{ flexShrink: 0, width: { xs: 60, md: 80 } }}>
+                  <Box sx={{ flexShrink: 0, width: { xs: 60, md: 80 }, textAlign: 'center' }}>
+                    <Box
+                      component="img"
+                      src={s.icon}
+                      alt={s.step}
+                      sx={{
+                        width: { xs: 40, md: 50 },
+                        height: { xs: 40, md: 50 },
+                        objectFit: 'contain',
+                        mb: 1,
+                      }}
+                    />
                     <Typography
                       sx={{
                         fontFamily: '"Cormorant Garamond", serif',
-                        fontSize: { xs: '0.75rem', md: '0.85rem' },
+                        fontSize: { xs: '0.7rem', md: '0.75rem' },
                         color: palette.secondary.main,
                         letterSpacing: '0.1em',
                         fontWeight: 600,
@@ -109,7 +125,7 @@ export default function FlowSection() {
                       {s.step}
                     </Typography>
                   </Box>
-                  <Box>
+                  <Box sx={{ pt: 0.5 }}>
                     <Typography
                       variant="h4"
                       sx={{ mb: 1, fontSize: { xs: '1rem', md: '1.1rem' }, color: palette.text.primary }}

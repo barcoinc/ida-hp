@@ -5,8 +5,21 @@ import { palette } from '../../theme/palette';
 
 export default function WhySection() {
   return (
-    <Box sx={{ py: { xs: 10, md: 14 }, backgroundColor: palette.background.default }}>
-      <Container>
+    <Box sx={{ py: { xs: 10, md: 14 }, backgroundColor: palette.background.default, position: 'relative', overflow: 'hidden' }}>
+      {/* 背景画像 */}
+      <Box
+        sx={{
+          position: 'absolute',
+          inset: 0,
+          backgroundImage: 'url(/images/tired-businessman.png)',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          filter: 'blur(3px)',
+          opacity: 0.08,
+          pointerEvents: 'none',
+        }}
+      />
+      <Container sx={{ position: 'relative', zIndex: 1 }}>
         <motion.div
           variants={staggerContainer}
           initial="hidden"

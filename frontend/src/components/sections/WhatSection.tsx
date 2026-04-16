@@ -27,8 +27,25 @@ const services = [
 
 export default function WhatSection() {
   return (
-    <Box sx={{ py: { xs: 10, md: 14 }, backgroundColor: palette.background.paper }}>
-      <Container>
+    <Box
+      sx={{
+        py: { xs: 10, md: 14 },
+        position: 'relative',
+        backgroundImage: 'url(/images/lecture.jpg)',
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        '&::before': {
+          content: '""',
+          position: 'absolute',
+          top: 0,
+          left: 0,
+          right: 0,
+          bottom: 0,
+          backgroundColor: 'rgba(255, 255, 255, 0.92)',
+        },
+      }}
+    >
+      <Container sx={{ position: 'relative', zIndex: 1 }}>
         <motion.div
           variants={staggerContainer}
           initial="hidden"

@@ -2,7 +2,6 @@ import { useRef } from 'react';
 import { Box, Container, Typography, Button } from '@mui/material';
 import Grid from '@mui/material/Grid2';
 import { motion, useScroll, useTransform } from 'framer-motion';
-import type { Variants } from 'framer-motion';
 import { useNavigate } from 'react-router-dom';
 import FormatQuoteIcon from '@mui/icons-material/FormatQuote';
 import { fadeInUp, staggerContainer, viewportConfig } from '../hooks/useScrollAnimation';
@@ -10,14 +9,6 @@ import { palette } from '../theme/palette';
 
 const elegantEase: [number, number, number, number] = [0.22, 1, 0.36, 1];
 
-const slideInItem: Variants = {
-  hidden: { opacity: 0, x: -40 },
-  visible: {
-    opacity: 1,
-    x: 0,
-    transition: { duration: 0.6, ease: elegantEase },
-  },
-};
 
 /* ── DATA ── */
 
@@ -59,7 +50,7 @@ function TestimonialCards({ items }: { items: Testimonial[] }) {
       {items.map((t, i) => (
         <Grid size={{ xs: 12, md: 6 }} key={i}>
           <motion.div variants={fadeInUp} style={{ height: '100%' }}>
-            <Box sx={{ p: 4, height: '100%', backgroundColor: '#fff', borderRadius: 1, border: `1px solid ${palette.accent.warmGray}` }}>
+            <Box sx={{ p: 4, height: '100%', backgroundColor: '#fff', borderRadius: 2, boxShadow: '0 2px 12px rgba(26,39,68,0.06)' }}>
               <FormatQuoteIcon sx={{ color: palette.secondary.main, opacity: 0.3, fontSize: '2rem', mb: 1 }} />
               <Typography variant="body2" sx={{ color: palette.text.secondary, lineHeight: 1.9, mb: 2 }}>{t.quote}</Typography>
               <Typography variant="body2" sx={{ color: palette.text.light, fontSize: '0.8rem', letterSpacing: '0.04em' }}>— {t.author}</Typography>
@@ -74,12 +65,12 @@ function TestimonialCards({ items }: { items: Testimonial[] }) {
 function DiffPoint({ title, text }: { title: string; text: string }) {
   return (
     <motion.div variants={fadeInUp}>
-      <Box sx={{ display: 'flex', gap: 2, mb: 3 }}>
-        <Box sx={{ width: 4, flexShrink: 0, backgroundColor: palette.secondary.main, borderRadius: 2 }} />
-        <Box>
-          <Typography variant="h5" sx={{ mb: 0.5, fontSize: '0.95rem', color: palette.text.primary }}>{title}</Typography>
-          <Typography variant="body2" sx={{ color: palette.text.secondary, lineHeight: 1.8 }}>{text}</Typography>
-        </Box>
+      <Box sx={{ mb: 4 }}>
+        <Typography variant="h5" sx={{ mb: 1, fontSize: '0.95rem', color: palette.text.primary, fontWeight: 500 }}>
+          <Box component="span" sx={{ color: palette.secondary.main, mr: 1 }}>●</Box>
+          {title}
+        </Typography>
+        <Typography variant="body2" sx={{ color: palette.text.secondary, lineHeight: 1.9, pl: 2.5 }}>{text}</Typography>
       </Box>
     </motion.div>
   );
@@ -188,7 +179,7 @@ export default function ServicePage() {
       </Box>
 
       {/* ━━ SERVICE 1: 個別伴走サポート ━━ */}
-      <Box sx={{ py: { xs: 8, md: 10 } }}>
+      <Box sx={{ py: { xs: 10, md: 12 }, backgroundColor: palette.background.warm }}>
         <Container maxWidth="md">
           <motion.div variants={staggerContainer} initial="hidden" whileInView="visible" viewport={viewportConfig}>
             <Box sx={{ maxWidth: 800, mx: 'auto' }}>
@@ -200,7 +191,7 @@ export default function ServicePage() {
                 <Typography variant="h2" sx={{ textAlign: 'center', mb: 2, fontSize: { xs: '1.3rem', md: '1.7rem' } }}>個別伴走サポート</Typography>
               </motion.div>
               <motion.div variants={fadeInUp}>
-                <Typography variant="body1" sx={{ textAlign: 'center', mb: 5, color: palette.text.secondary, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+                <Typography variant="body1" sx={{ textAlign: 'center', mb: 6, color: palette.text.secondary, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
                   <Box component="span" sx={{ display: 'block' }}>一人ひとりの体質や生活習慣に合わせ、</Box>
                   <Box component="span" sx={{ display: 'block' }}>検査データと科学的根拠をもとに</Box>
                   <Box component="span" sx={{ display: 'block' }}>体質改善をサポートするプログラムです。</Box>
@@ -208,16 +199,15 @@ export default function ServicePage() {
               </motion.div>
 
               {/* 写真 + 説明 2カラム */}
-              <Grid container spacing={4} sx={{ mb: 5, alignItems: 'center' }}>
+              <Grid container spacing={4} sx={{ mb: 6, alignItems: 'center' }}>
                 <Grid size={{ xs: 12, md: 5 }}>
                   <motion.div variants={fadeInUp}>
                     <Box
                       component="img"
-                      src="/images/service1.jpg"
+                      src="/images/consultation.png"
                       alt="個別伴走サポート"
                       sx={{
-                        width: { xs: '85%', md: '100%' },
-                        mx: { xs: 'auto', md: 0 },
+                        width: '100%',
                         display: 'block',
                         aspectRatio: '4/3',
                         objectFit: 'cover',
@@ -240,22 +230,44 @@ export default function ServicePage() {
               </Grid>
 
               {/* 特徴 */}
-              <Box sx={{ mb: 5 }}>
+              <Box sx={{ mb: 6 }}>
                 <DiffPoint title="症状ではなく「最高の状態」を診る" text="単に不調を改善することだけでなく、その人が本来持っているパフォーマンスを最大限に引き出すことを目的としています。" />
                 <DiffPoint title="研究者としての科学的アプローチ" text="大手製薬会社での新薬開発の経験をもとに、感覚ではなく科学的根拠に基づいた身体づくりをサポートします。" />
               </Box>
 
               {/* ステップ */}
-              <Box sx={{ mb: 5 }}>
+              <Box sx={{ mb: 6 }}>
                 {supportSteps.map((s, i) => (
-                  <motion.div key={i} variants={slideInItem}>
-                    <Box sx={{ display: 'flex', gap: { xs: 2, md: 3 }, py: 2.5, borderBottom: i < supportSteps.length - 1 ? `1px solid ${palette.divider}` : 'none' }}>
-                      <Box sx={{ flexShrink: 0, width: { xs: 36, md: 48 } }}>
-                        <Typography sx={{ fontFamily: '"Cormorant Garamond", serif', fontSize: '1.2rem', color: palette.secondary.main, fontWeight: 300 }}>{s.num}</Typography>
-                      </Box>
-                      <Box>
-                        <Typography variant="h4" sx={{ mb: 0.5, fontSize: { xs: '0.95rem', md: '1rem' } }}>{s.title}</Typography>
-                        <Typography variant="body2" sx={{ color: palette.text.secondary, lineHeight: 1.8, fontSize: '0.85rem' }}>{s.text}</Typography>
+                  <motion.div key={i} variants={fadeInUp}>
+                    <Box
+                      sx={{
+                        display: 'flex',
+                        gap: { xs: 3, md: 4 },
+                        py: { xs: 3, md: 4 },
+                        borderBottom: i < supportSteps.length - 1 ? `1px solid ${palette.accent.warmGray}` : 'none',
+                      }}
+                    >
+                      <Typography
+                        sx={{
+                          fontFamily: '"Cormorant Garamond", serif',
+                          fontSize: { xs: '2.5rem', md: '3.5rem' },
+                          color: palette.secondary.main,
+                          fontWeight: 300,
+                          lineHeight: 1,
+                          opacity: 0.7,
+                          flexShrink: 0,
+                          width: { xs: 50, md: 70 },
+                        }}
+                      >
+                        {s.num}
+                      </Typography>
+                      <Box sx={{ pt: { xs: 0.5, md: 1 } }}>
+                        <Typography variant="h4" sx={{ mb: 1, fontSize: { xs: '1rem', md: '1.1rem' }, fontWeight: 500, color: palette.text.primary }}>
+                          {s.title}
+                        </Typography>
+                        <Typography variant="body2" sx={{ color: palette.text.secondary, lineHeight: 1.9, fontSize: '0.875rem' }}>
+                          {s.text}
+                        </Typography>
                       </Box>
                     </Box>
                   </motion.div>
@@ -264,7 +276,7 @@ export default function ServicePage() {
 
               {/* VOICE */}
               <Box>
-                <motion.div variants={fadeInUp}><Typography variant="body2" sx={{ color: palette.secondary.main, letterSpacing: '0.12em', mb: 3, fontWeight: 500, textAlign: 'center', fontSize: '0.8rem' }}>VOICE</Typography></motion.div>
+                <motion.div variants={fadeInUp}><Typography variant="body2" sx={{ color: palette.secondary.main, letterSpacing: '0.12em', mb: 4, fontWeight: 500, textAlign: 'center', fontSize: '0.8rem' }}>VOICE</Typography></motion.div>
                 <TestimonialCards items={testimonials1} />
               </Box>
             </Box>
@@ -273,7 +285,7 @@ export default function ServicePage() {
       </Box>
 
       {/* ━━ SERVICE 2: ファスティング指導 ━━ */}
-      <Box sx={{ py: { xs: 8, md: 10 }, backgroundColor: palette.background.paper }}>
+      <Box sx={{ py: { xs: 10, md: 12 }, backgroundColor: '#fff' }}>
         <Container maxWidth="md">
           <motion.div variants={staggerContainer} initial="hidden" whileInView="visible" viewport={viewportConfig}>
             <Box sx={{ maxWidth: 800, mx: 'auto' }}>
@@ -285,7 +297,7 @@ export default function ServicePage() {
                 <Typography variant="h2" sx={{ textAlign: 'center', mb: 2, fontSize: { xs: '1.3rem', md: '1.7rem' } }}>ファスティング指導</Typography>
               </motion.div>
               <motion.div variants={fadeInUp}>
-                <Typography variant="body1" sx={{ textAlign: 'center', mb: 5, color: palette.text.secondary, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+                <Typography variant="body1" sx={{ textAlign: 'center', mb: 6, color: palette.text.secondary, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
                   <Box component="span" sx={{ display: 'block' }}>栄養学に基づいた</Box>
                   <Box component="span" sx={{ display: 'block' }}>安全なファスティングプログラムです。</Box>
                   <Box component="span" sx={{ display: 'block' }}>筋肉量をできるだけ維持しながら、</Box>
@@ -294,16 +306,15 @@ export default function ServicePage() {
               </motion.div>
 
               {/* 写真 + 説明 2カラム */}
-              <Grid container spacing={4} sx={{ mb: 5, alignItems: 'center' }}>
+              <Grid container spacing={4} sx={{ mb: 6, alignItems: 'center' }}>
                 <Grid size={{ xs: 12, md: 5 }}>
                   <motion.div variants={fadeInUp}>
                     <Box
                       component="img"
-                      src="/images/service2.jpg"
+                      src="/images/nutrition.png"
                       alt="ファスティング指導"
                       sx={{
-                        width: { xs: '85%', md: '100%' },
-                        mx: { xs: 'auto', md: 0 },
+                        width: '100%',
                         display: 'block',
                         aspectRatio: '4/3',
                         objectFit: 'cover',
@@ -326,22 +337,44 @@ export default function ServicePage() {
               </Grid>
 
               {/* 特徴 */}
-              <Box sx={{ mb: 5 }}>
+              <Box sx={{ mb: 6 }}>
                 <DiffPoint title="リバウンドしにくい知識が身につく" text="脂肪が落ちるメカニズムを理解しながら進めるため、終了後もリバウンドしにくい生活習慣を身につけることができます。" />
                 <DiffPoint title="栄養学に基づいた安全なファスティング" text="必須脂肪酸、アミノ酸、ビタミンB群など必要な栄養素を補給しながら進めることで、安心して取り組めるプログラムです。" />
               </Box>
 
               {/* ステップ */}
-              <Box sx={{ mb: 5 }}>
+              <Box sx={{ mb: 6 }}>
                 {fastingSteps.map((s, i) => (
-                  <motion.div key={i} variants={slideInItem}>
-                    <Box sx={{ display: 'flex', gap: { xs: 2, md: 3 }, py: 2.5, borderBottom: i < fastingSteps.length - 1 ? `1px solid ${palette.divider}` : 'none' }}>
-                      <Box sx={{ flexShrink: 0, width: { xs: 36, md: 48 } }}>
-                        <Typography sx={{ fontFamily: '"Cormorant Garamond", serif', fontSize: '1.2rem', color: palette.secondary.main, fontWeight: 300 }}>{String(i + 1).padStart(2, '0')}</Typography>
-                      </Box>
-                      <Box>
-                        <Typography variant="h4" sx={{ mb: 0.5, fontSize: { xs: '0.95rem', md: '1rem' } }}>{s.title}</Typography>
-                        <Typography variant="body2" sx={{ color: palette.text.secondary, lineHeight: 1.8, fontSize: '0.85rem' }}>{s.text}</Typography>
+                  <motion.div key={i} variants={fadeInUp}>
+                    <Box
+                      sx={{
+                        display: 'flex',
+                        gap: { xs: 3, md: 4 },
+                        py: { xs: 3, md: 4 },
+                        borderBottom: i < fastingSteps.length - 1 ? `1px solid ${palette.accent.warmGray}` : 'none',
+                      }}
+                    >
+                      <Typography
+                        sx={{
+                          fontFamily: '"Cormorant Garamond", serif',
+                          fontSize: { xs: '2.5rem', md: '3.5rem' },
+                          color: palette.secondary.main,
+                          fontWeight: 300,
+                          lineHeight: 1,
+                          opacity: 0.7,
+                          flexShrink: 0,
+                          width: { xs: 50, md: 70 },
+                        }}
+                      >
+                        {String(i + 1).padStart(2, '0')}
+                      </Typography>
+                      <Box sx={{ pt: { xs: 0.5, md: 1 } }}>
+                        <Typography variant="h4" sx={{ mb: 1, fontSize: { xs: '1rem', md: '1.1rem' }, fontWeight: 500, color: palette.text.primary }}>
+                          {s.title}
+                        </Typography>
+                        <Typography variant="body2" sx={{ color: palette.text.secondary, lineHeight: 1.9, fontSize: '0.875rem' }}>
+                          {s.text}
+                        </Typography>
                       </Box>
                     </Box>
                   </motion.div>
@@ -350,7 +383,7 @@ export default function ServicePage() {
 
               {/* VOICE */}
               <Box>
-                <motion.div variants={fadeInUp}><Typography variant="body2" sx={{ color: palette.secondary.main, letterSpacing: '0.12em', mb: 3, fontWeight: 500, textAlign: 'center', fontSize: '0.8rem' }}>VOICE</Typography></motion.div>
+                <motion.div variants={fadeInUp}><Typography variant="body2" sx={{ color: palette.secondary.main, letterSpacing: '0.12em', mb: 4, fontWeight: 500, textAlign: 'center', fontSize: '0.8rem' }}>VOICE</Typography></motion.div>
                 <TestimonialCards items={testimonials2} />
               </Box>
             </Box>
@@ -359,14 +392,14 @@ export default function ServicePage() {
       </Box>
 
       {/* ━━ SERVICE 3: セミナー・講師活動 ━━ */}
-      <Box sx={{ py: { xs: 10, md: 14 } }}>
+      <Box sx={{ py: { xs: 10, md: 12 }, backgroundColor: palette.background.paper }}>
         <Container maxWidth="md">
           <motion.div variants={staggerContainer} initial="hidden" whileInView="visible" viewport={viewportConfig}>
             <Box sx={{ maxWidth: 800, mx: 'auto' }}>
               <motion.div variants={fadeInUp}><Typography sx={{ fontFamily: '"Cormorant Garamond", serif', fontSize: '2.5rem', color: palette.secondary.main, fontWeight: 300, mb: 2, textAlign: 'center' }}>03</Typography></motion.div>
               <motion.div variants={fadeInUp}><Typography variant="h2" sx={{ textAlign: 'center', mb: 2, fontSize: { xs: '1.3rem', md: '1.7rem' } }}>セミナー・講師活動</Typography></motion.div>
               <motion.div variants={fadeInUp}>
-                <Typography variant="body1" sx={{ textAlign: 'center', mb: 8, color: palette.text.secondary, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+                <Typography variant="body1" sx={{ textAlign: 'center', mb: 6, color: palette.text.secondary, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
                   <Box component="span" sx={{ display: 'block' }}>予防医学の考え方を、</Box>
                   <Box component="span" sx={{ display: 'block' }}>研究者ならではの視点で分かりやすく伝える</Box>
                   <Box component="span" sx={{ display: 'block' }}>セミナーや講演を行っています。</Box>
@@ -378,33 +411,55 @@ export default function ServicePage() {
                   src="/images/seminar.jpg"
                   alt="セミナー・講演の様子"
                   sx={{
-                    width: { xs: '85%', md: '100%' },
-                    mx: 'auto',
-                    height: { xs: 180, md: 300 },
+                    width: '100%',
+                    height: { xs: 200, md: 300 },
                     objectFit: 'cover',
                     objectPosition: 'center',
                     borderRadius: 2,
                     display: 'block',
-                    mb: 8,
+                    mb: 6,
                   }}
                 />
               </motion.div>
-              <Grid container spacing={4} sx={{ mb: 8 }}>
-                {[
-                  { title: 'はじめての予防医学セミナー', text: '予防医学の基本的な考え方や、健康を守るための生活習慣について分かりやすく解説します。' },
-                  { title: '企業・団体向け講演', text: '社員の健康づくりに取り組む企業や、地域の健康促進を目指す団体向けに科学的根拠に基づいた健康メソッドをお届けします。' },
-                  { title: 'のべ200名以上の登壇実績', text: 'これまでの個別相談やセミナー経験をもとに、参加者の悩みに寄り添った具体的な解決策を提案しています。' },
-                ].map((s, i) => (
-                  <Grid size={{ xs: 12, md: 4 }} key={i}>
-                    <motion.div variants={fadeInUp} style={{ height: '100%' }}>
-                      <Box sx={{ p: 4, height: '100%', backgroundColor: palette.background.paper, borderRadius: 1, border: `1px solid ${palette.accent.warmGray}` }}>
-                        <Typography variant="h4" sx={{ mb: 2, fontSize: '1rem' }}>{s.title}</Typography>
-                        <Typography variant="body2" sx={{ color: palette.text.secondary, lineHeight: 1.9 }}>{s.text}</Typography>
-                      </Box>
-                    </motion.div>
-                  </Grid>
-                ))}
-              </Grid>
+              <motion.div variants={fadeInUp}>
+                <Box
+                  sx={{
+                    display: 'flex',
+                    flexDirection: { xs: 'column', md: 'row' },
+                    mb: 6,
+                    backgroundColor: '#fff',
+                    borderRadius: 2,
+                    p: { xs: 3, md: 4 },
+                    boxShadow: '0 2px 12px rgba(26,39,68,0.06)',
+                  }}
+                >
+                  {[
+                    { title: 'はじめての予防医学セミナー', text: '予防医学の基本的な考え方や、健康を守るための生活習慣について分かりやすく解説します。' },
+                    { title: '企業・団体向け講演', text: '社員の健康づくりに取り組む企業や、地域の健康促進を目指す団体向けに科学的根拠に基づいた健康メソッドをお届けします。' },
+                    { title: 'のべ200名以上の登壇実績', text: 'これまでの個別相談やセミナー経験をもとに、参加者の悩みに寄り添った具体的な解決策を提案しています。' },
+                  ].map((s, i, arr) => (
+                    <Box
+                      key={i}
+                      sx={{
+                        flex: 1,
+                        px: { xs: 0, md: 4 },
+                        py: { xs: 3, md: 0 },
+                        borderRight: { xs: 'none', md: i < arr.length - 1 ? `1px solid ${palette.accent.warmGray}` : 'none' },
+                        borderBottom: { xs: i < arr.length - 1 ? `1px solid ${palette.accent.warmGray}` : 'none', md: 'none' },
+                        '&:first-of-type': { pl: { md: 0 }, pt: { xs: 0 } },
+                        '&:last-of-type': { pr: { md: 0 }, pb: { xs: 0 } },
+                      }}
+                    >
+                      <Typography variant="h4" sx={{ mb: 1.5, fontSize: { xs: '0.95rem', md: '1rem' }, fontWeight: 500 }}>
+                        {s.title}
+                      </Typography>
+                      <Typography variant="body2" sx={{ color: palette.text.secondary, lineHeight: 1.9 }}>
+                        {s.text}
+                      </Typography>
+                    </Box>
+                  ))}
+                </Box>
+              </motion.div>
               <Box>
                 <motion.div variants={fadeInUp}><Typography variant="body2" sx={{ color: palette.secondary.main, letterSpacing: '0.12em', mb: 4, fontWeight: 500, textAlign: 'center', fontSize: '0.8rem' }}>VOICE</Typography></motion.div>
                 <TestimonialCards items={testimonials3} />
@@ -415,8 +470,21 @@ export default function ServicePage() {
       </Box>
 
       {/* ━━ 想い ━━ */}
-      <Box sx={{ py: { xs: 10, md: 14 }, backgroundColor: palette.background.dark, color: '#fff' }}>
-        <Container maxWidth="md">
+      <Box sx={{ py: { xs: 10, md: 12 }, backgroundColor: palette.background.dark, color: '#fff', position: 'relative', overflow: 'hidden' }}>
+        {/* 背景画像 */}
+        <Box
+          sx={{
+            position: 'absolute',
+            inset: 0,
+            backgroundImage: 'url(/images/tired-businessman.png)',
+            backgroundSize: 'cover',
+            backgroundPosition: 'center',
+            filter: 'blur(3px)',
+            opacity: 0.08,
+            pointerEvents: 'none',
+          }}
+        />
+        <Container maxWidth="md" sx={{ position: 'relative', zIndex: 1 }}>
           <motion.div variants={staggerContainer} initial="hidden" whileInView="visible" viewport={viewportConfig}>
             <Box sx={{ maxWidth: 800, mx: 'auto' }}>
               <motion.div variants={fadeInUp}><Typography variant="body2" sx={{ color: palette.secondary.main, letterSpacing: '0.15em', mb: 3, fontWeight: 500, textAlign: 'center' }}>PHILOSOPHY</Typography></motion.div>
@@ -426,30 +494,36 @@ export default function ServicePage() {
                 </Typography>
               </motion.div>
               <motion.div variants={fadeInUp}>
-                <Box sx={{ borderLeft: `2px solid ${palette.secondary.main}`, pl: { xs: 2.5, md: 4 }, py: 1 }}>
-                  <Typography variant="body1" sx={{ color: 'rgba(255,255,255,0.8)', mb: 3, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
-                    <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>私は以前、大手製薬会社で</Box>
-                    <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>抗がん剤の開発に携わっていました。</Box>
-                    <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>その中で、病気になってからでは</Box>
-                    <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>思い描いていた人生を諦めざるを得ない</Box>
-                    <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>人たちを数多く見てきました。</Box>
+                <Box sx={{ textAlign: 'center', maxWidth: 600, mx: 'auto' }}>
+                  <Typography variant="body1" sx={{ color: 'rgba(255,255,255,0.8)', mb: 4, lineHeight: 2.4, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+                    私は以前、大手製薬会社で抗がん剤の開発に携わっていました。
+                    <br />
+                    その中で、病気になってからでは思い描いていた人生を
+                    <br />
+                    諦めざるを得ない人たちを数多く見てきました。
                   </Typography>
-                  <Typography variant="body1" sx={{ color: 'rgba(255,255,255,0.8)', mb: 3, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
-                    <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>抗がん剤の世界では、</Box>
-                    <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>「寿命が1年延びること」が</Box>
-                    <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>画期的な成果と呼ばれることもあります。</Box>
-                    <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>もちろん、その薬が必要な方もいます。</Box>
-                    <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>しかし私は、その前の段階で</Box>
-                    <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>できることがたくさんあると確信しています。</Box>
+                  <Typography variant="body1" sx={{ color: 'rgba(255,255,255,0.8)', mb: 4, lineHeight: 2.4, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+                    抗がん剤の世界では、「寿命が1年延びること」が
+                    <br />
+                    画期的な成果と呼ばれることもあります。
+                    <br />
+                    もちろん、その薬が必要な方もいます。
+                    <br />
+                    しかし私は、その前の段階でできることが
+                    <br />
+                    たくさんあると確信しています。
                   </Typography>
-                  <Typography variant="body1" sx={{ color: 'rgba(255,255,255,0.8)', mb: 3, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
-                    <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>仕事を頑張り、家族のために生きてきた人が</Box>
-                    <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>最後まで自分らしく動ける人生を送れるように。</Box>
+                  <Typography variant="body1" sx={{ color: 'rgba(255,255,255,0.8)', mb: 5, lineHeight: 2.4, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+                    仕事を頑張り、家族のために生きてきた人が
+                    <br />
+                    最後まで自分らしく動ける人生を送れるように。
                   </Typography>
-                  <Typography variant="body1" sx={{ color: '#fff', fontWeight: 500, fontSize: { xs: '0.95rem', md: '1.05rem' }, lineHeight: 2 }}>
-                    <Box component="span" sx={{ display: 'block' }}>「なぜ」が分かれば、身体は変わります。</Box>
-                    <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>あなたの専属コンシェルジュとして、</Box>
-                    <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>一生モノの健康づくりをサポートしていきます。</Box>
+                  <Typography variant="body1" sx={{ color: '#fff', fontWeight: 500, fontSize: { xs: '0.95rem', md: '1.05rem' }, lineHeight: 2.4 }}>
+                    「なぜ」が分かれば、身体は変わります。
+                    <br />
+                    あなたの専属コンシェルジュとして、
+                    <br />
+                    一生モノの健康づくりをサポートしていきます。
                   </Typography>
                 </Box>
               </motion.div>
@@ -459,8 +533,21 @@ export default function ServicePage() {
       </Box>
 
       {/* ━━ CTA ━━ */}
-      <Box sx={{ py: { xs: 10, md: 14 }, backgroundColor: palette.background.warm, textAlign: 'center' }}>
-        <Container maxWidth="md">
+      <Box sx={{ py: { xs: 10, md: 12 }, backgroundColor: palette.background.warm, textAlign: 'center', position: 'relative', overflow: 'hidden' }}>
+        {/* 背景画像 */}
+        <Box
+          sx={{
+            position: 'absolute',
+            inset: 0,
+            backgroundImage: 'url(/images/care.png)',
+            backgroundSize: 'cover',
+            backgroundPosition: 'center',
+            filter: 'blur(2px)',
+            opacity: 0.15,
+            pointerEvents: 'none',
+          }}
+        />
+        <Container maxWidth="md" sx={{ position: 'relative', zIndex: 1 }}>
           <motion.div variants={staggerContainer} initial="hidden" whileInView="visible" viewport={viewportConfig}>
             <Box sx={{ maxWidth: 800, mx: 'auto' }}>
               <motion.div variants={fadeInUp}>

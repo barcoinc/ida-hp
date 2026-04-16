@@ -24,7 +24,7 @@ const services = [
 
 export default function WhatDetailSection() {
   return (
-    <Box sx={{ py: { xs: 10, md: 14 }, backgroundColor: palette.background.paper }}>
+    <Box sx={{ pt: { xs: 4, md: 6 }, pb: { xs: 10, md: 14 }, backgroundColor: palette.background.paper }}>
       <Container>
         <motion.div
           variants={staggerContainer}

@@ -150,8 +150,25 @@ export default function AboutPage() {
       </Box>
 
       {/* ── Story: Pull quotes + narrative ── */}
-      <Box sx={{ py: { xs: 12, md: 20 } }}>
-        <Container maxWidth="md">
+      <Box
+        sx={{
+          py: { xs: 12, md: 20 },
+          position: 'relative',
+          backgroundImage: 'url(/images/lab-research.png)',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          '&::before': {
+            content: '""',
+            position: 'absolute',
+            top: 0,
+            left: 0,
+            right: 0,
+            bottom: 0,
+            backgroundColor: 'rgba(250, 248, 245, 0.92)',
+          },
+        }}
+      >
+        <Container maxWidth="md" sx={{ position: 'relative', zIndex: 1 }}>
           <Box sx={{ maxWidth: 700, mx: 'auto' }}>
             <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, amount: 0.3 }} transition={{ duration: 1 }}>
               <Typography sx={{ fontSize: { xs: '0.95rem', md: '1.5rem' }, fontWeight: 300, letterSpacing: '0.06em', color: palette.secondary.main, lineHeight: 2, textAlign: 'center', mb: { xs: 6, md: 8 }, py: { xs: 4, md: 6 }, borderTop: `1px solid ${palette.divider}`, borderBottom: `1px solid ${palette.divider}` }}>
@@ -260,8 +277,21 @@ export default function AboutPage() {
       </Box>
 
       {/* ── CTA ── */}
-      <Box sx={{ py: { xs: 10, md: 14 }, backgroundColor: palette.background.warm, textAlign: 'center' }}>
-        <Container>
+      <Box sx={{ py: { xs: 10, md: 14 }, backgroundColor: palette.background.warm, textAlign: 'center', position: 'relative', overflow: 'hidden' }}>
+        {/* 背景画像 */}
+        <Box
+          sx={{
+            position: 'absolute',
+            inset: 0,
+            backgroundImage: 'url(/images/care.png)',
+            backgroundSize: 'cover',
+            backgroundPosition: 'center',
+            filter: 'blur(2px)',
+            opacity: 0.15,
+            pointerEvents: 'none',
+          }}
+        />
+        <Container sx={{ position: 'relative', zIndex: 1 }}>
           <motion.div variants={staggerContainer} initial="hidden" whileInView="visible" viewport={viewportConfig} style={{ maxWidth: 600, margin: '0 auto' }}>
             <motion.div variants={fadeInUp}>
               <Typography variant="h2" sx={{ mb: 4, fontSize: { xs: '1.05rem', md: '1.7rem' }, lineHeight: 1.8, wordBreak: 'keep-all' }}>

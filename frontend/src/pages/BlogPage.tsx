@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import {
   Box,
   Container,
@@ -24,6 +25,7 @@ interface BlogPost {
 }
 
 export default function BlogPage() {
+  const navigate = useNavigate();
   const [posts, setPosts] = useState<BlogPost[]>([]);
   const [loading, setLoading] = useState(true);
 
@@ -62,9 +64,24 @@ export default function BlogPage() {
           pb: { xs: 10, md: 14 },
           backgroundColor: palette.background.warm,
           textAlign: 'center',
+          position: 'relative',
+          overflow: 'hidden',
         }}
       >
-        <Container>
+        {/* 背景画像 */}
+        <Box
+          sx={{
+            position: 'absolute',
+            inset: 0,
+            backgroundImage: 'url(/images/morning-stretch.png)',
+            backgroundSize: 'cover',
+            backgroundPosition: 'center',
+            filter: 'blur(3px)',
+            opacity: 0.1,
+            pointerEvents: 'none',
+          }}
+        />
+        <Container sx={{ position: 'relative', zIndex: 1 }}>
           <motion.div
             variants={staggerContainer}
             initial="hidden"
@@ -153,9 +170,7 @@ export default function BlogPage() {
                         }}
                       >
                         <CardActionArea
-                          href={post.url}
-                          target="_blank"
-                          rel="noopener noreferrer"
+                          onClick={() => navigate(`/blog/${post.id}`)}
                           sx={{ height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'stretch' }}
                         >
                           <CardMedia

@@ -16,6 +16,19 @@ export default function CTASection() {
         overflow: 'hidden',
       }}
     >
+      {/* 背景画像 */}
+      <Box
+        sx={{
+          position: 'absolute',
+          inset: 0,
+          backgroundImage: 'url(/images/care.png)',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          filter: 'blur(2px)',
+          opacity: 0.15,
+          pointerEvents: 'none',
+        }}
+      />
       <Box
         sx={{
           position: 'absolute',

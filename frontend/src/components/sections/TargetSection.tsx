@@ -30,15 +30,30 @@ export default function TargetSection() {
         py: { xs: 10, md: 14 },
         backgroundColor: palette.background.dark,
         color: palette.text.white,
+        position: 'relative',
+        overflow: 'hidden',
       }}
     >
-      <Container>
+      {/* 背景画像 */}
+      <Box
+        sx={{
+          position: 'absolute',
+          inset: 0,
+          backgroundImage: 'url(/images/morning-stretch.png)',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          filter: 'blur(2px)',
+          opacity: 0.1,
+          pointerEvents: 'none',
+        }}
+      />
+      <Container sx={{ position: 'relative', zIndex: 1 }}>
         <motion.div
           variants={staggerContainer}
           initial="hidden"
           whileInView="visible"
           viewport={viewportConfig}
-          style={{ maxWidth: 640, margin: '0 auto' }}
+          style={{ maxWidth: 640, margin: '0 auto', textAlign: 'center' }}
         >
           <motion.div variants={fadeInUp}>
             <Typography
@@ -69,7 +84,7 @@ export default function TargetSection() {
             </Typography>
           </motion.div>
 
-          <Box sx={{ display: 'flex', flexDirection: 'column', gap: 3 }}>
+          <Box sx={{ display: 'inline-flex', flexDirection: 'column', gap: 3, mx: 'auto', textAlign: 'left' }}>
             {targets.map((t, i) => (
               <motion.div key={i} variants={listItem}>
                 <Box sx={{ display: 'flex', alignItems: 'flex-start', gap: 2 }}>

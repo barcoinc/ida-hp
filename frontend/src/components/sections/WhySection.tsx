@@ -35,7 +35,7 @@ export default function WhySection() {
                 letterSpacing: '0.15em',
                 mb: 3,
                 fontWeight: 500,
-                textAlign: 'center',
+                textAlign: { xs: 'left', md: 'center' },
               }}
             >
               WHY
@@ -46,56 +46,57 @@ export default function WhySection() {
             <Typography
               variant="h2"
               sx={{
-                textAlign: 'center',
+                textAlign: { xs: 'left', md: 'center' },
                 mb: 6,
-                fontSize: { xs: '1.4rem', md: '1.8rem' },
+                fontSize: { xs: '1.3rem', md: '1.8rem' },
+                lineHeight: 1.8,
                 color: palette.text.primary,
               }}
             >
               ある日突然、健康を失う。
-              <br />
+              <Box component="br" sx={{ display: { xs: 'none', md: 'block' } }} />
               その「絶望」を、私はたくさん見てきました。
             </Typography>
           </motion.div>
 
           <motion.div variants={fadeInUp}>
-            <Box sx={{ borderLeft: `2px solid ${palette.secondary.main}`, pl: 4, py: 1 }}>
-              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3 }}>
+            <Box sx={{ borderLeft: { xs: 'none', md: `2px solid ${palette.secondary.main}` }, pl: { xs: 0, md: 4 }, py: 1 }}>
+              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2, textAlign: 'left' }}>
                 仕事を頑張ってきた。家族のために走り続けてきた。
-                <br />
+                <Box component="br" sx={{ display: { xs: 'none', md: 'block' } }} />
                 そんな人が、ある日突然、思い描いていた人生が思うようにいかなくなる。
-                <br />
+                <Box component="br" sx={{ display: { xs: 'none', md: 'block' } }} />
                 そういう場面を、何度も見てきました。
               </Typography>
 
-              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3 }}>
+              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2, textAlign: 'left' }}>
                 私はもともと、大手製薬会社で抗がん剤の新薬開発に携わっていました。
-                <br />
+                <Box component="br" sx={{ display: { xs: 'none', md: 'block' } }} />
                 がんの苦しみを何とかできないか。そんな思いで、膨大な論文を読み、研究を重ねてきた。
               </Typography>
 
-              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3 }}>
+              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2, textAlign: 'left' }}>
                 でも現実は、抗がん剤の世界では、10年で亡くなるはずだった人が、11年生きられた。
-                <br />
+                <Box component="br" sx={{ display: { xs: 'none', md: 'block' } }} />
                 それが、「画期的な成果」と呼ばれる世界。
               </Typography>
 
-              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3 }}>
+              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2, textAlign: 'left' }}>
                 その薬が必要な人がいることは、わかっています。
-                <br />
+                <Box component="br" sx={{ display: { xs: 'none', md: 'block' } }} />
                 でも私は思った。
               </Typography>
 
               <Typography
                 variant="body1"
-                sx={{ color: palette.text.primary, fontWeight: 500, fontSize: '1.05rem', mb: 3 }}
+                sx={{ color: palette.text.primary, fontWeight: 500, fontSize: '1.05rem', mb: 3, lineHeight: 2, textAlign: 'left' }}
               >
                 そもそも、そんな状態にならない人を増やしたい。
-                <br />
+                <Box component="br" sx={{ display: { xs: 'none', md: 'block' } }} />
                 前の段階で、できることが山ほどある。
               </Typography>
 
-              <Typography variant="body1" sx={{ color: palette.text.secondary }}>
+              <Typography variant="body1" sx={{ color: palette.text.secondary, lineHeight: 2, textAlign: 'left' }}>
                 その想いが、予防医学の道へ私を動かしました。
               </Typography>
             </Box>

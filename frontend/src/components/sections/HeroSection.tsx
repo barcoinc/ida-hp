@@ -100,6 +100,10 @@ export default function HeroSection({ splashDone = true, behindSlides = [], show
                 pointerEvents: t.pointerEvents,
                 position: 'absolute',
                 top: 0, left: 0, width: '100%', height: '100%', zIndex,
+                willChange: 'transform, opacity',
+                backfaceVisibility: 'hidden',
+                WebkitBackfaceVisibility: 'hidden',
+                transform: 'translateZ(0)',
               }}
             >
               {slide}
@@ -115,6 +119,9 @@ export default function HeroSection({ splashDone = true, behindSlides = [], show
             position: 'absolute',
             top: 0, left: 0, width: '100%', height: '100%',
             zIndex: behindSlides.length + 1,
+            willChange: 'opacity',
+            backfaceVisibility: 'hidden',
+            WebkitBackfaceVisibility: 'hidden',
           }}
         >
          <motion.div
@@ -123,6 +130,10 @@ export default function HeroSection({ splashDone = true, behindSlides = [], show
              position: 'absolute',
              inset: 0,
              transformOrigin: 'center center',
+             willChange: 'transform',
+             backfaceVisibility: 'hidden',
+             WebkitBackfaceVisibility: 'hidden',
+             transform: 'translateZ(0)',
            }}
          >
           <Box
@@ -147,13 +158,15 @@ export default function HeroSection({ splashDone = true, behindSlides = [], show
                 backgroundImage: 'url(/images/hero-main.jpg)',
                 backgroundSize: 'cover',
                 backgroundPosition: { xs: 'center 15%', md: 'center 20%' },
+                // Safari最適化: シンプルなグラデーションマスクに変更
+                opacity: 0.85,
                 maskImage: {
-                  xs: `radial-gradient(ellipse 80% 45% at 50% 30%, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 50%, transparent 75%)`,
-                  md: `radial-gradient(ellipse 55% 70% at 60% 45%, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 40%, transparent 70%)`,
+                  xs: `linear-gradient(to bottom, black 0%, black 60%, transparent 100%)`,
+                  md: `linear-gradient(135deg, black 0%, black 50%, transparent 85%)`,
                 },
                 WebkitMaskImage: {
-                  xs: `radial-gradient(ellipse 80% 45% at 50% 30%, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 50%, transparent 75%)`,
-                  md: `radial-gradient(ellipse 55% 70% at 60% 45%, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 40%, transparent 70%)`,
+                  xs: `linear-gradient(to bottom, black 0%, black 60%, transparent 100%)`,
+                  md: `linear-gradient(135deg, black 0%, black 50%, transparent 85%)`,
                 },
               }}
             />

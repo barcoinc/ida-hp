@@ -42,3 +42,19 @@ img {
   background-color: #c8a96e;
   color: #ffffff;
 }
+
+/* Safari パフォーマンス最適化 */
+@supports (-webkit-touch-callout: none) {
+  * {
+    -webkit-transform: translateZ(0);
+    -webkit-backface-visibility: hidden;
+  }
+}
+
+/* アニメーション要素のGPUアクセラレーション */
+[style*="transform"],
+[style*="opacity"] {
+  will-change: transform, opacity;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}

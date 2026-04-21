@@ -35,6 +35,9 @@ export default function SplashScreen({ onComplete }: SplashScreenProps) {
         alignItems: 'center',
         justifyContent: 'center',
         backgroundColor: palette.background.dark,
+        willChange: 'opacity',
+        backfaceVisibility: 'hidden',
+        WebkitBackfaceVisibility: 'hidden',
       }}
     >
       <motion.div

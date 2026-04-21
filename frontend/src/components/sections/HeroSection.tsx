@@ -158,15 +158,13 @@ export default function HeroSection({ splashDone = true, behindSlides = [], show
                 backgroundImage: 'url(/images/hero-main.jpg)',
                 backgroundSize: 'cover',
                 backgroundPosition: { xs: 'center 15%', md: 'center 20%' },
-                // Safari最適化: シンプルなグラデーションマスクに変更
-                opacity: 0.85,
                 maskImage: {
-                  xs: `linear-gradient(to bottom, black 0%, black 60%, transparent 100%)`,
-                  md: `linear-gradient(135deg, black 0%, black 50%, transparent 85%)`,
+                  xs: `radial-gradient(ellipse 80% 45% at 50% 30%, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 50%, transparent 75%)`,
+                  md: `radial-gradient(ellipse 55% 70% at 60% 45%, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 40%, transparent 70%)`,
                 },
                 WebkitMaskImage: {
-                  xs: `linear-gradient(to bottom, black 0%, black 60%, transparent 100%)`,
-                  md: `linear-gradient(135deg, black 0%, black 50%, transparent 85%)`,
+                  xs: `radial-gradient(ellipse 80% 45% at 50% 30%, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 50%, transparent 75%)`,
+                  md: `radial-gradient(ellipse 55% 70% at 60% 45%, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 40%, transparent 70%)`,
                 },
               }}
             />

@@ -19,10 +19,10 @@ export default function ScrollSlideWhyFull() {
           <Typography
             sx={{
               fontFamily: '"Cormorant Garamond", serif',
-              fontSize: 'clamp(0.75rem, 1.4vh, 0.9rem)',
+              fontSize: 'clamp(0.65rem, 1.3vh, 0.9rem)',
               color: palette.secondary.main,
               letterSpacing: '0.2em',
-              mb: { xs: 1, md: 'clamp(1.25rem, 2.2vh, 1.75rem)' },
+              mb: { xs: 1, md: 'clamp(0.75rem, 1.8vh, 1.75rem)' },
               fontWeight: 500,
             }}
           >
@@ -33,13 +33,13 @@ export default function ScrollSlideWhyFull() {
             variant="h2"
             sx={{
               fontSize: {
-                xs: 'clamp(1rem, 2.2vh, 1.3rem)',
-                md: 'clamp(1.3rem, 2.6vh, 1.8rem)',
+                xs: 'clamp(0.9rem, 2vh, 1.3rem)',
+                md: 'clamp(1.1rem, 2.4vh, 1.8rem)',
               },
               color: palette.text.primary,
               lineHeight: { xs: 1.6, md: 1.8 },
               letterSpacing: '0.05em',
-              mb: { xs: 1.5, md: 'clamp(1.5rem, 2.6vh, 2rem)' },
+              mb: { xs: 1.5, md: 'clamp(1rem, 2.2vh, 2rem)' },
             }}
           >
             ある日突然、健康を失う。
@@ -51,12 +51,12 @@ export default function ScrollSlideWhyFull() {
             sx={{
               color: palette.text.secondary,
               fontSize: {
-                xs: 'clamp(0.85rem, 1.9vh, 0.9375rem)',
-                md: 'clamp(0.95rem, 2vh, 1.0625rem)',
+                xs: 'clamp(0.75rem, 1.7vh, 0.9375rem)',
+                md: 'clamp(0.8rem, 1.8vh, 1.0625rem)',
               },
               letterSpacing: '0.08em',
               lineHeight: { xs: 2, md: 2.2 },
-              mb: { xs: 1.25, md: 'clamp(1.25rem, 2.2vh, 1.75rem)' },
+              mb: { xs: 1.25, md: 'clamp(0.75rem, 1.8vh, 1.75rem)' },
             }}
           >
             仕事を頑張り、家族のために走り続けてきた人が、
@@ -68,12 +68,12 @@ export default function ScrollSlideWhyFull() {
             sx={{
               color: palette.text.secondary,
               fontSize: {
-                xs: 'clamp(0.85rem, 1.9vh, 0.9375rem)',
-                md: 'clamp(0.95rem, 2vh, 1.0625rem)',
+                xs: 'clamp(0.75rem, 1.7vh, 0.9375rem)',
+                md: 'clamp(0.8rem, 1.8vh, 1.0625rem)',
               },
               letterSpacing: '0.08em',
               lineHeight: { xs: 2, md: 2.2 },
-              mb: { xs: 1.25, md: 'clamp(1.25rem, 2.2vh, 1.75rem)' },
+              mb: { xs: 1.25, md: 'clamp(0.75rem, 1.8vh, 1.75rem)' },
             }}
           >
             がんの苦しみを何とかしたい——その一心で、
@@ -85,12 +85,12 @@ export default function ScrollSlideWhyFull() {
             sx={{
               color: palette.text.secondary,
               fontSize: {
-                xs: 'clamp(0.85rem, 1.9vh, 0.9375rem)',
-                md: 'clamp(0.95rem, 2vh, 1.0625rem)',
+                xs: 'clamp(0.75rem, 1.7vh, 0.9375rem)',
+                md: 'clamp(0.8rem, 1.8vh, 1.0625rem)',
               },
               letterSpacing: '0.08em',
               lineHeight: { xs: 2, md: 2.2 },
-              mb: { xs: 1.25, md: 'clamp(1.25rem, 2.2vh, 1.75rem)' },
+              mb: { xs: 1.25, md: 'clamp(0.75rem, 1.8vh, 1.75rem)' },
             }}
           >
             でも現実は、10年で亡くなるはずだった人が、11年生きられる。
@@ -103,12 +103,12 @@ export default function ScrollSlideWhyFull() {
               color: palette.text.primary,
               fontWeight: 500,
               fontSize: {
-                xs: 'clamp(0.95rem, 2.1vh, 1.05rem)',
-                md: 'clamp(1.05rem, 2.3vh, 1.2rem)',
+                xs: 'clamp(0.85rem, 2vh, 1.05rem)',
+                md: 'clamp(0.9rem, 2.1vh, 1.2rem)',
               },
               letterSpacing: '0.06em',
               lineHeight: { xs: 2, md: 2.2 },
-              mb: { xs: 1.25, md: 'clamp(1.25rem, 2.2vh, 1.75rem)' },
+              mb: { xs: 1.25, md: 'clamp(0.75rem, 1.8vh, 1.75rem)' },
             }}
           >
             そもそも、そうならない人を増やしたい。

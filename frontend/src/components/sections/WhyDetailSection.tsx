@@ -35,7 +35,8 @@ export default function WhyDetailSection() {
               sx={{
                 textAlign: 'center',
                 mb: 6,
-                fontSize: { xs: '1.2rem', md: '1.8rem' },
+                fontSize: { xs: '1.3rem', md: '1.8rem' },
+                letterSpacing: '0.05em',
                 color: palette.text.primary,
                 wordBreak: 'keep-all',
               }}
@@ -49,7 +50,16 @@ export default function WhyDetailSection() {
 
           <motion.div variants={fadeInUp}>
             <Box sx={{ borderLeft: `2px solid ${palette.secondary.main}`, pl: { xs: 2.5, md: 4 }, py: 1 }}>
-              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+              <Typography
+                variant="body1"
+                sx={{
+                  color: palette.text.secondary,
+                  mb: 3,
+                  fontSize: { xs: '0.9375rem', md: '1.0625rem' },
+                  letterSpacing: '0.1em',
+                  lineHeight: 2.4,
+                }}
+              >
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>仕事を頑張ってきた。</Box>
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>家族のために走り続けてきた。</Box>
                 {' '}
@@ -60,7 +70,16 @@ export default function WhyDetailSection() {
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>そういう場面を、何度も見てきました。</Box>
               </Typography>
 
-              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+              <Typography
+                variant="body1"
+                sx={{
+                  color: palette.text.secondary,
+                  mb: 3,
+                  fontSize: { xs: '0.9375rem', md: '1.0625rem' },
+                  letterSpacing: '0.1em',
+                  lineHeight: 2.4,
+                }}
+              >
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>私はもともと、大手製薬会社で</Box>
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>抗がん剤の新薬開発に携わっていました。</Box>
                 {' '}
@@ -69,7 +88,16 @@ export default function WhyDetailSection() {
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>研究を重ねてきた。</Box>
               </Typography>
 
-              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+              <Typography
+                variant="body1"
+                sx={{
+                  color: palette.text.secondary,
+                  mb: 3,
+                  fontSize: { xs: '0.9375rem', md: '1.0625rem' },
+                  letterSpacing: '0.1em',
+                  lineHeight: 2.4,
+                }}
+              >
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>でも現実は、抗がん剤の世界では、</Box>
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>10年で亡くなるはずだった人が、</Box>
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>11年生きられた。</Box>
@@ -77,7 +105,16 @@ export default function WhyDetailSection() {
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>それが、「画期的な成果」と呼ばれる世界。</Box>
               </Typography>
 
-              <Typography variant="body1" sx={{ color: palette.text.secondary, mb: 3, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+              <Typography
+                variant="body1"
+                sx={{
+                  color: palette.text.secondary,
+                  mb: 3,
+                  fontSize: { xs: '0.9375rem', md: '1.0625rem' },
+                  letterSpacing: '0.1em',
+                  lineHeight: 2.4,
+                }}
+              >
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>その薬が必要な人がいることは、</Box>
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>わかっています。</Box>
                 {' '}
@@ -86,7 +123,14 @@ export default function WhyDetailSection() {
 
               <Typography
                 variant="body1"
-                sx={{ color: palette.text.primary, fontWeight: 500, fontSize: { xs: '0.95rem', md: '1.05rem' }, mb: 3, lineHeight: 2 }}
+                sx={{
+                  color: palette.text.primary,
+                  fontWeight: 500,
+                  fontSize: { xs: '1.05rem', md: '1.2rem' },
+                  letterSpacing: '0.08em',
+                  lineHeight: 2.2,
+                  mb: 3,
+                }}
               >
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>そもそも、そんな状態にならない人を</Box>
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>増やしたい。</Box>
@@ -94,7 +138,15 @@ export default function WhyDetailSection() {
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>前の段階で、できることが山ほどある。</Box>
               </Typography>
 
-              <Typography variant="body1" sx={{ color: palette.text.secondary, lineHeight: 2, fontSize: { xs: '0.9rem', md: '1rem' } }}>
+              <Typography
+                variant="body1"
+                sx={{
+                  color: palette.text.secondary,
+                  fontSize: { xs: '0.9375rem', md: '1.0625rem' },
+                  letterSpacing: '0.1em',
+                  lineHeight: 2.4,
+                }}
+              >
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>その想いが、予防医学の道へ</Box>
                 <Box component="span" sx={{ display: { xs: 'block', md: 'inline' } }}>私を動かしました。</Box>
               </Typography>

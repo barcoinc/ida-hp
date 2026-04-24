@@ -158,21 +158,18 @@ export default function HeroSection({ splashDone = true, behindSlides = [], show
                 backgroundImage: 'url(/images/hero-main.jpg)',
                 backgroundSize: 'cover',
                 backgroundPosition: { xs: 'center 15%', md: 'center 20%' },
-                maskImage: {
-                  xs: `radial-gradient(ellipse 80% 45% at 50% 30%, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 50%, transparent 75%)`,
-                  md: `radial-gradient(ellipse 55% 70% at 60% 45%, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 40%, transparent 70%)`,
-                },
-                WebkitMaskImage: {
-                  xs: `radial-gradient(ellipse 80% 45% at 50% 30%, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 50%, transparent 75%)`,
-                  md: `radial-gradient(ellipse 55% 70% at 60% 45%, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 40%, transparent 70%)`,
-                },
+                opacity: 0.7,
               }}
             />
+            {/* 文字を見やすくするオーバーレイ */}
             <Box
               sx={{
                 position: 'absolute',
                 inset: 0,
-                background: `linear-gradient(135deg, ${palette.background.warm}dd 0%, ${palette.background.warm}66 30%, transparent 50%, ${palette.background.warm}44 70%, ${palette.background.warm}cc 100%)`,
+                background: {
+                  xs: `linear-gradient(to bottom, ${palette.background.warm}ee 0%, ${palette.background.warm}cc 30%, ${palette.background.warm}88 60%, ${palette.background.warm}dd 100%)`,
+                  md: `linear-gradient(135deg, ${palette.background.warm}ee 0%, ${palette.background.warm}aa 25%, ${palette.background.warm}66 50%, ${palette.background.warm}88 75%, ${palette.background.warm}dd 100%)`,
+                },
               }}
             />
           </motion.div>

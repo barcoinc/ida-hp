@@ -81,7 +81,7 @@ export default function Footer() {
               Onc Labo（オンクラボ）
             </Typography>
             <MuiLink
-              href="https://line.me/R/ti/p/@412xghmg"
+              href="https://lin.ee/Xz9hDLO"
               target="_blank"
               rel="noopener noreferrer"
               sx={{

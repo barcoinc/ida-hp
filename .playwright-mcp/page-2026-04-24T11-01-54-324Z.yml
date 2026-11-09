@@ -1,0 +1,1000 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - paragraph [ref=e15]:
+          - link "「半径5メートル」から進化する AI時代の組織のつくり方" [ref=e16] [cursor=pointer]:
+            - /url: https://yahoo.jp/Ds92QeB
+        - generic [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+                - /url: https://www.yahoo.co.jp/
+            - listitem [ref=e21]:
+              - link "ヘルプ" [ref=e22] [cursor=pointer]:
+                - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+          - generic [ref=e25]:
+            - generic "キーワード："
+            - textbox "ウェブ検索" [ref=e26]
+            - button "検索" [ref=e27] [cursor=pointer]
+            - link "旭山動物園 焼却炉 急上昇" [ref=e28] [cursor=pointer]:
+              - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=%E6%97%AD%E5%B1%B1%E5%8B%95%E7%89%A9%E5%9C%92+%E7%84%BC%E5%8D%B4%E7%82%89&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+              - text: 旭山動物園 焼却炉
+              - img "急上昇" [ref=e29]
+      - generic [ref=e30]:
+        - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+          - img "Yahoo!知恵袋" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - text: IDでもっと便利に
+            - link "新規取得" [ref=e36] [cursor=pointer]:
+              - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078297791%2Fquestion%2Flist&.src=chiebukuro
+          - generic [ref=e37]:
+            - link "ログイン" [ref=e38] [cursor=pointer]:
+              - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078297791%2Fquestion%2Flist
+            - link "ヤフーショッピングなら「毎日5％」おトク" [ref=e40] [cursor=pointer]:
+              - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8yNjU0NDUvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9zaG9wcGluZy55YWhvby5jby5qcC9wcm9tb3Rpb24vY2FtcGFpZ24vcHBldnI1Lz9zY19lPXl5bGtfbWhkX3R4dF9wcGV2cjU/
+    - navigation [ref=e42]:
+      - generic [ref=e45]:
+        - textbox "このカテゴリで探す" [ref=e47]
+        - button [ref=e48] [cursor=pointer]:
+          - img [ref=e49]
+      - list [ref=e51]:
+        - listitem [ref=e52]:
+          - link "カテゴリ" [ref=e53] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e54]:
+          - link "Q&A一覧" [ref=e55] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e56]:
+          - link "公式・専門家" [ref=e57] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e58]:
+          - link "お知らせ" [ref=e59] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e61] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e65]
+        - text: 質問・相談
+    - list [ref=e70]:
+      - listitem [ref=e71]:
+        - link "知恵袋トップ" [ref=e72] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+        - text: ＞
+      - listitem [ref=e73]:
+        - link "カテゴリ一覧" [ref=e74] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category
+        - text: ＞
+      - listitem [ref=e75]:
+        - link "ビジネス、経済とお金" [ref=e76] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category/2078297790/question/list
+        - text: ＞
+      - listitem [ref=e77]:
+        - generic [ref=e78]: 家計、貯金
+  - generic [ref=e79]:
+    - generic [ref=e80]:
+      - generic [ref=e83]:
+        - img "家計、貯金" [ref=e86]
+        - generic [ref=e87]:
+          - heading "家計、貯金" [level=1] [ref=e89]
+          - generic [ref=e90]:
+            - generic [ref=e93]:
+              - img [ref=e94]
+              - text: お気に入り
+            - link "このカテゴリに質問" [ref=e97] [cursor=pointer]:
+              - /url: https://chiebukuro.yahoo.co.jp/question/post/form?dnum=2078297791
+              - generic [ref=e98]:
+                - img [ref=e99]
+                - text: このカテゴリに質問
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - list [ref=e106]:
+            - listitem [ref=e107]:
+              - link "回答受付中" [ref=e108] [cursor=pointer]:
+                - /url: /category/2078297791/question/list?flg=0&type=list&sort=16
+                - generic [ref=e109]: 回答受付中
+            - listitem [ref=e110]:
+              - generic [ref=e112]: 解決済み
+            - listitem [ref=e113]:
+              - link "すべて" [ref=e114] [cursor=pointer]:
+                - /url: /category/2078297791/question/list?flg=3&type=list&sort=16
+                - generic [ref=e115]: すべて
+          - generic [ref=e117]:
+            - img [ref=e119]
+            - generic [ref=e121]: 並べ替え：
+            - generic [ref=e124]:
+              - combobox [ref=e125]:
+                - option "質問日時の新しい順"
+                - option "質問日時の古い順"
+                - option "更新日時の新しい順" [selected]
+                - option "更新日時の古い順"
+                - option "回答数の多い順"
+                - option "回答数の少ない順"
+                - option "お礼の多い順"
+              - img
+            - generic [ref=e127]:
+              - generic [ref=e128]: AI質問含む
+              - checkbox [ref=e129] [cursor=pointer]
+          - generic [ref=e130]:
+            - link "貯金 中学生でお金を稼ぐ方法はありませんか？ 親のお手伝いなどをしてもお小遣いなんてくれません。 そのせいで友達と遊びに行くことができなくて私だけ抜きでみんな遊びに行っています。 やっぱ高校生になるま... ベストアンサー：うちも中学生の子供がいますが、さすがに全く自由にお金が使えないのもどうなのとも思うし、お金の管理の勉強にもなると思って月固定で三千円渡してます。 めげずに交渉してみてください。 全国の平均的なお... 回答数： 13 4/19 19:05" [ref=e133] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327379846
+              - generic [ref=e134]:
+                - paragraph [ref=e135]: 貯金
+                - paragraph [ref=e138]: 中学生でお金を稼ぐ方法はありませんか？ 親のお手伝いなどをしてもお小遣いなんてくれません。 そのせいで友達と遊びに行くことができなくて私だけ抜きでみんな遊びに行っています。 やっぱ高校生になるま...
+                - paragraph [ref=e141]: ベストアンサー：うちも中学生の子供がいますが、さすがに全く自由にお金が使えないのもどうなのとも思うし、お金の管理の勉強にもなると思って月固定で三千円渡してます。 めげずに交渉してみてください。 全国の平均的なお...
+                - generic [ref=e142]:
+                  - generic [ref=e143]:
+                    - generic "回答数：" [ref=e144]:
+                      - img [ref=e145]
+                    - generic [ref=e147]: "13"
+                  - generic "4/19 19:05" [ref=e149]
+            - link "ネットバンキング 楽天銀行で土日30万の振り込み手数料はいくらになりますか？ ベストアンサー：キャッシュカードによる振り込みは出来ませんので、アプリで振り込む事となります。他行振り込み手数料無料の回数がなければ145円です。 回答数： 1 4/24 18:33" [ref=e152] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327514995
+              - generic [ref=e153]:
+                - paragraph [ref=e154]: ネットバンキング
+                - paragraph [ref=e157]: 楽天銀行で土日30万の振り込み手数料はいくらになりますか？
+                - paragraph [ref=e160]: ベストアンサー：キャッシュカードによる振り込みは出来ませんので、アプリで振り込む事となります。他行振り込み手数料無料の回数がなければ145円です。
+                - generic [ref=e161]:
+                  - generic [ref=e162]:
+                    - generic "回答数：" [ref=e163]:
+                      - img [ref=e164]
+                    - generic [ref=e166]: "1"
+                  - generic "4/24 18:33" [ref=e168]
+            - link "貯金 ATMで同一名義の口座 A支店からB支店に振替をする時、両支店のカードが必要ですか？ ベストアンサー：A支店のカードだけでいいです。B支店のカードは必要ありません。 回答数： 1 4/24 18:59 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e171] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327515690
+              - generic [ref=e172]:
+                - paragraph [ref=e173]: 貯金
+                - paragraph [ref=e176]: ATMで同一名義の口座 A支店からB支店に振替をする時、両支店のカードが必要ですか？
+                - paragraph [ref=e179]: ベストアンサー：A支店のカードだけでいいです。B支店のカードは必要ありません。
+                - generic [ref=e180]:
+                  - generic [ref=e181]:
+                    - generic "回答数：" [ref=e182]:
+                      - img [ref=e183]
+                    - generic [ref=e185]: "1"
+                  - generic "4/24 18:59" [ref=e187]
+                  - generic [ref=e188]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e189]:
+                      - img [ref=e190]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e196]: "25"
+            - link "家族関係の悩み 去年の年末大きな病気をしました。先月その病気を手術してつい先週退院しました。 医師にかなり脅されたので、一歩間違えたら死ぬと思いました。 そんな時、最初に心残り？に思ったのは、使わないでとってあ... ベストアンサー：退院おめでとうございます。 私も子供いない2人暮らしです。 収入も多くないです。 貯金はしてないで生活と食べるために全投入してますよ。 旅行も年に100万かけますし、車も新車3台です。 た... 回答数： 2 4/23 23:49" [ref=e199] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327498493
+              - generic [ref=e200]:
+                - paragraph [ref=e201]: 家族関係の悩み
+                - paragraph [ref=e204]: 去年の年末大きな病気をしました。先月その病気を手術してつい先週退院しました。 医師にかなり脅されたので、一歩間違えたら死ぬと思いました。 そんな時、最初に心残り？に思ったのは、使わないでとってあ...
+                - paragraph [ref=e207]: ベストアンサー：退院おめでとうございます。 私も子供いない2人暮らしです。 収入も多くないです。 貯金はしてないで生活と食べるために全投入してますよ。 旅行も年に100万かけますし、車も新車3台です。 た...
+                - generic [ref=e208]:
+                  - generic [ref=e209]:
+                    - generic "回答数：" [ref=e210]:
+                      - img [ref=e211]
+                    - generic [ref=e213]: "2"
+                  - generic "4/23 23:49" [ref=e215]
+            - link "ネットバンキング ゆうちょ銀行のATMからGMOあおぞらネット銀行に振込をしたいのですが、現金での振込はできますか？ 振込をしたことがないので教えていただきたいです( . .)\" ベストアンサー：ゆうちょ銀行のATMは他行への現金振込には対応していません。ゆうちょ以外の銀行のATMをご利用ください。なおコンビニのATMも対応していません。 回答数： 1 4/24 18:17" [ref=e218] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327514542
+              - generic [ref=e219]:
+                - paragraph [ref=e220]: ネットバンキング
+                - paragraph [ref=e223]: ゆうちょ銀行のATMからGMOあおぞらネット銀行に振込をしたいのですが、現金での振込はできますか？ 振込をしたことがないので教えていただきたいです( . .)"
+                - paragraph [ref=e226]: ベストアンサー：ゆうちょ銀行のATMは他行への現金振込には対応していません。ゆうちょ以外の銀行のATMをご利用ください。なおコンビニのATMも対応していません。
+                - generic [ref=e227]:
+                  - generic [ref=e228]:
+                    - generic "回答数：" [ref=e229]:
+                      - img [ref=e230]
+                    - generic [ref=e232]: "1"
+                  - generic "4/24 18:17" [ref=e234]
+            - link "家計、節約 入浴するとき湯60度で6割くらい入れ、冷水を加えて調整し40度程度にするのと、そのまま40度の湯を入れるのではどちらがガス代が安いですか？ ガスは都市ガスです。ガスに詳しい方教えてください。 ベストアンサー：最終的に貯まったお湯の量と温度が一緒なら必要な熱量は一緒なのでほとんど一緒です 回答数： 2 4/20 19:08 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e237] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327407964
+              - generic [ref=e238]:
+                - paragraph [ref=e239]: 家計、節約
+                - paragraph [ref=e242]: 入浴するとき湯60度で6割くらい入れ、冷水を加えて調整し40度程度にするのと、そのまま40度の湯を入れるのではどちらがガス代が安いですか？ ガスは都市ガスです。ガスに詳しい方教えてください。
+                - paragraph [ref=e245]: ベストアンサー：最終的に貯まったお湯の量と温度が一緒なら必要な熱量は一緒なのでほとんど一緒です
+                - generic [ref=e246]:
+                  - generic [ref=e247]:
+                    - generic "回答数：" [ref=e248]:
+                      - img [ref=e249]
+                    - generic [ref=e251]: "2"
+                  - generic "4/20 19:08" [ref=e253]
+                  - generic [ref=e254]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e255]:
+                      - img [ref=e256]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e262]: "50"
+            - link "一人暮らし、シングルライフ 手取り17万、貯金280万で家賃4万だとすると、一人暮らししていくのはだいぶ厳しいですかね？ 車を買う予定はありません。 ベストアンサー：◆手取17万/家賃5万の場合、自炊頑張れれば『遊興3万/貯金4万』変動費 計7万確保でき、十分楽しく暮らせる♪ (注意：初月57万円程は必要‼) ※家賃について、負債が無い場合『手取1/3の5.... 回答数： 3 4/23 21:06 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e265] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327493595
+              - generic [ref=e266]:
+                - paragraph [ref=e267]: 一人暮らし、シングルライフ
+                - paragraph [ref=e270]: 手取り17万、貯金280万で家賃4万だとすると、一人暮らししていくのはだいぶ厳しいですかね？ 車を買う予定はありません。
+                - paragraph [ref=e273]: ベストアンサー：◆手取17万/家賃5万の場合、自炊頑張れれば『遊興3万/貯金4万』変動費 計7万確保でき、十分楽しく暮らせる♪ (注意：初月57万円程は必要‼) ※家賃について、負債が無い場合『手取1/3の5....
+                - generic [ref=e274]:
+                  - generic [ref=e275]:
+                    - generic "回答数：" [ref=e276]:
+                      - img [ref=e277]
+                    - generic [ref=e279]: "3"
+                  - generic "4/23 21:06" [ref=e281]
+                  - generic [ref=e282]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e283]:
+                      - img [ref=e284]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e290]: "100"
+            - link "貯金 銀行口座のロックは自動ですか？ ベストアンサー：不正利用が疑われた場合 本人死亡が確認できた場合 差押通知が来た場合 などなどでロックすることはあります。 回答数： 2 3/16 20:15" [ref=e293] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14326324579
+              - generic [ref=e294]:
+                - paragraph [ref=e295]: 貯金
+                - paragraph [ref=e298]: 銀行口座のロックは自動ですか？
+                - paragraph [ref=e301]: ベストアンサー：不正利用が疑われた場合 本人死亡が確認できた場合 差押通知が来た場合 などなどでロックすることはあります。
+                - generic [ref=e302]:
+                  - generic [ref=e303]:
+                    - generic "回答数：" [ref=e304]:
+                      - img [ref=e305]
+                    - generic [ref=e307]: "2"
+                  - generic "3/16 20:15" [ref=e309]
+            - link "ネットバンキング ATMでよく振込をされている方にお聞きしたいです。 岐阜信用金庫のATMを使用して振込をしました。 会社から収入の誤差調整として「1000円を振り込んでください。手数料は会社負担（先方負担）で大... ベストアンサー：それでいいです、会社が振込手数料を負担するとはそういうことです。 回答数： 2 4/24 13:45" [ref=e312] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327509179
+              - generic [ref=e313]:
+                - paragraph [ref=e314]: ネットバンキング
+                - paragraph [ref=e317]: ATMでよく振込をされている方にお聞きしたいです。 岐阜信用金庫のATMを使用して振込をしました。 会社から収入の誤差調整として「1000円を振り込んでください。手数料は会社負担（先方負担）で大...
+                - paragraph [ref=e320]: ベストアンサー：それでいいです、会社が振込手数料を負担するとはそういうことです。
+                - generic [ref=e321]:
+                  - generic [ref=e322]:
+                    - generic "回答数：" [ref=e323]:
+                      - img [ref=e324]
+                    - generic [ref=e326]: "2"
+                  - generic "4/24 13:45" [ref=e328]
+            - link "ローン 車をローンで買って、ローンの審査も通って頭金を入れてから例えば納車までに20万ほど借入してしまったら車のローンがキャンセルされることとかってあるのですか？詳しい方教えていただきたいです。 ベストアンサー：車のローンの審査が終わっているので、断られることはないでしょう。 でも20万円借りる時は、車のローンのことも合わせて審査されます。 20万円も借入できたのならよかったですね。 私なら銀行で車... 回答数： 3 4/24 10:11 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e331] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327505423
+              - generic [ref=e332]:
+                - paragraph [ref=e333]: ローン
+                - paragraph [ref=e336]: 車をローンで買って、ローンの審査も通って頭金を入れてから例えば納車までに20万ほど借入してしまったら車のローンがキャンセルされることとかってあるのですか？詳しい方教えていただきたいです。
+                - paragraph [ref=e339]: ベストアンサー：車のローンの審査が終わっているので、断られることはないでしょう。 でも20万円借りる時は、車のローンのことも合わせて審査されます。 20万円も借入できたのならよかったですね。 私なら銀行で車...
+                - generic [ref=e340]:
+                  - generic [ref=e341]:
+                    - generic "回答数：" [ref=e342]:
+                      - img [ref=e343]
+                    - generic [ref=e345]: "3"
+                  - generic "4/24 10:11" [ref=e347]
+                  - generic [ref=e348]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e349]:
+                      - img [ref=e350]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e356]: "100"
+            - link "ネットバンキング 三井住友銀行アプリを利用してスマホで出金したいです。 でもスマホATMのような項目が見つけることができません。どちらにあるんでしょうか？ 宜しくお願い致します。 ベストアンサー：三井住友銀行は、スマホだけで出金できる「スマホATM」機能自体が用意されていません。 そのため、アプリ内を探しても該当メニューは出てこない仕様になっています。 現状はキャッシュカードを使ってA... 回答数： 1 4/22 19:02 ベストアンサーへのお礼（知恵コイン）： 500" [ref=e359] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327462310
+              - generic [ref=e360]:
+                - paragraph [ref=e361]: ネットバンキング
+                - paragraph [ref=e364]: 三井住友銀行アプリを利用してスマホで出金したいです。 でもスマホATMのような項目が見つけることができません。どちらにあるんでしょうか？ 宜しくお願い致します。
+                - paragraph [ref=e367]: ベストアンサー：三井住友銀行は、スマホだけで出金できる「スマホATM」機能自体が用意されていません。 そのため、アプリ内を探しても該当メニューは出てこない仕様になっています。 現状はキャッシュカードを使ってA...
+                - generic [ref=e368]:
+                  - generic [ref=e369]:
+                    - generic "回答数：" [ref=e370]:
+                      - img [ref=e371]
+                    - generic [ref=e373]: "1"
+                  - generic "4/22 19:02" [ref=e375]
+                  - generic [ref=e376]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e377]:
+                      - img [ref=e378]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e384]: "500"
+            - link "ファミリーレストラン ガストの目玉焼きハンバーグ（ライス、ドリンクバー付）が１３００円超えて驚いています。 数日前来店し、表記を注文したところ、会計が１３００円超えてびっくりしました。 ２か月前は１１００円台でした... ベストアンサー：公式クーポンは使ってますか？それもいくらかマシになります でも物価高でガスト以外含めもう高いっすね 回答数： 2 4/24 13:47" [ref=e387] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327509212
+              - generic [ref=e388]:
+                - paragraph [ref=e389]: ファミリーレストラン
+                - paragraph [ref=e392]: ガストの目玉焼きハンバーグ（ライス、ドリンクバー付）が１３００円超えて驚いています。 数日前来店し、表記を注文したところ、会計が１３００円超えてびっくりしました。 ２か月前は１１００円台でした...
+                - paragraph [ref=e395]: ベストアンサー：公式クーポンは使ってますか？それもいくらかマシになります でも物価高でガスト以外含めもう高いっすね
+                - generic [ref=e396]:
+                  - generic [ref=e397]:
+                    - generic "回答数：" [ref=e398]:
+                      - img [ref=e399]
+                    - generic [ref=e401]: "2"
+                  - generic "4/24 13:47" [ref=e403]
+            - link "自転車、サイクリング 信金とか弱小金融機関は、営業マンが自転車に乗って現金を客から預かったり、届けたりしてるけど、危険じゃないの？現金輸送車みたいに武装しないと襲われるでしょう？ ベストアンサー：いつの時代ですか？ 銀行マンと話した事ありますけど今は自転車など使わないし電子化が進んでるので現金を預かったりする事もほとんどないと言っています。 回答数： 4 4/23 19:43" [ref=e406] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327490896
+              - generic [ref=e407]:
+                - paragraph [ref=e408]: 自転車、サイクリング
+                - paragraph [ref=e411]: 信金とか弱小金融機関は、営業マンが自転車に乗って現金を客から預かったり、届けたりしてるけど、危険じゃないの？現金輸送車みたいに武装しないと襲われるでしょう？
+                - paragraph [ref=e414]: ベストアンサー：いつの時代ですか？ 銀行マンと話した事ありますけど今は自転車など使わないし電子化が進んでるので現金を預かったりする事もほとんどないと言っています。
+                - generic [ref=e415]:
+                  - generic [ref=e416]:
+                    - generic "回答数：" [ref=e417]:
+                      - img [ref=e418]
+                    - generic [ref=e420]: "4"
+                  - generic "4/23 19:43" [ref=e422]
+            - link "ネットバンキング ランサムウエアによるサイバー攻撃 企業が攻撃されていますが インターネットバンキングに対する サイバー攻撃で 口座の資産価値がなくなる という可能性もあるのでしょうかね？ 教えてください。 よろ... ベストアンサー：> インターネットバンキングに対する > サイバー攻撃で 口座の資産価値がなくなる > という可能性もあるのでしょうかね？ 銀行側が攻撃された結果銀行の資産がなくなるなんてこ... 回答数： 3 4/21 13:15 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e425] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327427398
+              - generic [ref=e426]:
+                - paragraph [ref=e427]: ネットバンキング
+                - paragraph [ref=e430]: ランサムウエアによるサイバー攻撃 企業が攻撃されていますが インターネットバンキングに対する サイバー攻撃で 口座の資産価値がなくなる という可能性もあるのでしょうかね？ 教えてください。 よろ...
+                - paragraph [ref=e433]: ベストアンサー：> インターネットバンキングに対する > サイバー攻撃で 口座の資産価値がなくなる > という可能性もあるのでしょうかね？ 銀行側が攻撃された結果銀行の資産がなくなるなんてこ...
+                - generic [ref=e434]:
+                  - generic [ref=e435]:
+                    - generic "回答数：" [ref=e436]:
+                      - img [ref=e437]
+                    - generic [ref=e439]: "3"
+                  - generic "4/21 13:15" [ref=e441]
+                  - generic [ref=e442]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e443]:
+                      - img [ref=e444]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e450]: "100"
+            - link "ネットバンキング 三井住友銀行のOliveについて質問です 以前Oliveを解約した時に銀行の人に言われました 再申込みしても半永久的にOlive口座開設不可能と 今日三井住友銀行Olive申込みしたら 口座開設... ベストアンサー：銀行の人は店にきてほしいVSネット店はうちでも⇒ファイッ 回答数： 2 3/28 15:02 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e453] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12326598827
+              - generic [ref=e454]:
+                - paragraph [ref=e455]: ネットバンキング
+                - paragraph [ref=e458]: 三井住友銀行のOliveについて質問です 以前Oliveを解約した時に銀行の人に言われました 再申込みしても半永久的にOlive口座開設不可能と 今日三井住友銀行Olive申込みしたら 口座開設...
+                - paragraph [ref=e461]: ベストアンサー：銀行の人は店にきてほしいVSネット店はうちでも⇒ファイッ
+                - generic [ref=e462]:
+                  - generic [ref=e463]:
+                    - generic "回答数：" [ref=e464]:
+                      - img [ref=e465]
+                    - generic [ref=e467]: "2"
+                  - generic "3/28 15:02" [ref=e469]
+                  - generic [ref=e470]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e471]:
+                      - img [ref=e472]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e478]: "25"
+            - link "消費者問題 銀行からこのような手紙が来ました。 『当行は、貴殿の普通預金取引に関して、「犯罪による収益の移転防止に関する法律（平成19年法律第22号）」に基づく取引時確認をさせていただきたく、2026年4月... ベストアンサー：みずほ銀行、あるいは統合される前の第一勧銀か富士銀行時代からの口座があり、すでに取引せずに放置してあるものがあれば、それが今も真の名義人なのかを確認したいのかもしれません。あるいは、第三者が取得... 回答数： 4 4/24 12:55 ベストアンサーへのお礼（知恵コイン）： 250" [ref=e481] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327508285
+              - generic [ref=e482]:
+                - paragraph [ref=e483]: 消費者問題
+                - paragraph [ref=e486]: 銀行からこのような手紙が来ました。 『当行は、貴殿の普通預金取引に関して、「犯罪による収益の移転防止に関する法律（平成19年法律第22号）」に基づく取引時確認をさせていただきたく、2026年4月...
+                - paragraph [ref=e489]: ベストアンサー：みずほ銀行、あるいは統合される前の第一勧銀か富士銀行時代からの口座があり、すでに取引せずに放置してあるものがあれば、それが今も真の名義人なのかを確認したいのかもしれません。あるいは、第三者が取得...
+                - generic [ref=e490]:
+                  - generic [ref=e491]:
+                    - generic "回答数：" [ref=e492]:
+                      - img [ref=e493]
+                    - generic [ref=e495]: "4"
+                  - generic "4/24 12:55" [ref=e497]
+                  - generic [ref=e498]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e499]:
+                      - img [ref=e500]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e506]: "250"
+            - link "住宅ローン 住宅ローンの本審査 住宅ローンを借りたいのですが、当方健康状態に不安があり、不動産会社の紹介で3つの銀行に仮審査を行いました。 そのうち、A銀行とB銀行については、健康に不安があると相談したと... ベストアンサー：並行して本審査を申し込むことは出来ますが、基本的に本審査は一つの銀行で行った方が良いです。借りないのに本審査やっても無駄です。 A、Bの銀行は本審査＝実行出来る可能性が高いので早く申し込んでくれ... 回答数： 2 4/22 13:40" [ref=e509] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327454901
+              - generic [ref=e510]:
+                - paragraph [ref=e511]: 住宅ローン
+                - paragraph [ref=e514]: 住宅ローンの本審査 住宅ローンを借りたいのですが、当方健康状態に不安があり、不動産会社の紹介で3つの銀行に仮審査を行いました。 そのうち、A銀行とB銀行については、健康に不安があると相談したと...
+                - paragraph [ref=e517]: ベストアンサー：並行して本審査を申し込むことは出来ますが、基本的に本審査は一つの銀行で行った方が良いです。借りないのに本審査やっても無駄です。 A、Bの銀行は本審査＝実行出来る可能性が高いので早く申し込んでくれ...
+                - generic [ref=e518]:
+                  - generic [ref=e519]:
+                    - generic "回答数：" [ref=e520]:
+                      - img [ref=e521]
+                    - generic [ref=e523]: "2"
+                  - generic "4/22 13:40" [ref=e525]
+            - link "ネットバンキング 三菱UFJ銀行のATMで振り込み50万、引き出し20万は同じキャッシュカードで1日で可能でしょうか？ よろしくお願いします。 ベストアンサー：可能です。 キャッシュカードの基本設定は、 〇引出し・・50万円 〇振込、振替・・100万円 と別々になっています。 ※同行HPより 回答数： 3 3/26 13:22 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e528] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14326628284
+              - generic [ref=e529]:
+                - paragraph [ref=e530]: ネットバンキング
+                - paragraph [ref=e533]: 三菱UFJ銀行のATMで振り込み50万、引き出し20万は同じキャッシュカードで1日で可能でしょうか？ よろしくお願いします。
+                - paragraph [ref=e536]: ベストアンサー：可能です。 キャッシュカードの基本設定は、 〇引出し・・50万円 〇振込、振替・・100万円 と別々になっています。 ※同行HPより
+                - generic [ref=e537]:
+                  - generic [ref=e538]:
+                    - generic "回答数：" [ref=e539]:
+                      - img [ref=e540]
+                    - generic [ref=e542]: "3"
+                  - generic "3/26 13:22" [ref=e544]
+                  - generic [ref=e545]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e546]:
+                      - img [ref=e547]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e553]: "100"
+            - link "貯金 銀行員に質問、保険商品をお勧めする理由をお願いします。定義預金より、年金等保険商品をオススメする理由をお願いします。 ベストアンサー：保険会社から手数料もらえるので、たくさん売るように指示されてました。本当にメリットのある商品もあったので、無理やりすすめているわけではなかったです。 回答数： 4 4/23 22:00 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e556] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327495361
+              - generic [ref=e557]:
+                - paragraph [ref=e558]: 貯金
+                - paragraph [ref=e561]: 銀行員に質問、保険商品をお勧めする理由をお願いします。定義預金より、年金等保険商品をオススメする理由をお願いします。
+                - paragraph [ref=e564]: ベストアンサー：保険会社から手数料もらえるので、たくさん売るように指示されてました。本当にメリットのある商品もあったので、無理やりすすめているわけではなかったです。
+                - generic [ref=e565]:
+                  - generic [ref=e566]:
+                    - generic "回答数：" [ref=e567]:
+                      - img [ref=e568]
+                    - generic [ref=e570]: "4"
+                  - generic "4/23 22:00" [ref=e572]
+                  - generic [ref=e573]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e574]:
+                      - img [ref=e575]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e581]: "50"
+            - link "税金 学生です。お金を借りたいです。 18の専門1年生で、バイトの収入はあります。 バイト先に連絡いかず、源泉徴収票で借りれる会社はありますか？ ベストアンサー：いくらの収入で、いくら借りたい？ 変な履歴が無く少額なら貸すところはありそう。 回答数： 1 4/24 12:44" [ref=e584] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327508091
+              - generic [ref=e585]:
+                - paragraph [ref=e586]: 税金
+                - paragraph [ref=e589]: 学生です。お金を借りたいです。 18の専門1年生で、バイトの収入はあります。 バイト先に連絡いかず、源泉徴収票で借りれる会社はありますか？
+                - paragraph [ref=e592]: ベストアンサー：いくらの収入で、いくら借りたい？ 変な履歴が無く少額なら貸すところはありそう。
+                - generic [ref=e593]:
+                  - generic [ref=e594]:
+                    - generic "回答数：" [ref=e595]:
+                      - img [ref=e596]
+                    - generic [ref=e598]: "1"
+                  - generic "4/24 12:44" [ref=e600]
+            - link "家計、節約 風呂を1回、沸かすと光熱費、水道代等含めていくらぐらいになると思いますか？ ベストアンサー：一般的な家庭用の浴槽（約180〜200L）を1回満たしてお風呂を沸かす場合、だいたい以下のイメージです。 1回あたり 約80円〜150円程度 内訳の目安 ・水道代：40〜70円前後 （地域差あり... 回答数： 4 4/21 6:39" [ref=e603] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327420902
+              - generic [ref=e604]:
+                - paragraph [ref=e605]: 家計、節約
+                - paragraph [ref=e608]: 風呂を1回、沸かすと光熱費、水道代等含めていくらぐらいになると思いますか？
+                - paragraph [ref=e611]: ベストアンサー：一般的な家庭用の浴槽（約180〜200L）を1回満たしてお風呂を沸かす場合、だいたい以下のイメージです。 1回あたり 約80円〜150円程度 内訳の目安 ・水道代：40〜70円前後 （地域差あり...
+                - generic [ref=e612]:
+                  - generic [ref=e613]:
+                    - generic "回答数：" [ref=e614]:
+                      - img [ref=e615]
+                    - generic [ref=e617]: "4"
+                  - generic "4/21 6:39" [ref=e619]
+            - link "貯金 郵便局で、小銭の預入をしたいです。窓口であれば100枚まで無料と書いていたのですが、1日の間にA支店で100枚預入、その後B支店で100枚預入をした場合、B支店で手数料が発生するのでしょうか？ ベストアンサー：基本的には支店ごとではなく「1日の合計枚数」で見られるので、A支店で100枚入れたあとにB支店でさらに100枚入れると、B支店では手数料がかかる可能性が高いです。 ゆうちょ銀行の硬貨入金は同一口... 回答数： 3 4/22 9:49 ベストアンサーへのお礼（知恵コイン）： 250" [ref=e622] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327450781
+              - generic [ref=e623]:
+                - paragraph [ref=e624]: 貯金
+                - paragraph [ref=e627]: 郵便局で、小銭の預入をしたいです。窓口であれば100枚まで無料と書いていたのですが、1日の間にA支店で100枚預入、その後B支店で100枚預入をした場合、B支店で手数料が発生するのでしょうか？
+                - paragraph [ref=e630]: ベストアンサー：基本的には支店ごとではなく「1日の合計枚数」で見られるので、A支店で100枚入れたあとにB支店でさらに100枚入れると、B支店では手数料がかかる可能性が高いです。 ゆうちょ銀行の硬貨入金は同一口...
+                - generic [ref=e631]:
+                  - generic [ref=e632]:
+                    - generic "回答数：" [ref=e633]:
+                      - img [ref=e634]
+                    - generic [ref=e636]: "3"
+                  - generic "4/22 9:49" [ref=e638]
+                  - generic [ref=e639]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e640]:
+                      - img [ref=e641]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e647]: "250"
+            - link "ネットバンキング 振込領収証について 広銀でお金を振り込んで、振込領収書を受け取りたいのですが、窓口で申請する必要がありますか？それとも振り込んだらATMから振込領収書が発行されるのでしょうか ベストアンサー：＞広銀でお金を振り込んで、振込領収書を受け取りたいのですが・・・ 窓口で振込したら、振込依頼書と複写になっている①振込金受取証に出納員を押印して渡して(返却して)くれます。 広銀に限らずATM... 回答数： 2 4/15 17:05" [ref=e650] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327261577
+              - generic [ref=e651]:
+                - paragraph [ref=e652]: ネットバンキング
+                - paragraph [ref=e655]: 振込領収証について 広銀でお金を振り込んで、振込領収書を受け取りたいのですが、窓口で申請する必要がありますか？それとも振り込んだらATMから振込領収書が発行されるのでしょうか
+                - paragraph [ref=e658]: ベストアンサー：＞広銀でお金を振り込んで、振込領収書を受け取りたいのですが・・・ 窓口で振込したら、振込依頼書と複写になっている①振込金受取証に出納員を押印して渡して(返却して)くれます。 広銀に限らずATM...
+                - generic [ref=e659]:
+                  - generic [ref=e660]:
+                    - generic "回答数：" [ref=e661]:
+                      - img [ref=e662]
+                    - generic [ref=e664]: "2"
+                  - generic "4/15 17:05" [ref=e666]
+            - link "資産運用、投資信託、NISA みずほ銀行から楽天銀行への入金 みずほ銀行に250万ほど手付かずの現金があるため、楽天証券でNISAでも始めようかと思っています。 この場合、みずほ銀行の窓口に行けば、楽天銀行への入金はできるの... ベストアンサー：入金出来ますよ 窓口でもＡＴＭでも 回答数： 5 4/22 17:53 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e669] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327460327
+              - generic [ref=e670]:
+                - paragraph [ref=e671]: 資産運用、投資信託、NISA
+                - paragraph [ref=e674]: みずほ銀行から楽天銀行への入金 みずほ銀行に250万ほど手付かずの現金があるため、楽天証券でNISAでも始めようかと思っています。 この場合、みずほ銀行の窓口に行けば、楽天銀行への入金はできるの...
+                - paragraph [ref=e677]: ベストアンサー：入金出来ますよ 窓口でもＡＴＭでも
+                - generic [ref=e678]:
+                  - generic [ref=e679]:
+                    - generic "回答数：" [ref=e680]:
+                      - img [ref=e681]
+                    - generic [ref=e683]: "5"
+                  - generic "4/22 17:53" [ref=e685]
+                  - generic [ref=e686]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e687]:
+                      - img [ref=e688]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e694]: "100"
+            - link "家計、貯金 夫 年収1200万 33歳 子供2歳、0歳 貯金額1200万 マンション4900万 金利0.85 35年 子供は全て国公立に入れようと思っています 当初は子供2人が下宿したいと言った場合も対応... ベストアンサー：＞いや、これくらい普通だよなのか ＞感想いただけると嬉しいです。 普通だよ！ 回答はこれで良いでしょうか？ 別にふざけた回答ではありません、まじめに大丈夫です。 32年後の定年退職時のローン... 回答数： 4 4/23 10:10" [ref=e697] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327478248
+              - generic [ref=e698]:
+                - paragraph [ref=e699]: 家計、貯金
+                - paragraph [ref=e702]: 夫 年収1200万 33歳 子供2歳、0歳 貯金額1200万 マンション4900万 金利0.85 35年 子供は全て国公立に入れようと思っています 当初は子供2人が下宿したいと言った場合も対応...
+                - paragraph [ref=e705]: ベストアンサー：＞いや、これくらい普通だよなのか ＞感想いただけると嬉しいです。 普通だよ！ 回答はこれで良いでしょうか？ 別にふざけた回答ではありません、まじめに大丈夫です。 32年後の定年退職時のローン...
+                - generic [ref=e706]:
+                  - generic [ref=e707]:
+                    - generic "回答数：" [ref=e708]:
+                      - img [ref=e709]
+                    - generic [ref=e711]: "4"
+                  - generic "4/23 10:10" [ref=e713]
+            - link "貯金 銀行の口座って基本的にブラックリスト入ってなければ誰でも作れるんでしょうか？ 消費者金融で借金してるぐらいなら問題なく作れるのかなと。 ベストアンサー：口座開設に信用状態チェックはされませんのでブラックリストに入っていても口座開設はできます。 ただし、本人確認書類の不備、マネーロンダリング防止（反社チェック）、実態のない法人、または複数口座を... 回答数： 1 4/24 9:34 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e716] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327504855
+              - generic [ref=e717]:
+                - paragraph [ref=e718]: 貯金
+                - paragraph [ref=e721]: 銀行の口座って基本的にブラックリスト入ってなければ誰でも作れるんでしょうか？ 消費者金融で借金してるぐらいなら問題なく作れるのかなと。
+                - paragraph [ref=e724]: ベストアンサー：口座開設に信用状態チェックはされませんのでブラックリストに入っていても口座開設はできます。 ただし、本人確認書類の不備、マネーロンダリング防止（反社チェック）、実態のない法人、または複数口座を...
+                - generic [ref=e725]:
+                  - generic [ref=e726]:
+                    - generic "回答数：" [ref=e727]:
+                      - img [ref=e728]
+                    - generic [ref=e730]: "1"
+                  - generic "4/24 9:34" [ref=e732]
+                  - generic [ref=e733]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e734]:
+                      - img [ref=e735]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e741]: "50"
+            - link "クレジットカード イオンカードについて質問です。アプリ内を色々見ていたら、一回払い以外 という所に25,642円となっています。分割、リボ、ボーナス払い等使った覚えはありません。 これがなんの請求なのか、何回払い... ベストアンサー：>何回払いで元本はいくらかなど調べる方法はありますか？ 利用明細に出ていないものは調べようがないです。イオンカードに聞いても出るまで待ってくれと言われる。 その時点で貴方が誤ったものな... 回答数： 4 4/24 7:20 イオンカードについて質問です。アプリ内を色々見ていたら、一回払い以外 という所に25,642円となっています。分割、リボ、ボーナス払い等使った覚えはありません。 これがなんの請求なのか、何回払い..." [ref=e744] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327502716
+              - generic [ref=e745]:
+                - paragraph [ref=e746]: クレジットカード
+                - paragraph [ref=e749]: イオンカードについて質問です。アプリ内を色々見ていたら、一回払い以外 という所に25,642円となっています。分割、リボ、ボーナス払い等使った覚えはありません。 これがなんの請求なのか、何回払い...
+                - paragraph [ref=e752]: ベストアンサー：>何回払いで元本はいくらかなど調べる方法はありますか？ 利用明細に出ていないものは調べようがないです。イオンカードに聞いても出るまで待ってくれと言われる。 その時点で貴方が誤ったものな...
+                - generic [ref=e753]:
+                  - generic [ref=e754]:
+                    - generic "回答数：" [ref=e755]:
+                      - img [ref=e756]
+                    - generic [ref=e758]: "4"
+                  - generic "4/24 7:20" [ref=e760]
+              - img "イオンカードについて質問です。アプリ内を色々見ていたら、一回払い以外 という所に25,642円となっています。分割、リボ、ボーナス払い等使った覚えはありません。 これがなんの請求なのか、何回払い..." [ref=e763]
+            - link "ローン 銀行のマイカーローンについて。 200万ほどの新車購入を考えています。 8月以降からの支払いが理想なのですが、例えば5月に契約&審査して6月中に納車した場合 7月ではなく8月からの支払... ベストアンサー：まず、納車までに全額を支払っている必要があります。 という事は、融資が実行されているということ。 支払い開始月については、融資実行日によりますが、ほとんどのケースで 翌月からになるでしょうね。 私 回答数： 4 4/23 10:25 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e766] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327478497
+              - generic [ref=e767]:
+                - paragraph [ref=e768]: ローン
+                - paragraph [ref=e771]: 銀行のマイカーローンについて。 200万ほどの新車購入を考えています。 8月以降からの支払いが理想なのですが、例えば5月に契約&審査して6月中に納車した場合 7月ではなく8月からの支払...
+                - paragraph [ref=e774]: ベストアンサー：まず、納車までに全額を支払っている必要があります。 という事は、融資が実行されているということ。 支払い開始月については、融資実行日によりますが、ほとんどのケースで 翌月からになるでしょうね。 私
+                - generic [ref=e775]:
+                  - generic [ref=e776]:
+                    - generic "回答数：" [ref=e777]:
+                      - img [ref=e778]
+                    - generic [ref=e780]: "4"
+                  - generic "4/23 10:25" [ref=e782]
+                  - generic [ref=e783]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e784]:
+                      - img [ref=e785]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e791]: "50"
+            - link "クレジットカード クレカ、現在延滞3ヶ月連続中なのに 携帯の機種変更（分割48回払い）の審査に 通りました。 これは、なにかの間違いでしょうか？ 新機種（本体+アクセサリで約13万円）も もう手元にあります。 ベストアンサー：素直におめでとうございます、言えない点もあります。 今後だけど他社延滞中がわかっているので、絶対にスマホの支払いを遅延しないこと。機種代金の一括請求を求められることもある。 クレカのほうは督促... 回答数： 2 4/21 19:38 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e794] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327436176
+              - generic [ref=e795]:
+                - paragraph [ref=e796]: クレジットカード
+                - paragraph [ref=e799]: クレカ、現在延滞3ヶ月連続中なのに 携帯の機種変更（分割48回払い）の審査に 通りました。 これは、なにかの間違いでしょうか？ 新機種（本体+アクセサリで約13万円）も もう手元にあります。
+                - paragraph [ref=e802]: ベストアンサー：素直におめでとうございます、言えない点もあります。 今後だけど他社延滞中がわかっているので、絶対にスマホの支払いを遅延しないこと。機種代金の一括請求を求められることもある。 クレカのほうは督促...
+                - generic [ref=e803]:
+                  - generic [ref=e804]:
+                    - generic "回答数：" [ref=e805]:
+                      - img [ref=e806]
+                    - generic [ref=e808]: "2"
+                  - generic "4/21 19:38" [ref=e810]
+                  - generic [ref=e811]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e812]:
+                      - img [ref=e813]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e819]: "100"
+            - link "貯金 結局、貸金庫はまだ大丈夫なんですか？ お金とか保管してて。 まだ銀行から、マスターキー使って結局ステルスちょろまかし決め込まれてんですか？ よろしくお願いします。 ベストアンサー：あれだけの不正事件がありましたから各銀行では貸金庫のセキュリティ強化をしています。今では安心して利用していいと思います。 ちなみに現金は保管不可という貸金庫規定を定めている銀行が殆どだと思います。 （ 回答数： 1 4/22 4:38 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e822] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327447288
+              - generic [ref=e823]:
+                - paragraph [ref=e824]: 貯金
+                - paragraph [ref=e827]: 結局、貸金庫はまだ大丈夫なんですか？ お金とか保管してて。 まだ銀行から、マスターキー使って結局ステルスちょろまかし決め込まれてんですか？ よろしくお願いします。
+                - paragraph [ref=e830]: ベストアンサー：あれだけの不正事件がありましたから各銀行では貸金庫のセキュリティ強化をしています。今では安心して利用していいと思います。 ちなみに現金は保管不可という貸金庫規定を定めている銀行が殆どだと思います。 （
+                - generic [ref=e831]:
+                  - generic [ref=e832]:
+                    - generic "回答数：" [ref=e833]:
+                      - img [ref=e834]
+                    - generic [ref=e836]: "1"
+                  - generic "4/22 4:38" [ref=e838]
+                  - generic [ref=e839]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e840]:
+                      - img [ref=e841]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e847]: "25"
+            - link "家計、節約 都市ガスで月平均約2,500円〜2,600円だと、プロパンガスの物件に引っ越すとおおよそでいいのですがだいたいいくら位のガス代になりますか？ ベストアンサー：通常￥二～三倍言われてます。大体5,000～7,800円です。 一人当たり平均消費5m3、月六千円が相場です。 私の場合。公共ガス千円強。プロパン三千円強。約2.5倍です。 今月分のプロパン... 回答数： 1 4/9 22:44 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e850] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327088672
+              - generic [ref=e851]:
+                - paragraph [ref=e852]: 家計、節約
+                - paragraph [ref=e855]: 都市ガスで月平均約2,500円〜2,600円だと、プロパンガスの物件に引っ越すとおおよそでいいのですがだいたいいくら位のガス代になりますか？
+                - paragraph [ref=e858]: ベストアンサー：通常￥二～三倍言われてます。大体5,000～7,800円です。 一人当たり平均消費5m3、月六千円が相場です。 私の場合。公共ガス千円強。プロパン三千円強。約2.5倍です。 今月分のプロパン...
+                - generic [ref=e859]:
+                  - generic [ref=e860]:
+                    - generic "回答数：" [ref=e861]:
+                      - img [ref=e862]
+                    - generic [ref=e864]: "1"
+                  - generic "4/9 22:44" [ref=e866]
+                  - generic [ref=e867]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e868]:
+                      - img [ref=e869]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e875]: "25"
+            - link "家計、節約 妻に渡す毎月の生活費の金額について質問です。 地方住み(四国)の４人家族です。子どもは小学生が２人(高学年と低学年の女の子が２人)です。 家賃、水道光熱費、通信費(携帯代含む)、習い事の費用を... ベストアンサー：同じく四国住み4人家族です。(子ども4歳2歳) おそらく生活費＝食費と雑費(消耗品等)あたりかなと思いますが、我が家の場合は月平均で、 ◯食費は60,000円くらい ・平日昼食は含まない ・外... 回答数： 8 4/19 6:41 ベストアンサーへのお礼（知恵コイン）： 250" [ref=e878] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327362280
+              - generic [ref=e879]:
+                - paragraph [ref=e880]: 家計、節約
+                - paragraph [ref=e883]: 妻に渡す毎月の生活費の金額について質問です。 地方住み(四国)の４人家族です。子どもは小学生が２人(高学年と低学年の女の子が２人)です。 家賃、水道光熱費、通信費(携帯代含む)、習い事の費用を...
+                - paragraph [ref=e886]: ベストアンサー：同じく四国住み4人家族です。(子ども4歳2歳) おそらく生活費＝食費と雑費(消耗品等)あたりかなと思いますが、我が家の場合は月平均で、 ◯食費は60,000円くらい ・平日昼食は含まない ・外...
+                - generic [ref=e887]:
+                  - generic [ref=e888]:
+                    - generic "回答数：" [ref=e889]:
+                      - img [ref=e890]
+                    - generic [ref=e892]: "8"
+                  - generic "4/19 6:41" [ref=e894]
+                  - generic [ref=e895]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e896]:
+                      - img [ref=e897]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e903]: "250"
+            - link "ネットバンキング PayPayで銀行口座に入金したのですが、いつまでも入金確認ができません、 ベストアンサー：着金日が10日前後となっていますので、京葉銀行のシステムが土日を挟んで月曜に着金するのでは。 ちなみにQ&Aに、5と10の付く日や週初め、祝日明けは振込依頼が多く、通常よりも時間がかかる... 回答数： 1 4/12 13:30 PayPayで銀行口座に入金したのですが、いつまでも入金確認ができません、" [ref=e906] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327166747
+              - generic [ref=e907]:
+                - paragraph [ref=e908]: ネットバンキング
+                - paragraph [ref=e911]: PayPayで銀行口座に入金したのですが、いつまでも入金確認ができません、
+                - paragraph [ref=e914]: ベストアンサー：着金日が10日前後となっていますので、京葉銀行のシステムが土日を挟んで月曜に着金するのでは。 ちなみにQ&Aに、5と10の付く日や週初め、祝日明けは振込依頼が多く、通常よりも時間がかかる...
+                - generic [ref=e915]:
+                  - generic [ref=e916]:
+                    - generic "回答数：" [ref=e917]:
+                      - img [ref=e918]
+                    - generic [ref=e920]: "1"
+                  - generic "4/12 13:30" [ref=e922]
+              - img "PayPayで銀行口座に入金したのですが、いつまでも入金確認ができません、" [ref=e925]
+            - link "恋愛相談、人間関係の悩み 大学1年です。現在地元を離れて進学して大学の入学式で仲良くなった女の子と食事に行く予定です。住んでいるところが離れていて交通費で4000円ぐらい必要で総額7000円以上は必要です。 しかし、僕が... ベストアンサー：デートをするために現金手渡しのバイト！ あなたは偉い でもその前に、もう大学生なのだからお金の管理は 親御さんが手放さないといけないですね これまで無駄遣いをよくしてしまったのでしょうか？ それ... 回答数： 3 4/17 8:03 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e928] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327307563
+              - generic [ref=e929]:
+                - paragraph [ref=e930]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e933]: 大学1年です。現在地元を離れて進学して大学の入学式で仲良くなった女の子と食事に行く予定です。住んでいるところが離れていて交通費で4000円ぐらい必要で総額7000円以上は必要です。 しかし、僕が...
+                - paragraph [ref=e936]: ベストアンサー：デートをするために現金手渡しのバイト！ あなたは偉い でもその前に、もう大学生なのだからお金の管理は 親御さんが手放さないといけないですね これまで無駄遣いをよくしてしまったのでしょうか？ それ...
+                - generic [ref=e937]:
+                  - generic [ref=e938]:
+                    - generic "回答数：" [ref=e939]:
+                      - img [ref=e940]
+                    - generic [ref=e942]: "3"
+                  - generic "4/17 8:03" [ref=e944]
+                  - generic [ref=e945]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e946]:
+                      - img [ref=e947]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e953]: "100"
+            - link "貯金 飲食業勤務の人間です。 GWが近く、レジの両替金として約15万円分(約2800枚)必要です。 りそな銀行で両替してもらいたいのですが、窓口で言ったらやってくれますかね？ ベストアンサー：両替機でやるべきで窓口ですると手数料が掛かります。 銀行のキャッシュカードを持ち行ってみましょう。 回答数： 1 4/24 1:02" [ref=e956] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327499906
+              - generic [ref=e957]:
+                - paragraph [ref=e958]: 貯金
+                - paragraph [ref=e961]: 飲食業勤務の人間です。 GWが近く、レジの両替金として約15万円分(約2800枚)必要です。 りそな銀行で両替してもらいたいのですが、窓口で言ったらやってくれますかね？
+                - paragraph [ref=e964]: ベストアンサー：両替機でやるべきで窓口ですると手数料が掛かります。 銀行のキャッシュカードを持ち行ってみましょう。
+                - generic [ref=e965]:
+                  - generic [ref=e966]:
+                    - generic "回答数：" [ref=e967]:
+                      - img [ref=e968]
+                    - generic [ref=e970]: "1"
+                  - generic "4/24 1:02" [ref=e972]
+            - link "大学 至急お願いします。日本学生支援機構の奨学金について質問です。 世帯年収６００万以上、多子世帯でなく、私立理工農系でもなければ、仮に給付奨学金及び授業料減免の申請をしても、採用される確率ははるかに... ベストアンサー：600万円に近ければ、採用される可能性はあります。 但し、採用されても給付も減免もありません。 回答数： 1 4/24 0:09 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e975] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327498935
+              - generic [ref=e976]:
+                - paragraph [ref=e977]: 大学
+                - paragraph [ref=e980]: 至急お願いします。日本学生支援機構の奨学金について質問です。 世帯年収６００万以上、多子世帯でなく、私立理工農系でもなければ、仮に給付奨学金及び授業料減免の申請をしても、採用される確率ははるかに...
+                - paragraph [ref=e983]: ベストアンサー：600万円に近ければ、採用される可能性はあります。 但し、採用されても給付も減免もありません。
+                - generic [ref=e984]:
+                  - generic [ref=e985]:
+                    - generic "回答数：" [ref=e986]:
+                      - img [ref=e987]
+                    - generic [ref=e989]: "1"
+                  - generic "4/24 0:09" [ref=e991]
+                  - generic [ref=e992]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e993]:
+                      - img [ref=e994]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e1000]: "25"
+            - link "貯金 三井住友銀行のキャッシュカードと通帳をなくしてしまいました。 同じ口座番号で再発行できますか？もうすぐ振込される予定です。 ベストアンサー：通帳とキャッシュカードを再発行した場合「同じ口座番号」で発行されます。 再発行前であっても「振込資金」は問題なく入りますから心配はないです。 なお「紛失による再発行」ですから数日かかると思います。 従 回答数： 4 4/22 17:27" [ref=e1003] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327459642
+              - generic [ref=e1004]:
+                - paragraph [ref=e1005]: 貯金
+                - paragraph [ref=e1008]: 三井住友銀行のキャッシュカードと通帳をなくしてしまいました。 同じ口座番号で再発行できますか？もうすぐ振込される予定です。
+                - paragraph [ref=e1011]: ベストアンサー：通帳とキャッシュカードを再発行した場合「同じ口座番号」で発行されます。 再発行前であっても「振込資金」は問題なく入りますから心配はないです。 なお「紛失による再発行」ですから数日かかると思います。 従
+                - generic [ref=e1012]:
+                  - generic [ref=e1013]:
+                    - generic "回答数：" [ref=e1014]:
+                      - img [ref=e1015]
+                    - generic [ref=e1017]: "4"
+                  - generic "4/22 17:27" [ref=e1019]
+            - link "貯金 三井住友銀行のオリーブ口座切り替えのキャンペーンについてご存知の方教えてください。 複数のキャンペーンが同時進行していますが、複数のキャンペーンにエントリーしてから切り替え等の手続きをした場合、... ベストアンサー：複数のキャンペーンにはエントリー出来ないと思いますが？ 回答数： 1 4/10 23:40" [ref=e1022] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327119853
+              - generic [ref=e1023]:
+                - paragraph [ref=e1024]: 貯金
+                - paragraph [ref=e1027]: 三井住友銀行のオリーブ口座切り替えのキャンペーンについてご存知の方教えてください。 複数のキャンペーンが同時進行していますが、複数のキャンペーンにエントリーしてから切り替え等の手続きをした場合、...
+                - paragraph [ref=e1030]: ベストアンサー：複数のキャンペーンにはエントリー出来ないと思いますが？
+                - generic [ref=e1031]:
+                  - generic [ref=e1032]:
+                    - generic "回答数：" [ref=e1033]:
+                      - img [ref=e1034]
+                    - generic [ref=e1036]: "1"
+                  - generic "4/10 23:40" [ref=e1038]
+            - link "家計、節約 これって詐欺メールですか？ TEPCO 支払いサポート 未納料金による供給停止予告 ご利用中の料金につきまして、期限までに完納の確認ができておりません。 本メールは、現在の納付状況に基づき... ベストアンサー：詐欺メールだと思います。 支払いへ進むリンク先は、電力会社とは似ても似つかないURLなのではないですか？ 回答数： 4 4/23 13:02" [ref=e1041] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327481614
+              - generic [ref=e1042]:
+                - paragraph [ref=e1043]: 家計、節約
+                - paragraph [ref=e1046]: これって詐欺メールですか？ TEPCO 支払いサポート 未納料金による供給停止予告 ご利用中の料金につきまして、期限までに完納の確認ができておりません。 本メールは、現在の納付状況に基づき...
+                - paragraph [ref=e1049]: ベストアンサー：詐欺メールだと思います。 支払いへ進むリンク先は、電力会社とは似ても似つかないURLなのではないですか？
+                - generic [ref=e1050]:
+                  - generic [ref=e1051]:
+                    - generic "回答数：" [ref=e1052]:
+                      - img [ref=e1053]
+                    - generic [ref=e1055]: "4"
+                  - generic "4/23 13:02" [ref=e1057]
+            - link "インターネットサービス まもなく50歳になります。 ログインID、パスワード、暗証番号などなどもぉ覚えられません 何十個も記憶するのは無理でしょ。 極めつけはネット銀行の暗証番号を忘れてしまい変更するのに郵送したハガキ... ベストアンサー：昔の人は電話番号をメモしてたのと一緒だよ。 メモして金庫にいれなさい。 そして、金庫の暗証番号を忘れるというおちになりそうだけど。 回答数： 1 4/23 21:10 ベストアンサーへのお礼（知恵コイン）： 500" [ref=e1060] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327493714
+              - generic [ref=e1061]:
+                - paragraph [ref=e1062]: インターネットサービス
+                - paragraph [ref=e1065]: まもなく50歳になります。 ログインID、パスワード、暗証番号などなどもぉ覚えられません 何十個も記憶するのは無理でしょ。 極めつけはネット銀行の暗証番号を忘れてしまい変更するのに郵送したハガキ...
+                - paragraph [ref=e1068]: ベストアンサー：昔の人は電話番号をメモしてたのと一緒だよ。 メモして金庫にいれなさい。 そして、金庫の暗証番号を忘れるというおちになりそうだけど。
+                - generic [ref=e1069]:
+                  - generic [ref=e1070]:
+                    - generic "回答数：" [ref=e1071]:
+                      - img [ref=e1072]
+                    - generic [ref=e1074]: "1"
+                  - generic "4/23 21:10" [ref=e1076]
+                  - generic [ref=e1077]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e1078]:
+                      - img [ref=e1079]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e1085]: "500"
+        - generic [ref=e1088]:
+          - generic [ref=e1089]:
+            - generic [ref=e1090]: "1"
+            - link "2" [ref=e1091] [cursor=pointer]:
+              - /url: /category/2078297791/question/list?flg=1&type=list&sort=16&page=2
+            - link "3" [ref=e1092] [cursor=pointer]:
+              - /url: /category/2078297791/question/list?flg=1&type=list&sort=16&page=3
+            - link "4" [ref=e1093] [cursor=pointer]:
+              - /url: /category/2078297791/question/list?flg=1&type=list&sort=16&page=4
+            - link "5" [ref=e1094] [cursor=pointer]:
+              - /url: /category/2078297791/question/list?flg=1&type=list&sort=16&page=5
+            - link "6" [ref=e1095] [cursor=pointer]:
+              - /url: /category/2078297791/question/list?flg=1&type=list&sort=16&page=6
+            - link "7" [ref=e1096] [cursor=pointer]:
+              - /url: /category/2078297791/question/list?flg=1&type=list&sort=16&page=7
+            - link "8" [ref=e1097] [cursor=pointer]:
+              - /url: /category/2078297791/question/list?flg=1&type=list&sort=16&page=8
+            - link "9" [ref=e1098] [cursor=pointer]:
+              - /url: /category/2078297791/question/list?flg=1&type=list&sort=16&page=9
+            - link "10" [ref=e1099] [cursor=pointer]:
+              - /url: /category/2078297791/question/list?flg=1&type=list&sort=16&page=10
+            - generic [ref=e1100]: ...
+            - link "次へ" [ref=e1101] [cursor=pointer]:
+              - /url: /category/2078297791/question/list?flg=1&type=list&sort=16&page=2
+              - text: 次へ
+              - img [ref=e1102]
+          - paragraph [ref=e1104]:
+            - generic [ref=e1105]: 約590,443件
+      - complementary [ref=e1106]:
+        - generic [ref=e1107]:
+          - iframe
+          - iframe [ref=e1109]:
+            - generic [ref=f145e3]:
+              - generic [ref=f145e6]:
+                - link "他人に聞くよりPDFに直接聞こう 詳しくはこちら Adobe Acrobat" [ref=f145e7] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A59N62kAALhom0EpShLCUcYjGjgEH8rQ28_zNMi38Yd9O9TLC6aMrFQmzQwzrOeNDnmEsbw4jpQKArTU-uDFWL8fGEHEPVsnYna6xHrt0EwLIeXlEEImrGkgixAJyr2wutKNSPwJGg-0i-GGGu-vaiEG7IsZ1W8D2noYSEB2BVaVT62m7rDf7v7qEdXkihN9n3uQrWuEIXNop1MBnpIm6CKkXmnPvrlzqv_8K69IdcIUwoXfnc8UfGTzfvu6JEvjH0TlCyfYNehfFogDV4zm8g0U4gNaW-a5y4Wc1VfzOJov5OrfxfZTqCQZ-_RV4do0HLts_uTsVR1DIBEBO7F7OL_ACKbudpaJRA-xh5hllPV_m_sB3Zhx62X7465FGj38oPLHruExxmSQvdVJheBaIZBZzatWgULqhhr4CiioiU-O0f5KF9aQxLbCBkrdZZiSoUCnfv3rqK1OnD915utHo0-uLNYhhiwph_OXzkwGxZzNvrrnQ9ENrkwWb9O00cclPuxyIEVHknIvzONWtnGkLxadioygMNCd5nsGTGBvPxhFYOgj90TH1x8D7Hvgc92kfL4su-Ii5PCcgze3CXgjcafNiMXsuI9VKy1gWzeuiGE3Ef9AzKUxZUxJI5baDR6IYmt0TQ-gZ4IExE8HQMJ99JbROfJORFK4wN7A8Q3KWw9UXwCjjJE0_WpDJ0EJ3k9Xw6mlLLBVcv4miglCluOWWtZKbHuwomLdWNBe-jD3RyJu3ZNVLdXiDk0eAdvHJjEM2oKt2mIRFxGe7aD_tqkWm8JYRZWMsygoQwfjjwj-bBMnyVeBaWKwokhZo44QiL7DSDEfvqo1jiFJFz1NgQcDq5HIdz_3pYeyjGMJub-vcmJrTOq80b25Hjo6yBcEHbUpfxJ1r99iADXjcXBnrJBkzkqjlt4BDhdMAefPHjkDtmHH25_mrrFE9KY5KMlsxmAOVqRGJLdzaP2Y6YJUd8jE81tPqjnX3LR6w63HtIlF6C3q9sqoA1tu9L-VqVJvkH-FhiuX4dEiJoD23Egbx25CBmSNo0U6JRApGNpL59_eJVY2IcJqIhxtdcbwqGJEZ2r4aeSBN6VqDa1XbI_Fpr3TzHA_9LUguFPjOfecIk3OzNI5xI3twfheU6PkX47KgEQcP8KCZBZ4zY4CUm2CD72GX8_lMBnYP8DZEfoDbA006sMoI-YKIN6JAsEBC-CyL0G4p57tjnzeHF-pou0FcVpNXAf3qimOkQse7rMm7Uy1xcqBriFpgeIww4SJEJHcd5NZzLuD7ILNqWpbAU77Wx7GdN_61q6t1vXDhuKreZ-UtptgOmIe4T24MbuW4N8j61ShyHmx64llcqswIJTfMSnpPM2tVbD44On1zT0yA4fyAmMbUehN3qwBNhHwBjKUUeDzAAqJpdhZVtQwY0GCMCW52Vmsc2TkXXlghK149se24odAKaJW1TByJ-dYSdLb3O6BCB36_wz68t10GxMbbnxk4305i_OsuMfvb15Ef_0mxqJSevm5O2iXRs9kIIAzdpM4CdFAHQKOZZbPZZU3f0CBHPz7cy7de2XEiNANExj_uUM51sQP9rXNyxyKfVEM_DzpwVT-ZTsnMGKHxuQTVF69FA5r3aI&v=5
+                  - paragraph [ref=f145e10]: 他人に聞くよりPDFに直接聞こう
+                  - paragraph [ref=f145e11]:
+                    - generic [ref=f145e12]: 詳しくはこちら
+                  - paragraph [ref=f145e13]: Adobe Acrobat
+                - generic [ref=f145e14] [cursor=pointer]:
+                  - link "広告" [ref=f145e17]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A59N62kAABJqEX2RS45QHtdukVB8guU8UlnTmklGO3zTRS25LwcgH_cdmJ7bfHqWX7SoKBFOWnWM2JJ91gf4gkk3TtYTBCIJAVJvLRS9VKRgwLvhXToUg9_KJ5gP33Lp0GG4k1yXuSYIsLSFFaGjGqLr5rDvhTDTzIRj_1Hltf-rB9PRSEkMtCT2kQ2HOy4MY9J1uc4_8aQnlCvEUJbC6rqRUwNgeFib3i7W8jGErcR6ychsdIPoT4gC87hUc-I4Err4bjQ2llQAAI2sO07dw8fT2fdcRlxc7Tj_lwUt_iAsSsXEXQ&o=A59N62kAADDcwKixjn2CNEFg2WzezsPriMEcek5TTWkCYtpbSv10CTimTL8uaGlQLMLDRaks8f9ZxGOZGcPz5EDBKaKJR2u6tXFywRIMBr252kY-nVr7ZreFU0_2r48LFe_f3OIwNO8bY4XcK9VrGFQVno6kDs_pIgqhuU8DLX72tYwbQH5Uj6Ca3EQzPzfRBkFet70nUvtFmGD2oY92BR4eK3NVaUs-Z2fHEMaC18Wp5SmF-yUuN0yA6qLSKAmMqrCUh1M39NCLbG2XpPdY344iwLg
+                    - generic [ref=f145e19]:
+                      - generic [ref=f145e20]: 広告
+                      - img [ref=f145e22]
+                  - img [ref=f145e27]
+              - generic [ref=f145e32]:
+                - link "大田区の住所入力で土地価格がわかる 詳しくはこちら かんたん不動産比較" [ref=f145e33] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A59N62kAAPPb8dUP9KLHKMwdejoCC3st3UBFemdi8NWtvIxabovjxMk7u4JzFDZOulc2hp7NiPvOis4sH9xfE4-AVBYz-n9BQ4uz9Q9d154FPPbPcSghFUkynYFmpcM5k9aKTk57prr4aMvDRPOqaKVly3CTuMBYZ8_mJ9A5priEe_UxqTjJRP17nxVOL-V0XZW1ASIHD8P5gm_wYjZS-dStXhOeSlwp0DA08M6m5EY8pSsD3jA_UBUZNtwapRWD9PaiyxAB2NYqJY7pRRAiO1VzxNF4W2X6BALuqtlJ-ROg8UsjdPiDfCSMrAWDkrbqzX2l7pZZtvNRYQNyY8laQEFHDQIKTQQYem_NY8TfyG-CD6GptJeypKS0eFuEPU7xzB2p2UvySfjNfwOcxiBA62a9QvHnHkOKD1R64yiQuIPzkc9Ujq2PmMQDoiqYy5iA8dKCBU_vVKQf-Ij85Dnb5aMKQZXgwAdOXO0I11l8j6AFLwy3AoQXPVIYe4X7g92eQYApGBtB3owSf7Fqj2qGuc5rZF9-IX1IcTIVii4bySzWL5YqO7J1qbMadAv1geDPqb0A09t0H3zCbTi9q8bWh-7aXy3urLHNiR-xCJUd7AR51dMsxQr3cyX0oqN_wbXGbSpWXgqOplDit5UhJAynMklGroQJtYexAk0e-v-9uVd4syLlw7WkWx2Db_8Sgedq9PikTirOPxas9fnk7_mXcgtt4IBVYMIZHoadGkbK1TGZGj5e1fwABF-ht88QoOz9LPKAD88dccvVKbqe5rGoMGJcNS37BWrOS3QlZ9oi8CbOewuwj6vtgN1w41WISiRYLyqwRT4MCkE9ENjKSl-RUOATzq0gZOVJKasRAtQ78RIh-a0jwWF7lfjrAbIsMkXe0O9VwmXdGzQVqAODQ6-Njz-i2_9LpSAeVwasMnxAkSEpezH2ZTcbT9f_ouRlEozdfuYhnFnIcYR6lMoJijuqybULNUbVj47sapF6bXciMjUtZNydpIcRGE5dlaaxiejCvoGTYnrJ0eO4U3upEFisr45uOGGal8EZawOxVKVTxpc07bcUcGdxpbx2q1GZb6aDml6nyfCTdB2nVtNpycPnZSnO94RoUpqtxpQs5UoLP-fOOzAZcxZYWFjtiN2WLiKZziKooWWBeE3DcsiCOJGKbx0ZaZFlekoVOeUjS4d6ifmGuotaMmLYBMCVEZtMKc5wWTC9tfgIGTJug4XnXyI5zTIl0RJhIXYf7YWX3IF0GDI6pvJdkCIamEkNO18BVEd2z-VP7fYs_oX6WlPJXkNUzTzSRUGmjLZvJ3p9P6wQgX7vgQs9tbBUXh9pg66qYRFsU02A0e0w9JaG-REIGk18EJTpN_V4pCvIgML4A8w49oNhbwGl5IRDhh0GmugBodFqGPqM9uFo1AfuTDZGaj1dFMBDc-BCZRCqL669GnypPSHxuJ_B5dn_FDE5Kiu6hnPUqbhxVQgqDYXlWN9a0jqcFDxVZKL1EA1cHHOPfHTvW5_ZLhocMfXexGcgd0BBcQ8lz6l1u2OXX7J545EjrS5xgQ-uIglNIG1KGaHxahz4BVyKcHOhrleyRu_JE9UjPG2Evw&v=5
+                  - paragraph [ref=f145e36]: 大田区の住所入力で土地価格がわかる
+                  - paragraph [ref=f145e37]:
+                    - generic [ref=f145e38]: 詳しくはこちら
+                  - paragraph [ref=f145e39]: かんたん不動産比較
+                - generic [ref=f145e40] [cursor=pointer]:
+                  - link "広告" [ref=f145e43]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A59N62kAAGXAdpRUxvGV2BlhFGb5ViIjNBQqWP1RKxAvGvBKEmozw9SpBujJZon6y4Gi98YB4I1js5uSkYQYNWweS-Ox9uRS9_dBFg6Qcj-Wdm5rLcpFYIOu46nvz4q6eB69e09SH-IBE4TVRIn4IOav22pEvCDjoOBCzH0bz2AAeiwdcfZeIcUhEbujeZLRnMtGZ_QvjP0Mp9aGNgbtjp3B0u8FvoDFlqIeNwNMzkvzgENcB0f9DnKAOjlOLTaPsWWIhw1sswEhS-4bxbdHEZzS1oPM4PWPVKNtMW2bnB9d7oeQuw&o=A59N62kAAEEcELw7pxs5OzNyWuRjEYbfIfl3BjKwTRep9rl3g8SmiZuarnOpTHw_uHVzuPYvlAIfeyuZJ2j-LcAVHaelR4yk2gIObnp1P0c8M6mBeARFyOw8c0aQIJm-j8P6bCtOOcQx_-JUhIqzkdgRImZZpoKaRFBELIXYsSwscQnZSrW-bq--dgoLrsSqz6a5JoR5onY0eP2BqL8IN8g57wiwjilzc9w4bBBh1IvgxCQabpC4JQV90CObJteLbZAwW9XAxvV5ZWVCc-kfuuL1VeA
+                    - generic [ref=f145e45]:
+                      - generic [ref=f145e46]: 広告
+                      - img [ref=f145e48]
+                  - img [ref=f145e53]
+    - generic [ref=e1110]:
+      - generic [ref=e1111]:
+        - generic [ref=e1113]:
+          - iframe
+          - iframe [ref=e1115]:
+            - generic [ref=f146e6]:
+              - link [ref=f146e7] [cursor=pointer]:
+                - /url: https://apm.yahoo.co.jp/rd?ep=A59N62kAAHQfTTP5fa1gwajWvFPDzM5op-82RD8IWFPJzskufuUJK-9XI8l8EgRL6XN91cPVXsCc2YsnvbLoz_cE5SQ_f-ThButasrwkT6YD3kat_eqX1y7Wz4F9WnbFhmeDqOsXiUR8EswV42-0gUQkMO_VQo_Ic63cbsT2MDY4yTutns8br1VPjC57VrM533axJN6nN7g8SLHJpNMc2y_Ho1386PwNg5bY4RTwNoFGNyEHFKMLaT_ueUDrqPivUUEq6iscwH6dXHSm5FihfqoBQSVJtGplX3gBZDx6szsCQOL_cKtP6A7N1WVcHlqz_UURiF6_RwVRgnPgSVgCMPgEs727tJIUgXcoIm7sSQq1PKNqHnZor5Sl7FFTPEVwauHVTc-bNsHYwlSZk_LYawiB22vpGV_jLkrfxhfTrQ4QYVrmwgwpVRrRYNe5VUBWgWvLpxryt1OCvgO3DphNHAgbn3tLanDwEEXvKmMXzHATTIgSWF_hJ-p1n1IqYRySgYjKMjZshLTqoJKfrVM04arCtmwMyTR_9a7RWlAfXt-v-KMWgUkINZunkUla6JTSJ1xIgayg7Z3gTsC-D8VrPGmzB1Glr68dhcxA67wRxGuWH48U6NMEFufs1ifA9DzIx0TeRWW5X-ngkaodl1uqlQkedBb0VNktArLfuI5QmzT7bBuKvDE3xTMYPq1zbWo5c3PaCW450Nptqe89lj4amHwiNQQ2HRLys4iEGJELQNUTDRAvqKYuRUfiT32e5M20rWOffBbpOzW-0-9FRg48dJCmBn4zrvuIQ6AwBSMlRgKs9aVIhdmsfvJzgYwMLA6tsx-aZ6TxKhFDQOnnLCB0bRf4q2wW95CaaGFpJ-MYgn_Y8uV4CwKD4I4HUbx-cplGxzaQXkRUtqXwMNvAaGFsa6WA8C1eurgdSyTOAdXvDiE8mLE382l0cNRzxcgvmvAlxCB2bvCyGESK2jRtcRW4tEMDHHE6hs0goQlmPkYdyT2QaJ7NVT49qXniyHX8z8v4jF5UhCITCtbBVz0WwgpX0Ugp3PD4ow_6q0XQP7QMEo6WmdAp8w2m3JTMtryZkbCCyjbWLs_YO-b-8y3anlFaoyxzlKBybwW4DsG0HfRqfz0Vs8SgOE37QQPPL58qMMM3DrMF35R33jQ6HNDipUoBxyqNMNRioWfLr58ZSFt6b595JEdI2F4UOKiQsqGYCsjVs9ZYmLDp3BRy_YaX4m7fxb8wZTW9ucgtJiEVmuQ_QpS7ls6JRHc2YYK8zbfjlHTzkePGjGvbU9D_k9HyCAw2YLyy8a52-rt3O9isnvNppW2k3QTGeyMX13KrD017rF6KuQVzimPzS4p0AfUCOjC18XfECjoRZJ1IogWQdotBWEAAgMVnqkTKxTqpkAL5btGZLyOr24hyA5HIb0HeVCg0hsmancHjxRENLsS1nq3kK9rjqTC0tE80aZuw0M2ijpkbDkH4jD3CZ19u45L47rf5_tGVj4lo9LvAXoeOmvAYs6HGb3k06DPCScsqBJ2--7Gbj7GslPPJLQMNKBG3rD5BVXwL5BjMr8ZYnY7Yc8ZeOnVrPn_XJ-rrkipgK0TgKq8xtl2BwIEtuubQ0s7W&v=5
+                - img [ref=f146e8]
+              - generic [ref=f146e9] [cursor=pointer]:
+                - link "広告" [ref=f146e12]:
+                  - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A59N62kAAFxqlZHGSB25XeazAqEoJmPMEDiRGNKydnOkgxyAeuPN7Bw0vjwG7FRcbZMCY9VUlZ9E_LcU3PMSIyJzREbZKy9CjYAg7OzniB82iLomN7_Fpu5kkZDdn_4HlAoanrMaqWjbpJ-dNg8uiaMdOzXnzshF_S37D9abFB0nj50U-wdSdIooaqy-VCfflUxk-xEgzE_60oht6856PDVLvyJ7UQxZJ5lQXhok6jq-lIm82VH6_puW7bTXfbQ4foPkOS3nAJi5W6-Z6q8ozqSCiYZxBm0Q8d2rsh_w6Q1vIj3xCpo&o=A59N62kAAGpU5Sc1XDfebuqukYdyXR6YkUv2dWVxlIwqhkL2GpOFrmqP71aPXghEiyyth59PJMdhOo-05qeFRTAs8S_FJ9h9Wmj9aDa0FBjyhn8EaKtLqljtdC3AADC8m6mAvZkqEtbT4nbg8-HLwVzzAGlDSX6xB0LuGAkSOkC-Rcr8T_ELz2ECsR9Bv7HR-Xg-1rg1UX4Dp69X8txw2UrigU8OFYTy6tfgTjVXkZSSOtVitH4fkUSKcOlNby5HeOCvQKYzHM__yD5d-0v1IoOLsnA
+                  - generic [ref=f146e14]:
+                    - generic [ref=f146e15]: 広告
+                    - img [ref=f146e17]
+                - img [ref=f146e22]
+        - generic [ref=e1121]:
+          - link [ref=e1122] [cursor=pointer]:
+            - /url: https://apm.yahoo.co.jp/rd?ep=A59N62kAAO5WVjHocYVYWjOfY5WLCt_d3z7zLqkAvgOTYNMYXuFdy5vAf0VC_U9bnH7Qj5QYPOxqTZ9iJY38i1Ow3gUfqlkZ62kqhHtk_O0CSi1UtVIXu6NoiOiiGzQAVg2bUMZXIK5Xy_2fFdPmU4tTkSXsZCMhQjpSNXlSOTqwWKW8evFW8niQt-oeMIgPgYZ0V70E9-GRpoxqoWbzIA1I9VaXP4WmQmmWV9XSBqUGYHxDULK_cjU6orB2wgREpc7AkJNZpMvtWTM3P709946yMfq6lD7xrLhk4d0KG8CIS7mGLjLdMEzG8EXH8hjp377FFk3OEkpNedFRzFcOxoDpA9ZjFtg9kUtt4cE2F58ITj9c_QEBTQR4WiYq4XPMJr8D28CvrB40TOi9XCbtn2BEZEigZzNPmtUN7l-87VkrJHy2qh1tRQwKUXkCE3ufFFYhlnvPIvauXe1Zdh8xH6l8E_tUyLlq9WYJCRWWtEPcsaRVzP-COu5Z5Ffasp_AZ1EgEeirqbeXthIwK4n2Ak17dH0kHw8hMQBtMOquEtlHQwzP9JX4TMZ8uJJAF6kmWYDNZgWYo4QAKxCqSuQVQ7YRbVnen33LKzpxeH38HvkYpofIEKsq_dVffv8jEOJcSCO1ncDxfcTSgrAF8MXOvbfRDzufrpgugScNiwfj-NcfGTcA-936t0Moo9qqeCI6JxCp-fvLx5Bm_Lz5LtDIesWWjat76u8d1BxrnDkAnOPCQcyYJBHxE0adMdSpktXFK1zQ7t61w0RYOFg6uJSNyYHXkCldVj2gP5Xz2OBkXhxJViv6T8FoQAREvNPhgw5yRvhyeZql1I3UfyCd5Mtar6OYlu6UIC6cfU2znsx3wVq-O2oisK-bwNklIOd4EPapZSPQWcPVeYE0XrF0xa666zNu8j5ZVQyhdSdpHYgZ20aLWQfi5Zaya7nGu44l25nsnSbvt89oe-engff0AyoAc-IyaNoiwxMHLgUlpekRynmikkb392bcQRv-e0-WLlcXEP17j2dFPfjiudNvfSI9w-w3viGmi6M5dxAwtHrLjOQY7TfK947YKJ8fVPztHW4e1DCmu3D6sRaQCoelpoPW0fuUCgfodkpqrqHxNNOwffZScm6TyqumdfL9gKiD90iFE8RAZKTkNVPE1kyKuOip67WPfK33upAPSxbBc9jV0IBXD-K-jMqa10nlfmHmPn1tioE8jMh_Ngc4kxOkdVYyzv6PMDhdOHJbBzg_LYZv4uH43dvq6b_21D6wiJ6xaoANNTT0SvZ19kTKu6KX27a4_vdUMwuKAFfcslSAPEOkXkgL_8y9zlWnGTuSdmyR3n38NYmBOHibjVMVpIY1ptxmQXTpIHj8SRbJoKYEKMM6ewx3Mz8GtBZCHqwXYzY0S8xLgIZbvn3SV-K8V7ijj15OhyFl4SFg4W4tM2gmNnpjfTuiThQT37jWaLOn4WjZAIDZIcj4EOnuXVhlQQWZOenOF0DHk4homlG7FVn0Iw&v=5
+            - img [ref=e1123]
+          - generic [ref=e1124] [cursor=pointer]:
+            - link "広告" [ref=e1127]:
+              - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A59N62kAAESn5R42W3QpeSJWcP9xTgp3PBonFygGRFvDkkoklC8q8XlOcrl9Dr52bqlNDVLJno8_w4RMoYn02UsGi_nLDMXnHF44WKI1kt8W9JMfNtxDumJtGFJaTTdnF9Zdrk9VL67pzjRwJ_m-9lNFuGvDfuhW6zuy53g4LhwBHWmmgo1z3drN8pnr_YnzfvIvLZt4Pj9PkSPM2aszXDu6vs-HTW1FSguOGruIOEhf5NEACUwM1-M_qnpEl1gG6oZ6S07IRZjXPkmdAsQBK2tP563LCkSUWsVfR97Co5u0EWfdlco&o=A59N62kAAOKXY1i7Sh2LW2k-yo4tFi4GiCKLdruo3ouIE1dV33Pb82U2reoHcH7MEhl2kXElMYXH8_OkXzyI-5b3OmINtFRp1rfvOdfBGnygfcWG4Brbnt5KJ-vBYepX_0cJh3vCY3wVDbXVLgD3Ce7sPI6AgcEl8WupkaDOfwuqO1Cjim1R7W2yzG9Zb4GHkZ1pwpcD135fKVmdxkzQ51ZArJd5NUiR9ZbfJ4Tct9tSrevTNmfpu9v9O6o_0v_MWj5itMEY2UugPP5gCaipog51hsU
+              - generic [ref=e1129]:
+                - generic [ref=e1130]: 広告
+                - img [ref=e1132]
+            - img [ref=e1137]
+      - link "占い師にお悩み相談" [ref=e1142] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_ca-top_000
+        - img "占い師にお悩み相談" [ref=e1143]
+      - generic [ref=e1146]:
+        - generic [ref=e1147]:
+          - heading "カテゴリQ&Aランキング" [level=2] [ref=e1149]
+          - paragraph [ref=e1152]: 家計、貯金
+        - link "1 20歳で手取り40万近くあるのですが、なぜか給料日前には数万円しか残らず毎回貯金できずに嫌になってしまいます原因としてはタクシーやギャンブル、外食などだと思いますどうしたら貯金できるようになると思いますか" [ref=e1155] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327317411
+          - generic [ref=e1156]:
+            - generic [ref=e1158]: "1"
+            - paragraph [ref=e1161]: 20歳で手取り40万近くあるのですが、なぜか給料日前には数万円しか残らず毎回貯金できずに嫌になってしまいます原因としてはタクシーやギャンブル、外食などだと思いますどうしたら貯金できるようになると思いますか
+        - link "2 友人とお酒を飲みながら話していて貯蓄について不安になりました。今私は30歳独身の男で友人は31歳の独身男です。年収はお互い似ていて手取りは200〜300万円だと思います。貯蓄(貯金)は私は500万円で少し節約をしながら家賃を払い生活しています。車はありません。友人は実家暮らしで車は家族と共有で貯蓄は3000万円あるそうです。自分の6倍もあり驚きました。内訳は株と投資信託と現金だそうで株での利益が大半だそうです。これを聞いてから毎日が不安で押しつぶされそうになっています。31歳(30代)は3000万円もあるのが普通なのでしょうか。急に貯金を増やすのは不可能ですが、もう少し節約をするか投資を..." [ref=e1164] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327133023
+          - generic [ref=e1165]:
+            - generic [ref=e1167]: "2"
+            - paragraph [ref=e1170]: 友人とお酒を飲みながら話していて貯蓄について不安になりました。今私は30歳独身の男で友人は31歳の独身男です。年収はお互い似ていて手取りは200〜300万円だと思います。貯蓄(貯金)は私は500万円で少し節約をしながら家賃を払い生活しています。車はありません。友人は実家暮らしで車は家族と共有で貯蓄は3000万円あるそうです。自分の6倍もあり驚きました。内訳は株と投資信託と現金だそうで株での利益が大半だそうです。これを聞いてから毎日が不安で押しつぶされそうになっています。31歳(30代)は3000万円もあるのが普通なのでしょうか。急に貯金を増やすのは不可能ですが、もう少し節約をするか投資を...
+        - link "3 資産家ではない庶民が富裕層になるのは資産いくらからですか？" [ref=e1173] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327295435
+          - generic [ref=e1174]:
+            - generic [ref=e1176]: "3"
+            - paragraph [ref=e1179]: 資産家ではない庶民が富裕層になるのは資産いくらからですか？
+        - link "4 中一のお小遣いが月3000円って多いですか？少ないですか？また、うちは中二が4000円、中三が5000円、高校生からは1万円になります。私的にはこれで結構満足してるんですが、多すぎる(もしくは少なすぎる)なら親と相談して調整します。" [ref=e1182] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327205237
+          - generic [ref=e1183]:
+            - generic [ref=e1185]: "4"
+            - paragraph [ref=e1188]: 中一のお小遣いが月3000円って多いですか？少ないですか？また、うちは中二が4000円、中三が5000円、高校生からは1万円になります。私的にはこれで結構満足してるんですが、多すぎる(もしくは少なすぎる)なら親と相談して調整します。
+        - link "5 皆さんどうやって貯金してますか？独身30代女です。家計簿をつけてますが毎回マイナス。賞与でどうにか補填いった感じです。日々の食費を削ったり服やコスメも無くなったら買い足し程度でほとんど買い換えてないので、本来ならほぼお金がかからないような気がするのですが全然貯まりません。ただ家でじっとしているのはとてもストレスなのでたまに外食行ってます。婚活もしているので出会いの場に行ったりちょっと遠出もしています。多分ここがお金かかっている気がするのですが、これがないと日々の楽しみがなくなるので中々削れなくて。同じような方がどうやっているのか知りたいです。" [ref=e1191] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327174179
+          - generic [ref=e1192]:
+            - generic [ref=e1194]: "5"
+            - paragraph [ref=e1197]: 皆さんどうやって貯金してますか？独身30代女です。家計簿をつけてますが毎回マイナス。賞与でどうにか補填いった感じです。日々の食費を削ったり服やコスメも無くなったら買い足し程度でほとんど買い換えてないので、本来ならほぼお金がかからないような気がするのですが全然貯まりません。ただ家でじっとしているのはとてもストレスなのでたまに外食行ってます。婚活もしているので出会いの場に行ったりちょっと遠出もしています。多分ここがお金かかっている気がするのですが、これがないと日々の楽しみがなくなるので中々削れなくて。同じような方がどうやっているのか知りたいです。
+        - link "6 日用品や大量の食糧備蓄で100万円近い額を使ってる人が居るのですが、そこまでの大金をあなたの周りで使う人は居ましたか？クレラップとか1回の買い物で30cmと22cm合わせて10本ぐらい買うそうです。" [ref=e1200] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327196515
+          - generic [ref=e1201]:
+            - generic [ref=e1203]: "6"
+            - paragraph [ref=e1206]: 日用品や大量の食糧備蓄で100万円近い額を使ってる人が居るのですが、そこまでの大金をあなたの周りで使う人は居ましたか？クレラップとか1回の買い物で30cmと22cm合わせて10本ぐらい買うそうです。
+        - link "7 「銀行口座を3つ作り、使い分けると、お金が永遠に増え続ける」というのは本当ですか？．お笑いコンビ・サバンナの八木真澄さんがTV番組で、「銀行口座を3つ（①給与口座、②ダム、③投資用）に分けると、お金が永遠に増え続ける」と主張、「①は毎月の食費、光熱費など必要最低限の生活費を入れておく。②は①以外の残額を保管しておいて税金や医療費などに対応する。③は②ダムが必要額を超えた場合に、資産運用にまわし、入れたら永久に出しません」と説明した、というニュースを目にしました。私自身は、3つに分ける程、収入に余裕がないですが笑、賢い貯蓄方法だと思いました。詳しい方がおられましたら、回答頂けると嬉しいです。" [ref=e1209] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327198653
+          - generic [ref=e1210]:
+            - generic [ref=e1212]: "7"
+            - paragraph [ref=e1215]: 「銀行口座を3つ作り、使い分けると、お金が永遠に増え続ける」というのは本当ですか？．お笑いコンビ・サバンナの八木真澄さんがTV番組で、「銀行口座を3つ（①給与口座、②ダム、③投資用）に分けると、お金が永遠に増え続ける」と主張、「①は毎月の食費、光熱費など必要最低限の生活費を入れておく。②は①以外の残額を保管しておいて税金や医療費などに対応する。③は②ダムが必要額を超えた場合に、資産運用にまわし、入れたら永久に出しません」と説明した、というニュースを目にしました。私自身は、3つに分ける程、収入に余裕がないですが笑、賢い貯蓄方法だと思いました。詳しい方がおられましたら、回答頂けると嬉しいです。
+        - link "8 老後資金の質問です。老後資金として2000万円必要と言われていますが、老後とは何歳からえしょうか？また、この金額は一人での金額か、夫婦での金額かどちらでしょう？よろしく願いいたします。" [ref=e1218] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327452922
+          - generic [ref=e1219]:
+            - generic [ref=e1221]: "8"
+            - paragraph [ref=e1224]: 老後資金の質問です。老後資金として2000万円必要と言われていますが、老後とは何歳からえしょうか？また、この金額は一人での金額か、夫婦での金額かどちらでしょう？よろしく願いいたします。
+        - link "9 専業主婦をしてもらう対価について彼女は人口上位2%の年収の持ち主。結婚するにあたり、彼女は仕事継続希望金銭家事育児も分担の完全折半希望子供の成長を一緒に喜びたいので関わってほしいとのこと。自分は仕事しかしたくないので家事育児自分のメンケア等全て彼女にやらせたい。育児に関しては、自分に時間ができたときや余裕あるときには遊んでやったり風呂入ってやったりはするつもりです。彼女を専業主婦にさせるのに毎月いくら渡せば納得してくれるでしょうか？またいくらが妥当だと考えますか？返答よろしくお願いいたします。" [ref=e1227] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327476930
+          - generic [ref=e1228]:
+            - generic [ref=e1230]: "9"
+            - paragraph [ref=e1233]: 専業主婦をしてもらう対価について彼女は人口上位2%の年収の持ち主。結婚するにあたり、彼女は仕事継続希望金銭家事育児も分担の完全折半希望子供の成長を一緒に喜びたいので関わってほしいとのこと。自分は仕事しかしたくないので家事育児自分のメンケア等全て彼女にやらせたい。育児に関しては、自分に時間ができたときや余裕あるときには遊んでやったり風呂入ってやったりはするつもりです。彼女を専業主婦にさせるのに毎月いくら渡せば納得してくれるでしょうか？またいくらが妥当だと考えますか？返答よろしくお願いいたします。
+        - link "10 年収1000万円は凄いと言われるけど、年収500万円で2年働けば、同じ額は稼げるわけだから、とにかく働けよっ！てこと？何を聞きたいか伝わるかな。" [ref=e1236] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327408221
+          - generic [ref=e1237]:
+            - generic [ref=e1239]: "10"
+            - paragraph [ref=e1242]: 年収1000万円は凄いと言われるけど、年収500万円で2年働けば、同じ額は稼げるわけだから、とにかく働けよっ！てこと？何を聞きたいか伝わるかな。
+      - generic [ref=e1245]:
+        - generic [ref=e1246]:
+          - heading "カテゴリマスターランキング" [level=2] [ref=e1248]
+          - paragraph [ref=e1251]: 家計、貯金
+        - generic [ref=e1252]:
+          - link "1 thd******** thd********" [ref=e1254] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1051102926
+            - generic [ref=e1255]:
+              - generic [ref=e1257]: "1"
+              - generic [ref=e1259]:
+                - generic: thd********
+              - paragraph [ref=e1262]: thd********
+          - link "2 1150792653 1150792653" [ref=e1264] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1150792653
+            - generic [ref=e1265]:
+              - generic [ref=e1267]: "2"
+              - generic [ref=e1269]:
+                - generic: "1150792653"
+              - paragraph [ref=e1272]: "1150792653"
+          - link "3 xia******** xia********" [ref=e1274] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/10888893
+            - generic [ref=e1275]:
+              - generic [ref=e1277]: "3"
+              - generic [ref=e1279]:
+                - generic: xia********
+              - paragraph [ref=e1282]: xia********
+        - heading "急上昇のユーザー" [level=4] [ref=e1283]:
+          - generic [ref=e1284]: 急上昇のユーザー
+        - generic [ref=e1285]:
+          - link "thd******** thd********" [ref=e1287] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1051102926
+            - generic [ref=e1288]:
+              - img [ref=e1290]
+              - generic [ref=e1293]:
+                - generic: thd********
+              - paragraph [ref=e1296]: thd********
+          - link "1150792653 1150792653" [ref=e1298] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1150792653
+            - generic [ref=e1299]:
+              - img [ref=e1301]
+              - generic [ref=e1304]:
+                - generic: "1150792653"
+              - paragraph [ref=e1307]: "1150792653"
+        - generic [ref=e1308]: 更新日：2026/04/20
+      - link "公式・専門家の回答はこちら" [ref=e1311] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/expert/
+        - img "公式・専門家の回答はこちら" [ref=e1314]
+      - generic [ref=e1317]:
+        - heading "カテゴリ一覧" [level=2] [ref=e1320]
+        - generic [ref=e1321]:
+          - link "ビジネス、経済とお金 ビジネス、経済とお金" [ref=e1323] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297790/question/list
+            - generic [ref=e1324]:
+              - img "ビジネス、経済とお金" [ref=e1327]
+              - paragraph [ref=e1330]: ビジネス、経済とお金
+          - link "企業と経営 企業と経営" [ref=e1332] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297793/question/list
+            - generic [ref=e1333]:
+              - img "企業と経営" [ref=e1336]
+              - paragraph [ref=e1339]: 企業と経営
+          - link "株と経済 株と経済" [ref=e1341] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297792/question/list
+            - generic [ref=e1342]:
+              - img "株と経済" [ref=e1345]
+              - paragraph [ref=e1348]: 株と経済
+          - link "税金、年金 税金、年金" [ref=e1350] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401772/question/list
+            - generic [ref=e1351]:
+              - img "税金、年金" [ref=e1354]
+              - paragraph [ref=e1357]: 税金、年金
+          - link "保険 保険" [ref=e1359] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401781/question/list
+            - generic [ref=e1360]:
+              - img "保険" [ref=e1363]
+              - paragraph [ref=e1366]: 保険
+          - link "家計、貯金 家計、貯金" [ref=e1368] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297791/question/list
+            - generic [ref=e1369]:
+              - img "家計、貯金" [ref=e1372]
+              - paragraph [ref=e1375]: 家計、貯金
+          - link "家計、節約" [ref=e1377] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297796/question/list
+            - generic [ref=e1378]:
+              - img [ref=e1380]
+              - paragraph [ref=e1384]: 家計、節約
+          - link "貯金" [ref=e1386] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297797/question/list
+            - generic [ref=e1387]:
+              - img [ref=e1389]
+              - paragraph [ref=e1393]: 貯金
+          - link "ローン" [ref=e1395] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297795/question/list
+            - generic [ref=e1396]:
+              - img [ref=e1398]
+              - paragraph [ref=e1402]: ローン
+          - link "ネットバンキング" [ref=e1404] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079639783/question/list
+            - generic [ref=e1405]:
+              - img [ref=e1407]
+              - paragraph [ref=e1411]: ネットバンキング
+          - link "決済、ポイントサービス 決済、ポイントサービス" [ref=e1413] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079161149/question/list
+            - generic [ref=e1414]:
+              - img "決済、ポイントサービス" [ref=e1417]
+              - paragraph [ref=e1420]: 決済、ポイントサービス
+        - link "カテゴリ一覧を見る" [ref=e1422] [cursor=pointer]:
+          - /url: /category
+          - text: カテゴリ一覧を見る
+          - img [ref=e1423]
+      - generic [ref=e1426]:
+        - iframe
+        - iframe [ref=e1428]:
+          - generic [ref=f144e5]:
+            - link "提案準備をAIで効率化 資料をAIに読み込ませて、想定質問リストから内容強化まで提案準備サクッと｜Adobe Acrobat" [ref=f144e6] [cursor=pointer]:
+              - /url: https://apm.yahoo.co.jp/rd?ep=A59N62kAAPxEtz1g6awSsoc0SZheNKTLoExJkJw2SvCL5retRZ_jOSxCsanqX2KwvwrEbSUkwjcpwTxXJ8HitEfyrWEAC4j7blyEh3JJ4Pint3IjLPftXhFRJphA4thG1fzecAyuipSM9CRE5sB7e0RecUFrqQk72LHZ_uI4y_4KCzdBW0bSd3AcJ36q3QH89DnonecePZGhdmFhpJBtNbb5uXpvQ1SCjT41Op5wsPvT5PCkI16A7SlgnBIuiu2is-d4iVS3-2loHCxAuCwysalyRsq4IPjYZweGZc-IgQoydiSxy4vemR3cyeoeDqFy_hiew5VsAygw-rr4o0hoDFBZHjH0CfNZZj-sf98Uyr8xgpftAZs9_uAZIlQ4-y1ffrGGrkXNZGm_JgT3F2H1sp2h7gGL3G8JsRC7qKPJONzThB8SCSL2ShDirRKP-oaLfR_-SSZS7WGiKaO_SNwX7lrhuPYZme1zQn0_GvzJwd_WHkiWPq56CsIyWqiFOONik1mU7WKKaSp91OzP1oTkONHx_lkLyoa6HOTdU8u1r6hjuORobCjk2qLAlF28rq_4yo4uH-PzHgjoCeuI5bdHo1hGmYierr3dTRmghmOvuBzwmNGhgdhxeT-ehJ8YF3UVSkg-mRKcx3GZK_vJU6sf71F4HsQynkxMtPsarL_VeVGcRBEgYBd-EiE7kDl428iZJ7WpRsBzF_uayPh37P2ZFMyT2vaMB759btOMEWt4a-zYAUw99BGkq3RTQjDJTtiacAt3kpil3nS-MiYw3ULtUD3hp-LqatWu6uqRzNUHX9Infr298rj-kV-JEnHwXckZu4rHehh2Y04hbZKrZTr-eAmXedFnG7bmUsZtICkUGeq5h71DUkmzNni5ZQZ7KPc-D8DZPdIIb1PvDCRFwq5L4q3G9eRhMLZgB7Z89Mq88ptt9NJremdirTtmQB3Mx5gtut0SYhTpxQcutk--vOsiMVmimKfE3Yj6FV2WEO5RfGvPiwoNKphd_6dQco-Bp9RIqEJlvabFQIVqceUw--7JGwva-AqyQ4-TeLXtvwzGv4DTW3UTm-Q0fZAeTh__70Pnr09ApWGIL1NHBfLtCYu-IHJjdJaNvXcgUAO5XC0Zp5YcM9XhGqoKnLZZoJTx4vW9JUmaFaXbFA10yescdm0BTw29wyvm2CRrFDPSQ1dDeJVT2V-8DTa9ZOH7BCDEKFeKwb72NxEoDnIQOWVEdGxIMHIiP89fnmcup8-M1F26LpXCigrHleZQyjMxHSfY99qvMxVYGSQjzUjD5sGpycVleP6xPXOuwf30Umi7ah7osjN082eiwQU-xbAHbAPZiV8xkLaNOEW2qL_xOmcmmeBnqw3hHg1s3YU3yGHGXaJiUYA5Zif1xvQ8bjfuoG7jboyTd3OPU3iKRbxDvRTs9lJmtZ_uuFmwZ3-nGGktwWrnXa10bIM6FPYcZreNau_qZYOvKZzFNDsQ1wQ7RjAb7pGQxfpLCNk0PoeQPFvQRvAa_E037WorV34mQlGUiRHHIA5RuTIuNO2DDBvty5futGxZHy1DKTdUJg2vuuZ6906ar5VA4yEHOCVBugqJD8439QNp&v=5
+              - generic [ref=f144e7]:
+                - generic [ref=f144e8]: 提案準備をAIで効率化
+                - generic [ref=f144e9]:
+                  - img
+              - generic [ref=f144e11]:
+                - img
+                - img
+              - generic [ref=f144e14]: 資料をAIに読み込ませて、想定質問リストから内容強化まで提案準備サクッと｜Adobe Acrobat
+            - generic [ref=f144e15] [cursor=pointer]:
+              - link "広告" [ref=f144e18]:
+                - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A59N62kAAE9bHCRyYfp25OPWrUXdvv5fv4r5d7V_dQCHaLoBS7LJvlAcAOLDoA25SGgMK-t95j4gp18XYDBqFkpYPc0dJ-9mghaHAO0BVgLSb42qP_vNQyB_4uOZv_kmMV97yGxf3nUqIugzqIFQHXl-wrGLA7SkJYbVGrVB2hKAWaTM6rIuJjovwjatqIUVKB2UpLAzjvcywR4ObNOHbkVbB1Fywd7aPs6WFyeiMoDriNZgHj4XxwFq6qSYUUqD2JJ1-gkApnZbQ-D-JEomxTt-iIGzJN9plLxZwIna9QNdc5tpyw&o=A59N62kAAPJedfKmFEDq2Bq_7OuBBXw7ZP7WzwGzutxd2zCeivxMvF-6be70iXrxhw2t9eoR2wJbhNTsRv9gTCqREKcAtuoLrUqmFwd-37h08PepgOBcqNT6DxhrKsWPzgPoSbRzxSh-A7kmnju6IXAnu0F1RvMLWpV3M0pYHYRWWEE8Ei6mGjZ09AxU_XXs6cYoVfhKuA6v3uP-jiQR8slZqKcpoqOdiB4f1kOQd_vLZknIDrL6y2qrnUB1DLbMGNKWE5jwFe3oDn5Ai3pzENKxhac
+                - generic [ref=f144e20]:
+                  - generic [ref=f144e21]: 広告
+                  - img [ref=f144e23]
+              - img [ref=f144e28]
+  - contentinfo [ref=e1430]:
+    - generic [ref=e1431]:
+      - link "Yahoo!知恵袋" [ref=e1432] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e1433]: "|"
+      - link "Yahoo! JAPAN" [ref=e1434] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e1435]:
+      - link "プライバシーポリシー" [ref=e1436] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e1437]: "-"
+      - link "プライバシーセンター" [ref=e1438] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e1439]: "-"
+      - link "利用規約" [ref=e1440] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e1441]: "-"
+      - link "利用のルール" [ref=e1442] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e1443]: "-"
+      - link "広告掲載について" [ref=e1444] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/?utm_source=yahoo&utm_medium=referral&utm_campaign=ysa_cv_link_chiebukuro_241001
+      - generic [ref=e1445]: "-"
+      - link "ご意見・ご要望" [ref=e1446] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e1447]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e1448] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e1449]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e1450]: 画像：アフロ
+    - generic [ref=e1451]: © LY Corporation
+  - generic:
+    - generic:
+      - generic:
+        - paragraph:
+          - img
+          - text: 通信に失敗しました

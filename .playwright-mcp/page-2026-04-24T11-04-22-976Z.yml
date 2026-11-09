@@ -1,0 +1,513 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - iframe [ref=e9]
+    - navigation [ref=e11]:
+      - generic [ref=e14]:
+        - generic [ref=e15]:
+          - textbox "Q&Aを探す" [ref=e16]: 不倫 状態
+          - button "キーワードを消す" [ref=e17] [cursor=pointer]:
+            - img [ref=e18]
+            - generic: キーワードを消す
+        - button [ref=e20] [cursor=pointer]:
+          - img [ref=e21]
+      - list [ref=e23]:
+        - listitem [ref=e24]:
+          - link "カテゴリ" [ref=e25] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e26]:
+          - link "Q&A一覧" [ref=e27] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e28]:
+          - link "公式・専門家" [ref=e29] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e30]:
+          - link "お知らせ" [ref=e31] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e33] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e36] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e37]
+        - text: 質問・相談
+  - generic [ref=e39]:
+    - generic [ref=e40]:
+      - heading "「不倫 状態」の検索結果" [level=1]
+      - button "この検索条件を保存する" [ref=e43] [cursor=pointer]:
+        - generic [ref=e44]: この検索条件を保存する
+      - generic [ref=e46]:
+        - generic [ref=e47]:
+          - heading "東京の探偵・興信所なら | 浮気調査の成功率98% | 人探し／成功率96％" [level=2] [ref=e48]:
+            - link "東京の探偵・興信所なら | 浮気調査の成功率98% | 人探し／成功率96％" [ref=e49] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AzZO62kAAHTQTGzHKPY3MM3GDAyK8EGo_jhkovkrDXrOSv-uiXhBuLybEHsQeLmlmNUxVyAjcj80i_JSdpcCTSRhazmGS3j15s1tsYvrv5i1Pwhd05YPQ0jte-GBbB3KFKCKW0RgT-K3P8uyZubikNgt2cAeL9YDkAqjMrv-TgacYSwikHuBsc2F8BeZN7RZQgqlWrjeyfm-5HQEmoDk4ss2Z_In3QxtV1srq8Q7tFPxyR8j0oAKGl8xeQaJfhZHZropMXgwBxd6EqX7ikl74u8ATX99x3rhFd9yXkKOyn7u1uAkvChvPB5XaeZm9AfGNyBiEdGS4bGnEoIDsvAYVhUSCTulGEegSdoWv5sIWQN3RvPnXOlR8xqIfyFdWU1nVBYwD5a51USnft4WnH0AkyJRISht8cnzcVa7W1XxzSz2bOaXlqjlmJA7iTyPOtiKZ5FZpF-Q76yrNcZUHO4gZ8fKszKeSaX4I34W8LvIb4wgrTCvH0c37QDxP-slP9y4updGpMEQNB2RsKo2OsZ__KFJfHbz8WQFjEmH2vP_MK1Iv_a6G8k8P7nEhfU03LFitzLkKpu-1D5yc4VGJm5CJGRlLe11dUzEZ5M4ydiFo5B_qbYKHrYB6rbRuAc49N0KDgSlokjVmvdA0kBg4sHcXvnw-dgJGbuONHZqUcWbOLmm-RhDSOUJxVjnNObodkc3SqpONfEBg7KRmMvQrHwP0VM2Qgl5ypzEPFi3msUOE1LCztCKi5RM1gfsdbGNbxzmDP8FpryitsMMtFUSJe-Ln5615o9ykVx3NIqam01flDNzHyoaPexHNzrC2GRe4wE6ZWmh8Zw4ljIWOztobOQsnrKrelD06H1VFCQUCGS1Fe4HRTq0OVOAXK4H8xH8IWM2NVg3bUlJ6Mn4q5_S04XRt18HG09ErljJVUkxBA4fZPUY6X8kASmEurivpYmn95CEZXOAdQn_MdcDfdCbheHBxmIzfEr_s0zS-k2N-qyolPDwEUXy8KMJNEnJoN0jMBA_7C0PEAUM7qymYcxMORuZsT7uyQf1Yx1zkIpvUfTK5GLtFaHMKOjOOU5biU-eka2Plu-CPWDga6M2ZpS2zMZjHXDWsHTeL_K5svEElVO1iE0LW-EyWP0OKrBSyu4l9sIRckXDpr271VjZwDNYbdnNoYIM6FAcNz3a6ulXCbebxIhkFSR7vTENGZLTmeef0_rqTxvf5ub_jT7n3MjCcrvLfvIL4WcOAzsy1ivXqyl84eDz7SQmB-uuAvKspmpixpnpqxp8dRceI4IaJLxv1l8Xa5H6mWSSjGvQavHVz3cWq_0fk3Z6XjgnhYYp4crAyPFMXIBsL17nnP7ZxxB1ZqAOYAfmKIpKX29Ph03_wwuil1A1WVgAdYWqfN3140BQODSFBXAQ9zn27PR1GxbpPZTrdgVhLAKFZBuX3xdwQSSkqjdTG02MDEwpBCiuCP6Bgo5uzEvvmmQU6OelC4A;/?ep=AzZO62kAAGluM9FK-CGU9wfzTgqp18Fl0aUlsbnMUMMgTfiSlhPTaowOMMnMzVflWqp35HnOuykZYgQLMDdWT_FSg2Wk0VH7cwO8KGgWZGYAVCcqilGUv35zKYTDe7dpkBaj3mED8trck1Vohjls67dzhYUqydK4dySxwFGJPVvjXExDL8qjcqi8aJX-sMOQywaHQFT4wr0t2t5PUsd_cosKJw&v=2
+          - paragraph [ref=e50]: 人探しなら。創業38年の大手探偵事務所。相談実績25万件。警察仕込みの調査力。まずは無料相談。 怪しい行動を感じたらまずは無料相談。専門カウンセラーがあなたに寄り添い問題を解決します。 女性カウンセラー多数在籍。明朗会計で安心の探偵。離婚カウンセラー在籍。不当な追加料金はなし。安心料金プラン。調査後のアフターケア。浮気専門カウンセラー。弁護士のご紹介も可能。
+          - generic [ref=e51]:
+            - text: 広告www.sakurasachiko.jp/地域密着で安心/安心料金プラン
+            - button [ref=e53] [cursor=pointer]:
+              - img [ref=e54]
+          - paragraph [ref=e56]:
+            - link "調査料金" [ref=e57] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AzZO62kAADcgek2p-CDL9zV0GU8wrMp-emlynYDP6mV3lBViIJwA2QQXimgr036nKckaMqovEna6FARZ0euvK6zaYTr20rJXnoibpxeAF6-fbC77I2uoeX1BDWKwgz_f_BewnsK-WIVjjda3HZN0xPrnVN9mwRAzLG-sTbku1SpwvmE5r2uC_QWhBM6QG7EJp7B4iBThFAZk-M1Ng82M1EK6NTh0vQQTL_h68ADm2IHViAHfB6_0swV936cUYlG8SInN5uqokPQ1ow0Wwb0pCLVtZaP8BrxURGN27GOM-eWNaQIcZ3Fkxb2xwXxgpNiWqUtYLihrMIgZZN3Daa5rBYVi5f7oQstkFxH7xELPmrW7urtMzQKC7xnI0slNE2ugyxyTaBouVZIPo1kJmWg7Wci6xNZQVw6jpwfmiS2OTplV9GCi4PQJKL6blHfjyXRFdqnPCWxzB5ifSEtw4FbWR3XZ8enr384qcBMFr7PwAMNROOGssi17ky40pL2Ybg8ubLPwmkn4FLGLf2OpDqIYWeG0w-Ew3ryvaUCc5mgDVXCoD18dpcDQ8_LQ1QfsinGxidcXoiTNHIU7eH5acqfwl63UB9_Ir2YBpMHwGK9Q_1Ctj_iKW6jcQINMVaBr7uN5fl9FALgdjY5PASZ4R899lNnCzN-PZi6VukzUjHeatnuqCS08Fj1qCLL9x1p-rnjwCcr202fWwGDs7jk0mCgDVlbJWo05U7xkxW9cVvCD1afdxapP6dVm5CudDDo8ReWoZHzhLT9iD5eKjUiPfFDI-EDaWeFC1F59-h2nqypvbCQAFMUCk8qcHqtHezC_usBgv2_G8LEym8D-wgiQkaRe0sPz_9ILSawOYcDVIqzcvMeAoUSYCzRZA8c37S6XRyBlbmrRaw_JMDRpscCsBYlgKfo2V9C0wSOhKM-U69g-kAkcKeoHgpeiz34XtL-Karf2WpCI_p_ISQFPZA39ZB9A2gT6mu0l3afL8Phy06Svq0UIMxXDE4RsC85JcHgN5qawAACdLvesyA3Ro-NltLbtX_xS6BrB6CLUMefa5ErEJr_GLOWMRujxF2v-iIe-4ZvaI75WQZ5o795izVUy7-Zlk4ODhRgFpJEzz9F5WOTnHjv0aLUtd8-AwBEGGsyhKmuyu0ueZUq8zph4gkaRIa_ukjRmQvYfPDJpHkVMfhyKogysZaTktsT4m8t_UvsJzJOg1OK3YLiTQGXsxKJMOAE0PnyA-iV8SGT2RHoCdfWLY5DB3W6B8ebzeUH5Dbk9p44OEROJMzflASH1yOoZ1yAnASW2OmpTwll1PPYWIITZ3erTfZJuJyUOg0j-igMhvhNDj5CbN3EJAjsJRuL0n4mIOqASkSriN8WqtgzoDYipSYI4PJaC39TYnmaVTSkbHsFyIH7zxV-h4fsh5ZX9d-BDdzl8oHvdle3XxAUmUyhH3c6_qdVrEUjYTjpc_B8cbWZIo5N4ScHXqCyIP1iK9mJ4Tkog5J656QdBlymSeAHg;/?ep=AzZO62kAAIyTCwUrik4f8xJCf6gLKgeNUhkI-3Dmt6Z8Qw5tfdD1Kk9bANYW2882SVooDkNMIaO-ns5imKraVXUsOtnbwi8BBYFheKflWp8WEqlTdKm9yhztcP5owRHaPj1rVc0vfXgAeYgirygArPuXxx1vXxaXyqFo6W4vCTcOtZfsCdNimZzebsycsje_5xAVZJvubAo8N0EgWMdxTP2mVw&v=2
+            - text: "-"
+            - link "浮気調査" [ref=e58] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AzZO62kAAAHbKU8NJBpQw8ybnz2LUoEPWkBJBwnB910I_3kSz6hsj1cFAw03IGq7T01tlv8mY9b1uHJH1lGa3aVDim6K4d-0JwrTmWvvgASdgVZBp3rcKPRIL3kCqo3QEFUrXFi1GLbI3Z0tqS2eK_UYzVlKzEqjJeU_SSGx7B0EiFD0M74P37pk_ilV3cs_91ryDT05uyzjFr6sbvSHZLMpE4GQTzHWgGGX2Lki8hA21HTZzLOxVrkn4GHSOJglV29zF--Vgt88s0NGl346dQIxFvOSwVGE33QI2WvycGU3jkaJG6BDCC9MfIWWBZA9yJcG1p44RX9jgUClxCUBa4Tt2pR1RybX0YIh_sUrjqnUNCPt0pS_NlsWpsDjQxwCbGFOq3lEhNgbhPd57sLFlulty9Z4-naalAEqsymVak0klT2446kRYuBFjll6-_0rrz2cT9U8SNjDQbRw-1P0ys0chtg4cQNMEVVnauQls3yYO4E4TqfjKZbrQ1ZonLUCa7pufRI-NY76y7hH_EDwSbgiyiWoAexSfbX0-piT_86osON2otCu2d9U6DdbsHsTw_UTvkbNbYjjl24vdt36LiJw72K-Vx8ffRaNs6NHVhk3Xsaqvqf2EiETf_ln2lrIVzBEm-7cWgQ9n3JgbGPuKkJcrF2S0szfBN2N3wyKdPsGnYk7v3eNowSUTK182GOcoc6JSdGhWlJ33Xn4kZaAMpYGO7SxC81O-tpq2786l7QRvKsWNX-jrKF9f-h4ZuA3xmoPZBbQxQaXz8whX_f_kErFfxM7dslWLV0DpwL12GxzaTQq6Wka3UWc_HYGYjZ8cpMyAsvxlmPRx-4oOMjVj7qtZeihnu5w-Ty-tR8hbj_nMXArovRosQahllrDCV_yjpMwvPcZIf0YN_NKlvf6npQt54lq5QKSSNq18HcMPpA9zHrjjlKAZZ1_rvdU52-Wd_SrF-Hl0uI5wZI6zFxXcX91uBYTTLv53ni2xTfwuPAHqB_r0_bNT2ep1c7OgtWmlgh8Ykaipv51NAGsQJ5N3pGvdvvAXivAEr0F1ZLHKywNfBgMW31imz6RQPzQxPjo1pr2Qv7kAFZLjXB7DVBA6Iu3EqERPDO28wqelbSME30Qiez5M-gF-GsJ40j-xrQhaYeERb1loE8ey8M7afUdvaL7Fm0gTYpMgBN87e60iJzc_vdKSjutKaget5va2r9X1Zc_baKxUyJxugVc3-iwNAv7tA1Uu6ERkKDJGakqOcQQ0Mg81anGtYy0_6yUu9KK41EZ-SEM4jlUgSjvU-s5Pzbs84FR8g7CrfOyB90MIgQ8FJQT6OSbRAxW2QnpBJxDd5chbFuvzopcKaDqjqxHD5cbNot-5BayEKzhecczbkUvxmuptoPBcdRV0CQ9vgDqh0-Uyqq-sAG3fLOmYmh-9nribhWIUuNP55AimjbNyOzDSY4Iu0BixRXVp7atDiRCwEZq4XCMHyR2tznYiyBiAGK3Jj2dAb8_3m4fo1A;/?ep=AzZO62kAAFOjTVaDeAaeCTcaw8lk0bM-RW4OWWR8iL69A8oRwKOIcvDhTaJzT_K27Z3h0ljKOK9trvk-Avx_HSS8DLFjTFH72n_2la_YxLRojtsVR_qaS8VOBUkc95YR57YGtFgoEMWoFdUF1IYcJ7ewYcGZxTu1IA5oJd907qzRgtZhlLCjzRlZVfXyvfFQaxRqmeh80yjcwzJ7Fid0VohcCw&v=2
+        - generic [ref=e59]:
+          - heading "不倫で慰謝料請求された" [level=2] [ref=e60]:
+            - link "不倫で慰謝料請求された" [ref=e61] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AzZO62kAAPjIvp5lT2xhmMmMrHuTi0YXE2TBWhFnMvhNvbPJiDIDtq83aaxeeO0nqWNg9_yQSmgkyrNYyRWpsRg69vdsWIsyXC2Sfz8vN8Uvkrf2Re36oHlhmMq6sf5BXtFIC9lfQfoAT8Fpwyw-Cj5CQmE3mpUpTDBvdsHTAD2T2T7_zIZYFJhIz9CoE1KVrLxasRAdnLKHJSJB2jwSwtcb8rdjFLV2iZEQlis8yBh7kNIpClUPFdHHPKCaH2ux8BDgj7ItYg8u7hMjP11hucx8T3-msqmlsloS34v_yEIfznlrMdjAT9VHbW-dD9yWhDwgUqUZMOo3xUSMgQf6ZivixuDCFJXE6xJatu7c_9Rnb2kmQY4KoJpSARj4C4B3J8fENo1QWaNmlq_P6ZRTdb_gl2vU3k9hj0ymITu_Cx1Jzkh4EtdHo4rlJnGORb_GOCx7waQ9pCY5E_gzFClUM0L1vR9anug5ognI1pSiseIciPvieBGwuop1X1OiVPsw7r_TzcvjWWPM-C1TJ7PiV4lFb2NIjNyKW3KB_P5mYps0KZfvWlqaVfifYYFizqbodwOnhphfqnpxt8N0Cy0EkV7S6zfzu2LIUmTg0Yhv0_8jLCWs72y7jwy1daMK7v4qdaPfkGwYIZwrrIuEdcMBNmguPTEfohi8ZnD6M2Fv3SgvR6HuMYTz7nVUIYrBwxH15pOx7_6Lcib96Hrdv33qadMvPJZoHv5PTDMXPhC5KM23PnIgwwaytF03oECvJeQa2SiE7dZE_EPae6-rMZvRB_TWz-masfc0DRW6lQZ83B_jjoePZRualg3hFo8_Ype8JhssJGUokqNK75saDOzvC08EfXG_PQwDOgKtj-Vtu3fvmXc6Sq5j2cRcCczSpDaPdTxjFMT0SBGVvKreI_K9l2ZXRQcIX2zH0m_Iy9dKmD35T42mE30RuiCAIZEk98OGhq_cchuRzKOvb6vLYjPoG6pzmRaLhNZluYS66AxWCGMHug7HktW-TnWJ6R5NTzihuoo-7kxYKdBpi8S7nUu7CViVgDsMllprfmoiAHnQZoBj7a-SKLKY5DNTe3Z70zBDNvoDhyFJHmos_j1NHA5HU2LTHrx23KjrHRGWg5kCorYooAZfl4Fw4a5S1CUVOP1jTKbmYn3aq4h9uys3_uF9wewjvToQGbmheOCePCdmDVBu8MF_dk82pUSpNE_Zc-cxNZY_R_c_JfDZgkvqYoP2vCOM7-Or6KT3DUGMTymMkk9tKaBbsoa35hBcsJ8LXDcyfIpjVtUAGwk8I57XI3o4XVZenq92YNrLLEhpK-8;/?ep=AzZO62kAAOKCSlfR2obypsV0_XKpPdftnoeqQv71cgrcMx10qZeNUd4NG0n1jlPZj-WAUgLKd5nXjIdcoSwYmCyEmWic-34KKKwFRRGNZPmf_hc3ulQNftuozfzPK7AtAYmfrqrELPaUwa9vmhQd-zqWCS3qSqApGKjBpZc2CWeqMBMES0Aq1sbLLzBvGlwh7MoygbQ1MwTxVKdWd4vNMKmV5w&v=2
+              - strong [ref=e62]: 不倫
+              - text: で慰謝料請求された
+          - paragraph [ref=e63]: 弁護士が全力で守ります！ 横浜駅西口6分。無料相談実施中。年間482件の相談実績。男女問題に特化した弁護士集団
+          - generic [ref=e64]:
+            - text: 広告www.furin-procyon.com/
+            - button [ref=e66] [cursor=pointer]:
+              - img [ref=e67]
+        - generic [ref=e69]:
+          - heading "大切の人だから忘れられない | 浮気相手から復縁を目指す | 復縁への道をたどって" [level=2] [ref=e70]:
+            - link "大切の人だから忘れられない | 浮気相手から復縁を目指す | 復縁への道をたどって" [ref=e71] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AzZO62kAAHXethRjfIIRIi5J3zEz3eykyzhHtbxAOT4aoXWNoI43gieUA-DCUyg0h9MtORyCxkf94xzJ1-AOktwjGtRSKecz0QS0cqDu-nBFy-kcRGJbk1nKgutJMI-Houu6cwI_XJrnPjn_XAFEnlqdNlhjbzC7kUOHfIVmuZc8oEm_siEyIAvlsmtR5NEHFw44DkS5G1Ao4Nnv5CuN36dRgy6epCBFg1Skw4oHu1i_0Rdk3U7fY_QZLmesEX9NPSU7P7I5sy0P_ShuKNHXpeo4TJjbE-96ZYfq-7Sjx6SnvlSYx5snbqk5cIAi3_yucUiFSbvqO9UHDJJXzjiu4Keno8P9dnK8dKWOqIaYIlYdCGMOqrvjuuXeC3iTDJ-BRObaTNagn1f1kSl26NLHf1zZEaisy1WmjKE0qmdZmCIuoainx_h5kMQUKFynPzEKzIQdUooIz5z9y40jyot-QXW6fB81lXzNmwzMDXEAuv31kctxVSLzstduWYNIMrCVOTNPiD1_dRGWQiBfXjq_cZDqShpru1o8Or4ByegitpNW2JXjpNKSsVnmdPxS7_wKmlzzlLFUIZSlLys0b78VgD-1Zz3bDbM_wr-dxc7uIJt5YitEOTsNsnHcFWpq9vRU8X8Yq7Q4e9IfUtAfJluICH2u5bf2hBdLyV0yHlSbneveRQK8fBGsY1Vb1ZWz3u0X-iqAY4_P8W0oy_x2B6wG-y6D46l2_Nnh9KnFJd5iTKJLt43l_OC8n7SMcjAJGILCnve2POnu0w1wgCKTTaDrQ0Eg1DTRlJF2mwsDua9Ez3VKl2eXszIwddQHUR2ZjmlxVaQq8F9Qrs7hAV3WqEXi1ak_RsUgpUVHsHpPFGU7zlPI6VzrnC_u79rzY-iyOaV4BnKXp8hS8zCo_NlHDjFcfSB_shtSQPjST6Urp-iq-QfMik2mjq-rYILvXRgz9nR2wW7f0UVRdRa3JsnjPfQloFUgaWZfQMzOkJvlKaRcGc5urLcPyK17Ps_Cyn67qK4Kz9ht0AChWDlPcsuSDtAVZFHeVerT8J9YPCIdHHxAgQhrN6WIoZpzRoyy1fskXoO7elLIRQ5pdwn3CCyChuYGCNEhu2jvwkxf7u69nO7Ff-P8zxM208N47y5v-v9XJxyStGJVDJV6t2u7--CKN5IHtVjbUC0daVtGrx45y3pdmkAWEPWahVhikTqJpU1yqjGdAudbNutBDIzWAe6eDu8my_7wBHRjmETImhKZZX9oMBVOpT4xOmofJZJg9LZBcr_yqyyJpQtJxLJF8ioNvg;/?ep=AzZO62kAAOb3WVcRPfV9g7QIhQkoLhvV6Zdt-oczGP_rF3-cXJM5JgK-_Q0VRr4XVtBC6L7BMEpaW79vVV_hBqxTLp2RbrIY3-zKCI8EOXm5x5e1QyfU8Ilg8YXzbG9S9xOPsLqohiyw9eJGXG2lZoQm9D37Vbp1E2es5zWxVvMOjp9bUWPza-msgfPjbbMcHjEPOat1LY9MMIkJQtRCA8y4Kw&v=2
+          - paragraph [ref=e72]: 最初に無料の復縁相談から始めることが出来ます。復縁屋株式会社は復縁の専門カンパニーです。 復縁屋(R)は復縁屋株式会社の登録商標です。信頼の置ける復縁専門会社へ是非ご相談ください。
+          - generic [ref=e73]:
+            - text: 広告www.復縁相談.jp/
+            - button [ref=e75] [cursor=pointer]:
+              - img [ref=e76]
+        - generic [ref=e78]:
+          - heading "不倫調査費用は相手に請求する - 不倫が発覚したら即すべき事とは" [level=2] [ref=e79]:
+            - link "不倫調査費用は相手に請求する - 不倫が発覚したら即すべき事とは" [ref=e80] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AzZO62kAALOagumdjMywPP6t9sqgBOxGHK0z6KMl47i9O-VCnM3IABcwrZyhCq8YYKv7GgSCbcdgzSU53Yzu-MQBErD7u2344VcTydXkoOoWvqg6N-_8KJlNCNEFiwcKuvlDxSz14NRcbfQXUo6knSAUUyQczrrZcAbaOXgD7gh0J3aXtJ5go9EMu1H4oE_TYXSMvJvkUKgu1QmOK-NnEsBvU7ojvn9n8JZN6sed-pIVyzJ2YPK_bEW8UXRt6Ak-_eMePE-2nKuRfhqFELL-agOI5urC7PSgsv0mlwTGhfMeh2wdXusDK6Rfc4CraJzdyosHNsv8eAQeGHI1j_BecxOcAiHpvODILLBNLL3poeuX5UtViMuWUpk9nuEDUdXQ0OU-57TnSjBVW2aQxu8isYh5iFIGbIN63o5e2bb9GDlI1-oinKQgjfHG84bTKaxZIjX9nlOrD7V9HEw1c8a8__PnCS3BzjnM1clrQwoBKTVF16zfBiPBuYy3sd40utUDlE5SgQHzhI8zFJ-VXgZLYgCyZ6OGDl0nivtdJie7RoPWi7_gogyh3ZVFeXIiOv7iLJsP9OiAuIn7R51FPmbLWq62gzhQcbVD6nncn5Qor-I_SQxwruk15WnSf_3mk7eQLFX59omkR4_GR1zPebaxvD4Jus3TiMM3Ejd-swCIoFTiIwkOLgxB32TnSOiqAAk94TmqAHPNTKm7LAiqTNAp_wTqPm7F4niFLYZDTcC2McPJDBB6JnCDC5iTf72Rz7p5tk4fI1-i_0_aYzSNjo8_4tRQUQD2yQwqdi15jv6omryx-YeJXjF3RUey9whN5MByj0uXnqX1rmYY_i2naaCVnHm3mD8F7pG9AqBODY-AtoZcI1uB6OD7BsjuBvKP17Hro0wK8wZgDFp5rL40OA2qKLETOlBohodb_8WBDfeWPNUqzVtI1fdi229Ll8YHKQJkxbESwk7COUZZfTeBansz8Vc_ECrxcDk_Qit3Y9WbPhNoIhbqk0wq-qjheTc9aS_725iC-tvqhwN-uZuImqPMkgJA2-jPbf13c-NOmA1_zslhFk4EM4hjLdqYs_-yklFWoyy5R3WfEGA-xVFenvwtm5QbTKx7EmD0BpezLMFzGQCrmM6bq3jB-mlOYh-sSPhYCEm23hGJL9iBz63eDg6LfiipmRNxHF65iDBDSe0-et7y0Hs8FlRfd9oTlYftPmONuIMz_9btRM2Fr8fyzA8VrJqVrUP_T7P45SrBsraE5_MRI2N6ASfvs0uwlabOzUKxVZcFHgrhLxlogaSfheBrjSKoPnGm_2hbX2sjjhKO0kZIXZdoUejC6bU1zsuxlQX4iFh_dRvg7ShRavORotAsaY0;/?ep=AzZO62kAAJ5fIYuqXNlJKcNlVZOk_Z4jEg8fgVR9Riwt47wcAG_iewasx77qAsPxoy3eEh1IvTELvn800TSuCXVRTgqjsfdlbVeAgwKtd9bXFUL4DLVqyqmNZyJTnxuKXAlF1R3fOr-eRUerNVghNrWez8Sf302XaRazzEYKBoczCI8azgNmNQaDpkmkxWRNpOyK1srv8sC5YbMnX1GOKqd8SUw&v=2
+              - strong [ref=e81]: 不倫
+              - text: 調査費用は相手に請求する -
+              - strong [ref=e82]: 不倫
+              - text: が発覚したら即すべき事とは
+          - paragraph [ref=e83]: 自分が不利にならない対処。証拠で後悔しない為の調査はすべき。
+          - generic [ref=e84]:
+            - text: 広告www.machikado-tantei.work/
+            - button [ref=e86] [cursor=pointer]:
+              - img [ref=e87]
+      - generic [ref=e89]:
+        - heading "質問一覧" [level=2]
+        - list [ref=e90]:
+          - listitem [ref=e91]:
+            - heading "不倫での避妊について ピル飲み始めてから中に出すようになって、 そこから中も言わない聞かれな..." [level=3] [ref=e92]:
+              - link "不倫での避妊について ピル飲み始めてから中に出すようになって、 そこから中も言わない聞かれな..." [ref=e93] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327402251?__ysp=5LiN5YCrIOeKtuaFiw%3D%3D
+            - paragraph [ref=e94]: ご相談の内容からすると、少し厳しいお話になるかもしれませんが 書かせて下さい。 現状は、避妊についてきちんとした確認や話し合いがないまま、 行為が続いている状態だと思います。 その中で毎回中に出されているのであれ...
+            - paragraph [ref=e95]:
+              - generic [ref=e96]: 解決済み
+              - generic [ref=e97]:
+                - img [ref=e98]
+                - generic: 質問日時：
+                - generic [ref=e100]: 2026/4/20 15:17
+              - generic [ref=e101]:
+                - img [ref=e102]
+                - generic: 回答数：
+                - generic [ref=e104]: "14"
+              - generic [ref=e105]:
+                - img [ref=e106]
+                - generic: 閲覧数：
+                - generic [ref=e110]: "436"
+            - paragraph [ref=e111]:
+              - text: その他>
+              - link "アダルト" [ref=e112] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297371/question/list
+          - listitem [ref=e113]:
+            - heading "不倫って、本命の相手になれないしずっと2番手の女のままとよく聞きますが、離婚して略奪婚をするケ..." [level=3] [ref=e114]:
+              - link "不倫って、本命の相手になれないしずっと2番手の女のままとよく聞きますが、離婚して略奪婚をするケ..." [ref=e115] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14325877779?__ysp=5LiN5YCrIOeKtuaFiw%3D%3D
+            - paragraph [ref=e116]: 経験者です。 不倫の末お互いに離婚しました。 ずっと二番目でもよかったのですが 不倫という状態に疲れ果てたというのが 正直なところです。 ですが彼の本命（本筋）は元奥様だと思います。 こちらは不倫相手です。 も...
+            - paragraph [ref=e117]:
+              - generic [ref=e118]: 解決済み
+              - generic [ref=e119]:
+                - img [ref=e120]
+                - generic: 質問日時：
+                - generic [ref=e122]: 2026/3/2 18:48
+              - generic [ref=e123]:
+                - img [ref=e124]
+                - generic: 回答数：
+                - generic [ref=e126]: "11"
+              - generic [ref=e127]:
+                - img [ref=e128]
+                - generic: 閲覧数：
+                - generic [ref=e132]: "229"
+            - paragraph [ref=e133]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "家族関係の悩み" [ref=e134] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675273/question/list
+          - listitem [ref=e135]:
+            - heading "不倫の慰謝料について知りたいのですが 夫婦関係が破綻状態なら不倫をされても慰謝料取れないですか？" [level=3] [ref=e136]:
+              - link "不倫の慰謝料について知りたいのですが 夫婦関係が破綻状態なら不倫をされても慰謝料取れないですか？" [ref=e137] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10318869705?__ysp=5LiN5YCrIOeKtuaFiw%3D%3D
+                - emphasis [ref=e138]: 不倫
+                - text: の慰謝料について知りたいのですが 夫婦関係が破綻
+                - emphasis [ref=e139]: 状態
+                - text: なら
+                - emphasis [ref=e140]: 不倫
+                - text: をされても慰謝料取れないですか？
+            - paragraph [ref=e141]: 破綻期間約1年半から２年です。 離婚を申し出たのですが、気持ちが捨てきれず こちらからやはり再構築したいと言いました。...
+            - paragraph [ref=e142]:
+              - generic [ref=e143]: 解決済み
+              - generic [ref=e144]:
+                - img [ref=e145]
+                - generic: 質問日時：
+                - generic [ref=e147]: 2025/8/18 13:14
+              - generic [ref=e148]:
+                - img [ref=e149]
+                - generic: 回答数：
+                - generic [ref=e151]: "11"
+              - generic [ref=e152]:
+                - img [ref=e153]
+                - generic: 閲覧数：
+                - generic [ref=e157]: "481"
+            - paragraph [ref=e158]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "家族関係の悩み" [ref=e159] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675273/question/list
+          - listitem [ref=e160]:
+            - heading "不倫の慰謝料について。。 私の旦那はバツ2(私は3人目)で、一人目の人と婚姻している状態で不倫し、子どもができてしまって一人目の人と離婚しました。" [level=3] [ref=e161]:
+              - link "不倫の慰謝料について。。 私の旦那はバツ2(私は3人目)で、一人目の人と婚姻している状態で不倫し、子どもができてしまって一人目の人と離婚しました。" [ref=e162] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10322879520?__ysp=5LiN5YCrIOeKtuaFiw%3D%3D
+                - emphasis [ref=e163]: 不倫
+                - text: の慰謝料について。。 私の旦那はバツ2(私は3人目)で、一人目の人と婚姻している
+                - emphasis [ref=e164]: 状態
+                - text: で
+                - emphasis [ref=e165]: 不倫
+                - text: し、子どもができてしまって一人目の人と離婚しました。
+            - paragraph [ref=e166]: 一人目の人に旦那の両親が慰謝料を支払い、当事者たちはお金を支払っていません。...
+            - paragraph [ref=e167]:
+              - generic [ref=e168]:
+                - img [ref=e169]
+                - generic: 質問日時：
+                - generic [ref=e171]: 2025/12/3 11:34
+              - generic [ref=e172]:
+                - img [ref=e173]
+                - generic: 回答数：
+                - generic [ref=e175]: "9"
+              - generic [ref=e176]:
+                - img [ref=e177]
+                - generic: 閲覧数：
+                - generic [ref=e181]: "211"
+            - paragraph [ref=e182]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "家族関係の悩み" [ref=e183] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675273/question/list
+          - listitem [ref=e184]:
+            - heading "不倫して家族を捨てる人はどのような心境なのでしょうか？ 私の妻が不倫して家族を捨てようとして..." [level=3] [ref=e185]:
+              - link "不倫して家族を捨てる人はどのような心境なのでしょうか？ 私の妻が不倫して家族を捨てようとして..." [ref=e186] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11314087291?__ysp=5LiN5YCrIOeKtuaFiw%3D%3D
+            - paragraph [ref=e187]: 不倫をして家族を捨てる、我が子すら捨てて顧みない人間はほぼ例外なく自己愛性人格障害です。愛の対象は家族でも不倫相手でもなく「自分自身」なんです。 常に自分が良い思いをするのが「正しい状態」と感じるので、自分を非難す...
+            - paragraph [ref=e188]:
+              - generic [ref=e189]: 解決済み
+              - generic [ref=e190]:
+                - img [ref=e191]
+                - generic: 質問日時：
+                - generic [ref=e193]: 2025/4/23 0:43
+              - generic [ref=e194]:
+                - img [ref=e195]
+                - generic: 回答数：
+                - generic [ref=e197]: "19"
+              - generic [ref=e198]:
+                - img [ref=e199]
+                - generic: 閲覧数：
+                - generic [ref=e203]: 1,187
+            - paragraph [ref=e204]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "家族関係の悩み" [ref=e205] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675273/question/list
+          - listitem [ref=e206]:
+            - heading "不倫状態にあった女性からセクハラの訴えを会社に出されました。 女性Aは既婚（旦那が同じ会社にいます）、子供が一人います。" [level=3] [ref=e207]:
+              - link "不倫状態にあった女性からセクハラの訴えを会社に出されました。 女性Aは既婚（旦那が同じ会社にいます）、子供が一人います。" [ref=e208] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12252145082?__ysp=5LiN5YCrIOeKtuaFiw%3D%3D
+                - emphasis [ref=e209]: 不倫
+                - emphasis [ref=e210]: 状態
+                - text: にあった女性からセクハラの訴えを会社に出されました。 女性Aは既婚（旦那が同じ会社にいます）、子供が一人います。
+            - paragraph [ref=e211]: 私は独身です。 2年ほど前にAが産休から復帰、私の部下として業務に励んでくれていました。...
+            - paragraph [ref=e212]:
+              - generic [ref=e213]: 解決済み
+              - generic [ref=e214]:
+                - img [ref=e215]
+                - generic: 質問日時：
+                - generic [ref=e217]: 2021/11/7 13:00
+              - generic [ref=e218]:
+                - img [ref=e219]
+                - generic: 回答数：
+                - generic [ref=e221]: "8"
+              - generic [ref=e222]:
+                - img [ref=e223]
+                - generic: 閲覧数：
+                - generic [ref=e227]: 2,431
+            - paragraph [ref=e228]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "職場の悩み" [ref=e229] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675274/question/list
+          - listitem [ref=e230]:
+            - heading "不倫する男性の心理について質問です。 不倫するなら後腐れない相手を選べばいいのに、どうして不倫..." [level=3] [ref=e231]:
+              - link "不倫する男性の心理について質問です。 不倫するなら後腐れない相手を選べばいいのに、どうして不倫..." [ref=e232] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13317665128?__ysp=5LiN5YCrIOeKtuaFiw%3D%3D
+            - paragraph [ref=e233]: 不倫する男は、相手の女を選ぶとき、後腐れするか、しないかで選ぶのではなく、ヤラせてくれそうか、ヤラせてくれなさそうかで選ぶものです。 後腐れしない女であってもヤラせてくれない女を口説き続けても意味ありませんので、目...
+            - paragraph [ref=e234]:
+              - generic [ref=e235]: 解決済み
+              - generic [ref=e236]:
+                - img [ref=e237]
+                - generic: 質問日時：
+                - generic [ref=e239]: 2025/7/19 17:16
+              - generic [ref=e240]:
+                - img [ref=e241]
+                - generic: 回答数：
+                - generic [ref=e243]: "5"
+              - generic [ref=e244]:
+                - img [ref=e245]
+                - generic: 閲覧数：
+                - generic [ref=e249]: 1,037
+            - paragraph [ref=e250]:
+              - text: 生き方と恋愛、人間関係の悩み>
+              - link "恋愛相談、人間関係の悩み" [ref=e251] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+          - listitem [ref=e252]:
+            - heading "不倫ってどうやってそのように発展するものなんですか？ 結婚して今年で６年目になります。世間では..." [level=3] [ref=e253]:
+              - link "不倫ってどうやってそのように発展するものなんですか？ 結婚して今年で６年目になります。世間では..." [ref=e254] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10326317510?__ysp=5LiN5YCrIOeKtuaFiw%3D%3D
+            - paragraph [ref=e255]: 不倫って言うか、恋愛だよね。 あなただって、恋愛して、結婚してるじゃない。恋愛して結婚してる時点で可能性はあるんですよ。 でも、みんな基本的には結婚はそれなりの覚悟を持ってやりますよね。そして、みんな自分が作る...
+            - paragraph [ref=e256]:
+              - generic [ref=e257]: 解決済み
+              - generic [ref=e258]:
+                - img [ref=e259]
+                - generic: 質問日時：
+                - generic [ref=e261]: 2026/3/16 16:32
+              - generic [ref=e262]:
+                - img [ref=e263]
+                - generic: 回答数：
+                - generic [ref=e265]: "10"
+              - generic [ref=e266]:
+                - img [ref=e267]
+                - generic: 閲覧数：
+                - generic [ref=e271]: "181"
+            - paragraph [ref=e272]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "家族関係の悩み" [ref=e273] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675273/question/list
+          - listitem [ref=e274]:
+            - heading "不倫して半年です。 不倫相手を愛しているので、妻とは離婚する方向で考えていますが、子供がまだ..." [level=3] [ref=e275]:
+              - link "不倫して半年です。 不倫相手を愛しているので、妻とは離婚する方向で考えていますが、子供がまだ..." [ref=e276] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13318664598?__ysp=5LiN5YCrIOeKtuaFiw%3D%3D
+            - paragraph [ref=e277]:
+              - text: 今は彼女も僕のことを好きで、ずっと一緒にいたいとは言ってくれています。 今の僕の
+              - emphasis [ref=e278]: 状態
+              - text: （
+              - emphasis [ref=e279]: 不倫
+              - text: になること）だけがネックなだけだと。
+            - paragraph [ref=e280]:
+              - generic [ref=e281]:
+                - img [ref=e282]
+                - generic: 質問日時：
+                - generic [ref=e284]: 2025/8/13 11:51
+              - generic [ref=e285]:
+                - img [ref=e286]
+                - generic: 回答数：
+                - generic [ref=e288]: "21"
+              - generic [ref=e289]:
+                - img [ref=e290]
+                - generic: 閲覧数：
+                - generic [ref=e294]: "840"
+            - paragraph [ref=e295]:
+              - text: 生き方と恋愛、人間関係の悩み>
+              - link "恋愛相談、人間関係の悩み" [ref=e296] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+          - listitem [ref=e297]:
+            - heading "現在不倫してる既婚男性です。 先日不倫相手の誕生日だったんですが おめでとうを言うタイミングを..." [level=3] [ref=e298]:
+              - link "現在不倫してる既婚男性です。 先日不倫相手の誕生日だったんですが おめでとうを言うタイミングを..." [ref=e299] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14326762209?__ysp=5LiN5YCrIOeKtuaFiw%3D%3D
+            - paragraph [ref=e300]: 今は追いすがるより、一度距離を置いた方がいい状態だと思います。 誕生日の件はきっかけであって、本当は「大事にされている実感が足りない」とか「この関係の不安」が積み重なっていた可能性が高いですし、あなたが反論したこ...
+            - paragraph [ref=e301]:
+              - generic [ref=e302]: 解決済み
+              - generic [ref=e303]:
+                - img [ref=e304]
+                - generic: 質問日時：
+                - generic [ref=e306]: 2026/3/30 17:58
+              - generic [ref=e307]:
+                - img [ref=e308]
+                - generic: 回答数：
+                - generic [ref=e310]: "9"
+              - generic [ref=e311]:
+                - img [ref=e312]
+                - generic: 閲覧数：
+                - generic [ref=e316]: "109"
+            - paragraph [ref=e317]:
+              - text: 生き方と恋愛、人間関係の悩み>
+              - link "恋愛相談、人間関係の悩み" [ref=e318] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+      - generic [ref=e320]:
+        - generic [ref=e321]:
+          - heading "東京の探偵・興信所なら | 浮気調査の成功率98% | 人探し／成功率96％" [level=2] [ref=e322]:
+            - link "東京の探偵・興信所なら | 浮気調査の成功率98% | 人探し／成功率96％" [ref=e323] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AzZO62kAAPcma5PMlCm3vC0SiuRRb8SzN6ilpxYqplq1tG8I6bz8Fp_YfUJebfpFQZ7hr9vbmSioBa-QzXx_nMv1hxm7LXcuEi-nU_hSfjTZfcj9LzpDOdQzm-qtQG29-nEmTH7Pr3vJ-64zLlvlQ6SG0AlM4ur1sNtxNdFpMEt28OwgDeSuqw8ckr_XZ7XAzski5YFOJE9nQ_zjxvVN_vwXMcKokv2OKxOmyfARevgHrIh5NTrV7a8Z-PhA-63WLv3wtQmdvDTsVtELyNXlS-6gcXx5Bpxjs0IQpAkb3zDIXg8FSivZeY3Cu2Ibl9H9Kob9H3namza1rLby6jYY-UFQ8NwYZ0TTtGTuRFvVIxOtFvr-1LO82QcDvTbhjgegiLqfSbD9ll9rxIVXixu1fM_BBXyE2_9VNLfYjClvQ7FOM7sEZWFXLvkHYwW3aZw_Z2vOoqLw5ZmaDZjr58ZUJvTi7qKeQeTnfYF29Z8Z98N-tFSHDOggzO-Qn8auAZtmClXcoPozyGN8z-4bZKhjW-8_P1ssAdMRk87xUK8lpc59KjlUiIOWJY__WC2Zen-PNqtLVikDqzo7OiSbOTLk_tKHtybZpeuDL-bxFEMTT0iPD3bT-bAaOM4m270e_x1_7MplPp_fwefjr9ZuE46CJpUcoHzB80yYQsPGmDNUpqGUPMY2DpkG03c-XBL5vQ6rOCM21KyvZtvsVPkxQfIiPohsxuUywUGSQUyxPanORtgfPQO7GJ2BS3NgBbhpv57oOYiMkDJA8GFNbSKN6ShJOZ7agCE2fkW09KWTJ9MlYqG0MLw7NB0qLn1pMc0_xiMDxD1WCT6wIZC0PscC6a-jmBNJJN2iDfpXAZ0OGNV41KoiDKg-we3JWwvOUvYRaDpL8zTa-oqLcftcefitGBsmIwkEf7vNA4G3wn_Q3xLFxktE-77jR5ShZ8qycGyWdCWfHmp8VqjxQnK9NnGrd_niQIfdo2ad70-QXnFQWrxetQAKCY_OailZVD1VH-KzcsKE7C2QTtlzoGBv_GyyZAUwxohHbdTwqLK25pV7cImj7Fly6-uQrLMONHfhlBnNFn4M8la91n10QygT3wfKQC4eGz7pgjnf616WqwW8Jg72GAVNvZ5o29un9g738fzfChClm7JAV8QZEcizHzqlNHNzNPTmNkDpnOMkfukTaUwW2MSQWqDZgLbwzmdVvpV5QYbxUCIJH9bPZHsBVT0s1y3PlCsReZBgry-Xc6aTY0Lpz5hyCLgHA5D5pJaGpgNLNXXStkzs8pLqEYNn20QldgxCoszBtHqx7_R1T3LjR-XWSB1ycDHdnfi6cnK9F7cDrlXgziHv5R1d8V1hdVa3gGhJkOPEsG8S1AlZH82vbwTa9Tz_sw0uEI-bh1uKKxisZEossKpG2e77hX8tV0pskQLaScfDd5D8QzZo8T4FXCUfm4fEmb1vEAna1MM7AZmOZBFd2__HL-nBkmMbQIGvVf0;/?ep=AzZO62kAACDWXK_ohuA0DDQjw9h6IB7ZOQFrgXFLYOLmp9mnxQwlx2d62Ro6aWHpnR_VgirrwTb7AiIb2xZIq_yBeOr4SQ-br0qopVrCVJSB37JVW-l4rMWfviO1_AeXptINCZMIGWgKXpYCaPc3wz6gO3va0eqp1GscE6PqgmK0pNnT1UGQ1fGPzzOfG0XrB2VBByyMQhgFu6Foy9R6MZoOGA&v=2
+          - paragraph [ref=e324]: 人探しなら。創業38年の大手探偵事務所。相談実績25万件。警察仕込みの調査力。まずは無料相談。 怪しい行動を感じたらまずは無料相談。専門カウンセラーがあなたに寄り添い問題を解決します。 女性カウンセラー多数在籍。明朗会計で安心の探偵。離婚カウンセラー在籍。不当な追加料金はなし。安心料金プラン。調査後のアフターケア。浮気専門カウンセラー。弁護士のご紹介も可能。
+          - generic [ref=e325]:
+            - text: 広告www.sakurasachiko.jp/地域密着で安心/安心料金プラン
+            - button [ref=e327] [cursor=pointer]:
+              - img [ref=e328]
+          - paragraph [ref=e330]:
+            - link "調査料金" [ref=e331] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AzZO62kAAJOWk7d20jpclKxfq7iqcPjzICJjDomqmVFF0GJqeVQcVhvj2d3wQRw30PfSFJyAgteRnrZAlN1xoGsBwQQOtz6FuB8XMzjbGCQcV4gwCp7x7eBjeG4ks8ZnIkRPPORcMOOEsNT_sI0pEsjvCzRFDSnWnuZ8FCtRbCYZIP4vP-mMXezzsGb6kVrwja_QKTcfMtmNcHibUQHj-8beAp8ku7-Gk6B8ekq_J6NSu9udrGFToEHOZ5RFuR2QgCFe_TBI95ubJ7fhO9BgIFV71v8fVFlsG4oP2Chc28cKXpVB4dIWkdmQNSHt0av0ln42KrE88_Ec1YBFcDXIn0oaxkcFQwlUnA9WzFsNlk0ZmWZQ47EtlbAKjTGYxv64D9fzXEBt-QjR94akixFkUQ9SgYGbsiFbcX5NrUJJ5en53muCeaIZEcy3M0BOo2J8Nj2Qrvr0Um-YWZ0UE0C-ifILrx5EfqrQs24P9Q7wnzd5azRhk9aFwIgQjmbDXIj0nkJk0dJHDOSZR37e2bX565La-yLk6WiItC-plkX8XNElqJfZpw621hWRqysrD1ld3B83wz3sw5qY7I32XqfoEr97FU2px0epSevhN6qYnGhghTUQ3neQwQaNrcibhv_OLYCzJ0zUNZc1A2l7XrzB7LJf5GdE2uGJ5RPstf041sKog5oMDPC7JlSnZp9TwZAq1bSdZ88Auu5-m1P6Ybc2yfDqk0GoJsfBEQ7-X4nz59LkWffWfmvgJ5QXVnbO2VhcHM7Cw1gIKTdxAafxJtiG49pBYA2Ti5dvnC7nhu-_Bc5E40N027XWy_Go5Pns9EdMqvam7GgEvpaurwcH6c36Bac9_b8ofH4exLo8i7BmVIBEZ3gfh2LDE0FAVTykc3sPbQOrmD26FiRNOktQ0CpYiSKtv-k7GCZE12clIB7B-waNQ-65_F665YiHh_7n_UwtLxMS9Dv3RCHF1tOaZKY0pr5Sthi5z9LSKo9SSr_nOA85Vam4qQZFmtgTLseIOnpXaV43MvRyPBuMY0LsTard8OeUxnlMrZxQYZi1y0ue014JwgwnDpyToCcely1Hh-R_N8GwJcDVCt89r0PutHUgznZVURykzjBfvKKz5nEP9cX1MdZQRQmJWUXOZKrNAcsdTgUD_jZV7QaW0KKgEfAMLiQleOGK1h1BLk_-KfxGPjVf6ZcKDtN-5Kuvss3KA7Vt9SLPluOYFNN9DYC0mXy9dSQ6i51JGDeb2UADrRKjaSIGQRCzcf0wTsIBuj44nRsicsQuQbFIovWBX1Gs2zKhcsU1mQJwqZ5TBYHffZVhqhSUL-04HKDHP9nCL36FB8tIpMIZC0xz5tZT9Gvk1kzXb7rBNLekW5xBoe4GBdUKK9xBDSOpyf_Ak8bG8VcmogUYMK8jLw6JG954O-PvPp0Y82toGODVtmRB-Eirk4jylxkUxhJIwrFW3KgDeL-mlqCR8M0nrU90eIZWHrq3GGIEa7ow3FHroAeYjgcqLuvYAfE;/?ep=AzZO62kAABSnVSB34OFJIigJVE9msRJa8-mws7_TqRaoLpnXo8G4lwekYDVZW6r3iHDekPWnVezRZqLoGu9ggbXhZCqW8jKq9TCWout_v3I-VJC2jYMdQqoVVjVvZORaJgF8qm7yErlCyJKLfYQafKqc7AOTYbG85V2k-u9xfWHiRX4UuI5VDR9Il9KHUJYUIOkK2LgwdcjQigaVdprk9f1XqQ&v=2
+            - text: "-"
+            - link "浮気調査" [ref=e332] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AzZO62kAAJ9bFiQMYKqLX1ULRoa7Xq0jxJnStbjnAbAF_ilX8opsPNbeBKALg4WiyWPQcWI77Cu5dacISzZf1R3oXNPl3BsBvUN1ot0P6vOKQDepDgRmbpXPtiJkauy2CiOkr8nBU53RrjlzJP5Ce0bwWnnBK0kH0X0W9oIsSbltOXJVkRHW9H52wN-MXfGJn29Os6nU1ua15JO6BVmcC3nYIHw4zrIs_EgKmrFvDZ2zVdxg2WG9PzaZxQRg7M5O4_4qYtDIvkD1Pj7l_JEVVTcSmv_6hOB9raTjt3wJvoAUWqObCo0i7eJgDS5VruBSU6MmSD6ke3dS7Fr6LF5Y1gx_Zgw6eY3JfpF25WX8DQzpmmhDXpGlcQBtTVNUhyaNJSQybf_YBkoCeSeo1pVRqMLGay2M9WGXvwCNepLUh_JkRYcDeG884aJfsbPGQc-dElAd65nJO32JLneTqrHjhKeyZLt41o1sN3YMdjqVXTg1AmvPhTvDX8NfHRxA9H0N11Ede_ACxxvt-cQi-zzen3oRHE0MopcEMZcf7Rw7xCVomtBlqxiQbDwnUWECrKrz5zAWH3TDVpW-qwWricdFaytGGorH4AhO3H_OxHgtlCHg5kPhiBtyA-qasXIji6P-3vxwrJBhBZo7RIXo53mxBCeZG4L0KDAopCAiDrw3epp-OvpvCeruur0SxepGfgZt7o8FYmN2wwjsgJEBYtm2Z79xw0XOI5gSP3Y2Po3bb7dLqlenLJm1jzmJsD5jVMFvljVKFsEUTPBNomPcn_Dp49ds16s1ldVnI27la5w44H83dKOj7pm3TU5Y2zo1v4ZsFuxkR_ASblNF7vTKu_hBMm4m5LzkE5fCJDaNque1z5O8VeYpesaw2zvbZftVN_r91K7GbvUnmJYv--NaiFVtGVuBiZgebmfGqtEkDIAVQX6DS5vd_w_TMgv_1Q4xL_hZje8TAl4ZnC_Ls02hsW-NKFAbW0cMe-e9uCnCU2ZMA8uuQyKruf0dyVvBQMGiPjqwPIS0JEV43em95AVnBWGkb8fpd0xF0ufKhWXE21b_Hr-LoxgYJSBV9y9fEgfhTMwb6wtw8hkYObCjBacFcQJ13wyRKPO-9avQYpNsY3q-3adxKkOJvcju9tTI0wCHyx5sYbgtwxCYdh4RL4_X6Mpbm9H2oXoRRQz-NrrquFwq7jHMTZCbNNhSVIdtoO33dvHbDrOejqzXy8V7loSLaghPwd_4XXuU0c2RUVocYnvWqhMEp3oO0tjfpEnXj1-Iq5-pa_qlyBZnGn3UnwshTUwU66UEcrhbi7i2CQj6Yb-hBieEfKc9kMF4tfDRFtRz4QVNF2H6f9U1H7wmUalK1COdOw2QUSboMhB-9RSmTyfBZrhImu0_aynU2OnpLFrlzpQlxVy4if647jAk4vWUuIvquEPWu9j3xEB2x5PIi0NsoMbKR4M8ZNvM0eRwqcmjpE1k9ggvPpbt7Sn7_b2vcGTAqNcPpuy59IE4ybXz6gKnZjA;/?ep=AzZO62kAAIEIZHXkHUXp4zx29_764bclB92AOynVapZKy6O-0KJf4WpcCfQpijBIJ4OG2vxQ-f7B-Jarr3gqZLN6dhIAf5AkXCv1ifKR9UA5YGnYQ_z-6cFDXsO6vFwL5vRlnKTHiMc2gqqvMxSqPY9lt8gxkgYsbTd4wW3c4TVyEA1-sWKSsTDuwtjopgmy8UJMcbP-dzu4bK8dkRWwNSOtwOo&v=2
+        - generic [ref=e333]:
+          - heading "不倫で慰謝料請求された" [level=2] [ref=e334]:
+            - link "不倫で慰謝料請求された" [ref=e335] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AzZO62kAAFl-dFimbk4XTIIngXmRvb64Goyr8d9cyFV-1i7bOFmmo3ohwl39UvIlSpPQjXic5djsb4WGK1mB2jNIHIoSoWqM1ixgBlcibFbZ1oGcOWuHqAvy4xkUSkFJ2EUTr3h5n80Enrtm9TPVTFy_xY_K80T7usjlMd0StFQlbXGIMWwhzdFo-P7JtYun8svAGvw9J5Cvp2yB5lHFSxrFivfKwKNsceYyJ4qqu0PuoMMG09VNdpsxerR6b3Pd4LZMA5vhiU3sWrNLvgfVFFF_TriEf6ESFrbdRSnh1F3A6OhNg18Pz7MHonHFzW49YdAHw66ja6meIW6HKBzSUE3-7bj-ML-bG8gpK-x2TaLK90eQ3ZlB_gycONy5NNtybvVHuKBTXwqUjKG2uYvW2m6G4240CSMKOfy-WEZtkUuhGnxmRmQQ055p0sZ2ihZ04f54Efq59s8-Ec7CEIQW5EVU4uF1nKvFepOh5wdVmb5nO43A5ZtU2wUEYyVfsani7GtJAcWAMsR4BIvQwY2ba5XkyHyg6jfBRmU6SG3WMAvbN_fUIPaaBVzxBE7thM0B6__-_iGh0F02lfzYeQ66Hu8y2irJuTwHddSOsALKjDeez73KHVUxAoMnWg8Z3Bt_pJTH2tykI7jVf4YT4UbXtQ67aU3jpxIgkVhCQl5g6RMwoOiPvFkbQ8R9mW-JwYUuVYZ1fXHRIUumwlMiMOsSI6_Z5XpyjOp_8haqfHKMVAwSqi3De4W3MbtORuen1Kcf0qdUVVN998XcEARmd28FFk5vvSCzvrv7P41yWU1SCXv0e2Njr8cTAbD0VzT0Tj3KkrVAXIhghAqBSifyTG-xX2L0umLVHSR8e4XpwzsBDOpb1mT0cDyaQ7SrWxkAm-xM7V428Vr4Iy7s6t9hZb6bQcKMzs0oMXZ6EbEM3ydktBVs8c-U2BQEnxVxB4UxhaVvGdsN9yY3mLt6UgOTuONzj5tuHBFZ8JKioXvqXSoM_3va1Yb8ng2ak0wOWcdaBUi9suCXPxzpW2Ts-CUHvqa6kY8xZDaDHC4J5welyVgSor1flctAavRMAbEz40nL4tERQCrN7wA2e8jhEZGSSRu3gvLmUzscMzv35eq1ZAC39mVEzgWjqoHKNZHZcTNk4a3GWJ0Rr3ezDCMeprZFot7ehyD3sjuEVx5SHQiE4J8IayG9F3otpi-UlvusDjQEB4lE8RmBOaoW43iOAfnS5cXVGJYoY76DOhj2sAa2lT55H-0yQ-qejZaEX3JEKeuxO6LtNox7pLEp44H3u0iHgIZLrivs0x7kY--qJzP0Wh4AqyU;/?ep=AzZO62kAAMVT-sM-QAo2pWRlSxbqnPcBZrJL-mnaeE9rP1vf4eCyhSkrru7r_0gYXv-6qGxy07IBXqqP9exRhVT5K6-BmFdQwBhQu9BVXMUQ-HbYEs0vel-SkvyHOWgWH2sfGBXJobX9Y4Kndxj97GJk1unz6kBF1KhG8Fh23kTtzQXbOKW-Kn9Tv3EeudDsssLH-QkkzaLufFV_WK2BXre7Mg&v=2
+              - strong [ref=e336]: 不倫
+              - text: で慰謝料請求された
+          - paragraph [ref=e337]: 弁護士が全力で守ります！ 横浜駅西口6分。無料相談実施中。年間482件の相談実績。男女問題に特化した弁護士集団
+          - generic [ref=e338]:
+            - text: 広告www.furin-procyon.com/
+            - button [ref=e340] [cursor=pointer]:
+              - img [ref=e341]
+        - generic [ref=e343]:
+          - heading "大切の人だから忘れられない | 浮気相手から復縁を目指す | 復縁への道をたどって" [level=2] [ref=e344]:
+            - link "大切の人だから忘れられない | 浮気相手から復縁を目指す | 復縁への道をたどって" [ref=e345] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AzZO62kAALnyxiYjW18iw2m19tGTs_voH1MWhnn4OgOK8ZGy3f652eZ9IdaXMP2GZA1pihrtJ9y3uT2JcRsNCFWRiR_fyIDaEs1Om64xUPbL6QdrEZTajRCnERqG_JWMvUpej5-XE8cxXOWNFMs5wWm2RrHENmfJTVx0ZETX2IU6zcDtwm4I45nSNVD1glz8MDIcfZ0cJmmEewthuz_DyjmI9O0mDcczV8gOqcA5_7WAGEnDDo91MuKU43NM3u6pPCnTkPYlbdvFI4ISsxZ--9mUCmSZ8bmZtTP-itXc5Nzq2xDZrGX95lLg1QC-bRW3-uoxuP4mNO63Y_vP-RC0bkcE5pmDgnoWsDzCZikQkUfYViXIX1bQU3fHLfaEPx2whIqj4-vepBezGnC3gLkJRbVW3DDz8__-r1FgqWq-FWSBFpT68x9ITn06TCL-Ya9xd39E4zmwqqoAV21WHst8tVDqfAoKaJviAvYW0N73ZOHKF4cwg_8ihOSLOaWxqq2MXoe9VBlFe3YdKXhYeD9eBmhoA4IShCVakIeIzx0kOgttIKw-8xPw2LV6-OOnaLGgbQIny8KtuAW4tGLPs2FQ2yEIGwpX57tfmpDtbZ8eExuODfQKSGM9gcZ52SkNszu9L3Lt1t6UviTxj0NwVTWr9SLqr4sL1ICwRz6wJ-OcluvMe58mtT8EstzNGit6CPLgtoTVzVfmEPF_x0V9k6ZqlsB6899q9F1xVdwyhyLoQIIsA9FJBn50OrsLvLa7MxInpGd15MIxuhapKmr27rHT6jLcTeCCi271Rzmg0cRjL626hnLQS5lhahtkYZeYsjnSjy9kKBGRHwYGZpzYcg2Rm7TIp0HmXELr-UjI23QGc9xw6bhrpyxM5jge7094HNGlhsnceAZbT-ULZicqSpdlKgyVgM2q0XlUhZGZ-iI6sVRP7ztOtA-3TS4qFwP-vLi90oekCnJcUhwC0_Q_8RAAYz0H18HlYOx0c6ZZh3kQu3aZr3IysjE6Zur74FH5C71rPrhTL1oLsVpd5Tu3oh5pWYC53gKDjUibzjM0IWDfzQWa3jX_nm3v94ktVKyKqI2-SQ1ZQ-JawXenp0pGgcPDvg4z-6shSvF6iPov74MoF8J4HqI7EblQQcKsHUuq5hPmMpZJfS18KPkINZAk8RMY9-NdmvbICzH8Sq4G6zjgvWpuMwnRtY0KDlGN2diS3Yo66nwMdDbqAJ8gdE_zzHRTuVXK_EALk0-kmfHZR2Jk6xLyoibKOIMfyf3guqouRgse1FDrVrFld9xMiMn4u8npfOM;/?ep=AzZO62kAAFqkucRYchFZjiSg91qqkIYwZV0puVJjDl9dvbEn_L1g4I-g-TlyYSP0nQodZi1M-yrn-9Vxg7JFneNmDinlW9n57m0XroybcV_lVp_SRqrSRKSqjvn7zWgHe3GfAJeo_UgfjpRYDkwMWXlVHvdF1f2rsJTh4_iJLNKvL_w-L8WkIIo9h1XXNj4JugSPrEF4ylUJYSMSnGZh7dllnC4&v=2
+          - paragraph [ref=e346]: 最初に無料の復縁相談から始めることが出来ます。復縁屋株式会社は復縁の専門カンパニーです。 復縁屋(R)は復縁屋株式会社の登録商標です。信頼の置ける復縁専門会社へ是非ご相談ください。
+          - generic [ref=e347]:
+            - text: 広告www.復縁相談.jp/
+            - button [ref=e349] [cursor=pointer]:
+              - img [ref=e350]
+        - generic [ref=e352]:
+          - heading "不倫調査費用は相手に請求する - 不倫が発覚したら即すべき事とは" [level=2] [ref=e353]:
+            - link "不倫調査費用は相手に請求する - 不倫が発覚したら即すべき事とは" [ref=e354] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AzZO62kAANynLio5oS9qKhsY6QQjv93nfyOqOah8PN93GzBcvbnDY4GD3PpMTrBi2UnD2rbc3RkL2K2KZcMRhwLD6-u1lx43Ms_AL-MF8OC9pXDKqEPxmAXPTh6uanzIFi9iajU-EoUKGS_0jKMV_XvjPKuWDcgwdBXuY5IsXxkzE7F9TR-mIZ5yPylnfcLRYEMZtMjipQ9x-AIF4MYyY02U8wLwZMP7GqoujJx5HmHfVaVoHPWoXK3XWnQVthz24T4pYQ_POcH1y6vLIxsVBKFkGljqxUeNGTs3RzUAMVl5XRq-q1R9xXi8S8h65z1CLUS5sYXbcwJQSs3D1ODzthPro5-kOOygkud9BSEaY3sy9fShuyxkfp8OxLcRIO89mejmOLc0gK-IRqRQTrc5KdsOGhJ9dK85BXKKB-JUv6mZGeDk4aWBFUVJv3vFO9oejhpOsSykDzwZcCan1xzamp3D7dDJ-CFzmupuL_34qXplkYy2jHqsln28klX6lsBF2XskW6meXMWOG7Wx7SJy5AnWC25IlkALEKrMU_JAiBwHxNH9DVhk0Yx1QAln8C6owUU8ittpiepN9Yk6aJT0L1pgmb2bJ9Ghr7R-OEPKqO8pDkMjyatfOwxMKkclQ5ustWhlx4QwYEWWi8DesobiK-6s0Q7iJn6bhSS6cq6FCw46JI3aik_ljlHWq1TL8LtOj2g6ziESSlKP46u6iDFgV_3KYQVXxn2P7Z2BAADqAUyArAMavH1AtWDDLLM96dBXAUetInzWuPkU1yv9ftaGrkJzxA0y_IEwglQY5vcbJYsQHrsKRrV7wyjPQ7LHDlg09Y_mRXrug2pnlITqbnXuQI7yUzHxYXyFX57V7wCurvhCTzjmw44HQvigrXOFfpfJbupSr_yEbdc8Na_nVDQLHkatGNhXz2CqB6BvR5pVBN5V5FT53Nz7Yk58f7AVG-cVPCafuwtH0Or1M6qO5GBHCVno_qvPtGMmkFF3NCpOkNpSxzXkXR6mMUKLDbZ0WIA4UXOHMFVvFbbLg6vsfPh5t_fd29YMeKQlfpFWQWNcHpE3b2SrQBOMCpqMxqV3ppMmcTGu1N0_3YsFv2WF6ZvMtWha9lSvQbVZDV0M7sEZc_UbopfOFlq8B6h2qyGkn248bes_EsqdR51s-_xjiOSn1Cnt0VogI_Wa937lN2f_4hRNj1_RXZnQv066sA0bWZ0ZtzvQtTawO3DBIiZDHPUOZg_Qw76RTLaCr_SYYK1CLblsNxPsVn0gy_3WwHd7EnIncj_Lcd6RpyVsZHIyyRLl8aYNBGr0UYEFQFKsC2BZYg79ITCC27MiMz25t7uJ57nISaKxlq84Rw8gbRmxcu1H46_sM52m;/?ep=AzZO62kAAMGSfsN0dJw-D421ksACoU6YckNMnmWPQIk8Vc_bRwgXL016FWz6kXMZKrcBBxv2Ue5TpBqRY3MuNrls4FWEfjFt4k_MVqa2U_ShkmSM1oBwjdH7ibFIYYTOP0MBQc_LjKEdIv25hZJtNlSZTMIXB8fSt-wE0TPGVvoQDomUv5K20dWUt_MKB8AWUwQL-qu-7bL5xhUz2kqcuginTBU&v=2
+              - strong [ref=e355]: 不倫
+              - text: 調査費用は相手に請求する -
+              - strong [ref=e356]: 不倫
+              - text: が発覚したら即すべき事とは
+          - paragraph [ref=e357]: 自分が不利にならない対処。証拠で後悔しない為の調査はすべき。
+          - generic [ref=e358]:
+            - text: 広告www.machikado-tantei.work/
+            - button [ref=e360] [cursor=pointer]:
+              - img [ref=e361]
+      - generic [ref=e363]:
+        - generic [ref=e364]:
+          - link "前へ":
+            - /url: /search?p=%E4%B8%8D%E5%80%AB%20%E7%8A%B6%E6%85%8B&type=tag&b=-9
+            - img
+            - text: 前へ
+          - list [ref=e365]:
+            - listitem [ref=e366]:
+              - link "1":
+                - /url: /search?p=%E4%B8%8D%E5%80%AB%20%E7%8A%B6%E6%85%8B&type=tag&b=1
+            - listitem [ref=e367]:
+              - link "2" [ref=e368] [cursor=pointer]:
+                - /url: /search?p=%E4%B8%8D%E5%80%AB%20%E7%8A%B6%E6%85%8B&type=tag&b=11
+            - listitem [ref=e369]:
+              - link "3" [ref=e370] [cursor=pointer]:
+                - /url: /search?p=%E4%B8%8D%E5%80%AB%20%E7%8A%B6%E6%85%8B&type=tag&b=21
+            - listitem [ref=e371]:
+              - link "4" [ref=e372] [cursor=pointer]:
+                - /url: /search?p=%E4%B8%8D%E5%80%AB%20%E7%8A%B6%E6%85%8B&type=tag&b=31
+            - listitem [ref=e373]:
+              - link "5" [ref=e374] [cursor=pointer]:
+                - /url: /search?p=%E4%B8%8D%E5%80%AB%20%E7%8A%B6%E6%85%8B&type=tag&b=41
+            - listitem [ref=e375]:
+              - link "6" [ref=e376] [cursor=pointer]:
+                - /url: /search?p=%E4%B8%8D%E5%80%AB%20%E7%8A%B6%E6%85%8B&type=tag&b=51
+            - listitem [ref=e377]:
+              - link "7" [ref=e378] [cursor=pointer]:
+                - /url: /search?p=%E4%B8%8D%E5%80%AB%20%E7%8A%B6%E6%85%8B&type=tag&b=61
+            - listitem [ref=e379]:
+              - link "8" [ref=e380] [cursor=pointer]:
+                - /url: /search?p=%E4%B8%8D%E5%80%AB%20%E7%8A%B6%E6%85%8B&type=tag&b=71
+            - listitem [ref=e381]:
+              - link "9" [ref=e382] [cursor=pointer]:
+                - /url: /search?p=%E4%B8%8D%E5%80%AB%20%E7%8A%B6%E6%85%8B&type=tag&b=81
+            - listitem [ref=e383]:
+              - link "10" [ref=e384] [cursor=pointer]:
+                - /url: /search?p=%E4%B8%8D%E5%80%AB%20%E7%8A%B6%E6%85%8B&type=tag&b=91
+          - generic [ref=e385]: ...
+          - link "次へ" [ref=e386] [cursor=pointer]:
+            - /url: /search?p=%E4%B8%8D%E5%80%AB%20%E7%8A%B6%E6%85%8B&type=tag&b=11
+            - text: 次へ
+            - img [ref=e387]
+        - paragraph [ref=e389]:
+          - generic [ref=e390]: 約37,523件中
+          - generic [ref=e391]: 1～10件目
+      - generic [ref=e392]:
+        - paragraph [ref=e393]: 検索しても答えが見つからない方は…
+        - link "質問する" [ref=e394] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+      - generic:
+        - generic:
+          - generic:
+            - paragraph:
+              - text: ログインボーナス
+              - generic "ベストアンサーへのお礼（知恵コイン）：":
+                - img: xmlns="http://www.w3.org/2000/svg">
+              - text: 0枚獲得！
+            - paragraph
+    - generic [ref=e395]:
+      - generic [ref=e396]:
+        - heading "検索対象" [level=2] [ref=e397]
+        - paragraph [ref=e398]:
+          - strong [ref=e399]: すべて
+          - text: （37,523件）
+        - paragraph [ref=e400]:
+          - link "回答受付中" [ref=e401] [cursor=pointer]:
+            - /url: /search?p=%E4%B8%8D%E5%80%AB%20%E7%8A%B6%E6%85%8B&type=tag&flg=0
+          - text: （45件）
+        - paragraph [ref=e402]:
+          - link "解決済み" [ref=e403] [cursor=pointer]:
+            - /url: /search?p=%E4%B8%8D%E5%80%AB%20%E7%8A%B6%E6%85%8B&type=tag&flg=1
+          - text: （34,144件）
+      - generic [ref=e404]:
+        - heading "表示順序" [level=2] [ref=e405]
+        - generic [ref=e408]:
+          - combobox [ref=e409] [cursor=pointer]:
+            - option "質問日時の新しい順" [selected]
+            - option "質問日時の古い順"
+            - option "更新日時の新しい順"
+            - option "更新日時の古い順"
+            - option "回答数の多い順"
+            - option "回答数の少ない順"
+            - option "閲覧数の多い順"
+            - option "閲覧数の少ない順"
+            - option "お礼の多い順"
+            - option "お礼の少ない順"
+          - img
+      - paragraph [ref=e411]:
+        - link "より詳しい条件で検索" [ref=e412] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/search/advanced?p=%E4%B8%8D%E5%80%AB%20%E7%8A%B6%E6%85%8B&type=tag
+      - link "占い師にお悩み相談" [ref=e414] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_qa-res_000
+        - img "占い師にお悩み相談" [ref=e417]
+  - contentinfo [ref=e419]:
+    - generic [ref=e420]:
+      - link "Yahoo!知恵袋" [ref=e421] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e422]: "|"
+      - link "Yahoo! JAPAN" [ref=e423] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e424]:
+      - link "プライバシーポリシー" [ref=e425] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e426]: "-"
+      - link "プライバシーセンター" [ref=e427] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e428]: "-"
+      - link "利用規約" [ref=e429] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e430]: "-"
+      - link "広告について" [ref=e431] [cursor=pointer]:
+        - /url: https://btoptout.yahoo.co.jp/optout/index.html
+      - img [ref=e432]
+      - generic [ref=e436]: "-"
+      - link "検索結果への広告掲載" [ref=e437] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/searchads/?o=JP1160
+      - generic [ref=e438]: "-"
+      - link "利用のルール" [ref=e439] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e440]: "-"
+      - link "ご意見・ご要望" [ref=e441] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e442]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e443] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e444]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e445]: © LY Corporation

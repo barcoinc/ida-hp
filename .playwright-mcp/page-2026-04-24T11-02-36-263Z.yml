@@ -1,0 +1,925 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - paragraph [ref=e15]:
+          - link "想定外を生き抜く。10年前の熊本地震の教訓から学ぶ防災術とは？" [ref=e16] [cursor=pointer]:
+            - /url: https://yahoo.jp/TmGP4V
+        - generic [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+                - /url: https://www.yahoo.co.jp/
+            - listitem [ref=e21]:
+              - link "ヘルプ" [ref=e22] [cursor=pointer]:
+                - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+          - generic [ref=e25]:
+            - generic "キーワード："
+            - textbox "ウェブ検索" [ref=e26]
+            - button "検索" [ref=e27] [cursor=pointer]
+            - link "ストッケ 著作物 急上昇" [ref=e28] [cursor=pointer]:
+              - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=%E3%82%B9%E3%83%88%E3%83%83%E3%82%B1+%E8%91%97%E4%BD%9C%E7%89%A9&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+              - text: ストッケ 著作物
+              - img "急上昇" [ref=e29]
+      - generic [ref=e30]:
+        - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+          - img "Yahoo!知恵袋" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - text: IDでもっと便利に
+            - link "新規取得" [ref=e36] [cursor=pointer]:
+              - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078297513%2Fquestion%2Flist&.src=chiebukuro
+          - generic [ref=e37]:
+            - link "ログイン" [ref=e38] [cursor=pointer]:
+              - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078297513%2Fquestion%2Flist
+            - link "［おトク］10％OFFクーポンあります" [ref=e40] [cursor=pointer]:
+              - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8zMDc0OTUvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9hdWN0aW9ucy55YWhvby5jby5qcC9jYW1wYWlnbi9wcm9tby9zdG9yZV9saW1pdGVkX2NvdXBvbg/
+    - navigation [ref=e42]:
+      - generic [ref=e45]:
+        - textbox "このカテゴリで探す" [ref=e47]
+        - button [ref=e48] [cursor=pointer]:
+          - img [ref=e49]
+      - list [ref=e51]:
+        - listitem [ref=e52]:
+          - link "カテゴリ" [ref=e53] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e54]:
+          - link "Q&A一覧" [ref=e55] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e56]:
+          - link "公式・専門家" [ref=e57] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e58]:
+          - link "お知らせ" [ref=e59] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e61] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e65]
+        - text: 質問・相談
+    - list [ref=e70]:
+      - listitem [ref=e71]:
+        - link "知恵袋トップ" [ref=e72] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+        - text: ＞
+      - listitem [ref=e73]:
+        - link "カテゴリ一覧" [ref=e74] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category
+        - text: ＞
+      - listitem [ref=e75]:
+        - generic [ref=e76]: エンターテインメントと趣味
+  - generic [ref=e77]:
+    - generic [ref=e78]:
+      - generic [ref=e81]:
+        - img "エンターテインメントと趣味" [ref=e84]
+        - generic [ref=e85]:
+          - heading "エンターテインメントと趣味" [level=1] [ref=e87]
+          - generic [ref=e91]:
+            - img [ref=e92]
+            - text: お気に入り
+      - generic [ref=e95]:
+        - generic [ref=e96]:
+          - list [ref=e99]:
+            - listitem [ref=e100]:
+              - generic [ref=e102]: 回答受付中
+            - listitem [ref=e103]:
+              - link "解決済み" [ref=e104] [cursor=pointer]:
+                - /url: /category/2078297513/question/list?flg=1
+                - generic [ref=e105]: 解決済み
+            - listitem [ref=e106]:
+              - link "すべて" [ref=e107] [cursor=pointer]:
+                - /url: /category/2078297513/question/list?flg=3
+                - generic [ref=e108]: すべて
+          - generic [ref=e110]:
+            - img [ref=e112]
+            - generic [ref=e114]: 並べ替え：
+            - generic [ref=e117]:
+              - combobox [ref=e118]:
+                - option "質問日時の新しい順" [selected]
+                - option "質問日時の古い順"
+                - option "更新日時の新しい順"
+                - option "更新日時の古い順"
+                - option "回答数の多い順"
+                - option "回答数の少ない順"
+                - option "お礼の多い順"
+              - img
+            - generic [ref=e120]:
+              - generic [ref=e121]: AI質問含む
+              - checkbox [ref=e122] [cursor=pointer]
+            - generic [ref=e124]:
+              - checkbox [ref=e125] [cursor=pointer]
+              - img [ref=e127]
+              - generic [ref=e129]: 回答なし
+          - generic [ref=e130]:
+            - link "カラオケ 音域がmid1G〜hiAの曲を教えてください。なるべくメジャーな曲でお願いします。 回答数： 0 4/24 20:02 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e133] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517518
+              - generic [ref=e134]:
+                - paragraph [ref=e135]: カラオケ
+                - paragraph [ref=e138]: 音域がmid1G〜hiAの曲を教えてください。なるべくメジャーな曲でお願いします。
+                - generic [ref=e139]:
+                  - generic [ref=e140]:
+                    - generic "回答数：" [ref=e141]:
+                      - img [ref=e142]
+                    - generic [ref=e144]: "0"
+                  - generic "4/24 20:02" [ref=e146]
+                  - generic [ref=e147]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e148]:
+                      - img [ref=e149]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e155]: "50"
+            - link "リズム、音楽ゲーム KONAMIのe-amuアプリでログイン出来ないんですがどうすれば良いですか？ 今まで普通にできてて、ここ数ヶ月なにも触ってなくて久しぶりに立ち上げたらログインできません。 外部サイトを立ち上げ... 回答数： 0 4/24 20:02" [ref=e158] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517506
+              - generic [ref=e159]:
+                - paragraph [ref=e160]: リズム、音楽ゲーム
+                - paragraph [ref=e163]: KONAMIのe-amuアプリでログイン出来ないんですがどうすれば良いですか？ 今まで普通にできてて、ここ数ヶ月なにも触ってなくて久しぶりに立ち上げたらログインできません。 外部サイトを立ち上げ...
+                - generic [ref=e164]:
+                  - generic [ref=e165]:
+                    - generic "回答数：" [ref=e166]:
+                      - img [ref=e167]
+                    - generic [ref=e169]: "0"
+                  - generic "4/24 20:02" [ref=e171]
+            - link "カラオケ カラオケ好きな人とかよく声が通る人に質問です。 声が出ません。声が高くなり腹からではなく喉から出している感覚があります。 男子なので声で印象が決まるところもあると思います。頼られる人になりたいで... 回答数： 0 4/24 20:01" [ref=e174] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517504
+              - generic [ref=e175]:
+                - paragraph [ref=e176]: カラオケ
+                - paragraph [ref=e179]: カラオケ好きな人とかよく声が通る人に質問です。 声が出ません。声が高くなり腹からではなく喉から出している感覚があります。 男子なので声で印象が決まるところもあると思います。頼られる人になりたいで...
+                - generic [ref=e180]:
+                  - generic [ref=e181]:
+                    - generic "回答数：" [ref=e182]:
+                      - img [ref=e183]
+                    - generic [ref=e185]: "0"
+                  - generic "4/24 20:01" [ref=e187]
+            - link "バンド バックナンバーの恋をバンドでするんですけど ギター✖️2ベース✖️1ドラム✖️1でするんですけどピアノの場所のカバーの仕方教えてください！そのコード書いてくれたら嬉しいです！ 回答数： 0 4/24 20:01" [ref=e190] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517502
+              - generic [ref=e191]:
+                - paragraph [ref=e192]: バンド
+                - paragraph [ref=e195]: バックナンバーの恋をバンドでするんですけど ギター✖️2ベース✖️1ドラム✖️1でするんですけどピアノの場所のカバーの仕方教えてください！そのコード書いてくれたら嬉しいです！
+                - generic [ref=e196]:
+                  - generic [ref=e197]:
+                    - generic "回答数：" [ref=e198]:
+                      - img [ref=e199]
+                    - generic [ref=e201]: "0"
+                  - generic "4/24 20:01" [ref=e203]
+            - link "アニメ デジモンアドベンチャー。ウィザーモンがなくなったのもだけど、パンプモンとゴツモンがなくなったのも、結構な衝撃だし名場面の1種ですよね？ 回答数： 0 4/24 20:01 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e206] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517498
+              - generic [ref=e207]:
+                - paragraph [ref=e208]: アニメ
+                - paragraph [ref=e211]: デジモンアドベンチャー。ウィザーモンがなくなったのもだけど、パンプモンとゴツモンがなくなったのも、結構な衝撃だし名場面の1種ですよね？
+                - generic [ref=e212]:
+                  - generic [ref=e213]:
+                    - generic "回答数：" [ref=e214]:
+                      - img [ref=e215]
+                    - generic [ref=e217]: "0"
+                  - generic "4/24 20:01" [ref=e219]
+                  - generic [ref=e220]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e221]:
+                      - img [ref=e222]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e228]: "25"
+            - link "テレビゲーム全般 1番有名なゲームの飛び道具と言えば、ストリートファイターⅡの波動拳ですか？ 回答数： 1 4/24 20:01" [ref=e231] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517497
+              - generic [ref=e232]:
+                - paragraph [ref=e233]: テレビゲーム全般
+                - paragraph [ref=e236]: 1番有名なゲームの飛び道具と言えば、ストリートファイターⅡの波動拳ですか？
+                - generic [ref=e237]:
+                  - generic [ref=e238]:
+                    - generic "回答数：" [ref=e239]:
+                      - img [ref=e240]
+                    - generic [ref=e242]: "1"
+                  - generic "4/24 20:01" [ref=e244]
+            - link "コミック パーマン（主人公の？男の子）って双子なんですか？ 回答数： 0 4/24 20:01" [ref=e247] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517495
+              - generic [ref=e248]:
+                - paragraph [ref=e249]: コミック
+                - paragraph [ref=e252]: パーマン（主人公の？男の子）って双子なんですか？
+                - generic [ref=e253]:
+                  - generic [ref=e254]:
+                    - generic "回答数：" [ref=e255]:
+                      - img [ref=e256]
+                    - generic [ref=e258]: "0"
+                  - generic "4/24 20:01" [ref=e260]
+            - link "ゲーム 荒野行動のマーケットについてなんですがサブ垢にある武器を本垢で買いたいんですけどマーケットのアカウントログインしても共有？ みたいになっちゃってて出来ません。荒野行動のサブ垢はLINEで連携して... 回答数： 0 4/24 20:01 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e263] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517489
+              - generic [ref=e264]:
+                - paragraph [ref=e265]: ゲーム
+                - paragraph [ref=e268]: 荒野行動のマーケットについてなんですがサブ垢にある武器を本垢で買いたいんですけどマーケットのアカウントログインしても共有？ みたいになっちゃってて出来ません。荒野行動のサブ垢はLINEで連携して...
+                - generic [ref=e269]:
+                  - generic [ref=e270]:
+                    - generic "回答数：" [ref=e271]:
+                      - img [ref=e272]
+                    - generic [ref=e274]: "0"
+                  - generic "4/24 20:01" [ref=e276]
+                  - generic [ref=e277]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e278]:
+                      - img [ref=e279]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e285]: "50"
+            - link "音楽 てん、てんてん、てんててん、ててん、てんてんてんてん、てん、 って感じのゆったりとしたクラシック？の音楽を探しています ピアノだった気がします なにかの曲のオルゴール版かもしれません 本当に何も... 回答数： 1 4/24 20:01 ベストアンサーへのお礼（知恵コイン）： 250" [ref=e288] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517486
+              - generic [ref=e289]:
+                - paragraph [ref=e290]: 音楽
+                - paragraph [ref=e293]: てん、てんてん、てんててん、ててん、てんてんてんてん、てん、 って感じのゆったりとしたクラシック？の音楽を探しています ピアノだった気がします なにかの曲のオルゴール版かもしれません 本当に何も...
+                - generic [ref=e294]:
+                  - generic [ref=e295]:
+                    - generic "回答数：" [ref=e296]:
+                      - img [ref=e297]
+                    - generic [ref=e299]: "1"
+                  - generic "4/24 20:01" [ref=e301]
+                  - generic [ref=e302]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e303]:
+                      - img [ref=e304]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e310]: "250"
+            - link "ギター、ベース エレキギターについての質問です。初心者なのですが、ギターのピックアップのサビが気になります。これはピカールなどで磨いても大丈夫なのでしょうか。 もし危険なのであれば、サビを取る方法を教えていただ... 回答数： 0 4/24 20:01" [ref=e313] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517487
+              - generic [ref=e314]:
+                - paragraph [ref=e315]: ギター、ベース
+                - paragraph [ref=e318]: エレキギターについての質問です。初心者なのですが、ギターのピックアップのサビが気になります。これはピカールなどで磨いても大丈夫なのでしょうか。 もし危険なのであれば、サビを取る方法を教えていただ...
+                - generic [ref=e319]:
+                  - generic [ref=e320]:
+                    - generic "回答数：" [ref=e321]:
+                      - img [ref=e322]
+                    - generic [ref=e324]: "0"
+                  - generic "4/24 20:01" [ref=e326]
+            - link "テレビゲーム全般 本日4月24日はマイニンテンドーストアの第一回switch2の抽選販売の抽選結果発表ですが、どうでしたか?自分はマリオカートセットに応募して落選でした。 回答数： 0 4/24 20:01" [ref=e329] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517479
+              - generic [ref=e330]:
+                - paragraph [ref=e331]: テレビゲーム全般
+                - paragraph [ref=e334]: 本日4月24日はマイニンテンドーストアの第一回switch2の抽選販売の抽選結果発表ですが、どうでしたか?自分はマリオカートセットに応募して落選でした。
+                - generic [ref=e335]:
+                  - generic [ref=e336]:
+                    - generic "回答数：" [ref=e337]:
+                      - img [ref=e338]
+                    - generic [ref=e340]: "0"
+                  - generic "4/24 20:01" [ref=e342]
+            - link "女性アイドル 僕は30歳ですけど、なぜ僕が学生時代の時の女性アイドルはAKB一強だったのでしょうか？？ 他の女性アイドルはAKBと比べたらあまり注目されてなかった記憶があります。 回答数： 0 4/24 20:00" [ref=e345] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517473
+              - generic [ref=e346]:
+                - paragraph [ref=e347]: 女性アイドル
+                - paragraph [ref=e350]: 僕は30歳ですけど、なぜ僕が学生時代の時の女性アイドルはAKB一強だったのでしょうか？？ 他の女性アイドルはAKBと比べたらあまり注目されてなかった記憶があります。
+                - generic [ref=e351]:
+                  - generic [ref=e352]:
+                    - generic "回答数：" [ref=e353]:
+                      - img [ref=e354]
+                    - generic [ref=e356]: "0"
+                  - generic "4/24 20:00" [ref=e358]
+            - link "邦楽 BENNIE K オススメの曲はなんですか？ Dreamland https://www.youtube.com/watch?v=57aUX1M38ow 回答数： 0 4/24 20:00 BENNIE K オススメの曲はなんですか？ Dreamland https://www.youtube.com/watch?v=57aUX1M38ow" [ref=e361] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517459
+              - generic [ref=e362]:
+                - paragraph [ref=e363]: 邦楽
+                - paragraph [ref=e366]: BENNIE K オススメの曲はなんですか？ Dreamland https://www.youtube.com/watch?v=57aUX1M38ow
+                - generic [ref=e367]:
+                  - generic [ref=e368]:
+                    - generic "回答数：" [ref=e369]:
+                      - img [ref=e370]
+                    - generic [ref=e372]: "0"
+                  - generic "4/24 20:00" [ref=e374]
+              - img "BENNIE K オススメの曲はなんですか？ Dreamland https://www.youtube.com/watch?v=57aUX1M38ow" [ref=e377]
+            - link "男性アイドル アイドル 今の若い人は知らないよね？ 回答数： 0 4/24 20:00 アイドル 今の若い人は知らないよね？" [ref=e380] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517457
+              - generic [ref=e381]:
+                - paragraph [ref=e382]: 男性アイドル
+                - paragraph [ref=e385]: アイドル 今の若い人は知らないよね？
+                - generic [ref=e386]:
+                  - generic [ref=e387]:
+                    - generic "回答数：" [ref=e388]:
+                      - img [ref=e389]
+                    - generic [ref=e391]: "0"
+                  - generic "4/24 20:00" [ref=e393]
+              - img "アイドル 今の若い人は知らないよね？" [ref=e396]
+            - link "読書 難しい内容の本を探しています。今通信制高校生です。 0．総記 1．哲学 2．歴史 3．社会科学 4．自然科学 5．技術 6．産業 7．芸術 8．言語 9．文学 私は敬語の使い方や言葉遣いなどを学... 回答数： 0 4/24 20:00" [ref=e399] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517456
+              - generic [ref=e400]:
+                - paragraph [ref=e401]: 読書
+                - paragraph [ref=e404]: 難しい内容の本を探しています。今通信制高校生です。 0．総記 1．哲学 2．歴史 3．社会科学 4．自然科学 5．技術 6．産業 7．芸術 8．言語 9．文学 私は敬語の使い方や言葉遣いなどを学...
+                - generic [ref=e405]:
+                  - generic [ref=e406]:
+                    - generic "回答数：" [ref=e407]:
+                      - img [ref=e408]
+                    - generic [ref=e410]: "0"
+                  - generic "4/24 20:00" [ref=e412]
+            - link "ゲーム valorantで味方のvcがきこえなくなりました。 左側にvcをいれてるアイコンはうつるのに声だけ入りません。 ゲーム内の音量は聞こえるし、私の声も聞こえるみたいです。 どうしたら直りますか 回答数： 0 4/24 20:00" [ref=e415] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517454
+              - generic [ref=e416]:
+                - paragraph [ref=e417]: ゲーム
+                - paragraph [ref=e420]: valorantで味方のvcがきこえなくなりました。 左側にvcをいれてるアイコンはうつるのに声だけ入りません。 ゲーム内の音量は聞こえるし、私の声も聞こえるみたいです。 どうしたら直りますか
+                - generic [ref=e421]:
+                  - generic [ref=e422]:
+                    - generic "回答数：" [ref=e423]:
+                      - img [ref=e424]
+                    - generic [ref=e426]: "0"
+                  - generic "4/24 20:00" [ref=e428]
+            - link "鉄道ファン ICOCA大回り中に新幹線ホームに入場ってできるんですか？ 回答数： 0 4/24 20:00" [ref=e431] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517450
+              - generic [ref=e432]:
+                - paragraph [ref=e433]: 鉄道ファン
+                - paragraph [ref=e436]: ICOCA大回り中に新幹線ホームに入場ってできるんですか？
+                - generic [ref=e437]:
+                  - generic [ref=e438]:
+                    - generic "回答数：" [ref=e439]:
+                      - img [ref=e440]
+                    - generic [ref=e442]: "0"
+                  - generic "4/24 20:00" [ref=e444]
+            - link "アニメ 映画館でUNEXTの勧誘を受けました。 無料トライアル期間初日なのですが、ギリギリまで見ても問題は無いですか？ アニメ色々見たいのと特にとあるシリーズを見たくて…。 見たら何か追加料金とかは... 回答数： 0 4/24 20:00" [ref=e447] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517451
+              - generic [ref=e448]:
+                - paragraph [ref=e449]: アニメ
+                - paragraph [ref=e452]: 映画館でUNEXTの勧誘を受けました。 無料トライアル期間初日なのですが、ギリギリまで見ても問題は無いですか？ アニメ色々見たいのと特にとあるシリーズを見たくて…。 見たら何か追加料金とかは...
+                - generic [ref=e453]:
+                  - generic [ref=e454]:
+                    - generic "回答数：" [ref=e455]:
+                      - img [ref=e456]
+                    - generic [ref=e458]: "0"
+                  - generic "4/24 20:00" [ref=e460]
+            - link "アニメ 『宇宙戦艦ヤマト』は企画のプロセス自体が価値の高いコレクションになると思いますか? 回答数： 1 4/24 20:00" [ref=e463] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517440
+              - generic [ref=e464]:
+                - paragraph [ref=e465]: アニメ
+                - paragraph [ref=e468]: 『宇宙戦艦ヤマト』は企画のプロセス自体が価値の高いコレクションになると思いますか?
+                - generic [ref=e469]:
+                  - generic [ref=e470]:
+                    - generic "回答数：" [ref=e471]:
+                      - img [ref=e472]
+                    - generic [ref=e474]: "1"
+                  - generic "4/24 20:00" [ref=e476]
+            - link "お笑い芸人 昔放送していためちゃイケの抜き打ちテストで濱口優さんが「masaru hamaguche」（マサル・ハマグチェ）と名前を記入したのはわざとだったんですか？ 芸人だからボケた回答してウケを狙ったの... 回答数： 1 4/24 19:59" [ref=e479] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517435
+              - generic [ref=e480]:
+                - paragraph [ref=e481]: お笑い芸人
+                - paragraph [ref=e484]: 昔放送していためちゃイケの抜き打ちテストで濱口優さんが「masaru hamaguche」（マサル・ハマグチェ）と名前を記入したのはわざとだったんですか？ 芸人だからボケた回答してウケを狙ったの...
+                - generic [ref=e485]:
+                  - generic [ref=e486]:
+                    - generic "回答数：" [ref=e487]:
+                      - img [ref=e488]
+                    - generic [ref=e490]: "1"
+                  - generic "4/24 19:59" [ref=e492]
+            - link "コスプレ 明日ニコニコ超会議に参加する者です。 色々読み漁っては見たのですが初参加のコスプレの流れがいまいちわかっておりません…(超会議そのものは何度が参加してますがコスプレが初なので…) アーリーコスプ... 回答数： 0 4/24 19:59" [ref=e495] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517432
+              - generic [ref=e496]:
+                - paragraph [ref=e497]: コスプレ
+                - paragraph [ref=e500]: 明日ニコニコ超会議に参加する者です。 色々読み漁っては見たのですが初参加のコスプレの流れがいまいちわかっておりません…(超会議そのものは何度が参加してますがコスプレが初なので…) アーリーコスプ...
+                - generic [ref=e501]:
+                  - generic [ref=e502]:
+                    - generic "回答数：" [ref=e503]:
+                      - img [ref=e504]
+                    - generic [ref=e506]: "0"
+                  - generic "4/24 19:59" [ref=e508]
+            - link "アニメ 2026年冬アニメのメインヒロインはこの中で誰がイチバン可愛いと思いますか? 木下うたげ（多聞くん今どっち?） 水萌汐（幼馴染とはラブコメにならない） 黄前久美子（響けユーフォニアム） 井ノ華六... 回答数： 0 4/24 19:59" [ref=e511] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517429
+              - generic [ref=e512]:
+                - paragraph [ref=e513]: アニメ
+                - paragraph [ref=e516]: 2026年冬アニメのメインヒロインはこの中で誰がイチバン可愛いと思いますか? 木下うたげ（多聞くん今どっち?） 水萌汐（幼馴染とはラブコメにならない） 黄前久美子（響けユーフォニアム） 井ノ華六...
+                - generic [ref=e517]:
+                  - generic [ref=e518]:
+                    - generic "回答数：" [ref=e519]:
+                      - img [ref=e520]
+                    - generic [ref=e522]: "0"
+                  - generic "4/24 19:59" [ref=e524]
+            - link "日本語 わたなれについて、日本や中国では紫陽花が人気的に強かったのに対し、英語圏では紗月が強かったんですが、この様な違いが出たのは何故だと思われますか？ 回答数： 0 4/24 19:59 わたなれについて、日本や中国では紫陽花が人気的に強かったのに対し、英語圏では紗月が強かったんですが、この様な違いが出たのは何故だと思われますか？" [ref=e527] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517426
+              - generic [ref=e528]:
+                - paragraph [ref=e529]: 日本語
+                - paragraph [ref=e532]: わたなれについて、日本や中国では紫陽花が人気的に強かったのに対し、英語圏では紗月が強かったんですが、この様な違いが出たのは何故だと思われますか？
+                - generic [ref=e533]:
+                  - generic [ref=e534]:
+                    - generic "回答数：" [ref=e535]:
+                      - img [ref=e536]
+                    - generic [ref=e538]: "0"
+                  - generic "4/24 19:59" [ref=e540]
+              - img "わたなれについて、日本や中国では紫陽花が人気的に強かったのに対し、英語圏では紗月が強かったんですが、この様な違いが出たのは何故だと思われますか？" [ref=e543]
+            - link "携帯型ゲーム全般 ブロスタで新キャラが出たあと、スターロードもしくはブロパスのカギで解放できるところに出てくるまでの期間ってどれくらいですか？ 全キャラ解放出来たのですが、その後どうやって資源をやりくりするのがオ... 回答数： 0 4/24 19:59" [ref=e546] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517424
+              - generic [ref=e547]:
+                - paragraph [ref=e548]: 携帯型ゲーム全般
+                - paragraph [ref=e551]: ブロスタで新キャラが出たあと、スターロードもしくはブロパスのカギで解放できるところに出てくるまでの期間ってどれくらいですか？ 全キャラ解放出来たのですが、その後どうやって資源をやりくりするのがオ...
+                - generic [ref=e552]:
+                  - generic [ref=e553]:
+                    - generic "回答数：" [ref=e554]:
+                      - img [ref=e555]
+                    - generic [ref=e557]: "0"
+                  - generic "4/24 19:59" [ref=e559]
+            - link "ドラマ ドラマ 風、薫る 第20話をみて、どう思いましたか？ 回答数： 0 4/24 19:59" [ref=e562] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517416
+              - generic [ref=e563]:
+                - paragraph [ref=e564]: ドラマ
+                - paragraph [ref=e567]: ドラマ 風、薫る 第20話をみて、どう思いましたか？
+                - generic [ref=e568]:
+                  - generic [ref=e569]:
+                    - generic "回答数：" [ref=e570]:
+                      - img [ref=e571]
+                    - generic [ref=e573]: "0"
+                  - generic "4/24 19:59" [ref=e575]
+            - link "哲学、倫理 西洋の自然哲学を解説した本はないですか？ 回答数： 0 4/24 19:59" [ref=e578] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517417
+              - generic [ref=e579]:
+                - paragraph [ref=e580]: 哲学、倫理
+                - paragraph [ref=e583]: 西洋の自然哲学を解説した本はないですか？
+                - generic [ref=e584]:
+                  - generic [ref=e585]:
+                    - generic "回答数：" [ref=e586]:
+                      - img [ref=e587]
+                    - generic [ref=e589]: "0"
+                  - generic "4/24 19:59" [ref=e591]
+            - link "トレーディングカード ロルカナで質問があります。 マウイ 俺って半サメだろう? のカードの効果でアクションカードを捨て札から手札に加わる効果でこれで歌·アクションカードを 回収することは可能でしょうか? よろしくお願... 回答数： 0 4/24 19:59 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e594] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517414
+              - generic [ref=e595]:
+                - paragraph [ref=e596]: トレーディングカード
+                - paragraph [ref=e599]: ロルカナで質問があります。 マウイ 俺って半サメだろう? のカードの効果でアクションカードを捨て札から手札に加わる効果でこれで歌·アクションカードを 回収することは可能でしょうか? よろしくお願...
+                - generic [ref=e600]:
+                  - generic [ref=e601]:
+                    - generic "回答数：" [ref=e602]:
+                      - img [ref=e603]
+                    - generic [ref=e605]: "0"
+                  - generic "4/24 19:59" [ref=e607]
+                  - generic [ref=e608]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e609]:
+                      - img [ref=e610]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e616]: "100"
+            - link "俳優、女優 中国俳優？ 名前わかるかた教えてください！ 回答数： 0 4/24 19:59 中国俳優？ 名前わかるかた教えてください！" [ref=e619] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517409
+              - generic [ref=e620]:
+                - paragraph [ref=e621]: 俳優、女優
+                - paragraph [ref=e624]: 中国俳優？ 名前わかるかた教えてください！
+                - generic [ref=e625]:
+                  - generic [ref=e626]:
+                    - generic "回答数：" [ref=e627]:
+                      - img [ref=e628]
+                    - generic [ref=e630]: "0"
+                  - generic "4/24 19:59" [ref=e632]
+              - img "中国俳優？ 名前わかるかた教えてください！" [ref=e635]
+            - link "おもちゃ たまごっちパラダイスについて。 わたしはピンク色のやつを持ってるのですが、 緑色のやつも買おうか悩んでいました。 そんな時にお店で偶然見かけて買ってしまいました。 しかし2台持ちということに... 回答数： 0 4/24 19:58" [ref=e638] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517403
+              - generic [ref=e639]:
+                - paragraph [ref=e640]: おもちゃ
+                - paragraph [ref=e643]: たまごっちパラダイスについて。 わたしはピンク色のやつを持ってるのですが、 緑色のやつも買おうか悩んでいました。 そんな時にお店で偶然見かけて買ってしまいました。 しかし2台持ちということに...
+                - generic [ref=e644]:
+                  - generic [ref=e645]:
+                    - generic "回答数：" [ref=e646]:
+                      - img [ref=e647]
+                    - generic [ref=e649]: "0"
+                  - generic "4/24 19:58" [ref=e651]
+            - link "邦楽 男女関係なく、やっぱし自分は独りだわ❢と孤独を感じる演歌ってありますか？ 回答数： 0 4/24 19:58" [ref=e654] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517400
+              - generic [ref=e655]:
+                - paragraph [ref=e656]: 邦楽
+                - paragraph [ref=e659]: 男女関係なく、やっぱし自分は独りだわ❢と孤独を感じる演歌ってありますか？
+                - generic [ref=e660]:
+                  - generic [ref=e661]:
+                    - generic "回答数：" [ref=e662]:
+                      - img [ref=e663]
+                    - generic [ref=e665]: "0"
+                  - generic "4/24 19:58" [ref=e667]
+            - link "絵画 自分で描いた絵を缶バッチやアクリルスタンド、クリアマルチケースなどを作りたいのですが、どこにお願いすれば良いかわかりません。 誰か教えてくれませんか？ 回答数： 0 4/24 19:58" [ref=e670] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517396
+              - generic [ref=e671]:
+                - paragraph [ref=e672]: 絵画
+                - paragraph [ref=e675]: 自分で描いた絵を缶バッチやアクリルスタンド、クリアマルチケースなどを作りたいのですが、どこにお願いすれば良いかわかりません。 誰か教えてくれませんか？
+                - generic [ref=e676]:
+                  - generic [ref=e677]:
+                    - generic "回答数：" [ref=e678]:
+                      - img [ref=e679]
+                    - generic [ref=e681]: "0"
+                  - generic "4/24 19:58" [ref=e683]
+            - link "懸賞、くじ ナンバーズ4って毎日5口買うのと週一で25口買うのでは、確率的にどっちの方が当たりやすいですかね？ 回答数： 0 4/24 19:58 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e686] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517397
+              - generic [ref=e687]:
+                - paragraph [ref=e688]: 懸賞、くじ
+                - paragraph [ref=e691]: ナンバーズ4って毎日5口買うのと週一で25口買うのでは、確率的にどっちの方が当たりやすいですかね？
+                - generic [ref=e692]:
+                  - generic [ref=e693]:
+                    - generic "回答数：" [ref=e694]:
+                      - img [ref=e695]
+                    - generic [ref=e697]: "0"
+                  - generic "4/24 19:58" [ref=e699]
+                  - generic [ref=e700]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e701]:
+                      - img [ref=e702]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e708]: "50"
+            - link "アニメ BLEACH1番くじvol.4について質問なんですけど、DEATHNOTEとか発売初日に完売とかなっててBLEACHも販売初日に買いに行った方がいいですか？ 回答数： 1 4/24 19:58" [ref=e711] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517388
+              - generic [ref=e712]:
+                - paragraph [ref=e713]: アニメ
+                - paragraph [ref=e716]: BLEACH1番くじvol.4について質問なんですけど、DEATHNOTEとか発売初日に完売とかなっててBLEACHも販売初日に買いに行った方がいいですか？
+                - generic [ref=e717]:
+                  - generic [ref=e718]:
+                    - generic "回答数：" [ref=e719]:
+                      - img [ref=e720]
+                    - generic [ref=e722]: "1"
+                  - generic "4/24 19:58" [ref=e724]
+            - link "テレビゲーム全般 孫悟空でおなじみの野沢雅子さんはバイオハザード5のことをベーオヘゼードフェーブって言うんですか？ 回答数： 0 4/24 19:58" [ref=e727] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517387
+              - generic [ref=e728]:
+                - paragraph [ref=e729]: テレビゲーム全般
+                - paragraph [ref=e732]: 孫悟空でおなじみの野沢雅子さんはバイオハザード5のことをベーオヘゼードフェーブって言うんですか？
+                - generic [ref=e733]:
+                  - generic [ref=e734]:
+                    - generic "回答数：" [ref=e735]:
+                      - img [ref=e736]
+                    - generic [ref=e738]: "0"
+                  - generic "4/24 19:58" [ref=e740]
+            - link "芸能人 有村架純以外の似ている芸能人を探してます サークルの自己紹介で似ている芸能人を書かないといけなくて、チャットGPTに聞いたら「有村架純」と返ってきました。 正直自分でも似てるなと思います (有... 回答数： 0 4/24 19:58" [ref=e743] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517381
+              - generic [ref=e744]:
+                - paragraph [ref=e745]: 芸能人
+                - paragraph [ref=e748]: 有村架純以外の似ている芸能人を探してます サークルの自己紹介で似ている芸能人を書かないといけなくて、チャットGPTに聞いたら「有村架純」と返ってきました。 正直自分でも似てるなと思います (有...
+                - generic [ref=e749]:
+                  - generic [ref=e750]:
+                    - generic "回答数：" [ref=e751]:
+                      - img [ref=e752]
+                    - generic [ref=e754]: "0"
+                  - generic "4/24 19:58" [ref=e756]
+            - link "男性アイドル 猪狩蒼弥くんがロケやYoutubeでよく来ている茶色のセットアップがどこのかわかる方いらっしゃいませんか？ 回答数： 0 4/24 19:58 猪狩蒼弥くんがロケやYoutubeでよく来ている茶色のセットアップがどこのかわかる方いらっしゃいませんか？" [ref=e759] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517380
+              - generic [ref=e760]:
+                - paragraph [ref=e761]: 男性アイドル
+                - paragraph [ref=e764]: 猪狩蒼弥くんがロケやYoutubeでよく来ている茶色のセットアップがどこのかわかる方いらっしゃいませんか？
+                - generic [ref=e765]:
+                  - generic [ref=e766]:
+                    - generic "回答数：" [ref=e767]:
+                      - img [ref=e768]
+                    - generic [ref=e770]: "0"
+                  - generic "4/24 19:58" [ref=e772]
+              - img "猪狩蒼弥くんがロケやYoutubeでよく来ている茶色のセットアップがどこのかわかる方いらっしゃいませんか？" [ref=e775]
+            - link "読書 7年ほど前に読んだ本を探しています。当時小学生でした。おそらく児童向けの文庫だと思います。 表紙は黒とピンクと白で構成されていたと思います。 タイトルや内容はほとんど覚えていないのですが、最後に... 回答数： 0 4/24 19:58" [ref=e778] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517379
+              - generic [ref=e779]:
+                - paragraph [ref=e780]: 読書
+                - paragraph [ref=e783]: 7年ほど前に読んだ本を探しています。当時小学生でした。おそらく児童向けの文庫だと思います。 表紙は黒とピンクと白で構成されていたと思います。 タイトルや内容はほとんど覚えていないのですが、最後に...
+                - generic [ref=e784]:
+                  - generic [ref=e785]:
+                    - generic "回答数：" [ref=e786]:
+                      - img [ref=e787]
+                    - generic [ref=e789]: "0"
+                  - generic "4/24 19:58" [ref=e791]
+            - link "ショッピング temuのクレジットバックキャンペーンについて質問です。 最近はじめてクレジットバックキャンペーンで4000円ゲットしたんですが、調べていると何度もこのキャンペーンで4000円ゲットしている人が... 回答数： 0 4/24 19:58 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e794] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517376
+              - generic [ref=e795]:
+                - paragraph [ref=e796]: ショッピング
+                - paragraph [ref=e799]: temuのクレジットバックキャンペーンについて質問です。 最近はじめてクレジットバックキャンペーンで4000円ゲットしたんですが、調べていると何度もこのキャンペーンで4000円ゲットしている人が...
+                - generic [ref=e800]:
+                  - generic [ref=e801]:
+                    - generic "回答数：" [ref=e802]:
+                      - img [ref=e803]
+                    - generic [ref=e805]: "0"
+                  - generic "4/24 19:58" [ref=e807]
+                  - generic [ref=e808]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e809]:
+                      - img [ref=e810]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e816]: "50"
+            - link "音楽 TBSのハマダ歌謡祭という番組でよく聞く曲なんですけど 歌詞が「らーらら ららら らららららー」みたいな曲です わかる人お願いします 回答数： 0 4/24 19:57 ベストアンサーへのお礼（知恵コイン）： 500" [ref=e819] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517369
+              - generic [ref=e820]:
+                - paragraph [ref=e821]: 音楽
+                - paragraph [ref=e824]: TBSのハマダ歌謡祭という番組でよく聞く曲なんですけど 歌詞が「らーらら ららら らららららー」みたいな曲です わかる人お願いします
+                - generic [ref=e825]:
+                  - generic [ref=e826]:
+                    - generic "回答数：" [ref=e827]:
+                      - img [ref=e828]
+                    - generic [ref=e830]: "0"
+                  - generic "4/24 19:57" [ref=e832]
+                  - generic [ref=e833]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e834]:
+                      - img [ref=e835]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e841]: "500"
+            - link "音楽 SUNOと言うスマホのAI作曲アプリで出来た曲を 友達共用しようとラインにリンクを張りました。 が、リンクを開いて見ると歌詞が読みにくくなっており、 しかも所々おかしくなってます。 結構、歌詞で... 回答数： 1 4/24 19:57 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e844] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517365
+              - generic [ref=e845]:
+                - paragraph [ref=e846]: 音楽
+                - paragraph [ref=e849]: SUNOと言うスマホのAI作曲アプリで出来た曲を 友達共用しようとラインにリンクを張りました。 が、リンクを開いて見ると歌詞が読みにくくなっており、 しかも所々おかしくなってます。 結構、歌詞で...
+                - generic [ref=e850]:
+                  - generic [ref=e851]:
+                    - generic "回答数：" [ref=e852]:
+                      - img [ref=e853]
+                    - generic [ref=e855]: "1"
+                  - generic "4/24 19:57" [ref=e857]
+                  - generic [ref=e858]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e859]:
+                      - img [ref=e860]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e866]: "100"
+        - generic [ref=e869]:
+          - generic [ref=e870]:
+            - generic [ref=e871]: "1"
+            - link "2" [ref=e872] [cursor=pointer]:
+              - /url: /category/2078297513/question/list?page=2
+            - link "3" [ref=e873] [cursor=pointer]:
+              - /url: /category/2078297513/question/list?page=3
+            - link "4" [ref=e874] [cursor=pointer]:
+              - /url: /category/2078297513/question/list?page=4
+            - link "5" [ref=e875] [cursor=pointer]:
+              - /url: /category/2078297513/question/list?page=5
+            - link "6" [ref=e876] [cursor=pointer]:
+              - /url: /category/2078297513/question/list?page=6
+            - link "7" [ref=e877] [cursor=pointer]:
+              - /url: /category/2078297513/question/list?page=7
+            - link "8" [ref=e878] [cursor=pointer]:
+              - /url: /category/2078297513/question/list?page=8
+            - link "9" [ref=e879] [cursor=pointer]:
+              - /url: /category/2078297513/question/list?page=9
+            - link "10" [ref=e880] [cursor=pointer]:
+              - /url: /category/2078297513/question/list?page=10
+            - generic [ref=e881]: ...
+            - link "次へ" [ref=e882] [cursor=pointer]:
+              - /url: /category/2078297513/question/list?page=2
+              - text: 次へ
+              - img [ref=e883]
+          - paragraph [ref=e885]:
+            - generic [ref=e886]: 約16,056件
+      - complementary [ref=e887]:
+        - generic [ref=e888]:
+          - iframe
+          - iframe [ref=e890]:
+            - generic [ref=f243e3]:
+              - generic [ref=f243e6]:
+                - link "大田区の住所入力で土地価格がわかる 詳しくはこちら かんたん不動産比較" [ref=f243e7] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A8tN62kAAGcPNj2-EXDtaDEmSDeA7QNR4w8Qzdwl_s5WbhUfzXfmmkFT8jPpOY5WupY857opri1IJgxKSATUAWMaU_IsojYrVzVwB3xwEGA0wwEENYousQcWXvxk5dFQs0ea1YvHpWXM1cpDM2ZBaJTyrP3P7HQ06bxVlCMbouoS-yzro3OO23RxOuESWC_yqJERXYqe_qzKZu0mPxlY3CMkMkx5ftci3d9AmQU37hJK6qICn9ImwCCQ3gHE5Drfw7JKIq70zqMljcfQnhNTUWoprKIR_HxiZkhxPFI3MrZMoYukm4PdQRRWsZ2zJZs46OS5Co7RCMGjuAiYbLNeaorjXLCnzFBPQYgBZDj8K4upkH1EKkKA8taPyPIiudQ5g3_-V5FxEJrg-xWMpnI_Hrqa4FXTvT2aQb_VaL1pPe8lMUOqEbT07Oh9QGoBHsVZcInjyBt619jXKgyxMqKD5xyYOtXuwesWAQs2FUfcPAx_Nurue7K0OCbCSGMujxRcy84EQiQduwr4AYFDUE48t4_NMZW-s47vFaLbO18UFrF0008LlJawGZXNeaOJAeh-AP8kxLVF7GlN-MT7S5ButPGEp7NN54b4Dm62jObyZt_u6wZUlFIvOWmMD8ac5DBGOaqZpKbW8N0ibKtmfnVQYer6Mwun55eoBVa7-k0xQC8dDBkm7CmQCV9iC0dkn-YQzoo0NJTIeQPS9zwdxNXgU1U5U2CA2GIaCs9TyRDeVDXxamHdUOAjy2yP3kfxIYgZMHHtZ8Ag6Wm7BVjOFibQyyCHtZ03eMa_OtKwcEWtUGtVd90b1K9uP7DDtCpd4vV3PG73cGvZgkvrdUrH1_QZNnMBGH-CAztDUmocNvPZZK1NVXCaGMCr96brCGFlPLQ31_cVUa5cwpS4gcg2LanjoWZvppLZhslRwDPZKTOf2FdF2J1HIKbHma1cPAxVSln9cv9s4S58N5J22CuzD4sOMpuAMk53qSlvw9x3l5zYm62_IllRbanBI7a1PwFJcOQQgNXUSMw-gKLX0xmiYuUn7yPoH5Uz3yN1C0wbQq6PDVNAJN2LEVcBEXyuDvIWINOT52fmDDwmLXO4E5nalTQg1r2-h-l7WmQqD3RCOHHyHybGSM0qnWq1OJAKVbW3_MvWn0uyGuZZUIAifMKEwPGBYZam9-Hxl7mEXuAZ8lZF9EjzvIgc1-0kw1WN94MU6gOVrFPhCsqRUrALhG0y6-MPn9i-iFEb96LGCHyd1HGuZBVu1jrSIphIY2rwuNoCgh_QlePRMc0ftBP6axQS4av2otzmTnmhxc1Tk1YRAOA0V-VZqb3uLcGrO_3mToKtfRJFsAL13jkO7_PCMet5SMvT23iX9xDDmc-F87ONJCPom2sqPNPnGls1ZpMRPXgZ5NKrQxPq2Cjy_6lHdjcj-YBmkrczWQxVkrV1AeLTEoT37OAgjqbPYb4uUFaYLiKWW74OwWkPYNP0ZNXLH-9cYnyDUqiNMjOHsWG8Jvw3fgqrNn6gbI_RQw3drz6yXZfKlr5iiIROX0N-_8DJO3H48k6d_NA1DCbOyMQBH3-jMw4wqPWw2Jx3advhvZEpSD3DU5l-9XVA&v=5
+                  - paragraph [ref=f243e10]: 大田区の住所入力で土地価格がわかる
+                  - paragraph [ref=f243e11]:
+                    - generic [ref=f243e12]: 詳しくはこちら
+                  - paragraph [ref=f243e13]: かんたん不動産比較
+                - generic [ref=f243e14] [cursor=pointer]:
+                  - link "広告" [ref=f243e17]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A8tN62kAAEkterKJxMDVr_7fDFEPMO46j5sKIJ0u9m9sv1KM6WNf3MamLo9bDuuWAXlIexxicOwvIDTfdoyWz7VagJxBXpwixLKacUqiWEXuNUPkBLjlpTr58nA37BSka1RSd9bTOfWs1lhDJoD6A3rxgJV03mLgkILYaY3BxWEDg05dcPp9zKgNdlp2_qCTTXcvytqOMEvJpBxG3cnOH2fWv1VDGhhuLTVcS1NVqb1oNWEKvRGW5KR6stOHJ9sQO3RST2zdd1VpKEwl606-s8T20iAnZAj-5TdquOJJv1DDhS9A2qE&o=A8tN62kAAPXHo-TOOnXEfogl-0J8UEO68Xmmiw64slrz-rqqVBwxjpWNBBXkjM0_8n7Us7U8f1grwlTOk5UjhPWggMTEo55D03oysO1hZ_velUnviwfyeeLYAGabZg_tkxo9hi8HnJbLinfxfDblE1BF5qZf0p1LE05UM4L2-hFwINxxbBmA6hlIKY6K0T2JAfBAqYl_FoIpVcKbjV-Jf7VKDs89_yvGxXu0GXLsE_ggDPXxmAL1jYPw3VNgiFxof06FZAt_Qtl0dJ1nNT4Xp4VJMMaZIg
+                    - generic [ref=f243e19]:
+                      - generic [ref=f243e20]: 広告
+                      - img [ref=f243e22]
+                  - img [ref=f243e27]
+              - generic [ref=f243e34]:
+                - link [ref=f243e35] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A8tN62kAANnzTASxRTUsw6rxObMDxnNEz6QK3Z2luVWp2fesCaqOkApgni-o6p3KM0cmYjVGC1qf5B547Texql4uDyUu-LLghkBrFTrLvq-0ewJVXtwWxR0tia9NorCfheako49DwhQ6I5TbxTh_ENo4LPAX7_Y77rpznE35LYmACJJ_0DjSnacxgudEMLmCOQy1tQGDuaEHBuhDDopmkA1mxwnf8RuniR97g6Q8ex6uPWTSNs7nUdwrYfQj2Xzs5QXPZJIuAosF0soMaHaRUcqdoPnaoGqpyaTMW0ZFJHMZxrvhfMbzp3mRt_oxwfcQAgtrsfRfRKsSyzHMjx2ugZFp8ax9nQoL-xOCy-w8Y9hZvoobbQWlILkT7HMjjXTBK6nzEKJCSjaPAdaraU7LyN07ND2EuyVZtPEre7Bl7kK5GVyabXBUNBy0Aig4pimhLvZ8tuCilgW4BA4hb-8JfsJWCK9oqUGw0w8GAbLfs60q_1l1-muop140AbLD-GAuMH5TPR9b3hpbfBb1OtpxH6yDX4QPX9KoPFwrg8NFb_sCf98qDB3EzSHYuvMsuqMDAcp5honqGIAbVRW1guF32UX6jaojtLg9FU0YOoYj-tI1G-r5NSZVIzbM2pCTh2vjqLRJDnml_nAWNAnZFzZTjZIGHd5cr-cSrV1mXtR0DT8AFKR7g_Rekx-60Qbal_0plWpRNGaYDoKZa4YoHKmeX7Xpyw04Mr8fdgQJjj4USSUD5TeRc324gyFomcJSMl_98eUh1B5NDhD2rjEMUuiQnPkm367nkIf1uHYopZwXz0st7GRX0-5cjzMNOd0dOKoF1vhC3MyfUncuCi0N7JS_lu2wr2h2Xc-Ryzze25MXZVE8s89VmVBs_a_ra0kZWy6pXT75r08PqE-t6Dm0KHD7vHFzWa3DKlOgSc6_d1Y4cP49uhjXyp_bQreCsTyMhZdIjgn3Clf1It0j4I07d1TcvI8Gca_GILxVnFq268b6CNY7rS5T7hZ_LFgDzIMYCjNskPDVAHFEBrDZI5cFG1N3J7uYmauv7UhcOCStuZjWMVZwcj2NLqP9wbLHEanf6S6VM1Htn1EuPX1INezM6Xz-CDstKAUbxlgWtzTZWehpPWJo9meHYGfaUE1iSU8DJK5dTZyjw85UOkHbM22yHMRXxOXw8WYGkgqdd6OoRcFI5sXWULaqP2NWMWHypatxz-9W6476XNTAedQImbPBYZQIgYsOv55V6JRJOXPDL0oEyzjStACPB3RAVJJAlKXifJH9Fpq1hRhsqGVnW1S9f9PsMyF9l7BghzNMzniINQT9jk6ODVvlv8OnFw0xE1i1ny3SNpsk3VQdzC60ML3Tyzea73w_82GphsnUXnOgwECAvJp_nBqChpSo_SNwkI7EOc4hUE2XC7Ih4r0XldW2ZXeDpt37HWY5m08ZCMtWsZfBFMW36DDaahz629fDcJNElhPuVkcxlc-jRJxxsA3aw2qJq8Y3WH9pogWFtvqwHyfUdOvER3apv2Bz2fLt8FT1ForWz-KG6INhvcyyev95f6KHnqDedsJAAILjv84xQQHJMCfeKs-47g&v=5
+                  - img [ref=f243e36]
+                - generic [ref=f243e37] [cursor=pointer]:
+                  - link "広告" [ref=f243e40]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A8tN62kAAGHO5N_Oh45ALXBTtoNXbXDnP86nFqi-TOFgU00r47tTameZKKKzoafUfYR8IaeiUmb_YX7DBKJR784GQ0jnhQ1oZsD3BoTGDosycoE4Q2ukm-763tkFo-431yd3yf3DjlCVLoKIDsBsRuZTGiaH-HkCfRjfT504FZBnJpjpEHcSP8rLbNAlL4kx6ixoH9vDN7FneXYvPN8NkBPF5KQ30Esowf9NE2knAfFmPRECWSZ9aPYKAAeKGQgUznoTzoj2T2wxbR9T5niPXxCrm-hJRZW8Bey3av-Vc9hJVQhgH10&o=A8tN62kAAJt-vzGu0Z1xqyLSfgbdr76bW0sG16cMflVTqQdqOjCRpoR8YWDYiBghloGlfGTHHrJNXLyfIoIX1cQmNz_E2I7fdBFNmHl10QkKmF9dggflM7jrQPz9HCMpXenWkbpGb735SxUDh4AhQzXRl2yyZ5mAiHCJ2VH4f3MQ5ESUbMgGuBDwuwon47mXySg2-kI9rPTEm6uareyOs19dOS4aKC_0RIJwZQ5caVW1qmJAvZzFR5qVzEb1CxNvLFPbCDqKCPs7VBJwzS2RNT7MCjSbZw
+                    - generic [ref=f243e42]:
+                      - generic [ref=f243e43]: 広告
+                      - img [ref=f243e45]
+                  - img [ref=f243e50]
+    - generic [ref=e891]:
+      - generic [ref=e892]:
+        - generic [ref=e894]:
+          - iframe
+          - iframe [ref=e896]:
+            - generic [ref=f242e6]:
+              - link [ref=f242e7] [cursor=pointer]:
+                - /url: https://apm.yahoo.co.jp/rd?ep=A8tN62kAAG7Gl3kKzKKlobzAD751vDIMBbw0H17vXs7WU-n8OPXORDyp9CyyqqJ6-_xcjU8WLN9EV9tiKGR5hdRxPqRKf4JluzEh0npDkeDmd-MBUk6L8gWP8THeoECybr07iedQB_vcAUt0TyEctP1XIuPh1u_WQw4MN16ObPNBzHSQ6bqgUNtQoZC-5EYfcXRwnSNLQmBSnAIBweo55lTsbMmcg4SmnyNjeRN8xwFgs0epEvmcJEBBklg-v4IKchj4fIoNAiP4ds7DdBhPGaBHIjhMnZvGG9nzk5nB3f1eQCoRU9cLSD6WL_QZ4XYfG9alsS6UQn_2jpaNwAVdqcirGkmxEw1ccgx56HqnhYQyJoPl5xRlIZxLUIWXb6pMwnJnJzHfkMywrVPQd5IOT5vDrXe226Z47dsodR5P4SHRx-2HOV4COb1KUPMHRNY_q48_pTks_A5A-y_lC412f8bbkJemfSy3pvRGLPAWraVQj7YhSpc7c-62uCczc34z3Gx0TGX-tYqMbm525e76Web_iRBcu41YYXXfb46O6Y_9JIxU6eF0cbohedU-XMIGuCmio884fXLZmzG4SvcSXmDju10H6odCOQeIvL__ROoNZqCHR-grABxBPUNz-eFz75x2LXQc4nKVz5joK_2ne2HPXJizZsdc2YqSG-y1WhQQ7x8MBHI5uRJzjc_Xaq2SqR4L8DTZ8si3mumc_1j9YWNhH7SrToGto01YadodGiroqzGuHrJVpxNCQEZmSPCrFk1JguNctNcW6PRpjpOMuULhZlLzBbc4sVdPZNJLc5xSj7As5CEhpDQ1fKeEuFBYOMC_ke_m5jjvBF9UAH993u04f8oAtuJ1W-v_Qz441DCqme8FqouGEGa72NVQAvaDRW5ue1e8pgWTGb7BNRfF_3-1d-80WNDaXl7FyqT1zMPgwckp-YGrQBb0MwDnXOSegj5pvfjmq9svAJUuu2OEydDRj-Hh_pHH_d3BIar8YjBZOAaB-cEa1EdHsFBpTfIw4o6545fe0LALxIidSjS5mAnlTk-jj6BTLdSKhUKJHJtYbLJZt4wwssiDX3QbPY-OT-qbjgxTpKoZ2uQcteuJJbYMZlZWamLm68TofWXXSUQvsvARLa255FJMOiw7GvlOCESc19cGNeJHbGy9rn-RfRLWtL_AFrsptaqKvDnUTNeBRm0ysDhCB4IkjvSGu5miqVFGLAOVbeXK54P63aDWNS0T-bXsDylLlKUs4Qhjfj9Vxzlk1sQ7WyqdTYMVCyOOagILlDQMVreeriCDktgEx7v_FwaZl0wDQkniyz-vbt2YXQjNeb-P1_pdYyXKAGn66tWS9j3krsYmh1bRxkC84n3exYCRjsI_S2tdfSTo5gvLaDKaFXbiDdsqgx6pyR7qpHf_gYMriCVvwP0sqem5mLy_sc8z9a86yw1jy9Eb2OxIdmZ1QJw9rtCn97RoqwJMs2EksgrXA4SNuZC2ox9DzDW3rPYfsYYz4oe9w07LLsxlRonSjbLH2jNHtAxm5cWfZA3L_orW-PaSywMpPZBnBKaMNQWIOJY-iaK-V3CoG15yEz9WGQJY_no8E21NHw&v=5
+                - img [ref=f242e8]
+              - generic [ref=f242e9] [cursor=pointer]:
+                - link "広告" [ref=f242e12]:
+                  - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A8tN62kAAGw77SIszNtLsyqDgY9H9MHcQynIp3bXd1wTmRGzFymAcp5MIi3w5j1DDQ6s17UOhj5aysc3O2E2qxbk4NIpOeXsiMvg2BlsfpLOI12xk7VMk8Dv9slq5AY2SmWGrtaN8KLLzFqFwzLEg7TmUTIeVJ48tSQjf3LHSDx35tYTTfaO8Qx3sPSzj8phu3XhBNwShSkuO0jFYq4GnYILISQgC9NqkPb67MSwjShLsNQeomMyATzNkG2MTRWwDBoobimLd6CD_gT12RVaxwclPvSKHNZJLSCalAF0IWkMceTWxWW4&o=A8tN62kAALKNwi2WgC8McDqXc2gGfhTOmM3ccR3zC6K-JlF_4TWDc8DW0SlidLpFjfKWcrkQKM6rKjCzAcLVynSQCHM0RO6CGFJokbIW6jDLDG9icDlQt0jAl5Xu1dKT60wpcJS78Es5tnQIMNp3aRNpman5DrFpjM2a2Dnxn_RdNFRMqs4CnugIpJyg2ZDWd2F6TeFvrK4sHYjMNLNQWMIwp71qLxRvNl9WAnxnztKiYLGXvNckStfcFUWrriGS3FbjTnpe6PGeghPLGrSsSQF6oqp75Q
+                  - generic [ref=f242e14]:
+                    - generic [ref=f242e15]: 広告
+                    - img [ref=f242e17]
+                - img [ref=f242e22]
+        - generic [ref=e902]:
+          - link [ref=e903] [cursor=pointer]:
+            - /url: https://apm.yahoo.co.jp/rd?ep=A8tN62kAAP1XoKZB-XshYm5NwnWn-xBNNJ8lJ_6KOvTLhUZjBG5hYzSLi4KCYSR64aDYr5jTYj_G7mpxjFuHIpgjA8V8Uw0vmtb_kXjxCRbnQoRTmr2hCGRPN0AKtbU2y_tHzR6uWJwW7MgU0EDw_VOtOIbL91LiJdaO2ESvs7dshi43J9KJB0yg2nddKr68cST79owesj0_VCboReKhUuyOWMtuVP40ct5mLo_KuXfksvvpKuQmnp8MI788pQ8yu8E2NPLKwrTz1bpnP_a9Aw2G0LnJ56FlDIZ0J4VA8H-_-DhxoyzazmhNKrsq5qfJz9HDN-vHMb6j7iIZ25y9s9LVbvk_f_yVHFQJ4THE0BE_ZRDYzeA98T8S3OkyXVekWN2a6VJcl-KHJqC8iVCyPhh_wKE27FWtuC_p021t1tCbmk4cVQolgSUxGasBlr5Ffz-GjvtKFciSIby0CswiVLQSp_7WGtQUgg-6VovsfG_BPkw8OmXcUIqTDVEiT6aFsSjLLfXkRtf4JY8Kmdi9uMVPLkzXl-9NvIkzU66CI5LGZaqvkn0ykUyiDRz2L6BhSlejv9w0-4_HR1ycx8klRat1KQQd12I89VN9reov6x_Hw0behDl3M2-geOr5bvcLP6f93mtadbtnmFnvchhyMVtEuoVqK8Qg_jXPL3MVa5lA_iRSmzakXpdklsptgvNbCRJQUg0_WY729sdolxXybH7i-y8y7yFiycqdu5GYebVcIyLnhtyfIZFpwzQ-Osb2XeNO93flLnQ0sIzltigDHT3hrMWe3T6_991tVLlhEUREM2q4eN9T1CyP-kC54El6p2usNFxhaqHK2pyCUCK1ftazM9njOrCfXuqRg_NxsQs2J04VEc1r2fRI0uLmhjJBv6Mru5eQZvnvQ6dSGWA5wPP5ZJ5VEFlDzda4SiX8RSVRcttjJVMbkpcHNVHi2V4jykviLgxIsDSfUHsVqcW45WVpDDc-Te7JkgBd1xPcLvRM7p1NrY0s2aUNyUEK9PeZ03mAlHAQge8nHP-MP-aE2yp7Qq5uAOU0WML21zpnz4cJprIe53spBJOE9zB6DjDYQ746WypFhDNRekLSqPgZZ11R-zoVVR9vvkezxmnucao-EMnoKlKDOoiMqr7pnaUK5DnE1q_u7uuHqvarWv3GHmIKWUxei7hZ5YeciOaO3JmWghsyvHp8UHZMLkiw14pEqpii7WYJJZlq0bJ4I3cE9b-RCUCOwaXCqBQHnNpR-NdMJjee19JGww-3NA4DZ7rzM1VWuxA8h_OPOxBVeHbXrCcVyzptZS8nM8HdqYn7I2dxnEPzPCnN3qlNGklfWVP_xwCkrTf9quvRRxhPbg8XHHXAWPoX24KixPmXaGpKi50e_uHs3bk1-WTYst7I_QX3y9mth7AQ4CGl9_H7n-486pyBsLbeWX5jA_KEaD6cJL70koHxVRzOW-qDJtbQApSkRBOcvNzLljBO5BbJ-6JMuwvu8eOn5fV-3uSb_uFaGeYifFdDfBladqas30Is-wtrYCs&v=5
+            - img [ref=e904]
+          - generic [ref=e905] [cursor=pointer]:
+            - link "広告" [ref=e908]:
+              - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A8tN62kAAO22OvmanCLE6p0WgBRnISBUXQeKf16h8Sxe-sx-UIVrKkM_1XYBJt6aBc_lqehs0ZN3oGJ13T08CnlBJraTw_aUGHozXqeJdEdnD0xFL_LnCkgOZmfupQdtCgLMKfU0naweJO9svxuG2eFzQeLZhFeGm_PxtCb5dfW9AsX6Bzo-pXZWjiwUespDFQ_dzLtPErdHW8gtgyVqJzyTAoL8FHbPYMSkyp2Ru0i6zX5zy1IoyD3du7r-Pb0aiwbPK9di4Eu1fihW4KYGoWuxNW-vi5OvU2LuRsibri16RQyy-WCK&o=A8tN62kAAJr6NyRPbbHK9cr-HVrHpjKZMc8iKu2GOje5-RYtYvXcSK_3xCXqOMcOVQnuQ70gvdKC5Sm48vHd17Do3ati1-Tz8lvfhJf-U9bUuKHFxlO1ItqJUnJfS8-qwVXsX0VERSgJuLrhMwgjddRBIM5I-0uiCcDGt0MxI4phxcbPvHWqayEh-Rh3xB7SLzfxiLYNw3kBQlqIWrsyIA_Shzxt_tPDcP7qI_lfRjhzi820znxk2lopG22E-_jbBIJtcP1Eg1MlNFeTItn71V2i4eGTcw4
+              - generic [ref=e910]:
+                - generic [ref=e911]: 広告
+                - img [ref=e913]
+            - img [ref=e918]
+      - link "占い師にお悩み相談" [ref=e923] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_ca-top_000
+        - img "占い師にお悩み相談" [ref=e924]
+      - generic [ref=e927]:
+        - generic [ref=e928]:
+          - heading "カテゴリQ&Aランキング" [level=2] [ref=e930]
+          - paragraph [ref=e933]: エンターテインメントと趣味
+        - link "1 先程Xでプリキュアの前にやってる番組が苦手という投稿を見ました。なんて番組なんですか？" [ref=e936] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327379146
+          - generic [ref=e937]:
+            - generic [ref=e939]: "1"
+            - paragraph [ref=e942]: 先程Xでプリキュアの前にやってる番組が苦手という投稿を見ました。なんて番組なんですか？
+        - link "2 安達結希さんの母親はどんな理由で前の父親と別れ、現在の父親と出会い再婚したのでしょうか？" [ref=e945] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327258167
+          - generic [ref=e946]:
+            - generic [ref=e948]: "2"
+            - paragraph [ref=e951]: 安達結希さんの母親はどんな理由で前の父親と別れ、現在の父親と出会い再婚したのでしょうか？
+        - link "3 ミセスライブスイートルームどんちゃん騒ぎって何があったんですか？詳しい方教えて下さい。" [ref=e954] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327378742
+          - generic [ref=e955]:
+            - generic [ref=e957]: "3"
+            - paragraph [ref=e960]: ミセスライブスイートルームどんちゃん騒ぎって何があったんですか？詳しい方教えて下さい。
+        - link "4 コナンの来年の予告ってどんな感じでしたか？？今回の映画微妙そうで行くの迷っているので、映画観た方教えて欲しいです！" [ref=e963] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327100557
+          - generic [ref=e964]:
+            - generic [ref=e966]: "4"
+            - paragraph [ref=e969]: コナンの来年の予告ってどんな感じでしたか？？今回の映画微妙そうで行くの迷っているので、映画観た方教えて欲しいです！
+        - link "5 ドラえもん最終回と聞きましたがアニメドラえもんが終わるんですかさみしいです" [ref=e972] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327305364
+          - generic [ref=e973]:
+            - generic [ref=e975]: "5"
+            - paragraph [ref=e978]: ドラえもん最終回と聞きましたがアニメドラえもんが終わるんですかさみしいです
+        - link "6 なにわ男子の長尾謙杜についてです。昨日のインライで、長尾への変なコメントって何が書いてあったのでしょうか？？？" [ref=e981] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327309243
+          - generic [ref=e982]:
+            - generic [ref=e984]: "6"
+            - paragraph [ref=e987]: なにわ男子の長尾謙杜についてです。昨日のインライで、長尾への変なコメントって何が書いてあったのでしょうか？？？
+        - link "7 曲名わかるかた教えてくださいTikTok？とかで流れてくる「電波電波の怪電波宇宙で交信中けんぱけんぱで1000メーター」って歌ってる音源です原曲なしオリジナルなのか原曲あるのかが気になります！わかるかたお願いします！！" [ref=e990] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327253034
+          - generic [ref=e991]:
+            - generic [ref=e993]: "7"
+            - paragraph [ref=e996]: 曲名わかるかた教えてくださいTikTok？とかで流れてくる「電波電波の怪電波宇宙で交信中けんぱけんぱで1000メーター」って歌ってる音源です原曲なしオリジナルなのか原曲あるのかが気になります！わかるかたお願いします！！
+        - link "8 新作トモコレについてですフェイスペイントで前髪だけ描いたんですが、同じ色で描いて馴染んでたのに、仕上がりは色は違うしめちゃめちゃ浮いてます皆さんはどうやって馴染ませてるんでしょうか改善方法はありますか？" [ref=e999] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327237685
+          - generic [ref=e1000]:
+            - generic [ref=e1002]: "8"
+            - paragraph [ref=e1005]: 新作トモコレについてですフェイスペイントで前髪だけ描いたんですが、同じ色で描いて馴染んでたのに、仕上がりは色は違うしめちゃめちゃ浮いてます皆さんはどうやって馴染ませてるんでしょうか改善方法はありますか？
+        - link "9 日本三國という漫画（アニメ）が気になってます。あらすじを見た感じ日本が舞台だと思うのですが、話が進んで他の国や世界が舞台になったりしますか？個人的に日本vs外国という展開は見たくなくて…笑ネタバレしない範囲で教えてください！" [ref=e1008] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327119809
+          - generic [ref=e1009]:
+            - generic [ref=e1011]: "9"
+            - paragraph [ref=e1014]: 日本三國という漫画（アニメ）が気になってます。あらすじを見た感じ日本が舞台だと思うのですが、話が進んで他の国や世界が舞台になったりしますか？個人的に日本vs外国という展開は見たくなくて…笑ネタバレしない範囲で教えてください！
+        - link "10 特茶のCMあるじゃないですか？あれなんで特茶って言った後、膝になるんですか？訳分かんないです。" [ref=e1017] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327292564
+          - generic [ref=e1018]:
+            - generic [ref=e1020]: "10"
+            - paragraph [ref=e1023]: 特茶のCMあるじゃないですか？あれなんで特茶って言った後、膝になるんですか？訳分かんないです。
+      - generic [ref=e1026]:
+        - generic [ref=e1027]:
+          - heading "カテゴリマスターランキング" [level=2] [ref=e1029]
+          - paragraph [ref=e1032]: エンターテインメントと趣味
+        - generic [ref=e1033]:
+          - link "1 元スイカ 元スイカ" [ref=e1035] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/111737151
+            - generic [ref=e1036]:
+              - generic [ref=e1038]: "1"
+              - generic [ref=e1040]:
+                - generic: 元スイカ
+              - paragraph [ref=e1043]: 元スイカ
+          - link "2 オーケン オーケン" [ref=e1045] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/122559667
+            - generic [ref=e1046]:
+              - generic [ref=e1048]: "2"
+              - generic [ref=e1050]:
+                - generic: オーケン
+              - paragraph [ref=e1053]: オーケン
+          - link "3 しぃ子さん しぃ子さん" [ref=e1055] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/102015110
+            - generic [ref=e1056]:
+              - generic [ref=e1058]: "3"
+              - generic [ref=e1060]:
+                - generic: しぃ子さん
+              - paragraph [ref=e1063]: しぃ子さん
+        - heading "急上昇のユーザー" [level=4] [ref=e1064]:
+          - generic [ref=e1065]: 急上昇のユーザー
+        - generic [ref=e1066]:
+          - link "元スイカ 元スイカ" [ref=e1068] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/111737151
+            - generic [ref=e1069]:
+              - img [ref=e1071]
+              - generic [ref=e1074]:
+                - generic: 元スイカ
+              - paragraph [ref=e1077]: 元スイカ
+          - link "******** ********" [ref=e1079] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1212646397
+            - generic [ref=e1080]:
+              - img [ref=e1082]
+              - generic [ref=e1085]:
+                - generic: "********"
+              - paragraph [ref=e1088]: "********"
+        - generic [ref=e1089]: 更新日：2026/04/20
+      - link "公式・専門家の回答はこちら" [ref=e1092] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/expert/
+        - img "公式・専門家の回答はこちら" [ref=e1095]
+      - generic [ref=e1098]:
+        - heading "カテゴリ一覧" [level=2] [ref=e1101]
+        - generic [ref=e1102]:
+          - link "エンターテインメントと趣味 エンターテインメントと趣味" [ref=e1104] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297513/question/list
+            - generic [ref=e1105]:
+              - img "エンターテインメントと趣味" [ref=e1108]
+              - paragraph [ref=e1111]: エンターテインメントと趣味
+          - link "芸能人 芸能人" [ref=e1113] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297558/question/list
+            - generic [ref=e1114]:
+              - img "芸能人" [ref=e1117]
+              - paragraph [ref=e1120]: 芸能人
+          - link "テレビ、ラジオ テレビ、ラジオ" [ref=e1122] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297526/question/list
+            - generic [ref=e1123]:
+              - img "テレビ、ラジオ" [ref=e1126]
+              - paragraph [ref=e1129]: テレビ、ラジオ
+          - link "音楽 音楽" [ref=e1131] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297536/question/list
+            - generic [ref=e1132]:
+              - img "音楽" [ref=e1135]
+              - paragraph [ref=e1138]: 音楽
+          - link "映画 映画" [ref=e1140] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297543/question/list
+            - generic [ref=e1141]:
+              - img "映画" [ref=e1144]
+              - paragraph [ref=e1147]: 映画
+          - link "演劇、ミュージカル 演劇、ミュージカル" [ref=e1149] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401215/question/list
+            - generic [ref=e1150]:
+              - img "演劇、ミュージカル" [ref=e1153]
+              - paragraph [ref=e1156]: 演劇、ミュージカル
+          - link "アニメ、コミック アニメ、コミック" [ref=e1158] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079048392/question/list
+            - generic [ref=e1159]:
+              - img "アニメ、コミック" [ref=e1162]
+              - paragraph [ref=e1165]: アニメ、コミック
+          - link "ゲーム ゲーム" [ref=e1167] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297514/question/list
+            - generic [ref=e1168]:
+              - img "ゲーム" [ref=e1171]
+              - paragraph [ref=e1174]: ゲーム
+          - link "オンラインゲーム オンラインゲーム" [ref=e1176] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401152/question/list
+            - generic [ref=e1177]:
+              - img "オンラインゲーム" [ref=e1180]
+              - paragraph [ref=e1183]: オンラインゲーム
+          - link "趣味 趣味" [ref=e1185] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401176/question/list
+            - generic [ref=e1186]:
+              - img "趣味" [ref=e1189]
+              - paragraph [ref=e1192]: 趣味
+          - link "おもちゃ おもちゃ" [ref=e1194] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401164/question/list
+            - generic [ref=e1195]:
+              - img "おもちゃ" [ref=e1198]
+              - paragraph [ref=e1201]: おもちゃ
+          - link "本、雑誌 本、雑誌" [ref=e1203] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297562/question/list
+            - generic [ref=e1204]:
+              - img "本、雑誌" [ref=e1207]
+              - paragraph [ref=e1210]: 本、雑誌
+          - link "占い、超常現象 占い、超常現象" [ref=e1212] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297564/question/list
+            - generic [ref=e1213]:
+              - img "占い、超常現象" [ref=e1216]
+              - paragraph [ref=e1219]: 占い、超常現象
+          - link "懸賞、くじ 懸賞、くじ" [ref=e1221] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078645004/question/list
+            - generic [ref=e1222]:
+              - img "懸賞、くじ" [ref=e1225]
+              - paragraph [ref=e1228]: 懸賞、くじ
+          - link "伝統文化、伝統芸能 伝統文化、伝統芸能" [ref=e1230] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079048291/question/list
+            - generic [ref=e1231]:
+              - img "伝統文化、伝統芸能" [ref=e1234]
+              - paragraph [ref=e1237]: 伝統文化、伝統芸能
+        - link "カテゴリ一覧を見る" [ref=e1239] [cursor=pointer]:
+          - /url: /category
+          - text: カテゴリ一覧を見る
+          - img [ref=e1240]
+      - generic [ref=e1243]:
+        - iframe
+        - iframe [ref=e1245]:
+          - generic [ref=f241e5]:
+            - link "石丸伸二、大道芸人を目指した過去告白｜“本気の恋を忘れた大人たち”が本音で向き合うABEMAオリジナル恋愛番組『恋… ABEMA" [ref=f241e6] [cursor=pointer]:
+              - /url: https://apm.yahoo.co.jp/rd?ep=A8tN62kAAI6nkaUvtOBTYRr4VBMd4dp_Obx_CyQyIwXYRrk-1e7CvUELarCxL_McV3b3ehkUKAxuMZh5AgZAccEiuLT1fl_njIRZqc8Cgzy590XJBmFs5H7BEDrbHR3kra4KksBJxXMP8T-rm2qzQuqWS2zJPGMjFAfYnNPkFF6_aGdCEKkiDaqgsbVkZ-M6OwgrM1xeuD9bOiGDbAe_I_HqTCW-lKe4K-Izj8sFxAAG62mp1WXJmcC1WxJALtSi8wuQmGASoCKqIO1M9mkKCsELggChD9pWhgYoNNV3mPGVGJXHFiruKDkCO8HzoQXVQr8T3mreN3COZl9xSCSb51wzwVTHat35dCTQlPdMbLxld2JI0DyqS_dkFshWhp0-ZPmRWq5bwQQXOxJArxRJNFPAftTMoDyuU3WEqgWFCkgTZf7J7oZAm0jGx8vVoXlIXclJkv_jrKiK0gS5-C5B-4hyQ67vNL4hAJ7_Nwbmk5-twaP5bX-HV3l-4oewmZegDmWgcDVoRuTdr2EVtyuTFp7iH7T2uliM8meJqoPFrZwt4Mm-oN-U_WpbcH8OIDUxzxxHlz5sZduxfBurkHlhOdh3OEhU_KN8WFD-Yk6lA0ljkP5zolc8MLLtaKBkS14YsHStFOZrWYYO9oy7gcQsUI0x6Mo5mTXFYfLj5_30CsI9wUUWl79QnhcUitSVQVLdK14FtxsmjFaQ0m46KkOnbY_QbpmwUl_Q3k1GrpzRSF-UUkdsN3q8OMgcaN_xZpMsffHwWbJHdu1dK6YHteHe6aujjJKNsaRmpfN8Oe0U7uIOW7YyJxVe9CkW_6tkFz685jKbc5VxR7tmESRNwSY3zK8WTR14X8OnHgtlH326GASBmBfcz1lCaYoJm4yTFTj_Oo3M9mzpvMP8aujgiUEnZHbZKOa_aX-v2In4fpNqvoH2BmFyEA0fL7PT4m8tySGf055P710gjkvfjaRccaSjDuf9Z27rXM578Ds5aGYWvSBIDQ6_ogaay7h2IRVHqp371mgz73O_GZ4d7oSFayiqQby60fX0ep7fa8AFjEdvOotoKsOJA4oTeFmJaIA7-qbGUm-50x1M0cCocEudo4QBLd3R3o2ylj4-4i_8ZZaYvtO-iQQNVaJl7mgHm23xyd4V0-i1d_x7WmDDv828jom-meC3SbmTSbR9IPb1QA9urqpg_wzEkIMykwlmeaRJm6KVIqLBwQIH6PRpwwwETHx9QGEtSgfd7JZ79mLrb6PYHPhaMzLtKDE6_rWhZ4fee-iOeJ4DVIhjkUftcOoj2jhcV7eNqF0RPAVExWPD4geia8w2Ug1Tgxv1ZLsteU4XDsePbeHMqoMEh0uq0z2wYwNI8BHkkMMPtlAAO1E-ar4D20UKamP48XLq4IDQS5-NwPPhkYXWKFkbTSKe2Cq7WgpqLn97E3k&v=5
+              - generic [ref=f241e7]:
+                - generic [ref=f241e9]: 石丸伸二、大道芸人を目指した過去告白｜“本気の恋を忘れた大人たち”が本音で向き合うABEMAオリジナル恋愛番組『恋…
+                - generic [ref=f241e10]:
+                  - img
+              - generic [ref=f241e12]:
+                - img
+              - generic [ref=f241e14]: ABEMA
+            - generic [ref=f241e15] [cursor=pointer]:
+              - link "広告" [ref=f241e18]:
+                - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A8tN62kAAOQjJv8q81iF7YDcSo75TAmO-nomByCtDDrjpEGDrqFrqL6XVG_TCNYzhj4d3n1bMh-aBr3zNq5JDD7HD_jJAfgEQeWF1lpRSfQHsokGiV0ISrJiR6l4tcC1ZiYMPYTiCrwajaVsCi4aEf6nNmUv2BsDOMQP5z4bXSH8obDB2rWEnPhREASKcTYErHnHMs1FXrlixEXR4xy5amkwcKyo3SyWHoUbn2qmprB5bnLXk9-mNjhzLhlhsmu6-b69shO8-uDg6t_f1z5TJ2gMLRD1gpiYmDWxzdfdwsH1avGqIKfK9ImQXd1J4EaW&o=A8tN62kAAH1e3wEhRG6g2rmzz4O1lTDJzvC0XhOjSoSl4Znxffbibckd8Lbua7c2JP5x0vrhd5T668NxTrd-MYhxgNJn_k32heu38FNPk3E-Zflw3w9UcJ7MyJm6NoS38Fy6wdTjtjXs_kE9bClfcvMv3V3HdfKqsVDUx1wpjKJEOYubViRmxzYca2crSMUYNTTJD_W6tIH64pfUtxkv3HQWq0UdHjPxMYYn03KDcphX9ksEI4FV-Q72A-yQXh5AuxGfITnRFZ19Het-9u1KxD41lEo
+                - generic [ref=f241e20]:
+                  - generic [ref=f241e21]: 広告
+                  - img [ref=f241e23]
+              - img [ref=f241e28]
+  - contentinfo [ref=e1247]:
+    - generic [ref=e1248]:
+      - link "Yahoo!知恵袋" [ref=e1249] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e1250]: "|"
+      - link "Yahoo! JAPAN" [ref=e1251] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e1252]:
+      - link "プライバシーポリシー" [ref=e1253] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e1254]: "-"
+      - link "プライバシーセンター" [ref=e1255] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e1256]: "-"
+      - link "利用規約" [ref=e1257] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e1258]: "-"
+      - link "利用のルール" [ref=e1259] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e1260]: "-"
+      - link "広告掲載について" [ref=e1261] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/?utm_source=yahoo&utm_medium=referral&utm_campaign=ysa_cv_link_chiebukuro_241001
+      - generic [ref=e1262]: "-"
+      - link "ご意見・ご要望" [ref=e1263] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e1264]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e1265] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e1266]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e1267]: 画像：アフロ
+    - generic [ref=e1268]: © LY Corporation
+  - generic:
+    - generic:
+      - generic:
+        - paragraph:
+          - img
+          - text: 通信に失敗しました

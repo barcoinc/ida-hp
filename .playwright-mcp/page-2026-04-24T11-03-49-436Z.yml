@@ -1,0 +1,484 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - paragraph [ref=e15]:
+          - link "冷凍野菜は生野菜より栄養価が高い!? 技術進歩で味わいも向上" [ref=e16] [cursor=pointer]:
+            - /url: https://yahoo.jp/up_2dV
+        - generic [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+                - /url: https://www.yahoo.co.jp/
+            - listitem [ref=e21]:
+              - link "ヘルプ" [ref=e22] [cursor=pointer]:
+                - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+          - generic [ref=e25]:
+            - generic "キーワード："
+            - textbox "ウェブ検索" [ref=e26]
+            - button "検索" [ref=e27] [cursor=pointer]
+            - link "100万バレル 日本 急上昇" [ref=e28] [cursor=pointer]:
+              - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=100%E4%B8%87%E3%83%90%E3%83%AC%E3%83%AB+%E6%97%A5%E6%9C%AC&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+              - text: 100万バレル 日本
+              - img "急上昇" [ref=e29]
+      - generic [ref=e30]:
+        - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+          - img "Yahoo!知恵袋" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - text: IDでもっと便利に
+            - link "新規取得" [ref=e36] [cursor=pointer]:
+              - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fsearch&.src=chiebukuro
+          - generic [ref=e37]:
+            - link "ログイン" [ref=e38] [cursor=pointer]:
+              - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fsearch
+            - link "［おトク］10％OFFクーポンあります" [ref=e40] [cursor=pointer]:
+              - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8zMDc0OTUvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9hdWN0aW9ucy55YWhvby5jby5qcC9jYW1wYWlnbi9wcm9tby9zdG9yZV9saW1pdGVkX2NvdXBvbg/
+    - navigation [ref=e42]:
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - textbox "Q&Aを探す" [ref=e47]: 貧乏 不安 女
+          - button "キーワードを消す" [ref=e48] [cursor=pointer]:
+            - img [ref=e49]
+            - generic: キーワードを消す
+        - button [ref=e51] [cursor=pointer]:
+          - img [ref=e52]
+      - list [ref=e54]:
+        - listitem [ref=e55]:
+          - link "カテゴリ" [ref=e56] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e57]:
+          - link "Q&A一覧" [ref=e58] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e59]:
+          - link "公式・専門家" [ref=e60] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e61]:
+          - link "お知らせ" [ref=e62] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e67] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e68]
+        - text: 質問・相談
+  - generic [ref=e70]:
+    - generic [ref=e71]:
+      - heading "「貧乏 不安 女」の検索結果" [level=1]
+      - button "この検索条件を保存する" [ref=e74] [cursor=pointer]:
+        - generic [ref=e75]: この検索条件を保存する
+      - generic [ref=e78]:
+        - heading "生活が苦しく困っているあなたへ | つらかったですね | こころといのちのほっとナビ" [level=2] [ref=e79]:
+          - link "生活が苦しく困っているあなたへ | つらかったですね | こころといのちのほっとナビ" [ref=e80] [cursor=pointer]:
+            - /url: https://rd.listing.yahoo.co.jp/p/GU=AxNO62kAAGfqLwqsGDaDiTh5hk2RLE8xBLkoqjnZjTzGuSXu56ZJTBGVQUeP6DqL6On_oK5gh0ANGkTTjBD3shE94mPNR33l1wYBLdGb1ZBAQO6GGsSyYUtx8D0yWaGG1V2wCqOs6wQnM94dz6ecqJygN6ss7S6NY28XYORr60VjTUjofbkhoaO4J7nos-y8l8O_bypGhAd9sWuJ-aNigMqGlM1Fhkc9ccxviaa1aUej4QOLykq1ZYbJHh1Z0agu9vHkkfNU2fkfw3tDG-I_z2hYI_59itPCdEBQpesuiQQEipmXXzjSwQf3VU37eAp6K-e7Q8lMgkJt6UnAzkhX-wyejY15Juu2mhtmCP0MKO6J5jLHr_YbTTsFyd2P4b-x814BW1shA-r-OqFR9pjd7HP8adGHJg_xKYsJMyDIHmC5ahILiLAIvbhIlF6b4rJLGUxrKUwDit5GyO60wotzx07DDdT_qUwXTP_-m3IVhRvRuVYpdE5tqKsR3RKPrbWB6LgDSVLbz2x4oiyS2JR5IHeell6HSjSyVkmgWGi9uYTqEo1HJtxnL5aIKJ00y0BryU64kP5cZPdynxRLWtq5KLBHGM9Bd9QPxfmBWHIieHcxMsz254h0An32UUuPcFSduuZ0vaMC70GivFbS5SU4Wtp8x1ELhI8QAuU9iTysMIfjqZ7P3BpciNo4HEuwCjqQustue9n96TahaAOOlEEdF0LuYmvwfX73CeiLBOcjF5nor2ZcpcGhL42PXRQFIlgbw_9JHmCIsipauxp0j9rQRGf1pReYKGfvY8gFKw5SuThM-tTbxZQsbFX1wiYa7u7XJinhRNwK14BDZcl2DdNGgHpQBEToSaoHvbhBVmtTpvSw2FJLrzmjaVxQXQYEu7uXa75m6Gbv9olQIpp_eZf31VgMarcjMG7RULriXjvVf8FdhTJIiqwqgUtPPcJmmZuvw3dFzhFpyRbafmoHX1HcymhkxMPF35rJwBp0CU6m_GBRe4-ROrORMVS_1cdM085ZQlHL-S-1ZBOFO8b9Q5U1bVw-eOrmgDnvBJnqT4Pc1-hE45xrZ4TLw1n2HaQm9xTS_UWpp6dsH6gQ0Qef0GRm5w-oHeJVVfyx8gd3bDvYqUY1RqAbR1M5rJ_26Ecuy-1hiV-ySiU9VAdwr9TjcHjo9fAh13rBg4vlw2IwCbzY9X6DiaReGoYhti4rlKeDmhX9aCO609CHe0J8ztweh4eyHj-3rN470ug-LXZMLDuTSGtPt4vEWBhuLPUs-jcSJYibbJdQTWWhI5TEowo4JM5oLirE020cnnV3NrmGaIVYgzo294bQcwj85vUFChjbnVOvW3rhR1ePgyVAFz-nR0pWF_YnehCh;/?ep=AxNO62kAAIs3uZi2oIF7MwmzEleV0F1mw221Ru0vHjcteKri02mb5Bh0-iwxN5st_h15EE3iv2qf_iJWinxOtDYM3sh225nRpt1ek_1Od50q5a2saLVGpNatDFS0tVhHHvdtKEwsNgL0vV--yxydzqw5_yZu6TWjr8WdbzhqDsZTn428rrs5TGcu-WeBfd77M02It9o4UcmLH5S9sxsl1svlx1s&v=2
+        - paragraph [ref=e81]: 悩みや地域に応じた相談窓口、こころの健康チェックをご案内しています。 東京都保健医療局。
+        - generic [ref=e82]:
+          - text: 広告hokeniryo1.metro.tokyo.lg.jp/
+          - button [ref=e84] [cursor=pointer]:
+            - img [ref=e85]
+      - generic [ref=e87]:
+        - heading "質問一覧" [level=2]
+        - list [ref=e88]:
+          - listitem [ref=e89]:
+            - heading "仕事の不安 貧乏 女と交際出来ない これらはストレスや鬱に繋がる？" [level=3] [ref=e90]:
+              - link "仕事の不安 貧乏 女と交際出来ない これらはストレスや鬱に繋がる？" [ref=e91] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12257665882?__ysp=6LKn5LmPIOS4jeWuiSDlpbM%3D
+                - text: 仕事の
+                - emphasis [ref=e92]: 不安
+                - emphasis [ref=e93]: 貧乏
+                - emphasis [ref=e94]: 女
+                - text: と交際出来ない これらはストレスや鬱に繋がる？
+            - paragraph
+            - paragraph [ref=e95]:
+              - generic [ref=e96]:
+                - img [ref=e97]
+                - generic: 質問日時：
+                - generic [ref=e99]: 2022/2/24 7:26
+              - generic [ref=e100]:
+                - img [ref=e101]
+                - generic: 回答数：
+                - generic [ref=e103]: "2"
+              - generic [ref=e104]:
+                - img [ref=e105]
+                - generic: 閲覧数：
+                - generic [ref=e109]: "17"
+            - paragraph [ref=e110]:
+              - text: 健康、美容とファッション>メンタルヘルス>
+              - link "ストレス" [ref=e111] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297874/question/list
+          - listitem [ref=e112]:
+            - heading "貧乏女なので千円カットの床屋さんに行きたい。でもどうやってお店に入るの? カット1000円とい..." [level=3] [ref=e113]:
+              - link "貧乏女なので千円カットの床屋さんに行きたい。でもどうやってお店に入るの? カット1000円とい..." [ref=e114] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14120563929?__ysp=6LKn5LmPIOS4jeWuiSDlpbM%3D
+            - paragraph [ref=e115]:
+              - emphasis [ref=e116]: 貧乏
+              - emphasis [ref=e117]: 女
+              - text: なので千円カットの床屋さんに行きたい。でもどうやってお店に入るの? カット1000円というQBハウスなどの激安店を見かけますが、お店に入りづらいくて一度も利用したことはありません。...
+            - paragraph [ref=e118]:
+              - generic [ref=e119]: 解決済み
+              - generic [ref=e120]:
+                - img [ref=e121]
+                - generic: 質問日時：
+                - generic [ref=e123]: 2014/2/5 18:00
+              - generic [ref=e124]:
+                - img [ref=e125]
+                - generic: 回答数：
+                - generic [ref=e127]: "11"
+              - generic [ref=e128]:
+                - img [ref=e129]
+                - generic: 閲覧数：
+                - generic [ref=e133]: 5,007
+            - paragraph [ref=e134]:
+              - text: ビジネス、経済とお金>家計、貯金>
+              - link "家計、節約" [ref=e135] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297796/question/list
+          - listitem [ref=e136]:
+            - heading "子供が２人以上いる世帯の方に質問です。僕は子供が1人世帯の者ですが、年齢的に今更無理ですが本当..." [level=3] [ref=e137]:
+              - link "子供が２人以上いる世帯の方に質問です。僕は子供が1人世帯の者ですが、年齢的に今更無理ですが本当..." [ref=e138] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327450485?__ysp=6LKn5LmPIOS4jeWuiSDlpbM%3D
+            - paragraph [ref=e139]: 本当は子供が２人欲しかったです。 夫婦共に40歳近い晩婚だったのと、経済的に不安だったためです。 結婚当時妻は工場のパートと私が交通誘導警備員で子供1人でやっとで、2人目は経済的に怖くて作りませんでした。 やは...
+            - paragraph [ref=e140]:
+              - generic [ref=e141]: 解決済み
+              - generic [ref=e142]:
+                - img [ref=e143]
+                - generic: 質問日時：
+                - generic [ref=e145]: 2026/4/22 9:31
+              - generic [ref=e146]:
+                - img [ref=e147]
+                - generic: 回答数：
+                - generic [ref=e149]: "8"
+              - generic [ref=e150]:
+                - img [ref=e151]
+                - generic: 閲覧数：
+                - generic [ref=e155]: "112"
+            - paragraph [ref=e156]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "家族関係の悩み" [ref=e157] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675273/question/list
+          - listitem [ref=e158]:
+            - heading "貧乏性か 正社員で働く39歳女です。 最近お金を使うのに躊躇しまくります。お金がないとゆー訳..." [level=3] [ref=e159]:
+              - link "貧乏性か 正社員で働く39歳女です。 最近お金を使うのに躊躇しまくります。お金がないとゆー訳..." [ref=e160] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11296482046?__ysp=6LKn5LmPIOS4jeWuiSDlpbM%3D
+            - paragraph [ref=e161]:
+              - emphasis [ref=e162]: 貧乏
+              - text: 性か 正社員で働く39歳
+              - emphasis [ref=e163]: 女
+              - text: です。 最近お金を使うのに躊躇しまくります。お金がないとゆー訳ではありません。自身の貯金も、家計の貯金も平均よりはあります。...
+            - paragraph [ref=e164]:
+              - generic [ref=e165]:
+                - img [ref=e166]
+                - generic: 質問日時：
+                - generic [ref=e168]: 2024/4/13 20:03
+              - generic [ref=e169]:
+                - img [ref=e170]
+                - generic: 回答数：
+                - generic [ref=e172]: "22"
+              - generic [ref=e173]:
+                - img [ref=e174]
+                - generic: 閲覧数：
+                - generic [ref=e178]: "723"
+            - paragraph [ref=e179]:
+              - text: ビジネス、経済とお金>家計、貯金>
+              - link "家計、節約" [ref=e180] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297796/question/list
+          - listitem [ref=e181]:
+            - heading "【至急】必ずベストアンサー選びます。 貧乏揺すりについて。女です。 高校3年生になった今でも小..." [level=3] [ref=e182]:
+              - link "【至急】必ずベストアンサー選びます。 貧乏揺すりについて。女です。 高校3年生になった今でも小..." [ref=e183] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327418140?__ysp=6LKn5LmPIOS4jeWuiSDlpbM%3D
+            - paragraph [ref=e184]:
+              - text: でも明日から辞めれるのか
+              - emphasis [ref=e185]: 不安
+              - text: です。 どうしよう。申し訳ない。。。
+              - emphasis [ref=e186]: 貧乏
+              - text: 揺すりやめれた方とかいませんか？ よければ教えてくだされば幸いです、回答お待ちしております。
+            - paragraph [ref=e187]:
+              - generic [ref=e188]: 解決済み
+              - generic [ref=e189]:
+                - img [ref=e190]
+                - generic: 質問日時：
+                - generic [ref=e192]: 2026/4/21 0:45
+              - generic [ref=e193]:
+                - img [ref=e194]
+                - generic: 回答数：
+                - generic [ref=e196]: "2"
+              - generic [ref=e197]:
+                - img [ref=e198]
+                - generic: 閲覧数：
+                - generic [ref=e202]: "53"
+            - paragraph [ref=e203]:
+              - text: 生き方と恋愛、人間関係の悩み>
+              - link "恋愛相談、人間関係の悩み" [ref=e204] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+          - listitem [ref=e205]:
+            - heading "金持ちの男性は貧乏女とは付き合いたくないでしょうか？ 私は貧乏で大学に入ったらバイトの掛け持ち..." [level=3] [ref=e206]:
+              - link "金持ちの男性は貧乏女とは付き合いたくないでしょうか？ 私は貧乏で大学に入ったらバイトの掛け持ち..." [ref=e207] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13203117968?__ysp=6LKn5LmPIOS4jeWuiSDlpbM%3D
+            - paragraph [ref=e208]:
+              - text: 金持ちの男性は
+              - emphasis [ref=e209]: 貧乏
+              - emphasis [ref=e210]: 女
+              - text: とは付き合いたくないでしょうか？ 私は貧乏で大学に入ったらバイトの掛け持ちをすることになると思います。 まだ受験生ではないですが、志望校がそれなりに金持ちが集まる大学です。...
+            - paragraph [ref=e211]:
+              - generic [ref=e212]: 解決済み
+              - generic [ref=e213]:
+                - img [ref=e214]
+                - generic: 質問日時：
+                - generic [ref=e216]: 2019/2/7 19:27
+              - generic [ref=e217]:
+                - img [ref=e218]
+                - generic: 回答数：
+                - generic [ref=e220]: "3"
+              - generic [ref=e221]:
+                - img [ref=e222]
+                - generic: 閲覧数：
+                - generic [ref=e226]: "254"
+            - paragraph [ref=e227]:
+              - text: 子育てと学校>受験、進学>
+              - link "大学受験" [ref=e228] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2079405665/question/list
+          - listitem [ref=e229]:
+            - heading "結婚してよかったことを自慢してください A:さびしくなくなった B:りょうりがおいしい C:気..." [level=3] [ref=e230]:
+              - link "結婚してよかったことを自慢してください A:さびしくなくなった B:りょうりがおいしい C:気..." [ref=e231] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13326051853?__ysp=6LKn5LmPIOS4jeWuiSDlpbM%3D
+            - paragraph [ref=e232]: C:気持ちがおちついた D:きもちがいい E:貧乏が気にならない F:そのた...
+            - paragraph [ref=e233]:
+              - generic [ref=e234]: 解決済み
+              - generic [ref=e235]:
+                - img [ref=e236]
+                - generic: 質問日時：
+                - generic [ref=e238]: 2026/3/8 6:44
+              - generic [ref=e239]:
+                - img [ref=e240]
+                - generic: 回答数：
+                - generic [ref=e242]: "7"
+              - generic [ref=e243]:
+                - img [ref=e244]
+                - generic: 閲覧数：
+                - generic [ref=e248]: "53"
+            - paragraph [ref=e249]:
+              - text: 生き方と恋愛、人間関係の悩み>生き方、人生相談>
+              - link "シニアライフ、シルバーライフ" [ref=e250] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2079526985/question/list
+          - listitem [ref=e251]:
+            - heading "何故か付き合う彼氏は貧乏ばかり。 33歳の女です。 昔から付き合うとそこそこ長く続き、相手も性..." [level=3] [ref=e252]:
+              - link "何故か付き合う彼氏は貧乏ばかり。 33歳の女です。 昔から付き合うとそこそこ長く続き、相手も性..." [ref=e253] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10215462490?__ysp=6LKn5LmPIOS4jeWuiSDlpbM%3D
+            - paragraph [ref=e254]:
+              - text: 何故か付き合う彼氏は
+              - emphasis [ref=e255]: 貧乏
+              - text: ばかり。 33歳の
+              - emphasis [ref=e256]: 女
+              - text: です。 昔から付き合うとそこそこ長く続き、相手も性格は良い人ばかりなんですが、何故かみんな貧乏なんです。 特に今の恋人は付き合って3年ですが過去一番の
+              - emphasis [ref=e257]: 貧乏
+              - text: です。...
+            - paragraph [ref=e258]:
+              - generic [ref=e259]: 解決済み
+              - generic [ref=e260]:
+                - img [ref=e261]
+                - generic: 質問日時：
+                - generic [ref=e263]: 2019/10/27 9:10
+              - generic [ref=e264]:
+                - img [ref=e265]
+                - generic: 回答数：
+                - generic [ref=e267]: "4"
+              - generic [ref=e268]:
+                - img [ref=e269]
+                - generic: 閲覧数：
+                - generic [ref=e273]: 3,429
+            - paragraph [ref=e274]:
+              - text: 生き方と恋愛、人間関係の悩み>
+              - link "恋愛相談、人間関係の悩み" [ref=e275] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+          - listitem [ref=e276]:
+            - heading "メンエスの女の子と連絡先を交換してデートの約束まで漕ぎ着けました。 でも明らかに僕のスペックに..." [level=3] [ref=e277]:
+              - link "メンエスの女の子と連絡先を交換してデートの約束まで漕ぎ着けました。 でも明らかに僕のスペックに..." [ref=e278] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14289793669?__ysp=6LKn5LmPIOS4jeWuiSDlpbM%3D
+            - paragraph [ref=e279]:
+              - text: メンエスの
+              - emphasis [ref=e280]: 女
+              - text: の子と連絡先を交換してデートの約束まで漕ぎ着けました。 でも明らかに僕のスペックには分不相応な感じの
+              - emphasis [ref=e281]: 女
+              - text: の子でお金を僕から搾り取ろうとしているんじゃないかと
+              - emphasis [ref=e282]: 不安
+              - text: になります。...
+            - paragraph [ref=e283]:
+              - generic [ref=e284]:
+                - img [ref=e285]
+                - generic: 質問日時：
+                - generic [ref=e287]: 2023/12/3 0:45
+              - generic [ref=e288]:
+                - img [ref=e289]
+                - generic: 回答数：
+                - generic [ref=e291]: "2"
+              - generic [ref=e292]:
+                - img [ref=e293]
+                - generic: 閲覧数：
+                - generic [ref=e297]: 1,850
+            - paragraph [ref=e298]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "恋愛相談" [ref=e299] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675272/question/list
+          - listitem [ref=e300]:
+            - heading "貧乏が嫌だから結婚して旦那に頼りたいと思ってしまうのは間違った思考なのでしょうか？ 私はアラサ..." [level=3] [ref=e301]:
+              - link "貧乏が嫌だから結婚して旦那に頼りたいと思ってしまうのは間違った思考なのでしょうか？ 私はアラサ..." [ref=e302] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11265047476?__ysp=6LKn5LmPIOS4jeWuiSDlpbM%3D
+            - paragraph [ref=e303]:
+              - emphasis [ref=e304]: 貧乏
+              - text: が嫌だから結婚して旦那に頼りたいと思ってしまうのは間違った思考なのでしょうか？ 私はアラサー
+              - emphasis [ref=e305]: 女
+              - text: です。 この5年で転職を7回繰り返し、次を見つけず辞めるので借金250万になりました。...
+            - paragraph [ref=e306]:
+              - generic [ref=e307]:
+                - img [ref=e308]
+                - generic: 質問日時：
+                - generic [ref=e310]: 2022/7/20 1:22
+              - generic [ref=e311]:
+                - img [ref=e312]
+                - generic: 回答数：
+                - generic [ref=e314]: "20"
+              - generic [ref=e315]:
+                - img [ref=e316]
+                - generic: 閲覧数：
+                - generic [ref=e320]: 1,065
+            - paragraph [ref=e321]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "家族関係の悩み" [ref=e322] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675273/question/list
+      - generic [ref=e325]:
+        - heading "生活が苦しく困っているあなたへ | つらかったですね | こころといのちのほっとナビ" [level=2] [ref=e326]:
+          - link "生活が苦しく困っているあなたへ | つらかったですね | こころといのちのほっとナビ" [ref=e327] [cursor=pointer]:
+            - /url: https://rd.listing.yahoo.co.jp/p/GU=AxNO62kAAMsTuVffdunK_pWcfGT2r2SpxcxbcmdHvrkWXukCFZLKkh6Rjax5v9_Oy5I33DTdBFToVB15ExdSjwpzzuMhKxvtV2XiH0-g8aad_Vw4j_yrguDXjkd_m__K_0hEkksqNHloZU9AVX514KwlDpulFN20nYebTUlTpGu50d3AUmxpvR1K-S_7Mi1zX9hD7rAm3aEjrxTPckAt-yQrW3UwUPfotYOzMyVydTS_cPqPc4B2vAYvhah4svBrfYk40kxnbNHs-4JC64eny2sNgI5nfejrIMGYqzVXr0kBCU-vmcBfM0mcncvogKc_If7T01p2QdW4R3IjdkquTIh1J-Wr-i2SI1oBAHlL-G_Y8yiqiXskDowU8vyEGVjuZDTBUdNH-gX3vUNOji6EIRhaOvRslENkkc4dbmZo4-GqllITEHlXLM28PMKBYBQKIn7DpHL3VTAMEG44zjk48e708PbSXBXjMKdiQ4U7LzwidbZPHUUfmw0WXMVOi_wItCVj4pNevvUshl3PVPVBAUaPogdiMTOL8vu7Vi-AU1oi54CetfEZc4U4P1-i3yefSNq08gNU5J20eaah7LUyLyHEV_Y1xP1FRM_-y8RLjYpw4Vd_6wFLkUeb17UOmbQ0PQG7uagWAvWOe9oAhvYqT-7bkKam-XL36wyPNN8Tf1279C5FbAzeGLl7qLHIydF9TsF-3VmLsDyUosoH9iKDV_Aq4M5I3b7sd5k0Iw7YRm6d-t_UrMAfC6h7SIh4fhEiToBzLYli8-hJZvBLiTK5KGgvH-JoXMRB6EA7ohrEke-p4PeHE474C_d6Hii4MB54baZS4Ke9mFIn-dEH-aTzLC7h_DhXpLxMHoVP8u22cDijfqg7c2zD1cWuOMYYvHEs-Uf9wn9wOp8E-fQSUelxHNA5HA0st0H74n8xuLwDt6xHYzKFUESEWEj49rmLT5SPwPNsGZ4VyaCBc6QmmUI9V4mhFjmgwEg1izGeqVQeTTCaNa-I8Bhsf-5mE6NUgmzxM15rZPiaIPg9nDVQQHPkt_rV1Zen8Vzvzim1lRcaz7y0a1cm83K4b08kXI71osz5KKq7nyz-oA-YLtZ01m7GLcymZsk-LekOzT1FMxTq2wNkCOmsPcFdL9-2TVF-pw0tSJPXTXFZcMhWPfE9W-zr6Sg27P9jUZCHBFBn9cg_5jQC26ZCUmbrhBCOI5wDsDA44mphxe4QOJHFWHM0nLpQq5DkFwg-xTL8V8qZVhJTle0lbYjb-2Dk8u3URUuPBWcWAZUgvVjRoNKZlGvofRHYiY4WT9NnRwE80HqjGEkw0FKQOl_kjtkiNcWPjJps3xY-dXEsJ8feoPz60nco_TYOOgp47XomAVOt;/?ep=AxNO62kAAJppszOVxMLoJWsflbgX9uKJf4cCBVR-h25FLynsKGQ9gJm4KsjeTwT-fIQRmJdF_u4BA3Bw0c0jDwNCLmfZH-4Ygaq6OfB4LV7DhRCjayP72R_BkgQ5CQwpilJPSbv7-cFhC923qWCJODzIZucH57osndZr9YnILBZzX43C8oNaRh46skV9Qtwf1zCi8Lfb2WBYGToXqIYhQOytOcw&v=2
+        - paragraph [ref=e328]: 悩みや地域に応じた相談窓口、こころの健康チェックをご案内しています。 東京都保健医療局。
+        - generic [ref=e329]:
+          - text: 広告hokeniryo1.metro.tokyo.lg.jp/
+          - button [ref=e331] [cursor=pointer]:
+            - img [ref=e332]
+      - generic [ref=e334]:
+        - generic [ref=e335]:
+          - link "前へ":
+            - /url: /search?p=%E8%B2%A7%E4%B9%8F%20%E4%B8%8D%E5%AE%89%20%E5%A5%B3&type=tag&b=-9
+            - img
+            - text: 前へ
+          - list [ref=e336]:
+            - listitem [ref=e337]:
+              - link "1":
+                - /url: /search?p=%E8%B2%A7%E4%B9%8F%20%E4%B8%8D%E5%AE%89%20%E5%A5%B3&type=tag&b=1
+            - listitem [ref=e338]:
+              - link "2" [ref=e339] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%A7%E4%B9%8F%20%E4%B8%8D%E5%AE%89%20%E5%A5%B3&type=tag&b=11
+            - listitem [ref=e340]:
+              - link "3" [ref=e341] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%A7%E4%B9%8F%20%E4%B8%8D%E5%AE%89%20%E5%A5%B3&type=tag&b=21
+            - listitem [ref=e342]:
+              - link "4" [ref=e343] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%A7%E4%B9%8F%20%E4%B8%8D%E5%AE%89%20%E5%A5%B3&type=tag&b=31
+            - listitem [ref=e344]:
+              - link "5" [ref=e345] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%A7%E4%B9%8F%20%E4%B8%8D%E5%AE%89%20%E5%A5%B3&type=tag&b=41
+            - listitem [ref=e346]:
+              - link "6" [ref=e347] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%A7%E4%B9%8F%20%E4%B8%8D%E5%AE%89%20%E5%A5%B3&type=tag&b=51
+            - listitem [ref=e348]:
+              - link "7" [ref=e349] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%A7%E4%B9%8F%20%E4%B8%8D%E5%AE%89%20%E5%A5%B3&type=tag&b=61
+            - listitem [ref=e350]:
+              - link "8" [ref=e351] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%A7%E4%B9%8F%20%E4%B8%8D%E5%AE%89%20%E5%A5%B3&type=tag&b=71
+            - listitem [ref=e352]:
+              - link "9" [ref=e353] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%A7%E4%B9%8F%20%E4%B8%8D%E5%AE%89%20%E5%A5%B3&type=tag&b=81
+            - listitem [ref=e354]:
+              - link "10" [ref=e355] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%A7%E4%B9%8F%20%E4%B8%8D%E5%AE%89%20%E5%A5%B3&type=tag&b=91
+          - generic [ref=e356]: ...
+          - link "次へ" [ref=e357] [cursor=pointer]:
+            - /url: /search?p=%E8%B2%A7%E4%B9%8F%20%E4%B8%8D%E5%AE%89%20%E5%A5%B3&type=tag&b=11
+            - text: 次へ
+            - img [ref=e358]
+        - paragraph [ref=e360]:
+          - generic [ref=e361]: 約1,037件中
+          - generic [ref=e362]: 1～10件目
+      - generic [ref=e363]:
+        - paragraph [ref=e364]: 検索しても答えが見つからない方は…
+        - link "質問する" [ref=e365] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+      - generic:
+        - generic:
+          - generic:
+            - paragraph:
+              - text: ログインボーナス
+              - generic "ベストアンサーへのお礼（知恵コイン）：":
+                - img: xmlns="http://www.w3.org/2000/svg">
+              - text: 0枚獲得！
+            - paragraph
+    - generic [ref=e366]:
+      - generic [ref=e367]:
+        - heading "検索対象" [level=2] [ref=e368]
+        - paragraph [ref=e369]:
+          - strong [ref=e370]: すべて
+          - text: （1,037件）
+        - paragraph [ref=e371]:
+          - link "回答受付中" [ref=e372] [cursor=pointer]:
+            - /url: /search?p=%E8%B2%A7%E4%B9%8F%20%E4%B8%8D%E5%AE%89%20%E5%A5%B3&type=tag&flg=0
+          - text: （1件）
+        - paragraph [ref=e373]:
+          - link "解決済み" [ref=e374] [cursor=pointer]:
+            - /url: /search?p=%E8%B2%A7%E4%B9%8F%20%E4%B8%8D%E5%AE%89%20%E5%A5%B3&type=tag&flg=1
+          - text: （950件）
+      - generic [ref=e375]:
+        - heading "表示順序" [level=2] [ref=e376]
+        - generic [ref=e379]:
+          - combobox [ref=e380] [cursor=pointer]:
+            - option "質問日時の新しい順" [selected]
+            - option "質問日時の古い順"
+            - option "更新日時の新しい順"
+            - option "更新日時の古い順"
+            - option "回答数の多い順"
+            - option "回答数の少ない順"
+            - option "閲覧数の多い順"
+            - option "閲覧数の少ない順"
+            - option "お礼の多い順"
+            - option "お礼の少ない順"
+          - img
+      - paragraph [ref=e382]:
+        - link "より詳しい条件で検索" [ref=e383] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/search/advanced?p=%E8%B2%A7%E4%B9%8F%20%E4%B8%8D%E5%AE%89%20%E5%A5%B3&type=tag
+      - link "占い師にお悩み相談" [ref=e385] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_qa-res_000
+        - img "占い師にお悩み相談" [ref=e388]
+  - contentinfo [ref=e390]:
+    - generic [ref=e391]:
+      - link "Yahoo!知恵袋" [ref=e392] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e393]: "|"
+      - link "Yahoo! JAPAN" [ref=e394] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e395]:
+      - link "プライバシーポリシー" [ref=e396] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e397]: "-"
+      - link "プライバシーセンター" [ref=e398] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e399]: "-"
+      - link "利用規約" [ref=e400] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e401]: "-"
+      - link "広告について" [ref=e402] [cursor=pointer]:
+        - /url: https://btoptout.yahoo.co.jp/optout/index.html
+      - img [ref=e403]
+      - generic [ref=e407]: "-"
+      - link "検索結果への広告掲載" [ref=e408] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/searchads/?o=JP1160
+      - generic [ref=e409]: "-"
+      - link "利用のルール" [ref=e410] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e411]: "-"
+      - link "ご意見・ご要望" [ref=e412] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e413]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e414] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e415]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e416]: © LY Corporation

@@ -1,0 +1,514 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - paragraph [ref=e15]:
+          - link "「半径5メートル」から進化する AI時代の組織のつくり方" [ref=e16] [cursor=pointer]:
+            - /url: https://yahoo.jp/Ds92QeB
+        - generic [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+                - /url: https://www.yahoo.co.jp/
+            - listitem [ref=e21]:
+              - link "ヘルプ" [ref=e22] [cursor=pointer]:
+                - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+          - generic [ref=e25]:
+            - generic "キーワード："
+            - textbox "ウェブ検索" [ref=e26]
+            - button "検索" [ref=e27] [cursor=pointer]
+            - link "サブリナカーペンター 急上昇" [ref=e28] [cursor=pointer]:
+              - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=%E3%82%B5%E3%83%96%E3%83%AA%E3%83%8A%E3%82%AB%E3%83%BC%E3%83%9A%E3%83%B3%E3%82%BF%E3%83%BC&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+              - text: サブリナカーペンター
+              - img "急上昇" [ref=e29]
+      - generic [ref=e30]:
+        - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+          - img "Yahoo!知恵袋" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - text: IDでもっと便利に
+            - link "新規取得" [ref=e36] [cursor=pointer]:
+              - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fsearch&.src=chiebukuro
+          - generic [ref=e37]:
+            - link "ログイン" [ref=e38] [cursor=pointer]:
+              - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fsearch
+            - link "［おトク］10％OFFクーポンあります" [ref=e40] [cursor=pointer]:
+              - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8zMDc0OTUvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9hdWN0aW9ucy55YWhvby5jby5qcC9jYW1wYWlnbi9wcm9tby9zdG9yZV9saW1pdGVkX2NvdXBvbg/
+    - navigation [ref=e42]:
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - textbox "Q&Aを探す" [ref=e47]: 既読無視 不安
+          - button "キーワードを消す" [ref=e48] [cursor=pointer]:
+            - img [ref=e49]
+            - generic: キーワードを消す
+        - button [ref=e51] [cursor=pointer]:
+          - img [ref=e52]
+      - list [ref=e54]:
+        - listitem [ref=e55]:
+          - link "カテゴリ" [ref=e56] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e57]:
+          - link "Q&A一覧" [ref=e58] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e59]:
+          - link "公式・専門家" [ref=e60] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e61]:
+          - link "お知らせ" [ref=e62] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e67] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e68]
+        - text: 質問・相談
+  - generic [ref=e70]:
+    - generic [ref=e71]:
+      - heading "「既読無視 不安」の検索結果" [level=1]
+      - button "この検索条件を保存する" [ref=e74] [cursor=pointer]:
+        - generic [ref=e75]: この検索条件を保存する
+      - generic [ref=e78]:
+        - heading "ムカつく相手を一発で黙らせるオトナ" [level=2] [ref=e79]:
+          - link "ムカつく相手を一発で黙らせるオトナ" [ref=e80] [cursor=pointer]:
+            - /url: https://rd.listing.yahoo.co.jp/p/GU=AzpO62kAACcuhMXgVPjC04ISU8nSU5_jUvbWKfzE_kJVWo5PS81lrDLZ2Iv1iQ3dui6NRnAOmNDR9vZVtNq-wvOIcQJMA9LmTzoZGef0tc6KRSgTfszXiQJp-HdbZMUZWvmBgBtlslP0qK14i2bchuRLUD_cAYJx6kAfd0gmrOIJ5RW9HADSIr1FycJPo-fhLqM-_nDxQco_dZ8ZAdulnBOxPWB3j4HAuuTfKY28ckNaa28sYilQWjMEsoCtBhIxqnM9AVbcTlOkUguf_USofEMjSQNjPlhFSs18zO3aO2nNAg6xHwtmBRXwYxxcsf-pVLnT6eczX41vAgfB2RCXWFRLTHRhQbG1MRbPSflTiyLQui-aOnCJc3vleCyOc2fRPyyd3qiLWtw__-nnf_srAxkmD4DqOyOS_jz2eb3y87VhlvXb-3tmIx7M7SQwqao5yppfS53sPT-hGZReew952vTLOaPHw84cV72uKaxLffggdJwyHZGgwxxM5dpqpP7c0d2ueEFcZgnwNVZCx76P7r5z9PuDU70gcoC4yA2KPDtooHyzBEGz5gwDiCVEkPhqDwUL6BkiFFYs5UNduC9VBtJHcgB2jp3leEy9Ubu_e26s8rlwFjp4VIgX1MZQiJtvD7pnncjLBHk_T5UiIrIQAmWccFhnc5ztXkrBNkQTXR4C1ECjGkp-bngcx3C94DEqJDuIiqdJwHmz0poKGkFxOgg4mPATWiQXYulUiSN3xHqCfOzbOPnE-e54e11ZfMtrMCFvW1K_Ns9GVUYB691dfH2GbvLbe1ajvI5HrirnGMAYKK7I5SfEvZmbAqkZJMiAKWeJjpszf8x7MuRydto4PWJ5LQByvCecfA9ScajxDfHsPnPfT_ijZcvUGhesojLoAeFUXcc1CE0qfqxmbtxopT65s8OBqgVgWs-VVCnFoA1vKXNDstp4iwWNJsW8vRLIfDuzksFJg-eloMm-2OBJ_YXwcHgUngPbhRkLpxbuGJHxBAoXh6GzKsCpDLq_HTw3dvCDeSfHEVgA9LdGYGAzvqjv05_MplcjMn_B20p1za76UKMXtGkbtSZyY26GQLTvgSAJLU0ytlmKe4xQPNde-EoWRW_0KvioBrYxXVHrcRZuhiUw3pAooFNoOtFZOaiZxksF-JEbLciRcHxdhmOnI0cw0MdQcr5g0CGWUAPY6MiYNjSW0gTBsghu08Omac5VldRAm8I23s7I-PJshzGrclGGsH7ZUatYDtnuXWxzJFHgkXhJJNrSj--j91z_ZGr7AFip6wWtDXmH_V3hRm0fXb9JzQskGavP9DQOHyMJ9n0KM2s4zjfav3itayNXFshVcj9T91ZFiWIaG30csewatCTVTClCC-Le6ym-5bcUqiYY2NHgoB0Wiq1rVSknp37N3lleQLZlvgDmQmxupd8gRBGjcKA_9ywHh4eeUB_kxSt5mkrmusdBHE8cDFu8E-cYjCAOyVNupKcUhcwfr9HRqbZtWDN8Q5LoJuLzJ51vLoQspFtt2mw2aPliP93oc4FZBVlVuCb3FURg6IMBHB41IBwrQuAvFOUFxL1LCVrwk8J30T50kEks9QWg8ID7hd636bPzT811LAJAyF8oD1lJq9WhGeAzzvOwUUOHrogIVoOeRBcB_b2HqbsfCwkF0WPa1O4JI3oxC-Tj_-BuI2D_l9xIAf1EpB1xvdbVX4rb4HlJ1_GueDFMqWo-w-mW5joGd-80JR6OduoHRzv9Gai0k20Otg;/?ep=AzpO62kAAC_QbOwC00CIueTrvwaPjJaGciuRq73pX81EpAp6PtaU1GZG4-EkKhoLjIYd2EsWCGz5xZGjxKXkEcmvf0xeuJZw0ehmjbbmB8-5skgSRkXnYqxl_QuqfjeuAr7ySlecQB8oKire0Kw2KXufLMmRWgSpLeJuVOxLSEJTOydGbq7jUMhtGlB3t0OTLKsNkJfIvGlIlHDlNLq3g1fI6Q&v=2
+        - paragraph [ref=e81]: レビューを参考に見つけよう - アマゾンならムカつく相手を一発で黙らせるオトナがいつでも買える。トラブルへのサポートも充実だから安心。欲しかったビジネス書が充実の商品ラインナップから探せる。人気のジャンル・出版社など。さらにポイントが貯まる。季節イベント、セール満載。Primeなら通常送料無料。お祝用Amazonギフトカード。700万冊以上Kindle本、漫画。ポイント有効期限は無期限。
+        - generic [ref=e82]:
+          - text: 広告www.amazon.co.jp/本/お得に買い物
+          - button [ref=e84] [cursor=pointer]:
+            - img [ref=e85]
+        - paragraph [ref=e87]:
+          - link "タレント写真集" [ref=e88] [cursor=pointer]:
+            - /url: https://rd.listing.yahoo.co.jp/p/GU=AzpO62kAAD0krCoFRvAen73PDpkv8ZZNQCz9ziluUvh9ZO1fJVtorcvR0UNqybtfzxXpTEMFNqMVXo5TPS5rI8KM4_meuWoWi3zxCaWnJfbc5lHDd1mOZsDOZp4LSvgb286TlqvUN-nvL05eyqYtnxXRwnCxeRpV_0eZrzDZFaUo7IMJS1_SlXixDh9dFOA8WCG0vrVEa957LxmFUMElWQk2_uJAt2unoaq98P1uIOQ68IWBbJ3_IwsgshatNwm-OfVxu51byuIFun0NVxLn3i68O2H7cxNxe1fMIMgYFzXFoQGqf6iC_tSBziCAdEp22onMiM5B0etUEhFYiFiXGNdIZFwVhbywA5YoIFlQ18NmnHXDRHEnUn-mNwUvz3pP08UJdL0qepPDyn1Df0ZslQAZ81kQNOoL6e2hp5wa96wJH9SVP8aY6HlVY24ciXN19X9rY04tMBXuiqTmzkz-rau7IVSyCLJeukL1JdyLKoHLRJhQWVWu0T2xZvAoYrEY-R1wmYHngx0IxC0qGnHBAel2fewqvfh2_FcRo4zRtj_ErjEYXR_X_enJmk-cdahqSikP0H517Ed4k_LrCo41yjJaiTcaQh6MZavXS3Ng4krKYHFcM9-UOAemHAK3MpHY5-Qm5NveGfdVUfBXW3oF9JJuEpLMWwlvNYXO6R1NRl0OBlGLIPSkdE1h-sWlV2x9uk6rX4-zpWfLTN7JJXHYrJiRlKp2JU5VUAXZwbs-PA9yH_mZ9cIJRlJLrYkbHHdBZuwl7oFz_a6WX_VPOvcBv4huwQjY5W4Q9ZeHU-gH2EoP090_MTrAythjjFWD7G2vYo8UOzbxZhgG3Iff6GieKo9qyXmrQpV_i0oWHm8xl9kpX3FWGJ73EGNeC7GIU41rdF6figCXtxFJe5Jid8j8OMpif3u0NK77g5xI9pF1Kh-oNyq_FoG84wwOKchJ0RKfRWlxf-lz9iaCtyG2GzA_qgEr_x5kzyjh570GOYUBWhsBAwOKezKbXjAbc2X8lSLMR3e1ENkVhuzssKEtyNwqaM2qo5c4pbY_4QjfzCByACoCs81AnbCArVg6Mx0bHD82YMUkczuvmgUQftQMMkxgSXdzsFHIN3DzIn5CK60Bc_jV-73ANLTf0nVuZCqP_zD52upKk2CQiOPWfw7R3hrsK2LYGm__puSncWLiPVFVYfXYIa43YESvkJjb0RHp-DDsqTsjk5k6c73XRZV_g5APuNRWk-0Q6B2SosIL8oIqaYWCnTzdpZpWR0hqYj57j0PgyCynZIgKcsVbMhz_YEuPAv9H64fArhZJWlx8ou-DjQg78sIzlMCFj9aJrRz1zCEdAqb9KktroJ6GkVWbLq8iJZiSRWHCiJFVYfxPhwMcGKtVQduOTyOfQLxLCtXciNeo_Bh5WfjpyHRyh6i7B9r7e2_Z0sazpVE5TBZkXlRh2lVSV_N6aRukLh8UB4Hq9haA_oQ1cPxU8g8hEbEX3ASyzJdOxSw-ezQ60cHGkWVV_Xo6zLyMynfCFcDmW2zGGylRekR1s_gANeQnXPu_6N8ILeXfXGYYMc3EqZPT59XcMsBBoMMNrHR5L1OrVfN2AXvTNKa8FC2Y3B4UHbbtxOavc6iTMtzYraECGA;/?ep=AzpO62kAADfWlB2HiIsfyPjywURkE9SrF14BDMKNMebc9bEaZNIf44ZPaoZOdUWFbMsQG_8-2sarQoPS4DswpQ7sajbdgQqBG-0c14rrDskvsC-LFw5xbUwHbVzF4SHsnwKzDuMoi92VNA7-d6qghY-VvxaVz2Huipp2qAiM_nAKul8BCiSnCqAVxDEo4odOpn44g3epEIHxBoLqzyqwhDVD1g&v=2
+          - text: "-"
+          - link "Kindle本（電子書籍）" [ref=e89] [cursor=pointer]:
+            - /url: https://rd.listing.yahoo.co.jp/p/GU=AzpO62kAABnDw_wzL4e5aU_JJUdloqeIi9b-kIeEHccS4kL-GjP-7-uO5lO9-sLKSgGKN5Gb6low3eL_Lz4MBw1zCa3soYTU90rJqV1Ua7tw5nVXlYtmc8WQLys0piGcli0amH5odSs0tgn1qU_Rqzwx2OzB4Ypm3537cRnu2xPJd2Oyft_1ZPWwGWTbRTa-Tw-gspj47UjehJGMSaXQ3fGW62_LKKipdafVwi4LaGdWaMhxkjvVq2j8-X16QTOam1YkS87WXISFapJMEgAx6XIxu5H7HdqETkb1ccF7Hq_qOkKbypfW97WGZZnfjK7LS61aAuySK4ZKC6NPh881MeWouDJAi6SefcQKdwRqtGpo4S4gH2DrxwC73R93jfmTNC3t_t-MBoqZ2Acmp2U7SMg-xmQ5pCnjBTnodrJ0w0W1K1XL0L1NkMtKUZvnST48HoiFIgu3xSFmZWYi5U3_mY85bT6Cy3WG8EpopVLqE3gxatVJ2DFXPEOGM9zzUboJU2H4Ec2IbvZ_PSPzPQaZMRdXK57LiBQo4B9ujm63f56FHcFJRKkRKtKXCnprEX7Bb8hj0KrbxYjSWCE9O0ERYjeGMH-sPcJ0lSThXqEcLnToaE_LpN_nMTCUTAMM0ym8M1VUoyWAfacqrOOx2UAXt7porASxIS7rAMeOgSZ28udCXh_Sw5fSWeUTWDAQgftOV9e0OSrvg50s2Vp2I41BhkM0BuPRo_YFr9ENBKGKU6Dxm8zvJUXfZyHMGasVI06GSMUZ3o8o9z7uzSfI01e51i9tR1p-gjdLql3mA1AAvK5-AkXh2iSA95Z6cqKkqg6sPUPfaaZeUYy5iePG67Ybb5RejZFxOFIiHlSFWV55rbRIKsDodYmcsrIEF5FsY8JNBDkGv_m6ggiSKzxm9kk0X8Ww0F8PHujn8Zfh4kWZzhSwQz21vJpP2R0Aio2Odr2zWL8BTyBy35fvBqxy_UcyUi4wNuNdRpaDOP8bYyUA8NqFTDgO47vO98FRZP9-At_J0T207Q5tGklVxW6eRsSBtnjKBmnXXIggdCikBPSE73EQGU7DcPKSXcMBz9q5GopvCSGop_kXWLaquyQJ-OdxVK-lSPBKriMM3gmmX-_mlVqSxytl_yvYg6XHsgqs3upgZ63wb_FKyYfueSjMxvViFGHOPSolQEoIV5VTbXlzEmZiXvv58RKnQkwVy7OwWQvQAPfT8QouDp76yesETv55RCs57xygMmRP88uZ4Jez4itTH19_yTE1uowNLDFc1vBXPDVptcme7Cqg4xLynvIPI0uWE6KMduOlqADTuAl8CI5KlL46pLlPkzjFkM8vLiNpVkKtsawqfLA05X5kIFn3tGei9GQsYBSd353jSpm3x7zeBJuO2fwKvjWkohFZAw-5CdKNQAMINN9BAs7i5orJq50_KykU7pAkM33LFkcR4oGPXeirYKn0EIeUeu85OJCQ1Wt2Fr8mxaHdSjTGqPbAmO_--fY2wfbAI33AolsKr1cusUN8YkbPQRJtVBBlu8Jb7hy8fVwzIbhTDUCGLjSLB2tsykQYmnvGWg1RO5NSTrS54mUyiwo9uelYUQsZCHRz6LhRSbTcPHLOOPf_DAmVjS8ADmIqwsMz_EGXrYFh;/?ep=AzpO62kAALT00LMNOHBiGaU8nXJA_olOxr92qvzJ46YDEyDptZtHfEinOlaJws9kU3jM01iSQs-YNF3Ji6pOYpTDmuNXVNgwOoEQOdFBOpz_vdTA-AZl-GRrUEHOpaVnhqv8T7lmOKjjwHJdiEDT1krMZiKc7qQ2EYEuYjuKmwSMgz6337EE54-D8zunThDDWASXg-bj2o_wwweLHzaBJCo0Uw&v=2
+          - text: "-"
+          - link "ビジネス書" [ref=e90] [cursor=pointer]:
+            - /url: https://rd.listing.yahoo.co.jp/p/GU=AzpO62kAAPDAvITf_mwpw5GsTpgRTywFkXMedMFmydrxE5DWUmZFva5OeEzlDU5vatRWbTABQ0e6KrGcYwT-YF5XUV-OCOcVAwJ0Yyi6NR7_G9-LBCuXjkD_y1ccN-X8cTUc_I63dQ7ObvlgoJElT_jE156v4gwIC5aO5Eg5LCpZ3X3IEmC4cLW47Hh05rssmtOiU1OjL0FhKP0mMjrGvC60BgvH82XS5cm9oOflYtzxvRI_PMeH1bQRN9Dq1YxlVm90Hl3HRIijpzJ3qxBEVtw-wpODVXsqBq3zE4ogUabhdHjZShxA_rR4rxXgHDzejjUTUeFgkHaZKE72AYRnC3jCt3t8V3UMeYowvlUDOX74HvEVmbScJeK4QgqtqxD-jez2pAJBPDQCdqlagjk8KO2mufQy_QbWBKZG_UMcxzDWqVJJ8zUtHTmZ-OXNHZcEblj-tLNcpV9F8_fp1lMwSCxw55T5kn44gDwXuzXc7ddfZaPwDPZVUGzgPegIUgicWEc6Al-D9xBppsvJvLeXN2dKmh7TqUpET5J6ImuFcsHwr4sxjVdT-Pa3czX2YTeo-ouNZI_TvCwepDn10q39U56fmj4Vpp-0Shk9TSAt762l5jQFV30CaajKJH5YcF5uh-g4BmASjkYq0JREuF4Kug9-PYEPUGV_Z61unPOBbXwE9W2TjgKvRNOesIjTvflu9Q8GA9DWQXNltrPWaJvcWi3KSYz5gQ-jXYujdCNMOXXD_HYiKeOd4v7-Ztfr-y0AzTjklh0Zhn_hva65KFXCuPCc_oNCF1FCjLZYogCGWV-IdDkhh1zHuwIfrv6wXreSkt74_qmY_qVr0m23zJddajtDeySZ15OGFjNOTIu-JF5rh2JIqj8bjzMll3Y6WM3xbMDpWHbwvxyhSBHYtr-mU6OXL5hsjrjA7zutEkWq8jtKHUdEXZWIGJGoaRCIbbMfDkHxoDtckW2zfz9nK21xCcOjA8Fz8eHHFQeExwWZZLVPaggylVRd5zO8n8B7zitoeyMoQoClQYRdIQ-UkfHqwhYEjS3hm46Iyct0y1_j0ocPNOrDwcObLYBkGR290rBTYqNVQtE0Hgn5cwACB_spx8g9WNs8XnAffWPq4b561-taivlbth-eoubQzWrUPvddkRnw92UmLg2JYIB-N1AMtlBfMuEqW83BzRB8Ma2Qu8VSzyQju2nbKhMQRzqsecUHUbcvrhs4n_eP9sjlzvquomDO8A8y0sJi7ya0GbE6MXS8u_BkMiz8JQ-MtAlQl1YFV7vsHIJh2ngdT-k7bNbWv3W0M5vuUN_JvMSup4fGcEcCRT9rgy-BtWV1z5vrS2TLsoztkCXTmVvSfM3jKbcl76vXlOzYH3h2xvfEvz1wykl4fE8IhHb0udRnz6ODtGxBT2GJAuoGV3WakewMe3bAALZY-Mzbg8blhUHMUHF2MmIxAZJxCZugPsnWO9QobPVGvXX5cok-t5JW5gFbr0SW7XhZjwG7B3jjsh2n7bCSi0p9esbBoM73wWufi8hDJK1oOuKVwnyew9z_Ze8g45y4RKlB6-z-YiOPIEp0rmbeBpXG6IsLQcocxxL8xenonyA09DYIoL6_Jthfl5DPzqQxOhdWhFBqGC2sZcU;/?ep=AzpO62kAAC69s0lLpTzLRom3-glG5RmpdBX4FqSFWGYuiLWNSaPJXUPebN---k-M4-wR1PAFIYZ-B0mRHJqwhqox6wsvY22xO_f4CKmdPOCeHI24Jt5HN3WISKHizwKYUScuPP27Q7RcGOQrwcmVoMrd--jDBzZ-g8J9mHJM9kb6GkVufwMYPKgemQBIdMcP6pTOKnPSIjWsY4k_N5eKtCGCvjo&v=2
+          - text: "-"
+          - link "Amazon限定本" [ref=e91] [cursor=pointer]:
+            - /url: https://rd.listing.yahoo.co.jp/p/GU=AzpO62kAAKVV-WmIqv8Qsq3-3zRRYUWX0Kct9us5hNInKlVNHRyAtMgkD8PpTVHMo7JmkLHQqnpOL9YrQOvAqtSOF8HWlBLt29XRwMovFcycwKKYEs_yXNEqMwei6HpWGUwBLlckAuEkkfXX6HlgrE2J0cEkk30G3OTwlNu6AZcWdqWVTK7Rec0xGsLs66uJ63_M3u8oMy9xHWitMHAtGmWF7G8yebK3Lc64RXqQvjud8Is-8PGXkYm3AnFecMcdbqP79FItbsV7foFWLuBQASfDde50VKPmTKDSb2bwOKQC1DBLlICdOFykJA52PTjPMV93CncG2vHYONxuL5l5Zk2QVGUEBtj20cFLuVhxPkAclGhwu_KkGZe0H7h0oj3Q7Oxvqr4cXjWl986-ufj7fdclEleCrZPxJ38tdxcMFSv_-DDTYuEtu_p7lZGXejlcQRiC52nQmRQgs6NDg-AbZkHNORsl2eboeK1Fig5esI8jpWxEDU7ptrDTA0XaDO-As1Xru8hP8w3Ma44BixrH6vKodIqrFUBsjdf1JfguXfTA5Prs29eG2-qk_3tqSQYB1iFA7nGTsThaWcxNiB0NwjciLCjMJi8kDYZRd-95Q7rJeZAixAPzUzcY9WwgQ78Lcs9BbhNJe4uzspys467dFe_dRFSj3FTL4YZYuvrvnkIO0ryW13M3__QuHKMAkFQJWs4MYTLj9OI5YtD8T5jaaSt1aXhOW-8QcFMC7TkLQ2dHEM8fw2j9QVjIHB-xsqhtqgIMyYNSHHVy6jlk5e0nC9rVOa2LBGwUvqB_C3iF5a5tSG176RSVrf6OHZUA9Tuf01Gfep0HQp_iW9bwVGlwA8beSZdf6_UuMPtnDV8z-ZU_2YiG8fb0hswYOZ_fhXhrkTV1GnxGn_qGXg4VH7HS1CSuxUcUzwHrRgLN1BOqCFyB95a9TIE2jzUF7YsbpQs75hwVbUzlngW4Tpc7pR5wb8lK0Cf_qs0YGqlO03DntS32ntu5ODIPb2aGFnVY3hb63dDml7ouds1vBR7d8Zg2-Xi3axS4IV-MhDBmcvcQYZ00F1VMBimf7r8lmFJWYayyXQAnlb_F6ctyXr_bUrCMq_k3fJJXqvutqsoLHn7dSffTDRA7u6IN9rkcfhOiXNRFzOxRImQ6IAXYHEQnxoPMEZ5O-Ukh_Dhkmpxqps7hkp1s3tJeSCtxQ6fSFIl_kc7oKRMmwqnC8U6TCWRY_36VPEevT4Bu6jYq7idARgvZ0n_riD1vgetoVb-s_8lNTuC5QCpNo8HRUVCV0rP53Uuqon5nMc2lWe-wfBDv_4OyxL5-jPm6uNVvbQapwxdRUvmfPp5_2ELTGd8CmFWsQhTrTlc22abm4edf9erHrl4s7hcamPynTLiFJVEDU5-olRNPi2W2JUJqGFkfjDXDghAF2h3r8Tw8UuuJqHzhnrb4qtE9WysmDBwuTCAlJcioHiz2MQYDg1e3vAH4x0pqzz91FLIksQJlt8CPJfGyrWGqtdtGwxnMA1CcKsCSUdpYZWXhK4uJ6CWewyP31BDLJlKw1iVx5aJj2XbP6h0IWtgEV_5M5NjD-CLajDuO9pqjEy6hIJyMGSqV56hb9Tl09FEf8DAgRP-EPqqeVQbtU9q4mpU;/?ep=AzpO62kAAOmw9KkLrtWUeDoOjsMA4_GfVUTyEPhUd6WThA5BsLyQBV5sU4Gfykw3Lt7FAWPUYgJKxu7ufZnIGaXXp8jtshq76SvgKjdwrD-_GeviSWVL4ag0AZr_qD8wzCkAmulm_NEKgz1dgNnBOQ_otuOoo9lNbbN98Zd7bRJA5F_ZPS4nrQMKUfrlM-imAg-A4XLqswYwYLtvXqlo-sqDIQ&v=2
+      - generic [ref=e92]:
+        - heading "質問一覧" [level=2]
+        - list [ref=e93]:
+          - listitem [ref=e94]:
+            - heading "既読無視されると不安になります。 どうしたらいいですか、、 好きではないけど興味ある相手です。" [level=3] [ref=e95]:
+              - link "既読無視されると不安になります。 どうしたらいいですか、、 好きではないけど興味ある相手です。" [ref=e96] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14323453539?__ysp=5pei6Kqt54Sh6KaWIOS4jeWuiQ%3D%3D
+                - emphasis [ref=e97]: 既読
+                - emphasis [ref=e98]: 無視
+                - text: されると
+                - emphasis [ref=e99]: 不安
+                - text: になります。 どうしたらいいですか、、 好きではないけど興味ある相手です。
+            - paragraph
+            - paragraph [ref=e100]:
+              - generic [ref=e101]:
+                - img [ref=e102]
+                - generic: 質問日時：
+                - generic [ref=e104]: 2025/12/20 18:12
+              - generic [ref=e105]:
+                - img [ref=e106]
+                - generic: 回答数：
+                - generic [ref=e108]: "4"
+              - generic [ref=e109]:
+                - img [ref=e110]
+                - generic: 閲覧数：
+                - generic [ref=e114]: "77"
+            - paragraph [ref=e115]:
+              - text: 生き方と恋愛、人間関係の悩み>
+              - link "恋愛相談、人間関係の悩み" [ref=e116] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+          - listitem [ref=e117]:
+            - heading "彼氏に既読無視されることが多く、クリスマスも会えず不安になっています。これは私の考えすぎでしょうか？" [level=3] [ref=e118]:
+              - link "彼氏に既読無視されることが多く、クリスマスも会えず不安になっています。これは私の考えすぎでしょうか？" [ref=e119] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10323627515?__ysp=5pei6Kqt54Sh6KaWIOS4jeWuiQ%3D%3D
+                - text: 彼氏に
+                - emphasis [ref=e120]: 既読
+                - emphasis [ref=e121]: 無視
+                - text: されることが多く、クリスマスも会えず
+                - emphasis [ref=e122]: 不安
+                - text: になっています。これは私の考えすぎでしょうか？
+            - paragraph [ref=e123]:
+              - text: 交際中の彼氏について相談です。 彼氏が突然
+              - emphasis [ref=e124]: 既読
+              - emphasis [ref=e125]: 無視
+              - text: をすることがあり、連絡が途切れる理由も分かりません。...
+            - paragraph [ref=e126]:
+              - generic [ref=e127]: 解決済み
+              - generic [ref=e128]:
+                - img [ref=e129]
+                - generic: 質問日時：
+                - generic [ref=e131]: 2025/12/25 23:52
+              - generic [ref=e132]:
+                - img [ref=e133]
+                - generic: 回答数：
+                - generic [ref=e135]: "3"
+              - generic [ref=e136]:
+                - img [ref=e137]
+                - generic: 閲覧数：
+                - generic [ref=e141]: "179"
+            - paragraph [ref=e142]:
+              - text: 生き方と恋愛、人間関係の悩み>
+              - link "恋愛相談、人間関係の悩み" [ref=e143] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+          - listitem [ref=e144]:
+            - heading "既読無視してきていた人が久々LINEをしたら未読無視に変わり、返事をしてこない心理を教えて下..." [level=3] [ref=e145]:
+              - link "既読無視してきていた人が久々LINEをしたら未読無視に変わり、返事をしてこない心理を教えて下..." [ref=e146] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14322324694?__ysp=5pei6Kqt54Sh6KaWIOS4jeWuiQ%3D%3D
+            - paragraph [ref=e147]: お相手の未読無視が続き、その心理について悩んでいらっしゃるのですね。ブロックされていないということは、まだ完全に拒絶されているわけではない、という希望はあります。それでも、返信がない状況は、とても不安で、色々なこと...
+            - paragraph [ref=e148]:
+              - generic [ref=e149]: 解決済み
+              - generic [ref=e150]:
+                - img [ref=e151]
+                - generic: 質問日時：
+                - generic [ref=e153]: 2025/11/17 2:51
+              - generic [ref=e154]:
+                - img [ref=e155]
+                - generic: 回答数：
+                - generic [ref=e157]: "2"
+              - generic [ref=e158]:
+                - img [ref=e159]
+                - generic: 閲覧数：
+                - generic [ref=e163]: "224"
+            - paragraph [ref=e164]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "恋愛相談" [ref=e165] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675272/question/list
+          - listitem [ref=e166]:
+            - heading "既読無視する人の心理を聞きたいです 私は返信する時にトークの画面を開いて既読をつけるタイプな..." [level=3] [ref=e167]:
+              - link "既読無視する人の心理を聞きたいです 私は返信する時にトークの画面を開いて既読をつけるタイプな..." [ref=e168] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10311781525?__ysp=5pei6Kqt54Sh6KaWIOS4jeWuiQ%3D%3D
+            - paragraph [ref=e169]: タイプなのですが…… 彼氏が仕事が忙しい人で、仕事中は大体返信返ってこないんです。たまに既読無視のまま放置されて、その後夜に返ってくるみたいなことがあります。 私は考えすぎてしまう性格なので、怒らせてしまったのか...
+            - paragraph [ref=e170]:
+              - generic [ref=e171]: 解決済み
+              - generic [ref=e172]:
+                - img [ref=e173]
+                - generic: 質問日時：
+                - generic [ref=e175]: 2025/3/4 14:18
+              - generic [ref=e176]:
+                - img [ref=e177]
+                - generic: 回答数：
+                - generic [ref=e179]: "4"
+              - generic [ref=e180]:
+                - img [ref=e181]
+                - generic: 閲覧数：
+                - generic [ref=e185]: "377"
+            - paragraph [ref=e186]:
+              - text: 生き方と恋愛、人間関係の悩み>
+              - link "恋愛相談、人間関係の悩み" [ref=e187] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+          - listitem [ref=e188]:
+            - heading "婚活で出会った男性に既読無視されてしまって不安です。私は恋愛経験に乏しいアラサー女です。 会っ..." [level=3] [ref=e189]:
+              - link "婚活で出会った男性に既読無視されてしまって不安です。私は恋愛経験に乏しいアラサー女です。 会っ..." [ref=e190] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12319531907?__ysp=5pei6Kqt54Sh6KaWIOS4jeWuiQ%3D%3D
+                - text: 婚活で出会った男性に
+                - emphasis [ref=e191]: 既読
+                - emphasis [ref=e192]: 無視
+                - text: されてしまって
+                - emphasis [ref=e193]: 不安
+                - text: です。私は恋愛経験に乏しいアラサー女です。 会っ...
+            - paragraph [ref=e194]: 会っている時はすごく丁重に扱ってくれ、こんなに合う人はなかなかいないと言ってくれ、私の行きたいところ全部連れてくと言い、好意をほのめかして次も会いたいと言ってくれました。...
+            - paragraph [ref=e195]:
+              - generic [ref=e196]:
+                - img [ref=e197]
+                - generic: 質問日時：
+                - generic [ref=e199]: 2025/9/3 22:40
+              - generic [ref=e200]:
+                - img [ref=e201]
+                - generic: 回答数：
+                - generic [ref=e203]: "11"
+              - generic [ref=e204]:
+                - img [ref=e205]
+                - generic: 閲覧数：
+                - generic [ref=e209]: "390"
+            - paragraph [ref=e210]:
+              - text: 生き方と恋愛、人間関係の悩み>
+              - link "恋愛相談、人間関係の悩み" [ref=e211] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+          - listitem [ref=e212]:
+            - heading "既読無視されてる時だけ不安になって好きかもと思うんですが 会ってみるとそうでも無いです どう思いますか" [level=3] [ref=e213]:
+              - link "既読無視されてる時だけ不安になって好きかもと思うんですが 会ってみるとそうでも無いです どう思いますか" [ref=e214] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11291243531?__ysp=5pei6Kqt54Sh6KaWIOS4jeWuiQ%3D%3D
+                - emphasis [ref=e215]: 既読
+                - emphasis [ref=e216]: 無視
+                - text: されてる時だけ
+                - emphasis [ref=e217]: 不安
+                - text: になって好きかもと思うんですが 会ってみるとそうでも無いです どう思いますか
+            - paragraph
+            - paragraph [ref=e218]:
+              - generic [ref=e219]:
+                - img [ref=e220]
+                - generic: 質問日時：
+                - generic [ref=e222]: 2024/1/3 11:41
+              - generic [ref=e223]:
+                - img [ref=e224]
+                - generic: 回答数：
+                - generic [ref=e226]: "1"
+              - generic [ref=e227]:
+                - img [ref=e228]
+                - generic: 閲覧数：
+                - generic [ref=e232]: "13"
+            - paragraph [ref=e233]:
+              - text: 生き方と恋愛、人間関係の悩み>
+              - link "恋愛相談、人間関係の悩み" [ref=e234] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+          - listitem [ref=e235]:
+            - heading "LINEの既読無視が不安。 セフレとか作ったことある男性お願いします。 私には体の関係が１年以上の男性がいます。" [level=3] [ref=e236]:
+              - link "LINEの既読無視が不安。 セフレとか作ったことある男性お願いします。 私には体の関係が１年以上の男性がいます。" [ref=e237] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10155359420?__ysp=5pei6Kqt54Sh6KaWIOS4jeWuiQ%3D%3D
+                - text: LINEの
+                - emphasis [ref=e238]: 既読
+                - emphasis [ref=e239]: 無視
+                - text: が
+                - emphasis [ref=e240]: 不安
+                - text: 。 セフレとか作ったことある男性お願いします。 私には体の関係が１年以上の男性がいます。
+            - paragraph [ref=e241]: 急でも相手が指定するところまできて エッチだけする。...
+            - paragraph [ref=e242]:
+              - generic [ref=e243]: 解決済み
+              - generic [ref=e244]:
+                - img [ref=e245]
+                - generic: 質問日時：
+                - generic [ref=e247]: 2016/1/31 18:45
+              - generic [ref=e248]:
+                - img [ref=e249]
+                - generic: 回答数：
+                - generic [ref=e251]: "1"
+              - generic [ref=e252]:
+                - img [ref=e253]
+                - generic: 閲覧数：
+                - generic [ref=e257]: 13,480
+            - paragraph [ref=e258]:
+              - text: 生き方と恋愛、人間関係の悩み>
+              - link "恋愛相談、人間関係の悩み" [ref=e259] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+          - listitem [ref=e260]:
+            - heading "私は未読無視より既読無視の方が嫌だし不安になるのですが、みなさんどちらですか？ 未読の方が返す..." [level=3] [ref=e261]:
+              - link "私は未読無視より既読無視の方が嫌だし不安になるのですが、みなさんどちらですか？ 未読の方が返す..." [ref=e262] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327290555?__ysp=5pei6Kqt54Sh6KaWIOS4jeWuiQ%3D%3D
+                - text: 私は未読
+                - emphasis [ref=e263]: 無視
+                - text: より
+                - emphasis [ref=e264]: 既読
+                - emphasis [ref=e265]: 無視
+                - text: の方が嫌だし
+                - emphasis [ref=e266]: 不安
+                - text: になるのですが、みなさんどちらですか？ 未読の方が返す...
+            - paragraph [ref=e267]: 返す意思ありそうって思うんですが、この感覚間違ってますか？？
+            - paragraph [ref=e268]:
+              - generic [ref=e269]:
+                - img [ref=e270]
+                - generic: 質問日時：
+                - generic [ref=e272]: 2026/4/16 17:17
+              - generic [ref=e273]:
+                - img [ref=e274]
+                - generic: 回答数：
+                - generic [ref=e276]: "10"
+              - generic [ref=e277]:
+                - img [ref=e278]
+                - generic: 閲覧数：
+                - generic [ref=e282]: "127"
+            - paragraph [ref=e283]:
+              - text: 生き方と恋愛、人間関係の悩み>
+              - link "恋愛相談、人間関係の悩み" [ref=e284] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+          - listitem [ref=e285]:
+            - heading "グループLINEで私のメッセージだけ既読無視されて不安です・・・ 確認してくれればいい内容のメッセージだったので返信がなくても問題ないのですが、" [level=3] [ref=e286]:
+              - link "グループLINEで私のメッセージだけ既読無視されて不安です・・・ 確認してくれればいい内容のメッセージだったので返信がなくても問題ないのですが、" [ref=e287] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10221148650?__ysp=5pei6Kqt54Sh6KaWIOS4jeWuiQ%3D%3D
+                - text: グループLINEで私のメッセージだけ
+                - emphasis [ref=e288]: 既読
+                - emphasis [ref=e289]: 無視
+                - text: されて
+                - emphasis [ref=e290]: 不安
+                - text: です・・・ 確認してくれればいい内容のメッセージだったので返信がなくても問題ないのですが、
+            - paragraph [ref=e291]: 他の人には返信があるのに私にだけ無いと「（何か失敗しちゃったかな・・）」とか「（もしかして内容間違えてた・・！？）」...
+            - paragraph [ref=e292]:
+              - generic [ref=e293]:
+                - img [ref=e294]
+                - generic: 質問日時：
+                - generic [ref=e296]: 2020/3/6 11:51
+              - generic [ref=e297]:
+                - img [ref=e298]
+                - generic: 回答数：
+                - generic [ref=e300]: "1"
+              - generic [ref=e301]:
+                - img [ref=e302]
+                - generic: 閲覧数：
+                - generic [ref=e306]: 31,383
+            - paragraph [ref=e307]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "友人関係の悩み" [ref=e308] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675275/question/list
+          - listitem [ref=e309]:
+            - heading "彼氏の既読無視 LINEですれ違い、彼が怒ってから既読無視されて1週間経ちました。1週間こえた..." [level=3] [ref=e310]:
+              - link "彼氏の既読無視 LINEですれ違い、彼が怒ってから既読無視されて1週間経ちました。1週間こえた..." [ref=e311] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11306323096?__ysp=5pei6Kqt54Sh6KaWIOS4jeWuiQ%3D%3D
+            - paragraph [ref=e312]: 1週間こえたらさすがにくるかなと思っていたのですが、きません。 共通の友人によると、彼は「今は落ち着く期間、私の用事が落ち着いたらかなと思ってる、向き合う気持ちはある、別れる時は振られるのは俺だと思う」など話してい...
+            - paragraph [ref=e313]:
+              - generic [ref=e314]: 解決済み
+              - generic [ref=e315]:
+                - img [ref=e316]
+                - generic: 質問日時：
+                - generic [ref=e318]: 2024/11/5 20:27
+              - generic [ref=e319]:
+                - img [ref=e320]
+                - generic: 回答数：
+                - generic [ref=e322]: "2"
+              - generic [ref=e323]:
+                - img [ref=e324]
+                - generic: 閲覧数：
+                - generic [ref=e328]: 1,077
+            - paragraph [ref=e329]:
+              - text: 生き方と恋愛、人間関係の悩み>
+              - link "恋愛相談、人間関係の悩み" [ref=e330] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+      - generic [ref=e333]:
+        - heading "ムカつく相手を一発で黙らせるオトナ" [level=2] [ref=e334]:
+          - link "ムカつく相手を一発で黙らせるオトナ" [ref=e335] [cursor=pointer]:
+            - /url: https://rd.listing.yahoo.co.jp/p/GU=AzpO62kAAH5i_gDTmQc6T1GeuUCLjSLMavwFNrbM5PW3YSYWvIBGQd-T_2hcd6EEJ_m1uhs4eH40tnNmjdS29BGvDa1vy-P0x4shGzym4OwoLVKj7kuYCSkrRYLpI0gGKJ36Y1c_7owmcJixN_3pGQUAXxSYq8NcupOYmq02hiQSzkUHcYO2NzwlQOs2WUzSPgYAB6F_gPf_g4KQMYt7qqJbsnLXBZQjEAU8Vlzpg8aPfg6FZgfJv-SMFmGXo3lY0L3cvQu-dCKX1Po4nfIw5EbpxoYCPHlv0vSW9Dsm8c82UTPey1bq2D_vvPTN1l2EnppAOLKnenbkSV2vKVmosgPEBZhyyGHJtitU_E80C-JTEkYapKqP1R2BOITLGJCVBWm9EOAv4hK6iMFqr6J0_9ZMN4_1rHYjgF0teRqq4kWCp_ARF1WehYLhPVd1FRaB3LbJPgwFQsHYYr65R531q3OxBKSsZJHcYH_MTM6JvVCqWiSsXNsVGU7hqFWdcXVef47k78IS5Y_E584ZyOsi9TVnmHOzKcMvRy2Q8omsI4B7dQ0nax6DR5SCe32VQ7Jxhy54bk0fhe41jWijcs5ZTI9Bpwp0xOGdZtSZrZZePrAMxJewkvo32HUToOo_QKd5keUQCL7oeXJw1kZphb8xoAqxrJYEXCKSYR9Z3-s58Kf6ZzxYsuStJOfpnIQUCVEaA4byCDnly7-kOUeOwMXxrmleKNs4EPem92BX-z09pBRDXdzibDMk0JtbAjKl2gRXBMPC8HgaJ21ec0uvm_KP_MRkJwb5wWxrSOwXw4nYKPeY6bY4FRSMGFdp9mktBPnbgKQe5V20tQnAp3hfl6uTiy4ezRiLREWpiq2VOy1GBt3o8Pmi38SNh3nq8drGiXn7XVuVc6NR_jY74Ht66EWg1btV-4IGU0EpddB1PwaDvAZVSy17sSUhxPJxbVO9rcafZ6_VG6fBl44bWWGY7mjBxl87BX2tUL--DXN8FXyGi6VImn0ASUuuGXHR-2PciOCj6zq047Up8Dw76Nxa4Jl855fZy5oqcm7Hjj9vImwrwf57fJPe2cDTcZ_8Y0q-_H2vsx8NW_fptRklX3NFnrVrbFoMk5fRFc6KLvhvLuo3PI6GO1P5bXmptQUXSVwvGjirzByAumzQHhbEk8GfQCMEo8gLUZl6MKcDiS8EXsQSzaDfKS1RBYJS_CIwgT7NPxPBMOGwYK6F2u4pwI_OKzSLu0gpw1Wqu3BQyN28jkyO3fYaSwIIeYo15wDxrQGryOa0_AMB4v59DQe7I7Ri5QB4ZP1b4ZbKVsE9BjcGgQCuwB0Ix1yq4eg9VMLngr3k1F7RcWuJiaywEEX7kGKCHtbkctR5N19rVNruh_iiojeftxqyokTZ9ujdkc-qfkPT6QWD-6ZhTyZrye-Ou6I6F_YyY-LA9bRJNZGfe0t0nA_DxK8qPxXeJJPqK4XdESbNF8hHnk_Ig0oJJNljkdZEQ7FKVFHOMeRaNCwvjCyD3TJ4VSd3j-iIKY3JghOf-SPieZGZVmZ3TxsAM1kOUsnF1ozqpVXMsxWEd-eMtVTrl0fb4zS47uV0nKCmHdmYWCcS5btOYUu4y1-wJHTBw6FYrEWZ_EDs_Dy2CqA_lLGFGqjJt_mkGLM_3rrDqgdnwoytV-ye1un-VcBNDLCr-OQrq_lzE_NnVNW6r80C4mQFWsHURC2bcIWEnm0nonvi6TXErJKhs0tWjD7S54PgmkE99boEA4t-fAS6NQ;/?ep=AzpO62kAAAleHL4p9RGvHdLkT4eXihSjoOQJcgx6YcFfLE6wgTpamTXCCQvUSLgqfU53KjD7NeaWte7IjKzV5_4LaFO_gF-5u4ve69nBW3A24rX2USnRazQVknlawTHPpG0k9jSBobM-mYoLo4xLJZ7To3VOkUa0fLCNyDaYXK8pkZrNuujDg0EY08hIxKyBLLCZvnX-07fs787RZk7I_smydQ&v=2
+        - paragraph [ref=e336]: レビューを参考に見つけよう - アマゾンならムカつく相手を一発で黙らせるオトナがいつでも買える。トラブルへのサポートも充実だから安心。欲しかったビジネス書が充実の商品ラインナップから探せる。人気のジャンル・出版社など。さらにポイントが貯まる。季節イベント、セール満載。Primeなら通常送料無料。お祝用Amazonギフトカード。700万冊以上Kindle本、漫画。ポイント有効期限は無期限。
+        - generic [ref=e337]:
+          - text: 広告www.amazon.co.jp/本/お得に買い物
+          - button [ref=e339] [cursor=pointer]:
+            - img [ref=e340]
+        - paragraph [ref=e342]:
+          - link "タレント写真集" [ref=e343] [cursor=pointer]:
+            - /url: https://rd.listing.yahoo.co.jp/p/GU=AzpO62kAAOBYR7PS1uBopAEpGWr0QMMdTybj75BPknHJz22RiTND3PBxIlIXNn_8V-_GXMp9algR-hH-Gt9SXQjKN9EkBEEKRUHnUBNJ-ym__MxnxnGeelRM6NRjCzVrjbkPEVRoNbMz0AScxZOt_3DSjoXTbKGIn9E8UzpMcS1kOexYRkkJk3rY0l6b_8XvlV2tS0N_XuUEsM2BkmyK2ff3n5K5r8kUyQDJKHq5W6XCI3c8RgKRuO-AfT2SQemvwdSg9kawmr27ZinGL6nmdFZDzXJU06J4cEK6WijE-Ubo5IKEai5L3wZXZRxOKh612ecpWORT4x_AHDWIaI4nEqEazex4po_c1he5wuDdEN17f1qfVubW7WlcjJUZTShUn9gS-fvl6pvvEBmxesai8UbWYHZ8CCs8-zPRkdnOe39hofribNLi_cOhZNwJRVlEAqWUqxIz_8IlHADKfxDtH-66HFPQHI8sxkUOWWFZodflhyMHpGL4tanxdvRVeipnjF10DvrPZQALR-OgzFMawgUHEZCmalRNQdhmxinV_dxE3-W4dmFhttwR6kS927xkndjnHxdshwQyndw0m9A627fDjYBxRPzxC2A2GwgKjCOGR7y6wsGwZslVF-y6c9wNsZjZGsdbgCrsLtE53hqYxZF0reoonnLzjHiL_NnBA6cADdNDzWGrPH5oRNLtSLVlS-ijBXcQZksHzMJ-FIOfmfdWGOATutClhPZJ5uS-o6gzZHvkFmbcNwllIr8WgFw4zzM1CFyqqbj3AIugqazT0xl8QdNb5SEauAXtocz2chf9uwG11o3NIMZ5EasNXufN-efJtO6eUeXMBNk1HoiqvRc2FmT_M7j7giRopkG9bHLJGZkoK8Dr_2--CK6wJbkl6cQG2674cTWnmIGdX5VlN2qRyNsUd27ls57TI18vmUnxx_v7dSOM6h0uof-wTCkJK-Er6UktgoNx1r_R8KJ0GZud5pMCyth5zmUm55BUHk746mNLIpthnHSMVWRlpRo2mDZjC-WPkwGC3Rxdq4_x6P9_J_3tgG9ffed8i2QphNeMOLSuXPJR422vxvqap1Or3rPQepOMeDl2HWxiZnfPBCkfPwAf6Lq7OAIGyYGnOdB8-ACgHDhFZZcX5dLOSmmlkFvl8WEPUPD2l4gSXYtLmkrHRAjGOFZOC_vR0lA-fDFEWCUIZ_PnVigkVaZtK7bbt7qHWqH4qecX26j-s0sKUnDELIh2uVaYJygu6bf7K0cDv8uARTNR-G_ZiQ4LvYRC7gQlJUI7ogHOASqinuBrjNxHQZ2SSr8GUw5rOWHtyWLKmfMJOxEm6mP7UosGxYhcIf91mDo4e0oEvemrZ3Ruc17z1Kq9eFPgShwkxsAuV1DZOa2CqbAifHPiw5nzeSnrqLD_hPk0ZTOM4SXHZMZyoZi2wzF4GlqqU1zhQFAY45fHIBkJryj8iK9udHEYSt99LhL-6qkjZXjWYHd6X1XygtQ5DL_RAiVYALwd_rHYDYYY00tzthw7o9JU4DBKkVb1jZAKbRGQ-ctLgCRQPl_1Yr0n3o9T_OHqGmcAWu2_GyNlecYNu4xcOdjKvEdD7YyiKmXeuLsQH_Wck7TAHARVRHcVG0oWrh3SMO37w1g;/?ep=AzpO62kAAG9azaBTYl2-wDwVtol7FuWDSL4QK4Su5t3oEmimKyfZCBlxeZfzG4WWEkoD_pAhvUmGR26f6h0rngT6Mxz0R1rVFHPHfvSeCNQZd0xRGcX0ce2fjoBYG72TFXeGZeu7O6vPvsRRAZyBJKyQGkcNmPeJASYTzYifYS5kR1KLJTzvQO1jEElhb4Yh7iXkcHW3OcVtJU3nhlgnbAN6wQ&v=2
+          - text: "-"
+          - link "Kindle本（電子書籍）" [ref=e344] [cursor=pointer]:
+            - /url: https://rd.listing.yahoo.co.jp/p/GU=AzpO62kAAJsy6I4ZuR6YMATSDI1orD2V0eLq2Kp_vXQfmPJaaDtzu3b7uhJRV2p5nnllgSTSZhk4ilEmGlIIU6nXWC1T92szV81UxmR8k-VhwWnXSadv4E8LGcsL9wqRNBtlyL7CUxuDYkGATc6H1F1572U6zcsqf9LRS_YIBfVoWKl31as1dLgTVhTKfthNIr_rj5KaWBRnUL5MXi9qZXFl-Af_yVvFnVvrrwfmEEtgBgLLwMmYaT7xQRT2pdFIJQbz3SijVC2gWpUhZ2a9EAHWxGnMFBjpOfFDcv2xkPu2jS5zHBA4vkuR3DvV_H5iPqQxPIGfGQIXbaQ1tQ9kZA1_xmu57y8u9uD6uq-2pewF1j5JuHPBUrOXsE2w1fogy9B7YbXgofShILR5eJ2iEi3ZJd6MK8XksNDGXTMwLqclMlk1X-wotwxhWvf4Q6ET9hRvVgxK_hEfMdjFwudnZVxCdcfMkOysejvD6wX2eqe8EXb3fi0ex2zxZyP79w5iLL1kafQ9r32m32FBicB37eU3VISeBZ5caKFSvkYWBBx1e4CVUWqWXxeWlk8wuv9RjQ9uRtjJNB3snAFt-0S2Fq85rliOXR5D057veOc7T3ILzLafZTbzoUDV4FeCNTR5qqjeVRcQ98uLh2K78Lh-n7rn2AlYcZZdNQCt2i0RuAJD9s2FLxljOadwxdVMSd1P7fl-ZRtYyd-jQcdpHOUPr7uaWCwKVXBP0e3R7j0kFnCTkqfE2MFgmSH1JDnY5TW_zj3W9_vDxisVjeyDOr4gO7KGjVdbI5EGwg4jkjd1kDOckAzgfYihVxYAHIko48QslDW42mY8OM-MwFhV7CYdCRxiTusFSiQ1wCal7Lq7gVIBXqo3FUVks7-F3N1Mz6n8lAV-nKChyoqLiY4Mz3lV4CoGAObKr5kcfH_DHJDtnpafISkP9XwiNE810HDIvtPszojsl4agYvVXU1PGln0ZxoDog-Wwsi95zqw25uT80yrUtcF922Ve3Hvskx3-CYderZJ6IeAE67qCJd7oJ_4_0LQl3GHS4Mi1iCAySHZi0QGHWcwgh_59GIxnOmil6f1xOxyAOgeDWcqWCyyJWws0NDNACAXTq8ZAHTL6CMhGZMKWHFojQ_nv-FTRKb2RrO8OkJLuJG2zEAsPEdoFsWzvV2cCkCCF8Hx7zdBD1Erpx2Tb1mUbZMf-bKrPYLliAq5F9UTnwx2V_jb6ydhpyZuRE7vkjNRZUr4tg6we-IRJ8hd2ap2_46vN2koAgLY2rMZkkXQf5sYtsbDgLuI_cyC7lNU_WRf3DW3QfzHDBtpOx_3V3WPjHt-qJiEaOhyfz75IlF6Zdqh5iL77fsRnjCIi4T5yyEZtOHmuJhzZiNmNa9ENlPGO3Kdnj8piE0fPZv32UDbHPVzaIOTYezheclPQR7qIYGyI5F5c9cb91mQTHxp-MxcYtBVy5DLC86GIqWM7x_4gz7eRIZSIKfeuSOuMmEo24p5gAebp0qa-gNUDBzBwMeXFFGHpUuRjXGDjf-m67MZtgJWR0y1rmeu-6cUfrYErd2nXGnokk5wRYNwHNJJI_UPc39kHR6nVzsH2RwJpLbp0fls_12WxmZ8A5DrVTvfWjgzOOQHICMhZVbs9ioD8Dw;/?ep=AzpO62kAAC49562B8kRLe3RIf5qQgCyA4K8F73P4wYQCOubTApLjRyrC7zmgbGlhVUFfyh35EfrHtdXMJAdzn3X1lW6RVmqym1EMaqp7lzUbm1aO3lwgVQkHIL5OJ15oWrBdIpCpeTXWIbu2duvGD3XZ5f8YYU_MWe_eaiVlyjlfGHQB2NoO2X-ALXeAzGW4id5DUNtcHqSfxa8k9RdyTIqDlQ&v=2
+          - text: "-"
+          - link "ビジネス書" [ref=e345] [cursor=pointer]:
+            - /url: https://rd.listing.yahoo.co.jp/p/GU=AzpO62kAAEYcKvA7Z3kfw3iehRcoR4WGKS3oQ6ggfKaW3lu6wbrS3NQw5IUy-VBDsKBNAwflyj8mm-XV1D64mVPVs04XYwUVJRKvYgfk4ZROxD7QTGaszXb7Mb8TM7hf1kUuz2dJYtmxmz5RTIfW7DqZRTtoHBLh5IWFdH_4IAJY7FYQ2VNUA3BkTmkdbhPnMPrz9lTAuoBjGpyfoUUlrFA1celZ2HNemfsUt21Hj2nf6J23-vGlcCHXYrITGoWmBCry0lEMimpjLJgtC05i_yXkXrPY3LTOK2b1LxQe3t1dnYbTxYc6QjSseC5x67N9W_YypJiNZxDtO3MK3gvOAPeeEjAvW55oCvm2hSZdIJmi75NT9aDhglXMYRuOZKUItoRVZzJ4pA7UbeFzt4K-VJ_B5zWT4wOWIWbVWDEjAGAMsmIVaSf62CbPxfj7rWA-Ti6jfkj3foM6ps-ByvJQPIcIGc_df-ft_A-t_ZM6oKKZfCdEz8SgcEVTq2p6JIVnRdHC3L0lOj5TZwcOuZNV4qklPepjQofYk7uBiCPxjRpyNCP9wUcXk612zQPuqsnLNHsodrbceuumXS7lkQIeEl5V9HcU7jkTclm0LDjSnl2ngScGtslJYSX5WwlLsMOZg-lOv4V-PO-OGEdPWIYl10fkJQ9MYKHgOVUjjKR0_dlRj82htZHbL_FomEFJRBt7eJXal5FEuqa8X4mkWmUqrL9NKMZL2pqilqn6n-uEvBzApOdBnkxvgPlOO8J0Y_N4RkT0edpByBh0v6ZlOETwiq-w7amXkqIrpytfBdUqzIfPga7riwnP1KxXHb52JyXU1hP0g9N3UZX_tQOGYlB-ON2wbJOG1Q1wlr3CGrMiS1zr0cXAqWD0ISXsEquLvvXiNXnF9LZqRpZIKEbWr3Ax_d_WmXL5y4Xv9OXAci8HsbHnI7LfQFnXPThNuE5fLRe8I3y_rsqxS3Hmwki9qxJNkvqni3iC8kBT3TXtMds6NzmcbbJujMAfMHtEHlNiTt0bphYtWDzJvXuvUropUlH-F9QPhDpIXe_54QdeGeiQP-_MZEuJpROLnWHdrHIHID_SM-yR3t8gO73MGI3AWpnGbRMwmRHd5p_SvaHN2Ka0BAzxJoxmHSS7Qdf3vqE0v-7tATWHAz6MsHkgMJleOe1E2bpCvAi6AaUzgzmdC9qpsJTZ0ncG1wTt9EzS6E_o-xcWVUoufArxWnRwWjiTzF8gJK6n57Osbwafa3jzzMxP7ka80DMSlAEwHjXFZJIceevGs73HM5c9nNu7Hw8J2_coeGJtO_ikI4WZfTEMBQ11blGAbn6BwQoHzrL8nsQIcH3RTGI_KUypCvkroV_sTU4GzpZlOSW1vwXwmewpC-iHaQK0Sd2UTSbThgh00mXKRhpBG-4DFatWrnPQHiJz9nMAnYNMraQAMQMCL_ZDGPglNzxDJycHAFBKfsqBs3NPsLY1dzvugJqXmp99LrcITtzooTzGFoZqVrY-Nu4TI6-xm-7Puc2VzEstNrj1w7Cbywn5giZUVxveIyJLfZIqbZGZhgIfLr20vu4KvGNhwZ-DERxQA8ULuRsNs0juT7dWmrVxr0BEyj2deqFOWqUqyopaWmRKb0O-d6wPqEszbwG5;/?ep=AzpO62kAAIJuMschpYKyfUAK-G0Gj2e0fWRQ9pZ0Y4-A8klFGNBNCBCEo-94y74bfIZTVixk8CjhRSs9_I8JMASeo2r2PHz8lnq0c0NWabMJ7TRPT33zSKZ8HJj7u4Ixe5kKjt-NFE3HnnFZYVcR35ISuhVomzsLNrupPhXk0JR9MpSThuU-B_MMl2W4Mpj8L0r4ifbDc5WaRrJ6-bw8yJDCnQ&v=2
+          - text: "-"
+          - link "Amazon限定本" [ref=e346] [cursor=pointer]:
+            - /url: https://rd.listing.yahoo.co.jp/p/GU=AzpO62kAAEWmjtO_Nn_tYkBpc7CfI0jRpHiSZkayORMqVj6pGg0SBYD9cGHGX8hdoeozrwmxM6AYFwtBJT-UINtqpoeKN4oLtKQuUgn6W0oJ3B8wPGlNe03C5a3ZtYyiWE2y238Pv-xsr4mH0krE1DHnKIsDNDE2PR52mkCy-1qHZuKUXBLqGONx908FHoTg7YnUgOr9sA-F0mKgnHzh4X_1ztMzHgB-9Wx3z7-4HRuAjTpXC7tFaRRGx-U6Zo76qz-zxdXpQZ_ORJcJFJ2-hoFW7YB-akWPZ0ak4CtpZFplZiri9ESL1Lwqw5Mhj6msyNGM5zdIFEhtJhhep-XSXoF06VD_G57PUfXKHcquEaT6ZT_dcaRtUeQ_Taol6pj73K594tb41GVHLR3cZi_FZ0Wu-miu4pfsGrhww51LwJCPSt5E5jAdzGa3w4-fymHwINCO8sNJwMKhjvnoywE5WGVQi47A7a1JRLxEYNiDV19KzUDQgoKr42XuB5a4lh69ojGGRKAHU2QBoYGXPCkSaByFoTL26rJR-TmLHua3GisbOA53N48iPEqVkX5cJB8zRSKHF5efoVXZyJvsCmhPPaaceFZ8S5EVkm79sAjvTThDwNG106Wqe3iru9Ee22Albc2t5C6-ZxDhvq41PeC0g7fqhU43JQGO6UkntyhVAJU5Mb1NpjBITFEER9rFJzQLTgksfsCXQsf96HFNJTLNtlMPPdZ1ZduJXQdtsXVGVCHI10k2VDGnJLi1B_bT8j86XIhuEikpwIgz3FFs9epq8Hwiiu0um2euyObCqI7f4SglqdNHjUV7lhhjflnSU5wdiGuwv5G0kt_Y9n9aQqSlOMrDkcoAbyttD3MKZQr8yqa_tDsOKRhhCPX_ylOQGFqYjuqflnbRuS75C2OFwKFPQsK4kNcYnJxGDGcSDLRJ0n96kIU9z0lYGpxMu_rllLYf-zcHzMdo4qnR2FPaaqetV5miQnSVFUFypJVueG-oFmF-bb-aPBKfGX29-l-NxxWxMBltfl4IeY5k1iPcROi160hFzjmbJeS9PxL23vNjQdYvZ4lLz5P3CRZZzybw3jKDju86cseP169zbvro0kwAlcLHVkS1CXbA2zYWnLHL2u9dwXhwOy-pNOFDFWOOgPOiMTh8ma1aMhCBfNGYWsvWXus-1nm3z4fy6PkaLvVSgtVTly8fw_wFMyujMmAn_upljByxiBKCSKycbjYRI5Ek8FDOB5_WcPdZ4G9F8o-f3GQvVa537qM-GiFTkVJ_5YiKLVLI0CuNWpbdsGuiz1vnWJEWz0lGfa1sDm7AumhFDORzO6jTlZWXGCNGhgQDTxgk_bUOL9lcgvaLvbqYTFdL0RElIYS9Mg6DxQgrl6aBfmyE0lSYerZIH7HlRaecaxe2r21iEFs0_b8F_XR2dRotKxmFhTSHmmNYF3YamhGFlRaNjvIyPF1a_ZoUik-Y9ww37cBsNncZLZwJEPabx4PG2Ke3IrL2cloQxkKbacScouYV6q9Hxlh8HEqno5qkpyIdCjSkR-2YLJThvJrMBH37OhpLGWYx-Bddv82bUSP5bTiUVfkuyKsaatWKXPgdWrItOlQgSQ4MarcNeJOv1rgWL8RB8mHXjtl4wOkxcfyHOmQblhOW;/?ep=AzpO62kAAC7TDl09l3QrpXJbsO5O2MOQGmDQPkAmi7uzte2tzzhvHtW5xgkkd7usOSlOxkbarX2Atp0oJWSaODzHPn3uErDDeWjCYesICQuHy9zJgMWLJkuHynPoSLrUXyfiXG7U4f4oVzBMFGHzyt8ER8aebb7JVRyQh9ut43cekLR4GTa51TOMv-IdRiNimvv1Di5srTtF7AB70fBvJIFFxwI&v=2
+      - generic [ref=e347]:
+        - generic [ref=e348]:
+          - link "前へ":
+            - /url: /search?p=%E6%97%A2%E8%AA%AD%E7%84%A1%E8%A6%96%20%E4%B8%8D%E5%AE%89&type=tag&b=-9
+            - img
+            - text: 前へ
+          - list [ref=e349]:
+            - listitem [ref=e350]:
+              - link "1":
+                - /url: /search?p=%E6%97%A2%E8%AA%AD%E7%84%A1%E8%A6%96%20%E4%B8%8D%E5%AE%89&type=tag&b=1
+            - listitem [ref=e351]:
+              - link "2" [ref=e352] [cursor=pointer]:
+                - /url: /search?p=%E6%97%A2%E8%AA%AD%E7%84%A1%E8%A6%96%20%E4%B8%8D%E5%AE%89&type=tag&b=11
+            - listitem [ref=e353]:
+              - link "3" [ref=e354] [cursor=pointer]:
+                - /url: /search?p=%E6%97%A2%E8%AA%AD%E7%84%A1%E8%A6%96%20%E4%B8%8D%E5%AE%89&type=tag&b=21
+            - listitem [ref=e355]:
+              - link "4" [ref=e356] [cursor=pointer]:
+                - /url: /search?p=%E6%97%A2%E8%AA%AD%E7%84%A1%E8%A6%96%20%E4%B8%8D%E5%AE%89&type=tag&b=31
+            - listitem [ref=e357]:
+              - link "5" [ref=e358] [cursor=pointer]:
+                - /url: /search?p=%E6%97%A2%E8%AA%AD%E7%84%A1%E8%A6%96%20%E4%B8%8D%E5%AE%89&type=tag&b=41
+            - listitem [ref=e359]:
+              - link "6" [ref=e360] [cursor=pointer]:
+                - /url: /search?p=%E6%97%A2%E8%AA%AD%E7%84%A1%E8%A6%96%20%E4%B8%8D%E5%AE%89&type=tag&b=51
+            - listitem [ref=e361]:
+              - link "7" [ref=e362] [cursor=pointer]:
+                - /url: /search?p=%E6%97%A2%E8%AA%AD%E7%84%A1%E8%A6%96%20%E4%B8%8D%E5%AE%89&type=tag&b=61
+            - listitem [ref=e363]:
+              - link "8" [ref=e364] [cursor=pointer]:
+                - /url: /search?p=%E6%97%A2%E8%AA%AD%E7%84%A1%E8%A6%96%20%E4%B8%8D%E5%AE%89&type=tag&b=71
+            - listitem [ref=e365]:
+              - link "9" [ref=e366] [cursor=pointer]:
+                - /url: /search?p=%E6%97%A2%E8%AA%AD%E7%84%A1%E8%A6%96%20%E4%B8%8D%E5%AE%89&type=tag&b=81
+            - listitem [ref=e367]:
+              - link "10" [ref=e368] [cursor=pointer]:
+                - /url: /search?p=%E6%97%A2%E8%AA%AD%E7%84%A1%E8%A6%96%20%E4%B8%8D%E5%AE%89&type=tag&b=91
+          - generic [ref=e369]: ...
+          - link "次へ" [ref=e370] [cursor=pointer]:
+            - /url: /search?p=%E6%97%A2%E8%AA%AD%E7%84%A1%E8%A6%96%20%E4%B8%8D%E5%AE%89&type=tag&b=11
+            - text: 次へ
+            - img [ref=e371]
+        - paragraph [ref=e373]:
+          - generic [ref=e374]: 約10,161件中
+          - generic [ref=e375]: 1～10件目
+      - generic [ref=e376]:
+        - paragraph [ref=e377]: 検索しても答えが見つからない方は…
+        - link "質問する" [ref=e378] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+      - generic:
+        - generic:
+          - generic:
+            - paragraph:
+              - text: ログインボーナス
+              - generic "ベストアンサーへのお礼（知恵コイン）：":
+                - img: xmlns="http://www.w3.org/2000/svg">
+              - text: 0枚獲得！
+            - paragraph
+    - generic [ref=e379]:
+      - generic [ref=e380]:
+        - heading "検索対象" [level=2] [ref=e381]
+        - paragraph [ref=e382]:
+          - strong [ref=e383]: すべて
+          - text: （10,161件）
+        - paragraph [ref=e384]:
+          - link "回答受付中" [ref=e385] [cursor=pointer]:
+            - /url: /search?p=%E6%97%A2%E8%AA%AD%E7%84%A1%E8%A6%96%20%E4%B8%8D%E5%AE%89&type=tag&flg=0
+          - text: （11件）
+        - paragraph [ref=e386]:
+          - link "解決済み" [ref=e387] [cursor=pointer]:
+            - /url: /search?p=%E6%97%A2%E8%AA%AD%E7%84%A1%E8%A6%96%20%E4%B8%8D%E5%AE%89&type=tag&flg=1
+          - text: （7,242件）
+      - generic [ref=e388]:
+        - heading "表示順序" [level=2] [ref=e389]
+        - generic [ref=e392]:
+          - combobox [ref=e393] [cursor=pointer]:
+            - option "質問日時の新しい順" [selected]
+            - option "質問日時の古い順"
+            - option "更新日時の新しい順"
+            - option "更新日時の古い順"
+            - option "回答数の多い順"
+            - option "回答数の少ない順"
+            - option "閲覧数の多い順"
+            - option "閲覧数の少ない順"
+            - option "お礼の多い順"
+            - option "お礼の少ない順"
+          - img
+      - paragraph [ref=e395]:
+        - link "より詳しい条件で検索" [ref=e396] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/search/advanced?p=%E6%97%A2%E8%AA%AD%E7%84%A1%E8%A6%96%20%E4%B8%8D%E5%AE%89&type=tag
+      - link "占い師にお悩み相談" [ref=e398] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_qa-res_000
+        - img "占い師にお悩み相談" [ref=e401]
+  - contentinfo [ref=e403]:
+    - generic [ref=e404]:
+      - link "Yahoo!知恵袋" [ref=e405] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e406]: "|"
+      - link "Yahoo! JAPAN" [ref=e407] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e408]:
+      - link "プライバシーポリシー" [ref=e409] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e410]: "-"
+      - link "プライバシーセンター" [ref=e411] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e412]: "-"
+      - link "利用規約" [ref=e413] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e414]: "-"
+      - link "広告について" [ref=e415] [cursor=pointer]:
+        - /url: https://btoptout.yahoo.co.jp/optout/index.html
+      - img [ref=e416]
+      - generic [ref=e420]: "-"
+      - link "検索結果への広告掲載" [ref=e421] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/searchads/?o=JP1160
+      - generic [ref=e422]: "-"
+      - link "利用のルール" [ref=e423] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e424]: "-"
+      - link "ご意見・ご要望" [ref=e425] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e426]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e427] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e428]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e429]: © LY Corporation

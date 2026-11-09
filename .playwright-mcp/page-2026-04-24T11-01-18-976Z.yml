@@ -1,0 +1,64 @@
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e12]:
+      - list [ref=e13]:
+        - listitem [ref=e14]:
+          - link "Yahoo! JAPAN" [ref=e15] [cursor=pointer]:
+            - /url: https://www.yahoo.co.jp/
+        - listitem [ref=e16]:
+          - link "ヘルプ" [ref=e17] [cursor=pointer]:
+            - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+      - generic [ref=e20]:
+        - generic "キーワード："
+        - textbox "ウェブ検索" [ref=e21]
+        - button "検索" [ref=e22] [cursor=pointer]
+        - link "板山 急上昇" [ref=e23] [cursor=pointer]:
+          - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=%E6%9D%BF%E5%B1%B1&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+          - text: 板山
+          - img "急上昇" [ref=e24]
+    - generic [ref=e25]:
+      - link "Yahoo!知恵袋" [ref=e27] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+        - img "Yahoo!知恵袋" [ref=e28]
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - text: IDでもっと便利に
+          - link "新規取得" [ref=e31] [cursor=pointer]:
+            - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Ferror&.src=chiebukuro
+        - link "ログイン" [ref=e33] [cursor=pointer]:
+          - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Ferror
+  - generic [ref=e38]:
+    - generic [ref=e41]: お探しのページは見つかりませんでした
+    - paragraph [ref=e42]:
+      - link "知恵袋トップへ戻る" [ref=e43] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+  - contentinfo [ref=e45]:
+    - generic [ref=e46]:
+      - link "Yahoo!知恵袋" [ref=e47] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e48]: "|"
+      - link "Yahoo! JAPAN" [ref=e49] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e50]:
+      - link "プライバシーポリシー" [ref=e51] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e52]: "-"
+      - link "プライバシーセンター" [ref=e53] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e54]: "-"
+      - link "利用規約" [ref=e55] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e56]: "-"
+      - link "利用のルール" [ref=e57] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e58]: "-"
+      - link "広告掲載について" [ref=e59] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/?utm_source=yahoo&utm_medium=referral&utm_campaign=ysa_cv_link_chiebukuro_241001
+      - generic [ref=e60]: "-"
+      - link "ご意見・ご要望" [ref=e61] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e62]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e63] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e64]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e65]: © LY Corporation

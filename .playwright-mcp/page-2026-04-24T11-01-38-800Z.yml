@@ -1,0 +1,901 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - paragraph [ref=e15]:
+          - link "想定外を生き抜く。10年前の熊本地震の教訓から学ぶ防災術とは？" [ref=e16] [cursor=pointer]:
+            - /url: https://yahoo.jp/TmGP4V
+        - generic [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+                - /url: https://www.yahoo.co.jp/
+            - listitem [ref=e21]:
+              - link "ヘルプ" [ref=e22] [cursor=pointer]:
+                - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+          - generic [ref=e25]:
+            - generic "キーワード："
+            - textbox "ウェブ検索" [ref=e26]
+            - button "検索" [ref=e27] [cursor=pointer]
+            - link "清水邦広 現役引退 急上昇" [ref=e28] [cursor=pointer]:
+              - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=%E6%B8%85%E6%B0%B4%E9%82%A6%E5%BA%83+%E7%8F%BE%E5%BD%B9%E5%BC%95%E9%80%80&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+              - text: 清水邦広 現役引退
+              - img "急上昇" [ref=e29]
+      - generic [ref=e30]:
+        - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+          - img "Yahoo!知恵袋" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - text: IDでもっと便利に
+            - link "新規取得" [ref=e36] [cursor=pointer]:
+              - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078297790%2Fquestion%2Flist&.src=chiebukuro
+          - generic [ref=e37]:
+            - link "ログイン" [ref=e38] [cursor=pointer]:
+              - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078297790%2Fquestion%2Flist
+            - link "［おトク］10％OFFクーポンあります" [ref=e40] [cursor=pointer]:
+              - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8zMDc0OTUvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9hdWN0aW9ucy55YWhvby5jby5qcC9jYW1wYWlnbi9wcm9tby9zdG9yZV9saW1pdGVkX2NvdXBvbg/
+    - navigation [ref=e42]:
+      - generic [ref=e45]:
+        - textbox "このカテゴリで探す" [ref=e47]
+        - button [ref=e48] [cursor=pointer]:
+          - img [ref=e49]
+      - list [ref=e51]:
+        - listitem [ref=e52]:
+          - link "カテゴリ" [ref=e53] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e54]:
+          - link "Q&A一覧" [ref=e55] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e56]:
+          - link "公式・専門家" [ref=e57] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e58]:
+          - link "お知らせ" [ref=e59] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e61] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e65]
+        - text: 質問・相談
+    - list [ref=e70]:
+      - listitem [ref=e71]:
+        - link "知恵袋トップ" [ref=e72] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+        - text: ＞
+      - listitem [ref=e73]:
+        - link "カテゴリ一覧" [ref=e74] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category
+        - text: ＞
+      - listitem [ref=e75]:
+        - generic [ref=e76]: ビジネス、経済とお金
+  - generic [ref=e77]:
+    - generic [ref=e78]:
+      - generic [ref=e81]:
+        - img "ビジネス、経済とお金" [ref=e84]
+        - generic [ref=e85]:
+          - heading "ビジネス、経済とお金" [level=1] [ref=e87]
+          - generic [ref=e91]:
+            - img [ref=e92]
+            - text: お気に入り
+      - generic [ref=e95]:
+        - generic [ref=e96]:
+          - list [ref=e99]:
+            - listitem [ref=e100]:
+              - generic [ref=e102]: 回答受付中
+            - listitem [ref=e103]:
+              - link "解決済み" [ref=e104] [cursor=pointer]:
+                - /url: /category/2078297790/question/list?flg=1
+                - generic [ref=e105]: 解決済み
+            - listitem [ref=e106]:
+              - link "すべて" [ref=e107] [cursor=pointer]:
+                - /url: /category/2078297790/question/list?flg=3
+                - generic [ref=e108]: すべて
+          - generic [ref=e110]:
+            - img [ref=e112]
+            - generic [ref=e114]: 並べ替え：
+            - generic [ref=e117]:
+              - combobox [ref=e118]:
+                - option "質問日時の新しい順" [selected]
+                - option "質問日時の古い順"
+                - option "更新日時の新しい順"
+                - option "更新日時の古い順"
+                - option "回答数の多い順"
+                - option "回答数の少ない順"
+                - option "お礼の多い順"
+              - img
+            - generic [ref=e120]:
+              - generic [ref=e121]: AI質問含む
+              - checkbox [ref=e122] [cursor=pointer]
+            - generic [ref=e124]:
+              - checkbox [ref=e125] [cursor=pointer]
+              - img [ref=e127]
+              - generic [ref=e129]: 回答なし
+          - generic [ref=e130]:
+            - link "子育て、出産 少子化の大きな理由は、低所得で金銭的に子育てが大変だから産まないという理由が多いと聞きます。 高所得の人でも産む人数は変わらないと思うのですが、高所得の人にも税金がかなり緩和されるとか何かをすれ... 回答数： 0 4/24 19:59" [ref=e133] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517418
+              - generic [ref=e134]:
+                - paragraph [ref=e135]: 子育て、出産
+                - paragraph [ref=e138]: 少子化の大きな理由は、低所得で金銭的に子育てが大変だから産まないという理由が多いと聞きます。 高所得の人でも産む人数は変わらないと思うのですが、高所得の人にも税金がかなり緩和されるとか何かをすれ...
+                - generic [ref=e139]:
+                  - generic [ref=e140]:
+                    - generic "回答数：" [ref=e141]:
+                      - img [ref=e142]
+                    - generic [ref=e144]: "0"
+                  - generic "4/24 19:59" [ref=e146]
+            - link "電子マネー、電子決済 クレジットカードについての質問です 紛失や盗難があった訳では無いのですがクレジットカードを1日だけ利用停止にすることは出来ますか？ 回答数： 1 4/24 19:55" [ref=e149] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517304
+              - generic [ref=e150]:
+                - paragraph [ref=e151]: 電子マネー、電子決済
+                - paragraph [ref=e154]: クレジットカードについての質問です 紛失や盗難があった訳では無いのですがクレジットカードを1日だけ利用停止にすることは出来ますか？
+                - generic [ref=e155]:
+                  - generic [ref=e156]:
+                    - generic "回答数：" [ref=e157]:
+                      - img [ref=e158]
+                    - generic [ref=e160]: "1"
+                  - generic "4/24 19:55" [ref=e162]
+            - link "株式 投資に自信のある方々に質問です。 オリエンタルランドの株価って今後5千円台に戻る可能性はあると思いますか？ 回答数： 0 4/24 19:54 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e165] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517253
+              - generic [ref=e166]:
+                - paragraph [ref=e167]: 株式
+                - paragraph [ref=e170]: 投資に自信のある方々に質問です。 オリエンタルランドの株価って今後5千円台に戻る可能性はあると思いますか？
+                - generic [ref=e171]:
+                  - generic [ref=e172]:
+                    - generic "回答数：" [ref=e173]:
+                      - img [ref=e174]
+                    - generic [ref=e176]: "0"
+                  - generic "4/24 19:54" [ref=e178]
+                  - generic [ref=e179]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e180]:
+                      - img [ref=e181]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e187]: "25"
+            - link "株式 株式会社が決算発表を遅らせる理由はどんな時ですか？悪いってことですか？ 回答数： 1 4/24 19:51" [ref=e190] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517183
+              - generic [ref=e191]:
+                - paragraph [ref=e192]: 株式
+                - paragraph [ref=e195]: 株式会社が決算発表を遅らせる理由はどんな時ですか？悪いってことですか？
+                - generic [ref=e196]:
+                  - generic [ref=e197]:
+                    - generic "回答数：" [ref=e198]:
+                      - img [ref=e199]
+                    - generic [ref=e201]: "1"
+                  - generic "4/24 19:51" [ref=e203]
+            - link "税金 3月頭に入社した会社で、本日が初給料日でした。 明細を見ると住民税は引かれていませんでした。 これってふつうですか？ 回答数： 2 4/24 19:51" [ref=e206] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517181
+              - generic [ref=e207]:
+                - paragraph [ref=e208]: 税金
+                - paragraph [ref=e211]: 3月頭に入社した会社で、本日が初給料日でした。 明細を見ると住民税は引かれていませんでした。 これってふつうですか？
+                - generic [ref=e212]:
+                  - generic [ref=e213]:
+                    - generic "回答数：" [ref=e214]:
+                      - img [ref=e215]
+                    - generic [ref=e217]: "2"
+                  - generic "4/24 19:51" [ref=e219]
+            - link "WAON ウエルシア連携について質問です。 本日ウエルシアに行っていつも通りiAEONアプリとVポイントアプリを提示したのですが、「連携が済んでないのでどちらか1つしかポイントが付かない」と言われました。 帰宅 回答数： 0 4/24 19:50 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e222] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517144
+              - generic [ref=e223]:
+                - paragraph [ref=e224]: WAON
+                - paragraph [ref=e227]: ウエルシア連携について質問です。 本日ウエルシアに行っていつも通りiAEONアプリとVポイントアプリを提示したのですが、「連携が済んでないのでどちらか1つしかポイントが付かない」と言われました。 帰宅
+                - generic [ref=e228]:
+                  - generic [ref=e229]:
+                    - generic "回答数：" [ref=e230]:
+                      - img [ref=e231]
+                    - generic [ref=e233]: "0"
+                  - generic "4/24 19:50" [ref=e235]
+                  - generic [ref=e236]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e237]:
+                      - img [ref=e238]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e244]: "100"
+            - link "税金 遺産からふるさと納税をしようかと思ってます。 分からない事がいろいろあり教えて欲しいのですが、 まず返礼品を貰うと相続税の控除対象にはならないんですか？ 相続税が50万円として ふるさと納税... 回答数： 0 4/24 19:48" [ref=e247] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517095
+              - generic [ref=e248]:
+                - paragraph [ref=e249]: 税金
+                - paragraph [ref=e252]: 遺産からふるさと納税をしようかと思ってます。 分からない事がいろいろあり教えて欲しいのですが、 まず返礼品を貰うと相続税の控除対象にはならないんですか？ 相続税が50万円として ふるさと納税...
+                - generic [ref=e253]:
+                  - generic [ref=e254]:
+                    - generic "回答数：" [ref=e255]:
+                      - img [ref=e256]
+                    - generic [ref=e258]: "0"
+                  - generic "4/24 19:48" [ref=e260]
+            - link "au マネ活プラン2は使い放題MAXと比較してお得ですか？損ですか？ また、マネ活プラン2にするとしたらauペイゴールドカードが必須かなと思うのですが年会費11.000円払うとしてもポイント還元率が高... 回答数： 0 4/24 19:48" [ref=e263] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517083
+              - generic [ref=e264]:
+                - paragraph [ref=e265]: au
+                - paragraph [ref=e268]: マネ活プラン2は使い放題MAXと比較してお得ですか？損ですか？ また、マネ活プラン2にするとしたらauペイゴールドカードが必須かなと思うのですが年会費11.000円払うとしてもポイント還元率が高...
+                - generic [ref=e269]:
+                  - generic [ref=e270]:
+                    - generic "回答数：" [ref=e271]:
+                      - img [ref=e272]
+                    - generic [ref=e274]: "0"
+                  - generic "4/24 19:48" [ref=e276]
+            - link "起業 起業してある程度の成功を納められた方に質問ですが、独立する事を公言した際、周囲から止められました？ 会社員として優秀で無かった事やプライベートでも性格が明るくないとか喋りが上手くないとかそういっ... 回答数： 0 4/24 19:47" [ref=e279] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517048
+              - generic [ref=e280]:
+                - paragraph [ref=e281]: 起業
+                - paragraph [ref=e284]: 起業してある程度の成功を納められた方に質問ですが、独立する事を公言した際、周囲から止められました？ 会社員として優秀で無かった事やプライベートでも性格が明るくないとか喋りが上手くないとかそういっ...
+                - generic [ref=e285]:
+                  - generic [ref=e286]:
+                    - generic "回答数：" [ref=e287]:
+                      - img [ref=e288]
+                    - generic [ref=e290]: "0"
+                  - generic "4/24 19:47" [ref=e292]
+            - link "経済、景気 物価高騰に終わりが見えませんが、どれほどの企業または商品が便乗値上げしてると思いますか？ 回答数： 1 4/24 19:45" [ref=e295] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327516997
+              - generic [ref=e296]:
+                - paragraph [ref=e297]: 経済、景気
+                - paragraph [ref=e300]: 物価高騰に終わりが見えませんが、どれほどの企業または商品が便乗値上げしてると思いますか？
+                - generic [ref=e301]:
+                  - generic [ref=e302]:
+                    - generic "回答数：" [ref=e303]:
+                      - img [ref=e304]
+                    - generic [ref=e306]: "1"
+                  - generic "4/24 19:45" [ref=e308]
+            - link "決済、ポイントサービス 現在、PayPayのクーポンから付与されるポイントは、通常のポイントと期間限定のポイントどちらですか？ 回答数： 1 4/24 19:45" [ref=e311] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327516988
+              - generic [ref=e312]:
+                - paragraph [ref=e313]: 決済、ポイントサービス
+                - paragraph [ref=e316]: 現在、PayPayのクーポンから付与されるポイントは、通常のポイントと期間限定のポイントどちらですか？
+                - generic [ref=e317]:
+                  - generic [ref=e318]:
+                    - generic "回答数：" [ref=e319]:
+                      - img [ref=e320]
+                    - generic [ref=e322]: "1"
+                  - generic "4/24 19:45" [ref=e324]
+            - link "社会保険 育児休業終了時報酬月額変更届について質問です。 2026/04/21に復帰し、2人目を2027年4月以降で考えています。 出産手当金が減る可能性があるとのことで変更届を出すか悩んでいます。 従... 回答数： 0 4/24 19:44 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e327] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327516971
+              - generic [ref=e328]:
+                - paragraph [ref=e329]: 社会保険
+                - paragraph [ref=e332]: 育児休業終了時報酬月額変更届について質問です。 2026/04/21に復帰し、2人目を2027年4月以降で考えています。 出産手当金が減る可能性があるとのことで変更届を出すか悩んでいます。 従...
+                - generic [ref=e333]:
+                  - generic [ref=e334]:
+                    - generic "回答数：" [ref=e335]:
+                      - img [ref=e336]
+                    - generic [ref=e338]: "0"
+                  - generic "4/24 19:44" [ref=e340]
+                  - generic [ref=e341]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e342]:
+                      - img [ref=e343]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e349]: "50"
+            - link "クレジットカード クレカでかつという名前で引き落としがありました。心当たりがないのですが、なんでしょうか？ 回答数： 0 4/24 19:42" [ref=e352] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327516923
+              - generic [ref=e353]:
+                - paragraph [ref=e354]: クレジットカード
+                - paragraph [ref=e357]: クレカでかつという名前で引き落としがありました。心当たりがないのですが、なんでしょうか？
+                - generic [ref=e358]:
+                  - generic [ref=e359]:
+                    - generic "回答数：" [ref=e360]:
+                      - img [ref=e361]
+                    - generic [ref=e363]: "0"
+                  - generic "4/24 19:42" [ref=e365]
+            - link "外国為替、FX FXとパチンコ、スロットはどっちの方が確率的に儲けやすいんでしょうか？ どちらも経験がないので全くわからないです。 流石にFXになるんですかね？ 回答数： 1 4/24 19:42 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e368] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327516920
+              - generic [ref=e369]:
+                - paragraph [ref=e370]: 外国為替、FX
+                - paragraph [ref=e373]: FXとパチンコ、スロットはどっちの方が確率的に儲けやすいんでしょうか？ どちらも経験がないので全くわからないです。 流石にFXになるんですかね？
+                - generic [ref=e374]:
+                  - generic [ref=e375]:
+                    - generic "回答数：" [ref=e376]:
+                      - img [ref=e377]
+                    - generic [ref=e379]: "1"
+                  - generic "4/24 19:42" [ref=e381]
+                  - generic [ref=e382]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e383]:
+                      - img [ref=e384]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e390]: "25"
+            - 'link "年金 聴覚の障害 • 聴力レベル: • 右:85.0 db • 左:85.0 db • 最良語音明瞭度: • 右:65 % • 左:75 % • 所見: oae検査:右 refer、左 refer こ... 回答数： 1 4/24 19:42 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e393] [cursor=pointer]':
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327516907
+              - generic [ref=e394]:
+                - paragraph [ref=e395]: 年金
+                - paragraph [ref=e398]: "聴覚の障害 • 聴力レベル: • 右:85.0 db • 左:85.0 db • 最良語音明瞭度: • 右:65 % • 左:75 % • 所見: oae検査:右 refer、左 refer こ..."
+                - generic [ref=e399]:
+                  - generic [ref=e400]:
+                    - generic "回答数：" [ref=e401]:
+                      - img [ref=e402]
+                    - generic [ref=e404]: "1"
+                  - generic "4/24 19:42" [ref=e406]
+                  - generic [ref=e407]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e408]:
+                      - img [ref=e409]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e415]: "100"
+            - link "クレジットカード 新高１です 学生証を入れるケース探してます。サイズは普通のクレジットカードくらいです。おすすめのケースありますか？ 回答数： 2 4/24 19:40" [ref=e418] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327516858
+              - generic [ref=e419]:
+                - paragraph [ref=e420]: クレジットカード
+                - paragraph [ref=e423]: 新高１です 学生証を入れるケース探してます。サイズは普通のクレジットカードくらいです。おすすめのケースありますか？
+                - generic [ref=e424]:
+                  - generic [ref=e425]:
+                    - generic "回答数：" [ref=e426]:
+                      - img [ref=e427]
+                    - generic [ref=e429]: "2"
+                  - generic "4/24 19:40" [ref=e431]
+            - link "退職 確定拠出年金の移管について教えてください。 3月末に確定拠出年金制度がある会社を退職して4月からまた新たに確定拠出年金制度のある会社に転職したのですが、確定拠出年金加入者口座属性変更通知書という... 回答数： 0 4/24 19:39 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e434] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327516819
+              - generic [ref=e435]:
+                - paragraph [ref=e436]: 退職
+                - paragraph [ref=e439]: 確定拠出年金の移管について教えてください。 3月末に確定拠出年金制度がある会社を退職して4月からまた新たに確定拠出年金制度のある会社に転職したのですが、確定拠出年金加入者口座属性変更通知書という...
+                - generic [ref=e440]:
+                  - generic [ref=e441]:
+                    - generic "回答数：" [ref=e442]:
+                      - img [ref=e443]
+                    - generic [ref=e445]: "0"
+                  - generic "4/24 19:39" [ref=e447]
+                  - generic [ref=e448]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e449]:
+                      - img [ref=e450]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e456]: "100"
+            - link "資産運用、投資信託、NISA 国債10年1.55％ 変動 静岡県公募債 １０年2.5％ 固定 なら どちらがいいですか？ 1000万入れたいです 回答数： 1 4/24 19:36 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e459] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327516729
+              - generic [ref=e460]:
+                - paragraph [ref=e461]: 資産運用、投資信託、NISA
+                - paragraph [ref=e464]: 国債10年1.55％ 変動 静岡県公募債 １０年2.5％ 固定 なら どちらがいいですか？ 1000万入れたいです
+                - generic [ref=e465]:
+                  - generic [ref=e466]:
+                    - generic "回答数：" [ref=e467]:
+                      - img [ref=e468]
+                    - generic [ref=e470]: "1"
+                  - generic "4/24 19:36" [ref=e472]
+                  - generic [ref=e473]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e474]:
+                      - img [ref=e475]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e481]: "25"
+            - link "鉄道、列車、駅 高山駅から名古屋駅へ特急ひだに乗って行きます。特急券はネットで予約したのですが乗車券はSuicaで行けますか？？使える使えないが調べてもよくわからなかったので、、 回答数： 1 4/24 19:34" [ref=e484] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327516683
+              - generic [ref=e485]:
+                - paragraph [ref=e486]: 鉄道、列車、駅
+                - paragraph [ref=e489]: 高山駅から名古屋駅へ特急ひだに乗って行きます。特急券はネットで予約したのですが乗車券はSuicaで行けますか？？使える使えないが調べてもよくわからなかったので、、
+                - generic [ref=e490]:
+                  - generic [ref=e491]:
+                    - generic "回答数：" [ref=e492]:
+                      - img [ref=e493]
+                    - generic [ref=e495]: "1"
+                  - generic "4/24 19:34" [ref=e497]
+            - link "クレジットカード エポスカードをゴールドカードに切り替えたのですが、5月1日に当落発表のライブのチケットの支払いを前のカードにしてしまいました。 既に支払い枠は押さえられてる状態なのですが、この場合支払いはできな... 回答数： 2 4/24 19:33 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e500] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327516657
+              - generic [ref=e501]:
+                - paragraph [ref=e502]: クレジットカード
+                - paragraph [ref=e505]: エポスカードをゴールドカードに切り替えたのですが、5月1日に当落発表のライブのチケットの支払いを前のカードにしてしまいました。 既に支払い枠は押さえられてる状態なのですが、この場合支払いはできな...
+                - generic [ref=e506]:
+                  - generic [ref=e507]:
+                    - generic "回答数：" [ref=e508]:
+                      - img [ref=e509]
+                    - generic [ref=e511]: "2"
+                  - generic "4/24 19:33" [ref=e513]
+                  - generic [ref=e514]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e515]:
+                      - img [ref=e516]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e522]: "50"
+            - link "クレジットカード 三井住友のカードについてです。 カードを無くしたのと身に覚えのない利用履歴があるのですが、電話をするとカード番号を入力してくださいとなります。 カードがない場合、どこに連絡すれば良いのでしょうか？ 回答数： 1 4/24 19:33" [ref=e525] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327516630
+              - generic [ref=e526]:
+                - paragraph [ref=e527]: クレジットカード
+                - paragraph [ref=e530]: 三井住友のカードについてです。 カードを無くしたのと身に覚えのない利用履歴があるのですが、電話をするとカード番号を入力してくださいとなります。 カードがない場合、どこに連絡すれば良いのでしょうか？
+                - generic [ref=e531]:
+                  - generic [ref=e532]:
+                    - generic "回答数：" [ref=e533]:
+                      - img [ref=e534]
+                    - generic [ref=e536]: "1"
+                  - generic "4/24 19:33" [ref=e538]
+            - link "特撮 「『ギャバン インフィニティ』に浮上2クール終〜」という記事を全文読んだ「感想」を「根拠と理由付き」にして教えて下さい。 ↓ https://news.yahoo.co.jp/articles/... 回答数： 2 4/24 19:32" [ref=e541] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327516600
+              - generic [ref=e542]:
+                - paragraph [ref=e543]: 特撮
+                - paragraph [ref=e546]: 「『ギャバン インフィニティ』に浮上2クール終〜」という記事を全文読んだ「感想」を「根拠と理由付き」にして教えて下さい。 ↓ https://news.yahoo.co.jp/articles/...
+                - generic [ref=e547]:
+                  - generic [ref=e548]:
+                    - generic "回答数：" [ref=e549]:
+                      - img [ref=e550]
+                    - generic [ref=e552]: "2"
+                  - generic "4/24 19:32" [ref=e554]
+            - link "税金 自動車税って6月末のボーナス払いで支払いできますか？ 回答数： 0 4/24 19:31" [ref=e557] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327516591
+              - generic [ref=e558]:
+                - paragraph [ref=e559]: 税金
+                - paragraph [ref=e562]: 自動車税って6月末のボーナス払いで支払いできますか？
+                - generic [ref=e563]:
+                  - generic [ref=e564]:
+                    - generic "回答数：" [ref=e565]:
+                      - img [ref=e566]
+                    - generic [ref=e568]: "0"
+                  - generic "4/24 19:31" [ref=e570]
+            - link "資産運用、投資信託、NISA 大人なら積立NISA&債券を１００万円以上持ちたいところですよね？？ 回答数： 0 4/24 19:31" [ref=e573] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327516587
+              - generic [ref=e574]:
+                - paragraph [ref=e575]: 資産運用、投資信託、NISA
+                - paragraph [ref=e578]: 大人なら積立NISA&債券を１００万円以上持ちたいところですよね？？
+                - generic [ref=e579]:
+                  - generic [ref=e580]:
+                    - generic "回答数：" [ref=e581]:
+                      - img [ref=e582]
+                    - generic [ref=e584]: "0"
+                  - generic "4/24 19:31" [ref=e586]
+            - link "クレジットカード SMBC 三井住友のVISAはデビットモードで買い物をしたのにクレジットで決済されたとかまたはその逆とかありますか 回答数： 2 4/24 19:29" [ref=e589] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327516515
+              - generic [ref=e590]:
+                - paragraph [ref=e591]: クレジットカード
+                - paragraph [ref=e594]: SMBC 三井住友のVISAはデビットモードで買い物をしたのにクレジットで決済されたとかまたはその逆とかありますか
+                - generic [ref=e595]:
+                  - generic [ref=e596]:
+                    - generic "回答数：" [ref=e597]:
+                      - img [ref=e598]
+                    - generic [ref=e600]: "2"
+                  - generic "4/24 19:29" [ref=e602]
+            - link "政治、社会問題 日本は積極財政の悪いところと緊縮財政の悪いところを合わせたような国ですか？ 回答数： 1 4/24 19:28" [ref=e605] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327516510
+              - generic [ref=e606]:
+                - paragraph [ref=e607]: 政治、社会問題
+                - paragraph [ref=e610]: 日本は積極財政の悪いところと緊縮財政の悪いところを合わせたような国ですか？
+                - generic [ref=e611]:
+                  - generic [ref=e612]:
+                    - generic "回答数：" [ref=e613]:
+                      - img [ref=e614]
+                    - generic [ref=e616]: "1"
+                  - generic "4/24 19:28" [ref=e618]
+            - link "Suica 【大至急】 JR東日本が運営＆管理している「JRE POINT」について質問です。 JR東日本が運営＆管理している「JRE POINT」https://www.jrepoint.jp/ は、モバ... 回答数： 2 4/24 19:28" [ref=e621] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327516506
+              - generic [ref=e622]:
+                - paragraph [ref=e623]: Suica
+                - paragraph [ref=e626]: 【大至急】 JR東日本が運営＆管理している「JRE POINT」について質問です。 JR東日本が運営＆管理している「JRE POINT」https://www.jrepoint.jp/ は、モバ...
+                - generic [ref=e627]:
+                  - generic [ref=e628]:
+                    - generic "回答数：" [ref=e629]:
+                      - img [ref=e630]
+                    - generic [ref=e632]: "2"
+                  - generic "4/24 19:28" [ref=e634]
+            - link "税金 OTC類似薬って何かお聞きしたい。追加負担を求めるとかになった、と国会で決まったらしい。自分もOTCの薬を一つ使っているが、それとは違うのか？ 毎年確定申告で医療費控除制度を利用しているが、年１... 回答数： 0 4/24 19:28" [ref=e637] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327516498
+              - generic [ref=e638]:
+                - paragraph [ref=e639]: 税金
+                - paragraph [ref=e642]: OTC類似薬って何かお聞きしたい。追加負担を求めるとかになった、と国会で決まったらしい。自分もOTCの薬を一つ使っているが、それとは違うのか？ 毎年確定申告で医療費控除制度を利用しているが、年１...
+                - generic [ref=e643]:
+                  - generic [ref=e644]:
+                    - generic "回答数：" [ref=e645]:
+                      - img [ref=e646]
+                    - generic [ref=e648]: "0"
+                  - generic "4/24 19:28" [ref=e650]
+            - link "Suica JR東日本が運営＆管理している「JRE POINT」について質問です。 JR東日本が運営＆管理している「JRE POINT」https://www.jrepoint.jp/ は、モバイルSuic... 回答数： 1 4/24 19:28" [ref=e653] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327516484
+              - generic [ref=e654]:
+                - paragraph [ref=e655]: Suica
+                - paragraph [ref=e658]: JR東日本が運営＆管理している「JRE POINT」について質問です。 JR東日本が運営＆管理している「JRE POINT」https://www.jrepoint.jp/ は、モバイルSuic...
+                - generic [ref=e659]:
+                  - generic [ref=e660]:
+                    - generic "回答数：" [ref=e661]:
+                      - img [ref=e662]
+                    - generic [ref=e664]: "1"
+                  - generic "4/24 19:28" [ref=e666]
+            - link "クレジットカード NICOSぴあカードから年会費4,180円の請求が来て、２年前にチケット買うために契約してたのを忘れてました。初年度は年会費無料らしいですが、解約し忘れてて年会費の請求がきました。 このカードっ... 回答数： 2 4/24 19:26" [ref=e669] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327516457
+              - generic [ref=e670]:
+                - paragraph [ref=e671]: クレジットカード
+                - paragraph [ref=e674]: NICOSぴあカードから年会費4,180円の請求が来て、２年前にチケット買うために契約してたのを忘れてました。初年度は年会費無料らしいですが、解約し忘れてて年会費の請求がきました。 このカードっ...
+                - generic [ref=e675]:
+                  - generic [ref=e676]:
+                    - generic "回答数：" [ref=e677]:
+                      - img [ref=e678]
+                    - generic [ref=e680]: "2"
+                  - generic "4/24 19:26" [ref=e682]
+            - link "社会保険 至急です(_ _) 皆さんがもしアルバイトをしていて、社会保険に加入しないといけなくなった時に会社の保険が協会けんぽではなく\"土建国保\"だったら、皆さん素直に入りますか？ ... 回答数： 2 4/24 19:24 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e685] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327516382
+              - generic [ref=e686]:
+                - paragraph [ref=e687]: 社会保険
+                - paragraph [ref=e690]: 至急です(_ _) 皆さんがもしアルバイトをしていて、社会保険に加入しないといけなくなった時に会社の保険が協会けんぽではなく"土建国保"だったら、皆さん素直に入りますか？ ...
+                - generic [ref=e691]:
+                  - generic [ref=e692]:
+                    - generic "回答数：" [ref=e693]:
+                      - img [ref=e694]
+                    - generic [ref=e696]: "2"
+                  - generic "4/24 19:24" [ref=e698]
+                  - generic [ref=e699]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e700]:
+                      - img [ref=e701]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e707]: "100"
+            - link "税金 消費税法の計算の問題です。 なぜ国内販売向け電動車椅子に係る国内仕入れが、何故仮計表の課税仕入れの非のみの部分に入るのでしょうか？ 非課税売上に対応する仕入れは仕入れ税額控除の対象とはならない... 回答数： 0 4/24 19:24" [ref=e710] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327516380
+              - generic [ref=e711]:
+                - paragraph [ref=e712]: 税金
+                - paragraph [ref=e715]: 消費税法の計算の問題です。 なぜ国内販売向け電動車椅子に係る国内仕入れが、何故仮計表の課税仕入れの非のみの部分に入るのでしょうか？ 非課税売上に対応する仕入れは仕入れ税額控除の対象とはならない...
+                - generic [ref=e716]:
+                  - generic [ref=e717]:
+                    - generic "回答数：" [ref=e718]:
+                      - img [ref=e719]
+                    - generic [ref=e721]: "0"
+                  - generic "4/24 19:24" [ref=e723]
+            - link "社会保険 お尋ねします。 会社の明細書に厚生年金の欄があり引き落としがあるのですが、これが国民年金保険料になるのですか？別物ですか？ 回答数： 0 4/24 19:24" [ref=e726] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327516376
+              - generic [ref=e727]:
+                - paragraph [ref=e728]: 社会保険
+                - paragraph [ref=e731]: お尋ねします。 会社の明細書に厚生年金の欄があり引き落としがあるのですが、これが国民年金保険料になるのですか？別物ですか？
+                - generic [ref=e732]:
+                  - generic [ref=e733]:
+                    - generic "回答数：" [ref=e734]:
+                      - img [ref=e735]
+                    - generic [ref=e737]: "0"
+                  - generic "4/24 19:24" [ref=e739]
+            - link "バス、タクシー 本当に困ってます。 会社からタクシーチケットを貰い使用したのですが、会社からタクシーチケットに記載事項を記入し領収書を貰うように言われたのですが、私の勘違いで、領収書はもらったもののチケットに乗... 回答数： 1 4/24 19:23" [ref=e742] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327516359
+              - generic [ref=e743]:
+                - paragraph [ref=e744]: バス、タクシー
+                - paragraph [ref=e747]: 本当に困ってます。 会社からタクシーチケットを貰い使用したのですが、会社からタクシーチケットに記載事項を記入し領収書を貰うように言われたのですが、私の勘違いで、領収書はもらったもののチケットに乗...
+                - generic [ref=e748]:
+                  - generic [ref=e749]:
+                    - generic "回答数：" [ref=e750]:
+                      - img [ref=e751]
+                    - generic [ref=e753]: "1"
+                  - generic "4/24 19:23" [ref=e755]
+            - link "年金 国民年金保険料払っていなかったから障害年金もらえなかった、年金保険料を納付しとけばよかった と言っている人を見たコトがありますか？ 回答数： 2 4/24 19:23" [ref=e758] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327516348
+              - generic [ref=e759]:
+                - paragraph [ref=e760]: 年金
+                - paragraph [ref=e763]: 国民年金保険料払っていなかったから障害年金もらえなかった、年金保険料を納付しとけばよかった と言っている人を見たコトがありますか？
+                - generic [ref=e764]:
+                  - generic [ref=e765]:
+                    - generic "回答数：" [ref=e766]:
+                      - img [ref=e767]
+                    - generic [ref=e769]: "2"
+                  - generic "4/24 19:23" [ref=e771]
+            - link "職場の悩み 仕事で毎月上司と面談があり、業務改善案を出してと言われたのですが何も思いつきません。ほんとに困ってることがないので、毎月出せって言われるのはきついです。 面談でまたないですか、、みたいな空気に毎... 回答数： 1 4/24 19:23" [ref=e774] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327516337
+              - generic [ref=e775]:
+                - paragraph [ref=e776]: 職場の悩み
+                - paragraph [ref=e779]: 仕事で毎月上司と面談があり、業務改善案を出してと言われたのですが何も思いつきません。ほんとに困ってることがないので、毎月出せって言われるのはきついです。 面談でまたないですか、、みたいな空気に毎...
+                - generic [ref=e780]:
+                  - generic [ref=e781]:
+                    - generic "回答数：" [ref=e782]:
+                      - img [ref=e783]
+                    - generic [ref=e785]: "1"
+                  - generic "4/24 19:23" [ref=e787]
+            - link "消費者問題 私の感覚がおかしいのか、悩んでいます。 長文ですみません…。 メニコンのメルスプランに加入していて、ハードレンズを使っています。 ある日、ハードレンズを破損してしまったため、交換のお願いに、ある... 回答数： 1 4/24 19:21 ベストアンサーへのお礼（知恵コイン）： 500" [ref=e790] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327516294
+              - generic [ref=e791]:
+                - paragraph [ref=e792]: 消費者問題
+                - paragraph [ref=e795]: 私の感覚がおかしいのか、悩んでいます。 長文ですみません…。 メニコンのメルスプランに加入していて、ハードレンズを使っています。 ある日、ハードレンズを破損してしまったため、交換のお願いに、ある...
+                - generic [ref=e796]:
+                  - generic [ref=e797]:
+                    - generic "回答数：" [ref=e798]:
+                      - img [ref=e799]
+                    - generic [ref=e801]: "1"
+                  - generic "4/24 19:21" [ref=e803]
+                  - generic [ref=e804]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e805]:
+                      - img [ref=e806]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e812]: "500"
+            - link "貯金 通帳の記帳についてです。 2026年3月末まで記帳し、通帳が余っていていますが、2026年4月からの分を今までの通帳ではなく新しいものに記帳していきたいのですがそれは可能でしょうか？ ちなみに西... 回答数： 1 4/24 19:19 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e815] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327516236
+              - generic [ref=e816]:
+                - paragraph [ref=e817]: 貯金
+                - paragraph [ref=e820]: 通帳の記帳についてです。 2026年3月末まで記帳し、通帳が余っていていますが、2026年4月からの分を今までの通帳ではなく新しいものに記帳していきたいのですがそれは可能でしょうか？ ちなみに西...
+                - generic [ref=e821]:
+                  - generic [ref=e822]:
+                    - generic "回答数：" [ref=e823]:
+                      - img [ref=e824]
+                    - generic [ref=e826]: "1"
+                  - generic "4/24 19:19" [ref=e828]
+                  - generic [ref=e829]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e830]:
+                      - img [ref=e831]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e837]: "50"
+            - link "外国為替、FX わたしのドル円158.0売り助かる見込みはないですか？（泣） 回答数： 1 4/24 19:18 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e840] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327516210
+              - generic [ref=e841]:
+                - paragraph [ref=e842]: 外国為替、FX
+                - paragraph [ref=e845]: わたしのドル円158.0売り助かる見込みはないですか？（泣）
+                - generic [ref=e846]:
+                  - generic [ref=e847]:
+                    - generic "回答数：" [ref=e848]:
+                      - img [ref=e849]
+                    - generic [ref=e851]: "1"
+                  - generic "4/24 19:18" [ref=e853]
+                  - generic [ref=e854]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e855]:
+                      - img [ref=e856]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e862]: "25"
+            - link "クレジットカード マイル修行って何がやりたいんですか? これは単純に会員ランクを上げるためのものだと思いますがそれによってその修行につかった交通費が最終的にマイルとして収支プラスになるやつですか？それともクレジッ... 回答数： 2 4/24 19:18 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e865] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327516206
+              - generic [ref=e866]:
+                - paragraph [ref=e867]: クレジットカード
+                - paragraph [ref=e870]: マイル修行って何がやりたいんですか? これは単純に会員ランクを上げるためのものだと思いますがそれによってその修行につかった交通費が最終的にマイルとして収支プラスになるやつですか？それともクレジッ...
+                - generic [ref=e871]:
+                  - generic [ref=e872]:
+                    - generic "回答数：" [ref=e873]:
+                      - img [ref=e874]
+                    - generic [ref=e876]: "2"
+                  - generic "4/24 19:18" [ref=e878]
+                  - generic [ref=e879]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e880]:
+                      - img [ref=e881]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e887]: "25"
+        - generic [ref=e890]:
+          - generic [ref=e891]:
+            - generic [ref=e892]: "1"
+            - link "2" [ref=e893] [cursor=pointer]:
+              - /url: /category/2078297790/question/list?page=2
+            - link "3" [ref=e894] [cursor=pointer]:
+              - /url: /category/2078297790/question/list?page=3
+            - link "4" [ref=e895] [cursor=pointer]:
+              - /url: /category/2078297790/question/list?page=4
+            - link "5" [ref=e896] [cursor=pointer]:
+              - /url: /category/2078297790/question/list?page=5
+            - link "6" [ref=e897] [cursor=pointer]:
+              - /url: /category/2078297790/question/list?page=6
+            - link "7" [ref=e898] [cursor=pointer]:
+              - /url: /category/2078297790/question/list?page=7
+            - link "8" [ref=e899] [cursor=pointer]:
+              - /url: /category/2078297790/question/list?page=8
+            - link "9" [ref=e900] [cursor=pointer]:
+              - /url: /category/2078297790/question/list?page=9
+            - link "10" [ref=e901] [cursor=pointer]:
+              - /url: /category/2078297790/question/list?page=10
+            - generic [ref=e902]: ...
+            - link "次へ" [ref=e903] [cursor=pointer]:
+              - /url: /category/2078297790/question/list?page=2
+              - text: 次へ
+              - img [ref=e904]
+          - paragraph [ref=e906]:
+            - generic [ref=e907]: 約2,240件
+      - complementary [ref=e908]:
+        - generic [ref=e909]:
+          - iframe
+          - iframe [ref=e911]:
+            - generic [ref=f134e3]:
+              - generic [ref=f134e6]:
+                - link "これで俺達、アゴダチだー！ Agoda 気の置けない仲間との旅行ならどこに行っても楽しい！おトクならもっと楽しい a… 今すぐ予約" [ref=f134e7] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A5JN62kAAFTuqTsjpDZgjjFXm5g1GQ_Nn5UNh-_ZC5M-nKD1XqdR4BnsWLMyosvG4QAVTYEKaEujWbjOai_APzJvrrKgOEHEZYmkL9qrzLUeaZJb8kQ3mOI3Z-Rh42R84soqjS8-mui5b3sG-KUyWKSG0hxbfWN9vaX-WdltKbkBDttzz1tHbQBbwS-CjquRCRX7cptqbfz4u6PK1Kpp5DGDRvWNwv2R83lhasM_p-PiyQd_nh8lTLGE6URqnsVzApFWbZjhxQY41kjgeT9gW1x-ZpY8tV4fgr9-guIolKtGT2zBt6jGp5sgca5qsJ4AsIV_rgG36WwkXZjh9_Oh5Su5TXQziKooHaBQBZZrySFUDCHcH2SEBsShIhmLDkOJJqubjBJcmmybJyz4UsSREsILtYfG9XRkDgBPn84QttP4wuqR3oxlpKWR9kV0V1PdW9D5C2kOX5YIqF67cdSUVbs4IhhE29GVAP1cg2p9_v-QrM3ZGWOQ0PbOheQGfkdW-BQk-qJ-26-l7igt1hti1DSAvkjSauL3iv887yOVmAD1_8bOkMUXrfB_VBqVLxLBuDL_eUXdS_BcWlr-zDY9f89xn5mc7V8PkYYoLqYAdYjRH7s3-vuzFDWNC-2PsggRwKtdWdcD2Fx6dCe5mg1ge2CzFhh8Jz7CnWp-glXGhj1SSJ_mt1ANKh2srgavSsnc_mQB55-KnNqMvkbzOwZVBpSstWq3P1sVXLuL1fVsrSc03GR9XIR-swzFxtKBZTHqn9GyEVjCout_Eengh_-VzzDuDUzhZWyPqs8_xgAlWATA0hk8CqEfTvW_aD3fC4YqToiKR8EpO5LWIStGwjMSIUb0gQI5OawvnKj59vRe7zX8HAKugrRcCNagoimyRy-j6FDCuUHKE2PZKeCffTyajlJ44Pxr3v-IlZd5hRmQdCKx6yLPvlzlhc_eNq92emFOD030BUBFxGgQDcK2lRifmI97GTCuYnToYJ7uO9zlmsHzliU-2ZKbWnE4qINeEC7i13zqjOz_ib3Ls6LZMEUNM4Z6S-lVGyRLVbgNvMmTyyeFYkZyNqCWnpD_aL5nd1L9aHJhq8Pw9uig6zc84K4dCmiQmbMLQuAKNeFRoTtnEK8J2mOMJjYzDzfxmFQWwl-A4U9_nzhyD20-CmN9N280W-Hfs4a4V_W1k36qX3dziDDL77Lrbr2oO3o5iRn81P4OKDcTRUScwAlgB5QWknoM6aSB-s5kbj_yRvPZs8f6C0jXVGYBCuR0qiaO-xMTXNxAsuBYpTUCPvRO87ykzhrVl7q7sNAIMQw1nNVa79_faTi8ITDZixvl_-wQFDEOOZHTWJ_1HIEdFeHhZHbgAil8edic2DRNrHEuCWqll8lTtRfjOy8NSsydM4Sh65c&v=5
+                  - generic [ref=f134e8]:
+                    - img [ref=f134e10]
+                    - generic [ref=f134e11]:
+                      - paragraph [ref=f134e12]: これで俺達、アゴダチだー！
+                      - paragraph [ref=f134e13]: Agoda
+                  - generic [ref=f134e14]:
+                    - paragraph [ref=f134e15]: 気の置けない仲間との旅行ならどこに行っても楽しい！おトクならもっと楽しい a…
+                    - generic [ref=f134e16]: 今すぐ予約
+                - generic [ref=f134e17] [cursor=pointer]:
+                  - link "広告" [ref=f134e20]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A5JN62kAALWqF3ahg5v1zRBATwaHTJ4VIgqVO6H1YOPLETJTDws-V8GwSneX2Ogdu1JI11YyR7x8b7juTSmElfO-T9RBv-IJ-YwJMBMqnK473o-N0Kd-DZudWhKknRTnNZirPuo8KkhYvG7ReJq_NgJFTqyfgduvc7cuifQ6IVA9bYL3Fyu5Ny0BoLKVcK6fnJIPInjfGFnOPMLiv9yEHFbgg5AROCFIX-cGSA7Sq9bOKGAxY0ITdPO7IL6sly9eWnhZAz55Zx_1pfPymosrKObIofKJjv3UK1zEM8JeTjdUSJQVumT4tirJIHlEuSs&o=A5JN62kAABj_qh7SfPl7n6AMQ7KKdiZtqJ96LCWDd1RIFBy8SU-BbCVAG6OmyJk6VaEjCPS3uQMpKJ0hkgdVp0sn9hkUEM4KzKWj4dPPA_WJvwAov3oxryHwOA6rLUtkrTG9_709HsnAIB8tmh2OE3EGMC1uMNxXksbTGEOEaw_sSVwEFOYdVpfkkcXItRkYNoI_m5y6MVZj7_VjhNLTLRQYMJmNBuJvB-fuIFvjv2xLUTe2a9A5dQSlSQdXm-Ak4-VaIj1CnExlPS8ZTSAnJjzK6s4
+                    - generic [ref=f134e22]:
+                      - generic [ref=f134e23]: 広告
+                      - img [ref=f134e25]
+                  - img [ref=f134e30]
+              - generic [ref=f134e37]:
+                - link [ref=f134e38] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A5JN62kAALpuPCG3A9peX3UrlT_YDNYmPxfId4KLUZxECBYX805grPzr6yoBjvSt8kE4OPLDDQ-6E3ClGsg1NuFc9A3PioVmh0iAY3fDZCY4gGcyeC7s9JT_ovOyzSyj5EJ290eYT8F9lLO9mTq__hw0JOrNIi8TrfAB_mAoC8auv6CD97gdFns0Vq8Xa8yDQfe3jrQCi5-DPNTtjvzDg1YyFHqwkwSu_sTMaoRx7UIeUiSmeK1k9AePLnB9xNGCsw-Oh8DVOJWGF-5di6uqzxGVBe6iF3K2OOm2Asd1bsTIeSfXEBNheqEx54UbJg0-t1G-lNRU4Uh1dj4LEQyV-gOlOusVMKLhcJ2g3V4ANCO93L4pzgLft84qBYCYk768D1it3YcudL7alDoQimgO0SZrLfnpCR07GEGVTGKKbxqwuPvTXDBfTUmMSx2aHJ166JZTZcdeoLhYJy4x4G_7Xx_otACRNz5oke7iEtPKygAyjiQVAk5e2PkuGlnSDiDf6ldOL2AP7pyIEGAw4ymfXY2ztWZaP8J5xXKygKfsUjorbWIlxKhD47epeez4TGrdu9p-YqcPIN5qSzgkFGU6jzaygrfCj65C51nWfWNj_1Q06xCF7msBGkQR4H6G94sVjpfNOlO6CgAiYDBrTQlzAEAt4zy7_N0jpDh7Kl75A3pikFAzmFhjVzsPd2_cDoOfzhcWplwPXmJiF6fLDCVczlBpULA98Ty-6aSYK13zwqtjhpWmMYbFXy2_aGYXJjbD_oW8OWmp90SBiFozW-l86jhsZcz1feZOOK3-LGS5de3nV3BLJhOjqnZH4R63Sg1Cqhv2S9K-uZU1dd7C0J8Zn89TnZ17iVtzVxDrzK4oiWW2lzNgUFMU4xBLybYWFbjvkc5jmfKbkFlPK5VgfuvklWFwy5DKoVI_wYxYUl7kLA55CrGCit8vmK5Vd9Xu22hFqOU6fHX3HePDnjDvCVZdZr08a2eVfNvw3tMS-k_dToEy3zQ802P519dYsoIE0UtE22ZkPEMsLGqw-FkDPhzQcNzH8YUbwEs4dzrHy6uhH0XQod7e0p14exV6Zx3tvXPWtcCGAvCf-70ZyIWaZ5FxGJrgD4BTHXNQL7Ea-fw_3OMQQuNDlEqqy_HPf9zutwc1LP-OaV7t2cXTyUM9fPOSUqHokHz9FEC79VBPWl_IBUZennqp-TIz85a2_Ros-EPMTPpQByUtFawJfzgZdq7xp9zAlMTqu8cuduuUyAYc9J16g7KTpy8CiIBqHxjECuLIlZUrNB28dapKQopLKka2EiHfl1CJSKXD-JWyOPNu8s5gmiMgSZYmPdh8renZsemln3yD_Jlzgv7gvWRr8Y4yYu3QopkiAcaKDlQElr35EG_qKs4yHK9UZ11gbgxcDyLCQUXPrYbQ9hdz8DmGirsiouE01kF3gEkZyGGWQBgnwU-c9juyGvYpnyKD88LgV6wi-Hqsb1lkB0gnIa0estg0vsSnTSfOUt2sQ24BwSgTker-M3-432j7-yJRVmJuASWZP8gXy2WP06K3SLasV4nj3eFTPc-_MUNmlPB5gZxx44AQ2Zm1-Mc&v=5
+                  - img [ref=f134e39]
+                - generic [ref=f134e40] [cursor=pointer]:
+                  - link "広告" [ref=f134e43]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A5JN62kAACesMEZ2nsSqWbEStZtsNHuRBizWwyT-igqjSo2DZkKTLWN9G5BZwWa_fIHcXpJkDPysrWvnvjiqs6983fX7zP-AiXkNeoAnEIAcmUa2G1BdyHSn5hBa-6_iTDTe0ZRM3kIL32uSdkicCOy3N533RDfICOHjUZiU0Xs4Af7ruG5irfe_QU-u0rZHUKvTzk5oTpDoDdUpFA5iX-LnED5kgqjApHe-szh5aQyTdihHpRMDK4QOiq_XuiftVqh3bkwogaOnYkdJ7wZGHY5JHksU3ze8plixV_5VcLMqjXuz2raJEA&o=A5JN62kAADD749u4Etg_OhhJyL2pqQwcWMhcY4Oj6f8JK8U1vbxrYrAkWwQFuVzvXK_6itrK-NOCJ9emBnKBerp8miZU-m0b7ZeAd8XfFPxhPm_uxC1jb2LOOBfcFwaSAmIpJ2GM9rejBVIgx5UIIyn68oEPXQw6kccYqeaa2EzhLmYzERmcUnG9kIJ18j6tgGuH1tYSP0KJ4s1_NknajQhBUqdpoyilCbCS9G-lNCkW-vvhTu-wch10Y7tZflmnrC_vbiPGXIpdIMQFIomwDpyNbx7d
+                    - generic [ref=f134e45]:
+                      - generic [ref=f134e46]: 広告
+                      - img [ref=f134e48]
+                  - img [ref=f134e53]
+    - generic [ref=e912]:
+      - generic [ref=e913]:
+        - generic [ref=e915]:
+          - iframe
+          - iframe [ref=e917]:
+            - generic [ref=f136e6]:
+              - link [ref=f136e7] [cursor=pointer]:
+                - /url: https://apm.yahoo.co.jp/rd?ep=A5JN62kAAJbqnkl1Bfd7dLc2YKAlU6M_1ZvGgPrQFNVVWgen333FWUsuWCR-YYE2VdcL1TXetpVGnMQCwBl34WFv49pOVWchl46n_AcZN_AP57VnQ1ICJzuY4qT0ERcP070nfWwB8jS_aRNshirNr7AMtdcauBT-pj3a2JQAL2p32Gy60-8RP3LbLpzwuwdDaPz7c88LqBeUgiyxoIkud_UcPhDtzCmFcVY66sF_5whHYsW4kl_oUeUCG-rDyRp8a6HfjE32MNZ79xRV1QhNXFe4et0sAFkc1rXV5dSqpwIyNVo8gOgsezLfPTfwPqv8_qAAHTQEA5YEDaQPuEpCxny6hrRfJ0PPvurV3Uou7ZRyW4QAozLuAAhrABeTUjpSp8JScTqo5onFoHh-WxAnpGBzgpJxSQyrOxDqLfSURfHpD1the6ppsKUHdDCVHpqtktQ8PQrQwc1Bzi-7EoLjlzOm9Huj0KyYPvhJM85NhVP7oPsZE0Hhuh9yCypPESTN3C2CdllUUN0vAqz1puL3rnrRErDBsubnfPo4F8OqV0G081dWVtIxIYW3JXLBZ9_wq_c4OrStFFYcY8MxF9iFkfjE36De-WGM9fvJrWrOmxEeVSx8tqGX6on35nNh7S0WFre1fCPmWRxpe_qD5yYP1WvH6EogOhiaxxK8-rphDvHFd-RbqeLE_Ct1rjjn2y7UR0a8O5PYss5eJiXR97YMWKDGSam0m2XCCnN9xV5N87d_OJR_8IVJPBIYoN-U2OiNApjuGCF7IzFc3SMwKY2zNUdbTo68NX4R4dwYxXfSLwnSyIciRzDzjbs8fA4p3PqIOJkzmK3HUA28g8bvMPQsnZ9Lm5tpgVk21AwP58uteWJaclaXfakrKhl6p4jv0pK_XAiX_BRwL1PH2xt64kknIF-FaJ1rwkTcu8eRyJjGUfEW9T3FQucCUQpQEhzsd6gEDDWu0PvILBN1S5VAEgnEmOVtvwoSaQ9vHNRE-G2IBOgMyL549W3o8Re82mczBFFMZydYKZYSpKTWMEhzQKu8lJYhIN-EF9tIJbKjNtfpN8BOjh3sfa1r8RYszImWTDcRGAyWGzaUYyzxTBldbZruJJWi5qARlV3TdR_c8SAu8yBLMK5TJ65r_1ywTS5eeBGT-u3cyXCEmdm7Z8MB3OJ2XW_zPIHBj4D-nUl1pU8YlcylOrZYlqtpixHdQcWu6jsBvYeYsq_sG3yXmy5k1eNxKM12unoTq-y0QogIYhBVkcIx-hdSlu_NHJJBD1EO5eJ6GnzG3g0_dCmJ8gvYaMOU0GpPSIYtFszunonpMZuJc9jMr49Xl5ukD0qleWsYG4p_wdzRbvgRkAZZhdl79LDGBUgDFo1UsxOoUeZkFGGrBuIPZ3rEjkPUfpm6TV9Rc_-0rqFJ&v=5
+                - img [ref=f136e8]
+              - generic [ref=f136e9] [cursor=pointer]:
+                - link "広告" [ref=f136e12]:
+                  - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A5JN62kAAJSRYVhrp1VA3aRL3Hk-c1hCb0MW97GAI5R_bR0za7WI9QM7XFaVVy1e8To69b9UGVGGOlS-4gkcWdXX2zfeRna3QvODknHgN1FRmnVGUSNcVQkCxnUnvzLq_JpubSoU1h4bzJuyzDNhu8npubqdOVV4NSVaw7iGIg8ORxY8v_HLmH8Ry3Q-hbUvKzBwgUOMurmh8GegxQArSjR7XUMbhqvPmO2incI0n261cd9gvKVKr0ar5is06LeCiJK6-ImwAOZQ8fxS4yQxEJIBYHv0dEr6jZqnTRWdKPUC6kwW&o=A5JN62kAANob-Ada0zahKxRQYZlxFaij5caZWKi_ITXizGCa6cJZAy5xZa9T88gKaHzeKtCVvduEHrV_k_O4UkwdiWUK0gPwUEkNqla7PBSHSCBlsgxkU4kWEMlXKO-O9FnWIkcOxtw2ew7iyfMSXlYM8dW97KlgTpBt6pumxd4oSFMqsfmGbZtX9XktbEvgaBSl16JzTVpVtGMcPzm9EN-2JBsNIphYItOB00ICor9qj72-_GkKyXk_W_1eZjYBl7eWSOcv2nx7iIEMV7eIzBSHsrY
+                  - generic [ref=f136e14]:
+                    - generic [ref=f136e15]: 広告
+                    - img [ref=f136e17]
+                - img [ref=f136e22]
+        - generic [ref=e923]:
+          - link [ref=e924] [cursor=pointer]:
+            - /url: https://apm.yahoo.co.jp/rd?ep=A5JN62kAAO034FI9_8WO1Wj9dDvcStk15ecAVtRJz5v6FIdgxLtzwSWJNL1i1p0ygJIIrNk0n9N1L194uaUiLZMkVm0qNT2glcfgDiKm_McCOMyatCpe8RMRl0iz1nNNYvfJBYk5lu_vpsRX-xv8jFQxXbJTUARgsJlKygBOu3hkxRI-l1PYpPKjzflqNBfqEW4O4obiAICl56HXoNSNjiBb-xAmqEinPqlIej8U9UWiU6RcqV3xFjBbsa9sZNZVfyxfg7vsJwFu1R_dHODt--RRIbiiiRagf9CDBT2bxby6M2dzK6fPigUN48ERpujTYOPQtLVnBUGwpl0qWqYeli6xRTFtelOpvEwfiE-VcegkmI9GqegEmvZBEEv2BT0377m7iIeHdPBqqWkBWWIr4ODJy9As21E8BZD7CXz6rh8P9S4Id-p04K-xD64KZMIVEbMCNYtRp_atW6ItyBz7dmhdSfcM_vFtt4otHzmmma5lHvfaOgZ0hLhk5aCQ_Uyd7pP2DvX2E87uf3Pe7wJR_ga5cZBVhpgDKEyJYIgm20vdP8xEva3vNnkAWAWF77njhd3L_uHNbjXvY5YnGHisujw0n6JGc2ASmf80KVEQHf9oQEg-GZS7lN6ls0fOSY51n6ipIOotM8bCalCKEwWYL1VP_HzV8-hDv5kN15kbUg-D3Y_IbzuIAvB-yMrZq0jmM7_hks_4uI6gUBJB7ERN0OMk92tryN2LIIXLYccx-X9UqH0jTL7zVe3RdUVIe4bsA0WCo6f1whMGQEnsTHAInY4XutHcy0td5sdP9u0OaQnrI69jYQ58zDMietIN7lpGnESqw_LS_bTSG5yzdx51UYdIAi9KobyVToRzTHaOp2ZjRtqN5eIRG7Rp0XMywpbMGVmRX1oaf6xglTr1sK584PbwWlfoYJhkHPdg72m-s9NB1G51fBS2vDuIL1xYpGb_psjob2woZRRP_oT5NkFWqMHXAi7KBdfRkZ8x42wcJqzo_NQXDHO74CyGFxKS7Nv7BtHxuQgFEcYGi0Gtkn948NlWmc1_pZMeP1XSuKef0qCtf_fNIe4-jzRqDkVez6DiCtxg_9JMxPfDY-ApwKZDbKlu6ecHRtKB4-TmZ_wILblu6okev5wqfM012XUDm7yoCSUSC4Qx3ZfA9Ew7GajVlIP9SMeTfbqp7kmaudBPBpmEdX5QQinIK-Ciw9uBgMt7GecclJ1S9OHw1CcWS_1HrYUx2KZXwqfzdniNvPRAgv25ViuL1YV_OKuzjbmxCDXPndTJE4XpEjRbt4WUwCjcLysfyX8mp3wCvVej-FGt94VlbI8RuEaV5JhpZxufdbRMn_EViD9SnWV-axGKXwA-DBwqZGldXvs4tL1TlCGCavo97R0nHw&v=5
+            - img [ref=e925]
+          - generic [ref=e926] [cursor=pointer]:
+            - link "広告" [ref=e929]:
+              - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A5JN62kAAN8p978RnqDLcFV4DkZ9DpdfsUo2nDedz6Z7IiiaApvteFhjSXBlj-rA0XrBmowwwvjVroRCJvfgfBUwQF6EHsN0tDa6ScVCZ_cdCWjeuRhgC9lZ5cNEOpghgCMVtCP1B3xA4QBnkEsNICLBA4ALJnJW2oMzpIZxkpuXkgsF5B8Vn7aH837xpbvsSKdJGHsDn_o9sxAo0qqM1hHo-nEvGb_7h6l4RWoZI0TwVkSR3VUxW8QEAaXTdfqLm8CWgUK3yfKI_ZpJl9B-G0Zo5fnqQnpkE3fj3iUh0Xt6v1q5tZA&o=A5JN62kAAA7hd0AAuY9WNyzs0ImPjPS7KN91CDOgRaJ3XSgE83nk-X71sZUnMt-GBh8e_diKCqKUaTYYOJad5dQqB4XOa8DludZfBBAPFJgLy7gD_QvIG5RcLgj-fUObmr-vNku6Gy9fdgHbNRzClEtp4fwKvYoYalik6PLmd7zTd7l4WofoTOr_Hr7tuGOjLCCxW-DmeP0hZa6iyDhroxqi4VnWN4_dE_Mbj9C3WwKzqpI3LhwzJ9JlLKO-w4_joWpZRzNIZbCEvAOS1G9ANT-1nBQ
+              - generic [ref=e931]:
+                - generic [ref=e932]: 広告
+                - img [ref=e934]
+            - img [ref=e939]
+      - link "占い師にお悩み相談" [ref=e944] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_ca-top_000
+        - img "占い師にお悩み相談" [ref=e945]
+      - generic [ref=e948]:
+        - generic [ref=e949]:
+          - heading "カテゴリQ&Aランキング" [level=2] [ref=e951]
+          - paragraph [ref=e954]: ビジネス、経済とお金
+        - link "1 20歳で手取り40万近くあるのですが、なぜか給料日前には数万円しか残らず毎回貯金できずに嫌になってしまいます原因としてはタクシーやギャンブル、外食などだと思いますどうしたら貯金できるようになると思いますか" [ref=e957] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327317411
+          - generic [ref=e958]:
+            - generic [ref=e960]: "1"
+            - paragraph [ref=e963]: 20歳で手取り40万近くあるのですが、なぜか給料日前には数万円しか残らず毎回貯金できずに嫌になってしまいます原因としてはタクシーやギャンブル、外食などだと思いますどうしたら貯金できるようになると思いますか
+        - link "2 こんなメールが来たんですけど本物ですかね？楽天カードで引き落としできなかったからPayPayで支払うなんてあるんですか？" [ref=e966] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327310124
+          - generic [ref=e967]:
+            - generic [ref=e969]: "2"
+            - paragraph [ref=e972]: こんなメールが来たんですけど本物ですかね？楽天カードで引き落としできなかったからPayPayで支払うなんてあるんですか？
+        - link "3 楽天カードを利用しているのですが、このようなメールが届きました。これって詐欺メールですか？3月分の利用額はしっかり口座から引き落とされています。今月の利用額が現時点でかなり上限ギリギリなので、超えた分の請求かと思ったのですが、超えたら支払いできないはずですし、PayPayなのが怪しいなと思っています。実際にこういったメールが来た方はいらっしゃいますか？これは無視してもよいのでしょうか……ちなみにアドレスは、info_cocoro-m@sharp.co.jpです。" [ref=e975] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327324730
+          - generic [ref=e976]:
+            - generic [ref=e978]: "3"
+            - paragraph [ref=e981]: 楽天カードを利用しているのですが、このようなメールが届きました。これって詐欺メールですか？3月分の利用額はしっかり口座から引き落とされています。今月の利用額が現時点でかなり上限ギリギリなので、超えた分の請求かと思ったのですが、超えたら支払いできないはずですし、PayPayなのが怪しいなと思っています。実際にこういったメールが来た方はいらっしゃいますか？これは無視してもよいのでしょうか……ちなみにアドレスは、info_cocoro-m@sharp.co.jpです。
+        - link "4 税金納付ついて質問です。info_cocoro-m@sharp.co.jpというアドレスから、未払い税金のお知らせというタイトルで届いた翌日までの期限で支払い依頼がきましたが、フィッシング詐欺でしょうか。たまたま転職したタイミングなので気になっています。" [ref=e984] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327306005
+          - generic [ref=e985]:
+            - generic [ref=e987]: "4"
+            - paragraph [ref=e990]: 税金納付ついて質問です。info_cocoro-m@sharp.co.jpというアドレスから、未払い税金のお知らせというタイトルで届いた翌日までの期限で支払い依頼がきましたが、フィッシング詐欺でしょうか。たまたま転職したタイミングなので気になっています。
+        - link "5 楽天カードについて教えてください。昨年フィッシング詐欺に遭って楽天カードを解約しました。一年後朝5時にメールが来て『楽天カード３月分ご請求金額のお知らせ。自動引き落とし失敗。PayPayでお支払いください』とのメールがきました。解約しているのにPayPayで支払えと言うメールが来るものなのでしょうか？問い合わせ先が、0570666910からの電話番号で楽天のものと思われます。これは詐欺なのか？お知恵を拝借したいです。よろしくお願いします。" [ref=e993] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327278671
+          - generic [ref=e994]:
+            - generic [ref=e996]: "5"
+            - paragraph [ref=e999]: 楽天カードについて教えてください。昨年フィッシング詐欺に遭って楽天カードを解約しました。一年後朝5時にメールが来て『楽天カード３月分ご請求金額のお知らせ。自動引き落とし失敗。PayPayでお支払いください』とのメールがきました。解約しているのにPayPayで支払えと言うメールが来るものなのでしょうか？問い合わせ先が、0570666910からの電話番号で楽天のものと思われます。これは詐欺なのか？お知恵を拝借したいです。よろしくお願いします。
+        - link "6 楽天カードの問い合わせで、オペレーターと直接話せる電話番号はありますか？" [ref=e1002] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327264024
+          - generic [ref=e1003]:
+            - generic [ref=e1005]: "6"
+            - paragraph [ref=e1008]: 楽天カードの問い合わせで、オペレーターと直接話せる電話番号はありますか？
+        - link "7 東京都アプリでPayPayに交換できるようになるのはいつ頃だと思いますか？" [ref=e1011] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327168606
+          - generic [ref=e1012]:
+            - generic [ref=e1014]: "7"
+            - paragraph [ref=e1017]: 東京都アプリでPayPayに交換できるようになるのはいつ頃だと思いますか？
+        - link "8 令和8年経済センサスについて昨日（4/16）、会社に経済センサスの封筒が来ました。提出期限が4/27です。事務員が1人の会社です。今、諸々の仕事が忙しく4/27に間に合いそうもありません。インターネット回答を確認できなかった場合は調査員が訪問とありますがどれくらいの期間をおいて訪問されるのでしょうか。わかる方がいらしゃったら教えて下さい。よろしくお願い申し上げます。" [ref=e1020] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327309138
+          - generic [ref=e1021]:
+            - generic [ref=e1023]: "8"
+            - paragraph [ref=e1026]: 令和8年経済センサスについて昨日（4/16）、会社に経済センサスの封筒が来ました。提出期限が4/27です。事務員が1人の会社です。今、諸々の仕事が忙しく4/27に間に合いそうもありません。インターネット回答を確認できなかった場合は調査員が訪問とありますがどれくらいの期間をおいて訪問されるのでしょうか。わかる方がいらしゃったら教えて下さい。よろしくお願い申し上げます。
+        - link "9 個人向け国債5年の利率について質問です。４月募集は、１．７９％ですが、３月の日時ごとの基準金利（終値）をみると、１．７９％を超えている日は、ほぼない状態です。基準金利よりマイナス０．０５差し引くこととされた利率が１．７９％なので、基準金利を１．８４％として、利回りが計算されています。３月の日々の基準金利の終値より、４月の５年物の方が高いのはどうしてなのでしょうか？腑に落ちません。財務省が間違うとも思えませんし……。他にも、何らかの要素を加味するのでしょうか。よくわかりません。細かすぎる質問ですみませんが、よろしくお願いします。併せて、５月募集分の国債利息は、上がりそうですが、４月の日々の..." [ref=e1029] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327134360
+          - generic [ref=e1030]:
+            - generic [ref=e1032]: "9"
+            - paragraph [ref=e1035]: 個人向け国債5年の利率について質問です。４月募集は、１．７９％ですが、３月の日時ごとの基準金利（終値）をみると、１．７９％を超えている日は、ほぼない状態です。基準金利よりマイナス０．０５差し引くこととされた利率が１．７９％なので、基準金利を１．８４％として、利回りが計算されています。３月の日々の基準金利の終値より、４月の５年物の方が高いのはどうしてなのでしょうか？腑に落ちません。財務省が間違うとも思えませんし……。他にも、何らかの要素を加味するのでしょうか。よくわかりません。細かすぎる質問ですみませんが、よろしくお願いします。併せて、５月募集分の国債利息は、上がりそうですが、４月の日々の...
+        - link "10 イオンの株価が下落していますこれは買いですか？イオンについて評価をお願いします" [ref=e1038] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327136136
+          - generic [ref=e1039]:
+            - generic [ref=e1041]: "10"
+            - paragraph [ref=e1044]: イオンの株価が下落していますこれは買いですか？イオンについて評価をお願いします
+      - generic [ref=e1047]:
+        - generic [ref=e1048]:
+          - heading "カテゴリマスターランキング" [level=2] [ref=e1050]
+          - paragraph [ref=e1053]: ビジネス、経済とお金
+        - generic [ref=e1054]:
+          - link "1 yuy******** yuy********" [ref=e1056] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1211583
+            - generic [ref=e1057]:
+              - generic [ref=e1059]: "1"
+              - generic [ref=e1061]:
+                - generic: yuy********
+              - paragraph [ref=e1064]: yuy********
+          - link "2 thd******** thd********" [ref=e1066] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1051102926
+            - generic [ref=e1067]:
+              - generic [ref=e1069]: "2"
+              - generic [ref=e1071]:
+                - generic: thd********
+              - paragraph [ref=e1074]: thd********
+          - link "3 非公開 非公開" [ref=e1076] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1149221931
+            - generic [ref=e1077]:
+              - generic [ref=e1079]: "3"
+              - generic [ref=e1081]:
+                - generic: 非公開
+              - paragraph [ref=e1084]: 非公開
+        - heading "急上昇のユーザー" [level=4] [ref=e1085]:
+          - generic [ref=e1086]: 急上昇のユーザー
+        - generic [ref=e1087]:
+          - link "yuy******** yuy********" [ref=e1089] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1211583
+            - generic [ref=e1090]:
+              - img [ref=e1092]
+              - generic [ref=e1095]:
+                - generic: yuy********
+              - paragraph [ref=e1098]: yuy********
+          - link "thd******** thd********" [ref=e1100] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1051102926
+            - generic [ref=e1101]:
+              - img [ref=e1103]
+              - generic [ref=e1106]:
+                - generic: thd********
+              - paragraph [ref=e1109]: thd********
+        - generic [ref=e1110]: 更新日：2026/04/20
+      - link "公式・専門家の回答はこちら" [ref=e1113] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/expert/
+        - img "公式・専門家の回答はこちら" [ref=e1116]
+      - generic [ref=e1119]:
+        - heading "カテゴリ一覧" [level=2] [ref=e1122]
+        - generic [ref=e1123]:
+          - link "ビジネス、経済とお金 ビジネス、経済とお金" [ref=e1125] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297790/question/list
+            - generic [ref=e1126]:
+              - img "ビジネス、経済とお金" [ref=e1129]
+              - paragraph [ref=e1132]: ビジネス、経済とお金
+          - link "企業と経営 企業と経営" [ref=e1134] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297793/question/list
+            - generic [ref=e1135]:
+              - img "企業と経営" [ref=e1138]
+              - paragraph [ref=e1141]: 企業と経営
+          - link "株と経済 株と経済" [ref=e1143] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297792/question/list
+            - generic [ref=e1144]:
+              - img "株と経済" [ref=e1147]
+              - paragraph [ref=e1150]: 株と経済
+          - link "税金、年金 税金、年金" [ref=e1152] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401772/question/list
+            - generic [ref=e1153]:
+              - img "税金、年金" [ref=e1156]
+              - paragraph [ref=e1159]: 税金、年金
+          - link "保険 保険" [ref=e1161] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401781/question/list
+            - generic [ref=e1162]:
+              - img "保険" [ref=e1165]
+              - paragraph [ref=e1168]: 保険
+          - link "家計、貯金 家計、貯金" [ref=e1170] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297791/question/list
+            - generic [ref=e1171]:
+              - img "家計、貯金" [ref=e1174]
+              - paragraph [ref=e1177]: 家計、貯金
+          - link "決済、ポイントサービス 決済、ポイントサービス" [ref=e1179] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079161149/question/list
+            - generic [ref=e1180]:
+              - img "決済、ポイントサービス" [ref=e1183]
+              - paragraph [ref=e1186]: 決済、ポイントサービス
+        - link "カテゴリ一覧を見る" [ref=e1188] [cursor=pointer]:
+          - /url: /category
+          - text: カテゴリ一覧を見る
+          - img [ref=e1189]
+      - generic [ref=e1192]:
+        - iframe
+        - iframe [ref=e1194]:
+          - generic [ref=f135e5]:
+            - link "これで俺達、アゴダチだー！ Agoda" [ref=f135e6] [cursor=pointer]:
+              - /url: https://apm.yahoo.co.jp/rd?ep=A5JN62kAACT2pMvYnhtZKbFV1clxu5C1Vg9eD0BW07C9ovMr3JfKfi9_9kturWMmv_IKkee_g-NYIBwDNc6jE_vqOP-3-m1HAcOr7ivWppqxhanwtHaWlrMNKLlAKih6X4Ixfc3B4xyZ4e5VF_gmL60_ocCDq1Q1S0HlHqH5GyXbkkTS1qeGK_RSlCovJOb7FIQjEcqJDwL5WyAXx35USrmwAhRYVonSr7W5tEF5pCXW2ojmA8ZztP5WZtTGbbZkQkhVG7XX08T8dF4OWlz1GALNC_1pM5O21MLufrP15BMgpMMNK47rjdDhA3OcDj_D7C2Ft1gIXCXfSwadUcpWghQ6ah_zY-OapFszga3XHrnhI7IT91hU8GAiN59bkDHFcSwrbMbWWwanZx9Bed8DLURwKUf1bQxGvdHXFcdu_wEthkr-ONSBkOqB9ze-WrcjrTsbca1gYbJI5S8So4TfQ5TY-Tear7fIYAgTcnKAelhHhgS7bZNIYApEdea76OiM12JGGcsu5K0OKDcliPC-ppv891wctQSUAC3gf8O4l0xH0Lp1gR1ZEaiyj0tABRlQTI0zu94jDlNZGk9wwWLndDbhPgK9co-MmcwNIrzL6UYI9WQhnABOEGCdsVrzeycPLr8IQ4LLvYdvPcQyHudc5caypskUjuTX0ymbw8HVdhkA3qVprbobBIW9qtl2Dz5poAL2glBKChba5RsIv138ODOXC014BN54lSYWRg22vCRy69NQEgEtfbsrMm-ADVYlRa0MzXxPS9s3mZizxePzoYBMyD7t1a7TTb8h3mJxfYs02pzxh9QWCdAbETR7iLXCR_C5w0DoW6EWmc50RjLsebYfXQB2k-o7rxlmsm7dBiRb_Y2S5Ry54xecUmPgbM0ipZmYDuuxGLnHuBy09SuFgb1M7BBX3q90JnRQX4R5DRJbcBphLYFY-et33Ih0uwSbgdA6rw5nGgFh1Ez7DeAlmwqy7YYab_lzdwx4bq2k6uxn_hhCOTIUKWrchp0LijvUFYS5-42j_tNKAK1ldYBvFqstVueyQQNBOnu5ioJfiJ5NZkfNM6ufU2gzJNU60YSwfqSyLntwGI0kN2K-v0tnrsQBOQHPVebVRH80-E-rbClf0xpLobidQcIDi4xlZcHhmp3TFvsTlJLIm5gitySKX_xVH2H3tAGWI0_vHndr9SyiX5_yyHGFXJ8mpHdN4crrGzKl5WZd_Jb4EMl9wvlLrgzvwlXLMKUljYDlX5I5CLkDP6rsXzCj89aZs60pntKttKt36JJP2AKHvfAew2aeysDDtpGqDULQixLkIzBl9LN_0C9gsGhdV7v0tMjaJ48TKW21LROsloID-SMjk4_9WLSSgdp_ZpHT_mLawJfhZUzOXifideeejDAtwSw2VXAbTwvfADJg&v=5
+              - generic [ref=f135e7]:
+                - img
+              - generic [ref=f135e8]:
+                - generic [ref=f135e9]:
+                  - generic [ref=f135e10]: これで俺達、アゴダチだー！
+                  - generic [ref=f135e11]: Agoda
+                - generic [ref=f135e12]:
+                  - img
+            - generic [ref=f135e13] [cursor=pointer]:
+              - link "広告" [ref=f135e16]:
+                - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A5JN62kAAOzM9QaMsmmkWQGd18owpi5KFBehsqULdIu5h8ZKrE62ntq3jnGzAmY7L9Zy4EK6diLZfHgqi_QD4rcp8-jvGPX71BxtH4HL21PoerYQVDD0_QNh7-xpjALaiwSR8QKrg0qWaI9XqTsI6dhbg-i5eijmGKp3_VSgPWcZ4vB0ogU0VXKM4MynA9UH5FuQsK-UrKs0RqfQcMqnBB2vEXf9o4yspwZrNpxj5A8930-EygoPeDMLxTLARzOtEcVtjqp47v-yH0CFU4Tb6Hq6Exiz9wssQtzGnECT7TJ8wAqMQo9-c4ib-zJZVw&o=A5JN62kAABf39UhAsKZVN3cMo8_GvRduhwysI13vKpb3TdkBKZ0yoilN-GZtMXblSRiBDE4u0qK_9Kqzo3dUuQqkPLuY2HhfFiF6c6NIzICiuhyzfU3Aiacx7q5c5B3rk3rOZEqCB989qM7ZRSHLmF3h8SyQI8J8yqtnIJSc85T-Wki-gvivPyC_OQv3XElbPIcU-6fyS_bczXd6FHx7gKYHozAcN9S9EnLatVSoLjHfEuqanz7nku1gyskb8Yjej1YZw7o1OiqI9egJ-SycCeGjWj0
+                - generic [ref=f135e18]:
+                  - generic [ref=f135e19]: 広告
+                  - img [ref=f135e21]
+              - img [ref=f135e26]
+  - contentinfo [ref=e1196]:
+    - generic [ref=e1197]:
+      - link "Yahoo!知恵袋" [ref=e1198] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e1199]: "|"
+      - link "Yahoo! JAPAN" [ref=e1200] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e1201]:
+      - link "プライバシーポリシー" [ref=e1202] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e1203]: "-"
+      - link "プライバシーセンター" [ref=e1204] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e1205]: "-"
+      - link "利用規約" [ref=e1206] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e1207]: "-"
+      - link "利用のルール" [ref=e1208] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e1209]: "-"
+      - link "広告掲載について" [ref=e1210] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/?utm_source=yahoo&utm_medium=referral&utm_campaign=ysa_cv_link_chiebukuro_241001
+      - generic [ref=e1211]: "-"
+      - link "ご意見・ご要望" [ref=e1212] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e1213]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e1214] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e1215]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e1216]: 画像：アフロ
+    - generic [ref=e1217]: © LY Corporation
+  - generic:
+    - generic:
+      - generic:
+        - paragraph:
+          - img
+          - text: 通信に失敗しました

@@ -1,0 +1,525 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - paragraph [ref=e15]:
+          - link "想定外を生き抜く。10年前の熊本地震の教訓から学ぶ防災術とは？" [ref=e16] [cursor=pointer]:
+            - /url: https://yahoo.jp/TmGP4V
+        - generic [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+                - /url: https://www.yahoo.co.jp/
+            - listitem [ref=e21]:
+              - link "ヘルプ" [ref=e22] [cursor=pointer]:
+                - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+          - generic [ref=e25]:
+            - generic "キーワード："
+            - textbox "ウェブ検索" [ref=e26]
+            - button "検索" [ref=e27] [cursor=pointer]
+            - link "板山 急上昇" [ref=e28] [cursor=pointer]:
+              - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=%E6%9D%BF%E5%B1%B1&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+              - text: 板山
+              - img "急上昇" [ref=e29]
+      - generic [ref=e30]:
+        - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+          - img "Yahoo!知恵袋" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - text: IDでもっと便利に
+            - link "新規取得" [ref=e36] [cursor=pointer]:
+              - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fsearch&.src=chiebukuro
+          - generic [ref=e37]:
+            - link "ログイン" [ref=e38] [cursor=pointer]:
+              - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fsearch
+            - link "［おトク］10％OFFクーポンあります" [ref=e40] [cursor=pointer]:
+              - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8zMDc0OTUvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9hdWN0aW9ucy55YWhvby5jby5qcC9jYW1wYWlnbi9wcm9tby9zdG9yZV9saW1pdGVkX2NvdXBvbg/
+    - navigation [ref=e42]:
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - textbox "Q&Aを探す" [ref=e47]: 貯金 焦り
+          - button "キーワードを消す" [ref=e48] [cursor=pointer]:
+            - img [ref=e49]
+            - generic: キーワードを消す
+        - button [ref=e51] [cursor=pointer]:
+          - img [ref=e52]
+      - list [ref=e54]:
+        - listitem [ref=e55]:
+          - link "カテゴリ" [ref=e56] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e57]:
+          - link "Q&A一覧" [ref=e58] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e59]:
+          - link "公式・専門家" [ref=e60] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e61]:
+          - link "お知らせ" [ref=e62] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e67] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e68]
+        - text: 質問・相談
+  - generic [ref=e70]:
+    - generic [ref=e71]:
+      - heading "「貯金 焦り」の検索結果" [level=1]
+      - button "この検索条件を保存する" [ref=e74] [cursor=pointer]:
+        - generic [ref=e75]: この検索条件を保存する
+      - generic [ref=e78]:
+        - heading "58歳で貯金がないと思った" [level=2] [ref=e79]:
+          - link "58歳で貯金がないと思った" [ref=e80] [cursor=pointer]:
+            - /url: https://rd.listing.yahoo.co.jp/p/GU=AxhO62kAALE6ikvK2ZZFHeo-Ky8z80VkLuLun9H2ruX4dPE9bPlM5F3RS1uvkKrrE-cREhSoupnIb8-Rzh1aehHcObcn-D1KjCricxltqGyFIS-zVn7MfSm8mk5YTBkmXct_NOqkfSGgIUZ6GiEUuRqjLhMNuz9XCvG1hLGH78d255pQ5qxJtMc_ag3EY536z-ApyRfysIhA9RFi6rZP7XdubxSipBIuHvML5EgUxYtIjmPtogRms2B_m8Sdl8VCsUPcprr7O0D_2r0pja5AQ2nVPBZCDlHXkEtOQsHOqk2ys9eYci2RjL1Fr3GImymS7Xd3XHljEAgV8yadcOhG7RNLUt7XcB-VIc6uiWrKgYgip1MGkQcEEa_JaEW3FZpuybPkuGakWowyPiEf34ctIh9Xpsuyj2QxENGylKuwOVw0AhkiqksC30C5xJ6ZDOyoi8II2OCkwSbX4YKflL5Qa4gLGZWiKpdkHMGo2UK1zfebznN36je9SBygf6QZPKz1s2Fm3yxu_aMjyVarjFa-9fMtnuRUvhky2GX14TWiwpFdGGRkmFfxRVBSajxXfW9hf53CX2CBpuehce6SQ9e49v75TCDCbeWrjFu7TU1fTbd1fX2n9Hh2EJJ078Cmhw5JRwhuKMkPvJVZGVSYNLbipOxca8FqVp2M4hNiHMTZ61GGSgVDk49DnaB7bggv1JJ7fr22v3Lm5ZcNhJtSgONphh2gt-Yfnc_lsFydB4WtJBgtqfxi_JVDztHV5_OkQUyi33Z4fN6InwhMzCYyo617-HVp9xzirNYlFpqRMBf3gA8oFEs0ETbwu79fpcL_QCRCUgybwBTOTYvLYk68WpUX8jzeuEmieiRC6tjQEk3dPxrVtd5-9W1XEsonLZZ1Ob4_qjAQoVPn17XngFu-7V6iQVOl4uIPUbsBOtXOOG8T-QbzDTs8IMWxeYbRNAJNJFZPYNj5tBpoYcVqVzR2pKPoFBcOSTV6u0GDYTnQOAYxp6G7sSg4Pqq7BjJU3MZajXON6BLRguXhxbVQeHaLV8YwLiiihNEzEl1PcKyRBt-SV_x3hA2hIWT6jgCZfhvV8QvojX4WYX7lVYdsTC0uVlW89QDVV4Mm2_vIfrMAptoGmgEWkCYHnVP9gKchSKBuuOT85L7xeP8joCsbX3sEXhIt743t7rE_TZNblxBuKteHLtVMt4LV3jtdugG7DHHhgvBU-oFtajm-YMWKwmoL-uXlPaSVoDwTwGzb1H2qrSLN4leGbeOJYrJ_FvluqsMKFMZnl-JeGO_4HhazQr5ZZSptnV2VJUjLCwBZiknG8LR37AXFJ3gvC8v_6ihmvrirc_uMapaYlELPQ5RCNXXPi4SrzAJsFVkNawCMJ3elI2PVynrGp8TdEjrzJDLxRl2fGPOVOAEvNue6PiEsQZgQz8Mk0d6SEwDFdX6ieMFsbz1RynNhD0oQj4DHJ1-q6AyPj6gN1Wqy5jH1cGrFCmfJX7vJ1LudE2ssBO_UNPavc5TuRRmcyVMPAJBTL3Rg-HnTLXolWUkpH9NjWkLolYtZjl7D0XMKS2pazZloXZTWoe5DlGYH_H-UbtnHg69M1BWeeLSdlZ66b0h4mHCTwI7wfme1ycIw08w_Ac7SmUtcL3FvipcdlzfeXnelz7oA9wWBXHVrKtw;/?ep=AxhO62kAAENc4Oby6ScIsP8WI8kCaSAZpibnAMiOCWyJXKknmkqA3-lfYQO1F4swFz-HFhMCpIM7Db1tkvNB8gzknxJJRv94XJvPYBTEncObDeHIA_0kw9gt15miG5zZqeckofvwhs75plTakTwQowk4w9kNhJ3_crc66coVAuVjJO0RmKFn74zwHwXedDv0in8YUapydEe-tSkKsqNPvyx6pA&v=2
+            - text: 58歳で
+            - strong [ref=e81]: 貯金
+            - text: がないと思った
+        - paragraph [ref=e82]:
+          - text: レビューを参考に見つけよう - アマゾンなら58歳で
+          - strong [ref=e83]: 貯金
+          - text: がないと思ったがいつでも買える。トラブルへのサポートも充実だから安心。Amazonならセール、ポイント、クーポンでいつでもおトク。せっかくのお買い物をお得に。
+        - generic [ref=e84]:
+          - text: 広告www.amazon.co.jp/本/お得に買い物
+          - button [ref=e86] [cursor=pointer]:
+            - img [ref=e87]
+      - generic [ref=e89]:
+        - heading "質問一覧" [level=2]
+        - list [ref=e90]:
+          - listitem [ref=e91]:
+            - heading "貯金出来てない焦り 32歳女性です。 今月末から一人暮らしを始めます。きっかけは実家が引っ越..." [level=3] [ref=e92]:
+              - link "貯金出来てない焦り 32歳女性です。 今月末から一人暮らしを始めます。きっかけは実家が引っ越..." [ref=e93] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12283309142?__ysp=6LKv6YeRIOeEpuOCig%3D%3D
+                - emphasis [ref=e94]: 貯金
+                - text: 出来てない
+                - emphasis [ref=e95]: 焦り
+                - text: 32歳女性です。 今月末から一人暮らしを始めます。きっかけは実家が引っ越...
+            - paragraph [ref=e96]: 越す事になりこのタイミングで始めようと思いました。 両親もお金には困らせないように育ててくれとても感謝しているのですが、それ故にお金に頓着がなく、自分の性格もあってある分だけ使ってしまってました。...
+            - paragraph [ref=e97]:
+              - generic [ref=e98]:
+                - img [ref=e99]
+                - generic: 質問日時：
+                - generic [ref=e101]: 2023/7/22 23:00
+              - generic [ref=e102]:
+                - img [ref=e103]
+                - generic: 回答数：
+                - generic [ref=e105]: "11"
+              - generic [ref=e106]:
+                - img [ref=e107]
+                - generic: 閲覧数：
+                - generic [ref=e111]: "470"
+            - paragraph [ref=e112]:
+              - text: ビジネス、経済とお金>家計、貯金>
+              - link "貯金" [ref=e113] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297797/question/list
+          - listitem [ref=e114]:
+            - heading "22歳平均でどのくらい貯金あるのでしょうか？ 皆さん20前半どのくらい貯金ありましたか？ ..." [level=3] [ref=e115]:
+              - link "22歳平均でどのくらい貯金あるのでしょうか？ 皆さん20前半どのくらい貯金ありましたか？ ..." [ref=e116] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14323970319?__ysp=6LKv6YeRIOeEpuOCig%3D%3D
+            - paragraph [ref=e117]:
+              - text: 22歳平均でどのくらい
+              - emphasis [ref=e118]: 貯金
+              - text: あるのでしょうか？ 皆さん20前半どのくらい
+              - emphasis [ref=e119]: 貯金
+              - text: ありましたか？ お金の貯めるためにやったコツとか工夫あれば教えて頂きたいです。 一人暮らしを考えてて最低でも200ぐらいはいるのかなって思ってて、 今後結婚するとかになってもお金かかるし周りは
+              - emphasis [ref=e120]: 貯金
+              - text: できてるのにという
+              - emphasis [ref=e121]: 焦り
+              - text: がありまして。
+            - paragraph [ref=e122]:
+              - generic [ref=e123]:
+                - img [ref=e124]
+                - generic: 質問日時：
+                - generic [ref=e126]: 2026/1/5 17:14
+              - generic [ref=e127]:
+                - img [ref=e128]
+                - generic: 回答数：
+                - generic [ref=e130]: "9"
+              - generic [ref=e131]:
+                - img [ref=e132]
+                - generic: 閲覧数：
+                - generic [ref=e136]: "106"
+            - paragraph [ref=e137]:
+              - text: ビジネス、経済とお金>家計、貯金>
+              - link "貯金" [ref=e138] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297797/question/list
+          - listitem [ref=e139]:
+            - heading "貯金が少なすぎて焦ってます。 現在30歳貯金180万、一人暮らしです。 いままで貯金のことを考..." [level=3] [ref=e140]:
+              - link "貯金が少なすぎて焦ってます。 現在30歳貯金180万、一人暮らしです。 いままで貯金のことを考..." [ref=e141] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13282212488?__ysp=6LKv6YeRIOeEpuOCig%3D%3D
+            - paragraph [ref=e142]:
+              - emphasis [ref=e143]: 貯金
+              - text: が少なすぎて焦ってます。 現在30歳
+              - emphasis [ref=e144]: 貯金
+              - text: 180万、一人暮らしです。 いままで
+              - emphasis [ref=e145]: 貯金
+              - text: のことを考えずに好き勝手に生きてきたのですが周りが
+              - emphasis [ref=e146]: 貯金
+              - text: をしっかりしていてかなり
+              - emphasis [ref=e147]: 焦り
+              - text: を感じました。...
+            - paragraph [ref=e148]:
+              - generic [ref=e149]:
+                - img [ref=e150]
+                - generic: 質問日時：
+                - generic [ref=e152]: 2023/6/30 10:56
+              - generic [ref=e153]:
+                - img [ref=e154]
+                - generic: 回答数：
+                - generic [ref=e156]: "8"
+              - generic [ref=e157]:
+                - img [ref=e158]
+                - generic: 閲覧数：
+                - generic [ref=e162]: 2,453
+            - paragraph [ref=e163]:
+              - text: ビジネス、経済とお金>家計、貯金>
+              - link "貯金" [ref=e164] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297797/question/list
+          - listitem [ref=e165]:
+            - heading "貯金について こんにちわ。今年で30になるのですが貯金が250万ほどしかないです、、、平均の貯金額がわからないのですが焦りを感じているのとこれでいいのか不安です、、、 この先生きていけるのでしょうか" [level=3] [ref=e166]:
+              - link "貯金について こんにちわ。今年で30になるのですが貯金が250万ほどしかないです、、、平均の貯金額がわからないのですが焦りを感じているのとこれでいいのか不安です、、、 この先生きていけるのでしょうか" [ref=e167] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10314483730?__ysp=6LKv6YeRIOeEpuOCig%3D%3D
+                - emphasis [ref=e168]: 貯金
+                - text: について こんにちわ。今年で30になるのですが
+                - emphasis [ref=e169]: 貯金
+                - text: が250万ほどしかないです、、、平均の
+                - emphasis [ref=e170]: 貯金
+                - text: 額がわからないのですが
+                - emphasis [ref=e171]: 焦り
+                - text: を感じているのとこれでいいのか不安です、、、 この先生きていけるのでしょうか
+            - paragraph [ref=e172]: 平均より上なら安心ですか？自分が安心できる金額はいくらなのかを考えてみましょう。年金制度も30年後にどうなっているか分からないですが、現在の仕組みを延長して劣化した感じだと思います。また、物価も上昇しているでしょう...
+            - paragraph [ref=e173]:
+              - generic [ref=e174]: 解決済み
+              - generic [ref=e175]:
+                - img [ref=e176]
+                - generic: 質問日時：
+                - generic [ref=e178]: 2025/5/2 17:33
+              - generic [ref=e179]:
+                - img [ref=e180]
+                - generic: 回答数：
+                - generic [ref=e182]: "6"
+              - generic [ref=e183]:
+                - img [ref=e184]
+                - generic: 閲覧数：
+                - generic [ref=e188]: "199"
+            - paragraph [ref=e189]:
+              - text: ビジネス、経済とお金>家計、貯金>
+              - link "貯金" [ref=e190] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297797/question/list
+          - listitem [ref=e191]:
+            - heading "貯金が10万円しかありません。 もう40歳になりました。 焦りを感じ今からでも貯金できますか？" [level=3] [ref=e192]:
+              - link "貯金が10万円しかありません。 もう40歳になりました。 焦りを感じ今からでも貯金できますか？" [ref=e193] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11309515891?__ysp=6LKv6YeRIOeEpuOCig%3D%3D
+                - emphasis [ref=e194]: 貯金
+                - text: が10万円しかありません。 もう40歳になりました。
+                - emphasis [ref=e195]: 焦り
+                - text: を感じ今からでも
+                - emphasis [ref=e196]: 貯金
+                - text: できますか？
+            - paragraph [ref=e197]: 皆様はどうやりくりされているのでしょうか？ 現在夫と娘と3人暮らしで、 扶養内のパート勤めです。...
+            - paragraph [ref=e198]:
+              - generic [ref=e199]:
+                - img [ref=e200]
+                - generic: 質問日時：
+                - generic [ref=e202]: 2025/1/16 21:22
+              - generic [ref=e203]:
+                - img [ref=e204]
+                - generic: 回答数：
+                - generic [ref=e206]: "5"
+              - generic [ref=e207]:
+                - img [ref=e208]
+                - generic: 閲覧数：
+                - generic [ref=e212]: 7,329
+            - paragraph [ref=e213]:
+              - text: ビジネス、経済とお金>家計、貯金>
+              - link "家計、節約" [ref=e214] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297796/question/list
+          - listitem [ref=e215]:
+            - heading "30歳で貯金ない人ってどれくらいいますか？焦りとかありますか？" [level=3] [ref=e216]:
+              - link "30歳で貯金ない人ってどれくらいいますか？焦りとかありますか？" [ref=e217] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11283454391?__ysp=6LKv6YeRIOeEpuOCig%3D%3D
+                - text: 30歳で
+                - emphasis [ref=e218]: 貯金
+                - text: ない人ってどれくらいいますか？
+                - emphasis [ref=e219]: 焦り
+                - text: とかありますか？
+            - paragraph
+            - paragraph [ref=e220]:
+              - generic [ref=e221]:
+                - img [ref=e222]
+                - generic: 質問日時：
+                - generic [ref=e224]: 2023/7/25 20:49
+              - generic [ref=e225]:
+                - img [ref=e226]
+                - generic: 回答数：
+                - generic [ref=e228]: "2"
+              - generic [ref=e229]:
+                - img [ref=e230]
+                - generic: 閲覧数：
+                - generic [ref=e234]: "100"
+            - paragraph [ref=e235]:
+              - text: ビジネス、経済とお金>家計、貯金>
+              - link "貯金" [ref=e236] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297797/question/list
+          - listitem [ref=e237]:
+            - heading "30歳で貯金がない人に質問です。焦りとかありますか？" [level=3] [ref=e238]:
+              - link "30歳で貯金がない人に質問です。焦りとかありますか？" [ref=e239] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12283695827?__ysp=6LKv6YeRIOeEpuOCig%3D%3D
+                - text: 30歳で
+                - emphasis [ref=e240]: 貯金
+                - text: がない人に質問です。
+                - emphasis [ref=e241]: 焦り
+                - text: とかありますか？
+            - paragraph
+            - paragraph [ref=e242]:
+              - generic [ref=e243]:
+                - img [ref=e244]
+                - generic: 質問日時：
+                - generic [ref=e246]: 2023/7/30 18:26
+              - generic [ref=e247]:
+                - img [ref=e248]
+                - generic: 回答数：
+                - generic [ref=e250]: "2"
+              - generic [ref=e251]:
+                - img [ref=e252]
+                - generic: 閲覧数：
+                - generic [ref=e256]: "89"
+            - paragraph [ref=e257]:
+              - text: ビジネス、経済とお金>家計、貯金>
+              - link "貯金" [ref=e258] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297797/question/list
+          - listitem [ref=e259]:
+            - heading "世帯年収900万の方々の貯金について質問です。 皆さんは月にどの程度貯金されている、もしくは年..." [level=3] [ref=e260]:
+              - link "世帯年収900万の方々の貯金について質問です。 皆さんは月にどの程度貯金されている、もしくは年..." [ref=e261] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12293978522?__ysp=6LKv6YeRIOeEpuOCig%3D%3D
+            - paragraph [ref=e262]:
+              - text: 習い事も躊躇しています。 夫の職場の同年代の方々は、早い方だと同い年くらいで1000万
+              - emphasis [ref=e263]: 貯金
+              - text: している方もいるようで、
+              - emphasis [ref=e264]: 焦り
+              - text: もあります。 もちろん、
+              - emphasis [ref=e265]: 貯金
+              - text: の目的によってそこまで多くする必要はないと思いますが、人より多めには備えをしておきたいと考えているため、皆様は年間目標をどれくらいに設定しているのか知りたいと思っています。
+            - paragraph [ref=e266]:
+              - generic [ref=e267]:
+                - img [ref=e268]
+                - generic: 質問日時：
+                - generic [ref=e270]: 2024/2/24 22:19
+              - generic [ref=e271]:
+                - img [ref=e272]
+                - generic: 回答数：
+                - generic [ref=e274]: "6"
+              - generic [ref=e275]:
+                - img [ref=e276]
+                - generic: 閲覧数：
+                - generic [ref=e280]: 7,501
+            - paragraph [ref=e281]:
+              - text: ビジネス、経済とお金>
+              - link "家計、貯金" [ref=e282] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297791/question/list
+          - listitem [ref=e283]:
+            - heading "貯金について相談です。 現在35歳、貯金が800万で借金なしの持家なしの車所持です。 19歳で..." [level=3] [ref=e284]:
+              - link "貯金について相談です。 現在35歳、貯金が800万で借金なしの持家なしの車所持です。 19歳で..." [ref=e285] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10136082730?__ysp=6LKv6YeRIOeEpuOCig%3D%3D
+            - paragraph [ref=e286]:
+              - emphasis [ref=e287]: 貯金
+              - text: について相談です。 現在35歳、
+              - emphasis [ref=e288]: 貯金
+              - text: が800万で借金なしの持家なしの車所持です。 19歳で就職してずっ～と一人暮らしをしていて、29歳くらいで
+              - emphasis [ref=e289]: 貯金
+              - text: がほとんどなく、
+              - emphasis [ref=e290]: あせり
+              - text: を感じて
+              - emphasis [ref=e291]: 貯金
+              - text: を始めた次第です。...
+            - paragraph [ref=e292]:
+              - generic [ref=e293]: 解決済み
+              - generic [ref=e294]:
+                - img [ref=e295]
+                - generic: 質問日時：
+                - generic [ref=e297]: 2014/9/26 14:36
+              - generic [ref=e298]:
+                - img [ref=e299]
+                - generic: 回答数：
+                - generic [ref=e301]: "3"
+              - generic [ref=e302]:
+                - img [ref=e303]
+                - generic: 閲覧数：
+                - generic [ref=e307]: "457"
+            - paragraph [ref=e308]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "恋愛相談" [ref=e309] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675272/question/list
+          - listitem [ref=e310]:
+            - heading "プロポーズ時、貯金はいくらありましたか？ どれくらいありました？？ どうやって準備しましたか？？" [level=3] [ref=e311]:
+              - link "プロポーズ時、貯金はいくらありましたか？ どれくらいありました？？ どうやって準備しましたか？？" [ref=e312] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1277158397?__ysp=6LKv6YeRIOeEpuOCig%3D%3D
+            - paragraph [ref=e313]:
+              - text: プロポーズ時、
+              - emphasis [ref=e314]: 貯金
+              - text: はいくらありましたか？ どれくらいありました？？ どうやって準備しましたか？？ 僕は、 ・僕が使ってしまう ・彼女とにデートに使ってしまう ・親に送る ・彼女へのプレゼント見栄はってしまう などの理由でそんなに
+              - emphasis [ref=e315]: 貯金
+              - text: ありません（
+              - emphasis [ref=e316]: 焦
+              - text: ） 教えてください！
+            - paragraph [ref=e317]:
+              - generic [ref=e318]: 解決済み
+              - generic [ref=e319]:
+                - img [ref=e320]
+                - generic: 質問日時：
+                - generic [ref=e322]: 2011/12/10 22:50
+              - generic [ref=e323]:
+                - img [ref=e324]
+                - generic: 回答数：
+                - generic [ref=e326]: "2"
+              - generic [ref=e327]:
+                - img [ref=e328]
+                - generic: 閲覧数：
+                - generic [ref=e332]: 3,598
+            - paragraph [ref=e333]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "家族関係の悩み" [ref=e334] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675273/question/list
+      - generic [ref=e337]:
+        - heading "58歳で貯金がないと思った" [level=2] [ref=e338]:
+          - link "58歳で貯金がないと思った" [ref=e339] [cursor=pointer]:
+            - /url: https://rd.listing.yahoo.co.jp/p/GU=AxhO62kAAH1sMQaxxEdmEv57vyxCj237XikjtvSRfRg80KolUMficMGrFcOVaBUl7BkFHNlmWk4_41WkzuSY7Oow6DjueMxn9jZBKhsXvubQG5gFL60koxCJ5sXeMdNa90uQX3_Ei_xFmfQkQIZETLb8j8G3SEeCI8jvig6J1t9XPOFkkeYivB4ZDACa0QMzt89QDWZmiJQhbzUnxP82d8SdWw_GmBDdYie1kdijTmUOphuBCpAu1nJ-XIc06GdlbYgwfWHxZQyVq9UPfcsacmyziVbQsPiVyzp1c9DX9tC8Qw4HBzLe2V_9MjmLEenBx99Ndj9Nl0UV0iZRaUnI4SEpOVHhoRJm8SZYZNcdOuKKm6xrnbcc8HZKke0MgSqP1urovJPD6iD36nQiXYeQiTeJM3g7B9-FCbZknNcnqD0z5PF1hdyu-fer2Xi40-Gl9k9LqILDmtTz_GMLTEfSyBdGavzefEby3AQY2QTQXirXeNX8juiTmADEPGmSvdLl0QFX67Kg2-doj9yzQcljQ8bKoqrmQVJTitvHQd0YeFMCi6d8vL0rstDynUSDmcsez6EEvgdQvHu6wESVc-4DX2USmRIXK4UHUnyTML4Ugh0RmcgOhg5GCHYY6cAOGLrIjR8NF0B03_PC2cgc3Or4phNzjXTp8SNltGAubPTjzI82RCINMxztFmVY9oEvCdFw-dP2arByfALuOB3S-c3eI-ZdFhTTtCCtgHoNjKHQ4o6OWHYqBmGN3cbBc8fOTYLBLoDeRffdpnAOy7DMsN9y8Rib1NJeo9eJIpq7iBATGuA90OgG30tXl0p2a5_071nLDOhnl_0cjEETmw_qCW786mq1eG0CJGyR8DdVzt4TkFtzZkJyB8ouVJKkieNU3hod8cyFvhj4zOkF32zkbOrIOB1hDDYv8vtJjf3GMcel0Y8Gos4Ftb5aDh7JWCCrKM7ZwbwA1d-NuSIMX7PMPRxt6qSccqKxYtvhI-0327nBe8A6n7i8Tg6x5-5nyM0ed1vtHjt4C3pC5kPxRSPiMIsDJcNHzC73XS-n54a51Wk6yQpwS8F7wycvfWKlyCFcvKDZ_Q1QubT4yKgAh4yKhWaKepZVI8Um6wtT-bHjWT-4dwiqIlQiuyZWwwkY7Tghogb89zi83mqzc0gJcOUThwG8U9KygdRvNe_nn75PWQN6uAcswjkga6zBCdf-EsH-X9W3LmIAeY0bciHO7jos354j730NE8X8mv4eARq7GRGHP5OY6xy0kOImIzCFxWp1W2FfBUEG9SmxtZnLJZS9KfpgNPOyHTSKYHN6erv4w09huWZeqQqdepMXf377XiqtMpJsuNUlKyUg4QVqFFw9wBLSM8-QXd_umqKSbhww0wy6LXLEwKCf27Net3OOhi-BycabRA9yVw0MYnqQ3o9J8vxip58o_31tqDrJckOLM0wPJMqfq4zWCwTTC3Sr9WeO61c0tlZHZnYR2tVM10n5jH0HspflyvYiOPhl2s8QSmKjD2b5uBNbcxn51dY6zOy6bmwFDWHt2G1pd2jUPsG9vvSJGDvUv6X85LlciFLRA8J8ZP4GoNSEyee0Yba0c_28KNzzS3-DZOcwE0_hYBmic4y7UipyHnoSNVPgLhaC1rD5xoC9ETFCaMnMqg2LRUosYHAfprO_Q8A;/?ep=AxhO62kAAJd-IaVMAwwTmA0r_v4dWPN8GmHu9Ean22_eXSjIqEXkvZfS--sxa8AMePn-KnVZuliZ8PST19ZEG_oBplBtmgJSyLDnBwg6WxdmqicO8hi0exQB7uLEIKn5bKX-y2qBvtczoFApLIptMEUthHzyguxm_qmduYjEuSluYsIQP5V5raCivKKJTAbLPLABtOIUMGQvp68W1kExPnv-kA&v=2
+            - text: 58歳で
+            - strong [ref=e340]: 貯金
+            - text: がないと思った
+        - paragraph [ref=e341]:
+          - text: レビューを参考に見つけよう - アマゾンなら58歳で
+          - strong [ref=e342]: 貯金
+          - text: がないと思ったがいつでも買える。トラブルへのサポートも充実だから安心。Amazonならセール、ポイント、クーポンでいつでもおトク。せっかくのお買い物をお得に。
+        - generic [ref=e343]:
+          - text: 広告www.amazon.co.jp/本/お得に買い物
+          - button [ref=e345] [cursor=pointer]:
+            - img [ref=e346]
+      - generic [ref=e348]:
+        - generic [ref=e349]:
+          - link "前へ":
+            - /url: /search?p=%E8%B2%AF%E9%87%91%20%E7%84%A6%E3%82%8A&type=tag&b=-9
+            - img
+            - text: 前へ
+          - list [ref=e350]:
+            - listitem [ref=e351]:
+              - link "1":
+                - /url: /search?p=%E8%B2%AF%E9%87%91%20%E7%84%A6%E3%82%8A&type=tag&b=1
+            - listitem [ref=e352]:
+              - link "2" [ref=e353] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%AF%E9%87%91%20%E7%84%A6%E3%82%8A&type=tag&b=11
+            - listitem [ref=e354]:
+              - link "3" [ref=e355] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%AF%E9%87%91%20%E7%84%A6%E3%82%8A&type=tag&b=21
+            - listitem [ref=e356]:
+              - link "4" [ref=e357] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%AF%E9%87%91%20%E7%84%A6%E3%82%8A&type=tag&b=31
+            - listitem [ref=e358]:
+              - link "5" [ref=e359] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%AF%E9%87%91%20%E7%84%A6%E3%82%8A&type=tag&b=41
+            - listitem [ref=e360]:
+              - link "6" [ref=e361] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%AF%E9%87%91%20%E7%84%A6%E3%82%8A&type=tag&b=51
+            - listitem [ref=e362]:
+              - link "7" [ref=e363] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%AF%E9%87%91%20%E7%84%A6%E3%82%8A&type=tag&b=61
+            - listitem [ref=e364]:
+              - link "8" [ref=e365] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%AF%E9%87%91%20%E7%84%A6%E3%82%8A&type=tag&b=71
+            - listitem [ref=e366]:
+              - link "9" [ref=e367] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%AF%E9%87%91%20%E7%84%A6%E3%82%8A&type=tag&b=81
+            - listitem [ref=e368]:
+              - link "10" [ref=e369] [cursor=pointer]:
+                - /url: /search?p=%E8%B2%AF%E9%87%91%20%E7%84%A6%E3%82%8A&type=tag&b=91
+          - generic [ref=e370]: ...
+          - link "次へ" [ref=e371] [cursor=pointer]:
+            - /url: /search?p=%E8%B2%AF%E9%87%91%20%E7%84%A6%E3%82%8A&type=tag&b=11
+            - text: 次へ
+            - img [ref=e372]
+        - paragraph [ref=e374]:
+          - generic [ref=e375]: 約2,410件中
+          - generic [ref=e376]: 1～10件目
+      - generic [ref=e377]:
+        - paragraph [ref=e378]: 検索しても答えが見つからない方は…
+        - link "質問する" [ref=e379] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+      - generic:
+        - generic:
+          - generic:
+            - paragraph:
+              - text: ログインボーナス
+              - generic "ベストアンサーへのお礼（知恵コイン）：":
+                - img: xmlns="http://www.w3.org/2000/svg">
+              - text: 0枚獲得！
+            - paragraph
+    - generic [ref=e380]:
+      - generic [ref=e381]:
+        - heading "検索対象" [level=2] [ref=e382]
+        - paragraph [ref=e383]:
+          - strong [ref=e384]: すべて
+          - text: （2,410件）
+        - paragraph [ref=e385]:
+          - link "回答受付中" [ref=e386] [cursor=pointer]:
+            - /url: /search?p=%E8%B2%AF%E9%87%91%20%E7%84%A6%E3%82%8A&type=tag&flg=0
+          - text: （2件）
+        - paragraph [ref=e387]:
+          - link "解決済み" [ref=e388] [cursor=pointer]:
+            - /url: /search?p=%E8%B2%AF%E9%87%91%20%E7%84%A6%E3%82%8A&type=tag&flg=1
+          - text: （2,007件）
+      - generic [ref=e389]:
+        - heading "表示順序" [level=2] [ref=e390]
+        - generic [ref=e393]:
+          - combobox [ref=e394] [cursor=pointer]:
+            - option "質問日時の新しい順" [selected]
+            - option "質問日時の古い順"
+            - option "更新日時の新しい順"
+            - option "更新日時の古い順"
+            - option "回答数の多い順"
+            - option "回答数の少ない順"
+            - option "閲覧数の多い順"
+            - option "閲覧数の少ない順"
+            - option "お礼の多い順"
+            - option "お礼の少ない順"
+          - img
+      - paragraph [ref=e396]:
+        - link "より詳しい条件で検索" [ref=e397] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/search/advanced?p=%E8%B2%AF%E9%87%91%20%E7%84%A6%E3%82%8A&type=tag
+      - link "占い師にお悩み相談" [ref=e399] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_qa-res_000
+        - img "占い師にお悩み相談" [ref=e402]
+  - contentinfo [ref=e404]:
+    - generic [ref=e405]:
+      - link "Yahoo!知恵袋" [ref=e406] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e407]: "|"
+      - link "Yahoo! JAPAN" [ref=e408] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e409]:
+      - link "プライバシーポリシー" [ref=e410] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e411]: "-"
+      - link "プライバシーセンター" [ref=e412] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e413]: "-"
+      - link "利用規約" [ref=e414] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e415]: "-"
+      - link "広告について" [ref=e416] [cursor=pointer]:
+        - /url: https://btoptout.yahoo.co.jp/optout/index.html
+      - img [ref=e417]
+      - generic [ref=e421]: "-"
+      - link "検索結果への広告掲載" [ref=e422] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/searchads/?o=JP1160
+      - generic [ref=e423]: "-"
+      - link "利用のルール" [ref=e424] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e425]: "-"
+      - link "ご意見・ご要望" [ref=e426] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e427]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e428] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e429]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e430]: © LY Corporation

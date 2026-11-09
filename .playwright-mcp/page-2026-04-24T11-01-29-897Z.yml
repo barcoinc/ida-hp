@@ -1,0 +1,819 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - paragraph [ref=e15]:
+          - link "「半径5メートル」から進化する AI時代の組織のつくり方" [ref=e16] [cursor=pointer]:
+            - /url: https://yahoo.jp/Ds92QeB
+        - generic [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+                - /url: https://www.yahoo.co.jp/
+            - listitem [ref=e21]:
+              - link "ヘルプ" [ref=e22] [cursor=pointer]:
+                - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+          - generic [ref=e25]:
+            - generic "キーワード："
+            - textbox "ウェブ検索" [ref=e26]
+            - button "検索" [ref=e27] [cursor=pointer]
+            - link "板山 急上昇" [ref=e28] [cursor=pointer]:
+              - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=%E6%9D%BF%E5%B1%B1&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+              - text: 板山
+              - img "急上昇" [ref=e29]
+      - generic [ref=e30]:
+        - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+          - img "Yahoo!知恵袋" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - text: IDでもっと便利に
+            - link "新規取得" [ref=e36] [cursor=pointer]:
+              - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2F&.src=chiebukuro
+          - generic [ref=e37]:
+            - link "ログイン" [ref=e38] [cursor=pointer]:
+              - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2F
+            - link "［おトク］10％OFFクーポンあります" [ref=e40] [cursor=pointer]:
+              - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8zMDc0OTUvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9hdWN0aW9ucy55YWhvby5jby5qcC9jYW1wYWlnbi9wcm9tby9zdG9yZV9saW1pdGVkX2NvdXBvbg/
+    - navigation [ref=e42]:
+      - generic [ref=e45]:
+        - textbox "Q&Aを探す" [ref=e47]
+        - button [ref=e48] [cursor=pointer]:
+          - img [ref=e49]
+      - list [ref=e51]:
+        - listitem [ref=e52]:
+          - link "カテゴリ" [ref=e53] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e54]:
+          - link "Q&A一覧" [ref=e55] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e56]:
+          - link "公式・専門家" [ref=e57] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e58]:
+          - link "お知らせ" [ref=e59] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e61] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e65]
+        - text: 質問・相談
+  - generic [ref=e67]:
+    - generic [ref=e68]:
+      - link "身近な疑問や悩みを質問してみませんか？" [ref=e71] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img "身近な疑問や悩みを質問してみませんか？" [ref=e72]
+      - generic [ref=e74]:
+        - list [ref=e79]:
+          - listitem [ref=e80]:
+            - generic [ref=e82]: 回答募集中
+          - listitem [ref=e83]:
+            - link "最新の解決済み" [ref=e84] [cursor=pointer]:
+              - /url: /?tab=0
+              - generic [ref=e85]: 最新の解決済み
+        - generic [ref=e89]:
+          - generic [ref=e91]:
+            - radio "おすすめ" [checked]
+            - generic: おすすめ
+          - generic [ref=e93]:
+            - radio "回答急募！" [ref=e94] [cursor=pointer]
+            - generic [ref=e95]: 回答急募！
+          - generic [ref=e97]:
+            - radio "好きなもの・得意なもの" [ref=e98] [cursor=pointer]
+            - generic [ref=e99]: 好きなもの・得意なもの
+        - generic [ref=e100]:
+          - article [ref=e101]:
+            - link "電池 ジャンプスターターって爆発すんの？ どうせアマゾンとかで売ってるような訳の分からない中華メーカーとは思うけど。 . 回答数： 7 4/21 19:01" [ref=e103] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327347161
+              - generic [ref=e105]:
+                - paragraph [ref=e109]: 電池
+                - heading "ジャンプスターターって爆発すんの？ どうせアマゾンとかで売ってるような訳の分からない中華メーカーとは思うけど。 ." [level=2] [ref=e112]
+                - generic [ref=e113]:
+                  - generic [ref=e114]:
+                    - generic "回答数：" [ref=e115]:
+                      - img [ref=e116]
+                    - generic [ref=e118]: "7"
+                  - generic "4/21 19:01" [ref=e120]
+          - article [ref=e121]:
+            - link "邦楽 曲についての質問というか、意見を聞きたいです。 回答数： 3 4/21 23:01" [ref=e123] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327354601
+              - generic [ref=e125]:
+                - paragraph [ref=e129]: 邦楽
+                - heading "曲についての質問というか、意見を聞きたいです。" [level=2] [ref=e132]
+                - generic [ref=e133]:
+                  - generic [ref=e134]:
+                    - generic "回答数：" [ref=e135]:
+                      - img [ref=e136]
+                    - generic [ref=e138]: "3"
+                  - generic "4/21 23:01" [ref=e140]
+          - article [ref=e141]:
+            - link "妊娠、出産 医療ケア児の子育て中に母親が妊娠をしたら、医療ケア児のケアは出産日の前日または出産日当日までお世話をして、産後退院翌日から医療ケア児のケアを再開する母親がほとんどですか？ 小児科側からも「出産当日まではお母さんぎお子さんのケアでお願いします」「産後退院翌日から頑張ってください」「産後退院後からのレスパイト利用はできません」「出産前のレスパイト利用は難しいです」とか言われる小児科がほとんどだと... 回答数： 0 4/24 20:01" [ref=e143] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517476
+              - generic [ref=e145]:
+                - paragraph [ref=e149]: 妊娠、出産
+                - heading "医療ケア児の子育て中に母親が妊娠をしたら、医療ケア児のケアは出産日の前日または出産日当日までお世話をして、産後退院翌日から医療ケア児のケアを再開する母親がほとんどですか？ 小児科側からも「出産当日まではお母さんぎお子さんのケアでお願いします」「産後退院翌日から頑張ってください」「産後退院後からのレスパイト利用はできません」「出産前のレスパイト利用は難しいです」とか言われる小児科がほとんどだと..." [level=2] [ref=e152]
+                - generic [ref=e153]:
+                  - generic [ref=e154]:
+                    - generic "回答数：" [ref=e155]:
+                      - img [ref=e156]
+                    - generic [ref=e158]: "0"
+                  - generic "4/24 20:01" [ref=e160]
+          - article [ref=e161]:
+            - link "レディース全般 この格好どう思いますか？ 回答数： 8 4/21 20:03 この格好どう思いますか？" [ref=e163] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327436976
+              - generic [ref=e164]:
+                - generic [ref=e165]:
+                  - paragraph [ref=e169]: レディース全般
+                  - heading "この格好どう思いますか？" [level=2] [ref=e172]
+                  - generic [ref=e173]:
+                    - generic [ref=e174]:
+                      - generic "回答数：" [ref=e175]:
+                        - img [ref=e176]
+                      - generic [ref=e178]: "8"
+                    - generic "4/21 20:03" [ref=e180]
+                - img "この格好どう思いますか？" [ref=e183]
+          - article [ref=e184]:
+            - link "オーディオ 将来カスタムIEMの有線イヤホンを作りたいのですが何かおすすめのメーカーはありますか？ 回答数： 6 4/21 21:29" [ref=e186] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327439926
+              - generic [ref=e188]:
+                - paragraph [ref=e192]: オーディオ
+                - heading "将来カスタムIEMの有線イヤホンを作りたいのですが何かおすすめのメーカーはありますか？" [level=2] [ref=e195]
+                - generic [ref=e196]:
+                  - generic [ref=e197]:
+                    - generic "回答数：" [ref=e198]:
+                      - img [ref=e199]
+                    - generic [ref=e201]: "6"
+                  - generic "4/21 21:29" [ref=e203]
+          - article [ref=e204]:
+            - link "恋愛相談、人間関係の悩み 噂を利用して私の事意識させる事ってできますか？ 回答数： 0 4/24 20:00" [ref=e206] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517475
+              - generic [ref=e208]:
+                - paragraph [ref=e212]: 恋愛相談、人間関係の悩み
+                - heading "噂を利用して私の事意識させる事ってできますか？" [level=2] [ref=e215]
+                - generic [ref=e216]:
+                  - generic [ref=e217]:
+                    - generic "回答数：" [ref=e218]:
+                      - img [ref=e219]
+                    - generic [ref=e221]: "0"
+                  - generic "4/24 20:00" [ref=e223]
+          - article [ref=e224]:
+            - link "アクアリウム 熱帯魚 コリドラスなど低層にいる魚についてですが、 水槽の水深がどのくらいあるか？って大事ですか？ 単純に思うのは、 もしコリドラスを人間に置き換えたら、 回答数： 3 4/22 0:49" [ref=e226] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327445431
+              - generic [ref=e228]:
+                - paragraph [ref=e232]: アクアリウム
+                - heading "熱帯魚 コリドラスなど低層にいる魚についてですが、 水槽の水深がどのくらいあるか？って大事ですか？ 単純に思うのは、 もしコリドラスを人間に置き換えたら、" [level=2] [ref=e235]
+                - generic [ref=e236]:
+                  - generic [ref=e237]:
+                    - generic "回答数：" [ref=e238]:
+                      - img [ref=e239]
+                    - generic [ref=e241]: "3"
+                  - generic "4/22 0:49" [ref=e243]
+          - article [ref=e244]:
+            - link "K-POP、アジア aespaについてです。ファンの方はスルーしてください、！ 回答数： 5 4/22 1:49" [ref=e246] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327446231
+              - generic [ref=e248]:
+                - paragraph [ref=e252]: K-POP、アジア
+                - heading "aespaについてです。ファンの方はスルーしてください、！" [level=2] [ref=e255]
+                - generic [ref=e256]:
+                  - generic [ref=e257]:
+                    - generic "回答数：" [ref=e258]:
+                      - img [ref=e259]
+                    - generic [ref=e261]: "5"
+                  - generic "4/22 1:49" [ref=e263]
+          - article [ref=e264]:
+            - link "恋愛相談、人間関係の悩み こんばんは、質問ですが、次のスペックの男性は恋愛対象に入りますか？友達や恋人にしたいですか？ 本名のイニシャルK.N 現年齢36歳 生年月日1989年4月29日 星座おうし座 干支巳年 血液型B型(父B型、母A型、長男) 身長176cm 体重80kg 靴のサイズ27.5cm 髪色は黒 芸能人で言えばレイザーラモンRGに似ている 眼鏡をかけている 性格は穏やかで温厚で素直で優しくて真面目で責... 回答数： 0 4/24 20:00" [ref=e266] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517474
+              - generic [ref=e268]:
+                - paragraph [ref=e272]: 恋愛相談、人間関係の悩み
+                - heading "こんばんは、質問ですが、次のスペックの男性は恋愛対象に入りますか？友達や恋人にしたいですか？ 本名のイニシャルK.N 現年齢36歳 生年月日1989年4月29日 星座おうし座 干支巳年 血液型B型(父B型、母A型、長男) 身長176cm 体重80kg 靴のサイズ27.5cm 髪色は黒 芸能人で言えばレイザーラモンRGに似ている 眼鏡をかけている 性格は穏やかで温厚で素直で優しくて真面目で責..." [level=2] [ref=e275]
+                - generic [ref=e276]:
+                  - generic [ref=e277]:
+                    - generic "回答数：" [ref=e278]:
+                      - img [ref=e279]
+                    - generic [ref=e281]: "0"
+                  - generic "4/24 20:00" [ref=e283]
+          - article [ref=e284]:
+            - link "占い、超常現象 沖縄のユタについて質問です。 私は人との縁に恵まれず、人生全般に悩んでいて、相談できるユタを探しています。 回答数： 2 4/23 4:40 ベストアンサーへのお礼（知恵コイン）： 250" [ref=e286] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327474366
+              - generic [ref=e288]:
+                - paragraph [ref=e292]: 占い、超常現象
+                - heading "沖縄のユタについて質問です。 私は人との縁に恵まれず、人生全般に悩んでいて、相談できるユタを探しています。" [level=2] [ref=e295]
+                - generic [ref=e296]:
+                  - generic [ref=e297]:
+                    - generic "回答数：" [ref=e298]:
+                      - img [ref=e299]
+                    - generic [ref=e301]: "2"
+                  - generic "4/23 4:40" [ref=e303]
+                  - generic [ref=e304]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e305]:
+                      - img [ref=e306]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e312]: "250"
+          - article [ref=e313]:
+            - link "年金 ねんきん定期便が届きました。 今月末に60になります。 退職もします。 会社員です。 五年前に、離婚でねんきん分割をしました。 相手は、公務員でした。家裁で離婚してます。 回答数： 1 4/21 19:33" [ref=e315] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327436022
+              - generic [ref=e317]:
+                - paragraph [ref=e321]: 年金
+                - heading "ねんきん定期便が届きました。 今月末に60になります。 退職もします。 会社員です。 五年前に、離婚でねんきん分割をしました。 相手は、公務員でした。家裁で離婚してます。" [level=2] [ref=e324]
+                - generic [ref=e325]:
+                  - generic [ref=e326]:
+                    - generic "回答数：" [ref=e327]:
+                      - img [ref=e328]
+                    - generic [ref=e330]: "1"
+                  - generic "4/21 19:33" [ref=e332]
+          - article [ref=e333]:
+            - link "女性アイドル 僕は30歳ですけど、なぜ僕が学生時代の時の女性アイドルはAKB一強だったのでしょうか？？ 他の女性アイドルはAKBと比べたらあまり注目されてなかった記憶があります。 回答数： 0 4/24 20:00" [ref=e335] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517473
+              - generic [ref=e337]:
+                - paragraph [ref=e341]: 女性アイドル
+                - heading "僕は30歳ですけど、なぜ僕が学生時代の時の女性アイドルはAKB一強だったのでしょうか？？ 他の女性アイドルはAKBと比べたらあまり注目されてなかった記憶があります。" [level=2] [ref=e344]
+                - generic [ref=e345]:
+                  - generic [ref=e346]:
+                    - generic "回答数：" [ref=e347]:
+                      - img [ref=e348]
+                    - generic [ref=e350]: "0"
+                  - generic "4/24 20:00" [ref=e352]
+          - article [ref=e353]:
+            - link "アニメ、コミック 薬屋のひとりごとについて質問です。 おしろいって毒らしいですが、昔の人ってみんなおしろいしてたんじゃないんですか？ 昔の寿命が短い理由はそれですか？ 回答数： 6 4/21 19:39" [ref=e355] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327436207
+              - generic [ref=e357]:
+                - paragraph [ref=e361]: アニメ、コミック
+                - heading "薬屋のひとりごとについて質問です。 おしろいって毒らしいですが、昔の人ってみんなおしろいしてたんじゃないんですか？ 昔の寿命が短い理由はそれですか？" [level=2] [ref=e364]
+                - generic [ref=e365]:
+                  - generic [ref=e366]:
+                    - generic "回答数：" [ref=e367]:
+                      - img [ref=e368]
+                    - generic [ref=e370]: "6"
+                  - generic "4/21 19:39" [ref=e372]
+          - article [ref=e373]:
+            - link "ポケットモンスター 全ポケモンで一番人気ないのはなんですか？ 回答数： 13 4/21 19:50" [ref=e375] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327436562
+              - generic [ref=e377]:
+                - paragraph [ref=e381]: ポケットモンスター
+                - heading "全ポケモンで一番人気ないのはなんですか？" [level=2] [ref=e384]
+                - generic [ref=e385]:
+                  - generic [ref=e386]:
+                    - generic "回答数：" [ref=e387]:
+                      - img [ref=e388]
+                    - generic [ref=e390]: "13"
+                  - generic "4/21 19:50" [ref=e392]
+          - article [ref=e393]:
+            - link "恋愛相談 紹介された女性が写真で見るより10キロ程太ってたらもう対象外ですよね？ 165センチ51キロから62キロくらいです。 回答数： 1 4/24 20:00" [ref=e395] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517472
+              - generic [ref=e397]:
+                - paragraph [ref=e401]: 恋愛相談
+                - heading "紹介された女性が写真で見るより10キロ程太ってたらもう対象外ですよね？ 165センチ51キロから62キロくらいです。" [level=2] [ref=e404]
+                - generic [ref=e405]:
+                  - generic [ref=e406]:
+                    - generic "回答数：" [ref=e407]:
+                      - img [ref=e408]
+                    - generic [ref=e410]: "1"
+                  - generic "4/24 20:00" [ref=e412]
+          - article [ref=e413]:
+            - link "プロ野球 マツダスタジアムはガラガラだな バンテリンドームはチームがドベでも連日満員なのに これは人口の差かな、やはり名古屋と違って、地方球団は集客に不利なのかな 回答数： 3 4/21 23:45" [ref=e415] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327444032
+              - generic [ref=e417]:
+                - paragraph [ref=e421]: プロ野球
+                - heading "マツダスタジアムはガラガラだな バンテリンドームはチームがドベでも連日満員なのに これは人口の差かな、やはり名古屋と違って、地方球団は集客に不利なのかな" [level=2] [ref=e424]
+                - generic [ref=e425]:
+                  - generic [ref=e426]:
+                    - generic "回答数：" [ref=e427]:
+                      - img [ref=e428]
+                    - generic [ref=e430]: "3"
+                  - generic "4/21 23:45" [ref=e432]
+          - article [ref=e433]:
+            - link "テーマパーク 東京ドームシティアトラクションズの事故について皆さんのお考えいかがでしょうか？（批判やお怒りは承知です） ①当該アトラクションを撤去したところで事故の記憶から逃げることにならないでしょうか？ 回答数： 8 4/22 17:59 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e435] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327460502
+              - generic [ref=e437]:
+                - paragraph [ref=e441]: テーマパーク
+                - heading "東京ドームシティアトラクションズの事故について皆さんのお考えいかがでしょうか？（批判やお怒りは承知です） ①当該アトラクションを撤去したところで事故の記憶から逃げることにならないでしょうか？" [level=2] [ref=e444]
+                - generic [ref=e445]:
+                  - generic [ref=e446]:
+                    - generic "回答数：" [ref=e447]:
+                      - img [ref=e448]
+                    - generic [ref=e450]: "8"
+                  - generic "4/22 17:59" [ref=e452]
+                  - generic [ref=e453]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e454]:
+                      - img [ref=e455]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e461]: "25"
+          - article [ref=e462]:
+            - link "就職活動 至急 新卒です。本配属って何で決まるんですか？教えてください！ 回答数： 0 4/24 20:00" [ref=e464] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517470
+              - generic [ref=e466]:
+                - paragraph [ref=e470]: 就職活動
+                - heading "至急 新卒です。本配属って何で決まるんですか？教えてください！" [level=2] [ref=e473]
+                - generic [ref=e474]:
+                  - generic [ref=e475]:
+                    - generic "回答数：" [ref=e476]:
+                      - img [ref=e477]
+                    - generic [ref=e479]: "0"
+                  - generic "4/24 20:00" [ref=e481]
+          - article [ref=e482]:
+            - link "メンズ腕時計、アクセサリー ロレックスの中古を買おうと思ってます。定番のサブマリーナデイトとエクスプローラーⅡだとどちらがいいと思いますか？サブは定番すぎかなぁ？と思いますエクスプローラーⅡもカッコいいですよね？ 回答数： 6 4/23 14:05 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e484] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327482727
+              - generic [ref=e486]:
+                - paragraph [ref=e490]: メンズ腕時計、アクセサリー
+                - heading "ロレックスの中古を買おうと思ってます。定番のサブマリーナデイトとエクスプローラーⅡだとどちらがいいと思いますか？サブは定番すぎかなぁ？と思いますエクスプローラーⅡもカッコいいですよね？" [level=2] [ref=e493]
+                - generic [ref=e494]:
+                  - generic [ref=e495]:
+                    - generic "回答数：" [ref=e496]:
+                      - img [ref=e497]
+                    - generic [ref=e499]: "6"
+                  - generic "4/23 14:05" [ref=e501]
+                  - generic [ref=e502]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e503]:
+                      - img [ref=e504]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e510]: "100"
+          - article [ref=e511]:
+            - link "自動車 シエンタのZグレードのサーキュレーターはエアコン代わりとは言わないまでも涼しいですか？ このためにZにするのは勿体ないですか？ 回答数： 6 4/21 21:39" [ref=e513] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327440248
+              - generic [ref=e515]:
+                - paragraph [ref=e519]: 自動車
+                - heading "シエンタのZグレードのサーキュレーターはエアコン代わりとは言わないまでも涼しいですか？ このためにZにするのは勿体ないですか？" [level=2] [ref=e522]
+                - generic [ref=e523]:
+                  - generic [ref=e524]:
+                    - generic "回答数：" [ref=e525]:
+                      - img [ref=e526]
+                    - generic [ref=e528]: "6"
+                  - generic "4/21 21:39" [ref=e530]
+          - article [ref=e531]:
+            - link "日本史 日本人は、伝統的には「江戸の長屋」や「京町屋」に代表されるように、狭隘・劣悪な住環境に耐え、また住居への固執も希薄だったようですが、後の世では、住居に居住性を強く求め、 また住居にこだわるようになりました。その理由と功罪を、お尋ねします。 前近代や、下手すると戦前までは、少なくとも主要都市の住民の多くは、狭隘・劣悪な住環境に耐え、住居に居住性をあまり期待しなかったようです。 また、特に江戸... 回答数： 1 4/24 20:00" [ref=e533] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517468
+              - generic [ref=e535]:
+                - paragraph [ref=e539]: 日本史
+                - heading "日本人は、伝統的には「江戸の長屋」や「京町屋」に代表されるように、狭隘・劣悪な住環境に耐え、また住居への固執も希薄だったようですが、後の世では、住居に居住性を強く求め、 また住居にこだわるようになりました。その理由と功罪を、お尋ねします。 前近代や、下手すると戦前までは、少なくとも主要都市の住民の多くは、狭隘・劣悪な住環境に耐え、住居に居住性をあまり期待しなかったようです。 また、特に江戸..." [level=2] [ref=e542]
+                - generic [ref=e543]:
+                  - generic [ref=e544]:
+                    - generic "回答数：" [ref=e545]:
+                      - img [ref=e546]
+                    - generic [ref=e548]: "1"
+                  - generic "4/24 20:00" [ref=e550]
+          - article [ref=e551]:
+            - link "葬儀 いつも世話になっているユタの身内が亡くなった際の香典について質問です。 いつもよくご相談させて頂いているユタの方の息子さん〔50代〕が急死されました。 回答数： 1 4/21 22:54" [ref=e553] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327442618
+              - generic [ref=e555]:
+                - paragraph [ref=e559]: 葬儀
+                - heading "いつも世話になっているユタの身内が亡くなった際の香典について質問です。 いつもよくご相談させて頂いているユタの方の息子さん〔50代〕が急死されました。" [level=2] [ref=e562]
+                - generic [ref=e563]:
+                  - generic [ref=e564]:
+                    - generic "回答数：" [ref=e565]:
+                      - img [ref=e566]
+                    - generic [ref=e568]: "1"
+                  - generic "4/21 22:54" [ref=e570]
+          - article [ref=e571]:
+            - link "携帯型ゲーム全般 学マスのサポカについてです ｢何やってるんだろう、｣の3凸と｢可愛いと可愛いで可愛い！｣無凸だったら性能は多分可愛いの方がいいけど3凸優先して入れた方がいいですよね？ 回答数： 2 4/22 7:50" [ref=e573] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327448923
+              - generic [ref=e575]:
+                - paragraph [ref=e579]: 携帯型ゲーム全般
+                - heading "学マスのサポカについてです ｢何やってるんだろう、｣の3凸と｢可愛いと可愛いで可愛い！｣無凸だったら性能は多分可愛いの方がいいけど3凸優先して入れた方がいいですよね？" [level=2] [ref=e582]
+                - generic [ref=e583]:
+                  - generic [ref=e584]:
+                    - generic "回答数：" [ref=e585]:
+                      - img [ref=e586]
+                    - generic [ref=e588]: "2"
+                  - generic "4/22 7:50" [ref=e590]
+          - article [ref=e591]:
+            - link "家族関係の悩み 風呂入ってて気づいたんですが、ちくびが消えました。ポロッとちぎれてるとかじゃなくてほんとに消えてます。どうするべきですか？ 回答数： 0 4/24 20:00" [ref=e593] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517467
+              - generic [ref=e595]:
+                - paragraph [ref=e599]: 家族関係の悩み
+                - heading "風呂入ってて気づいたんですが、ちくびが消えました。ポロッとちぎれてるとかじゃなくてほんとに消えてます。どうするべきですか？" [level=2] [ref=e602]
+                - generic [ref=e603]:
+                  - generic [ref=e604]:
+                    - generic "回答数：" [ref=e605]:
+                      - img [ref=e606]
+                    - generic [ref=e608]: "0"
+                  - generic "4/24 20:00" [ref=e610]
+          - article [ref=e611]:
+            - link "メイク、コスメ 説明が難しいんですけど“高校生がメイクしてます感”ってどうしたら無くせますか？ 好みがこんな感じなのが原因ですかね 回答数： 3 4/22 15:19 説明が難しいんですけど“高校生がメイクしてます感”ってどうしたら無くせますか？ 好みがこんな感じなのが原因ですかね" [ref=e613] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327456733
+              - generic [ref=e614]:
+                - generic [ref=e615]:
+                  - paragraph [ref=e619]: メイク、コスメ
+                  - heading "説明が難しいんですけど“高校生がメイクしてます感”ってどうしたら無くせますか？ 好みがこんな感じなのが原因ですかね" [level=2] [ref=e622]
+                  - generic [ref=e623]:
+                    - generic [ref=e624]:
+                      - generic "回答数：" [ref=e625]:
+                        - img [ref=e626]
+                      - generic [ref=e628]: "3"
+                    - generic "4/22 15:19" [ref=e630]
+                - img "説明が難しいんですけど“高校生がメイクしてます感”ってどうしたら無くせますか？ 好みがこんな感じなのが原因ですかね" [ref=e633]
+          - article [ref=e634]:
+            - link "テーマパーク ディズニーの開園待ちの際、1人ずつトイレ等で短時間列から外れるのは禁止ですか？ 回答数： 3 4/22 18:32" [ref=e636] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327461428
+              - generic [ref=e638]:
+                - paragraph [ref=e642]: テーマパーク
+                - heading "ディズニーの開園待ちの際、1人ずつトイレ等で短時間列から外れるのは禁止ですか？" [level=2] [ref=e645]
+                - generic [ref=e646]:
+                  - generic [ref=e647]:
+                    - generic "回答数：" [ref=e648]:
+                      - img [ref=e649]
+                    - generic [ref=e651]: "3"
+                  - generic "4/22 18:32" [ref=e653]
+          - article [ref=e654]:
+            - link "職場の悩み 前務めていた会社にいた上司のことが忘れられません。その会社に私は3年いました。私が会社にいた頃、上司は28歳、私は21歳でした。新入社員の頃から気になっていました。 休日は暇だったら朝からパチンコに行くと言っていて、競馬が好きで、ラインのアイコンは好きな馬の写真、仕事中は競馬の話をしている印象でした。洋服は、上はブランド物の服、スボンは地味なやつみたいなことを言っていて、アニメが好きで、話が... 回答数： 1 4/24 20:00" [ref=e656] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517466
+              - generic [ref=e658]:
+                - paragraph [ref=e662]: 職場の悩み
+                - heading "前務めていた会社にいた上司のことが忘れられません。その会社に私は3年いました。私が会社にいた頃、上司は28歳、私は21歳でした。新入社員の頃から気になっていました。 休日は暇だったら朝からパチンコに行くと言っていて、競馬が好きで、ラインのアイコンは好きな馬の写真、仕事中は競馬の話をしている印象でした。洋服は、上はブランド物の服、スボンは地味なやつみたいなことを言っていて、アニメが好きで、話が..." [level=2] [ref=e665]
+                - generic [ref=e666]:
+                  - generic [ref=e667]:
+                    - generic "回答数：" [ref=e668]:
+                      - img [ref=e669]
+                    - generic [ref=e671]: "1"
+                  - generic "4/24 20:00" [ref=e673]
+          - article [ref=e674]:
+            - link "お酒、ドリンク この焼酎の名前わかる方いませんか？ 教えて下さい。 回答数： 2 4/22 18:42 この焼酎の名前わかる方いませんか？ 教えて下さい。" [ref=e676] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327461688
+              - generic [ref=e677]:
+                - generic [ref=e678]:
+                  - paragraph [ref=e682]: お酒、ドリンク
+                  - heading "この焼酎の名前わかる方いませんか？ 教えて下さい。" [level=2] [ref=e685]
+                  - generic [ref=e686]:
+                    - generic [ref=e687]:
+                      - generic "回答数：" [ref=e688]:
+                        - img [ref=e689]
+                      - generic [ref=e691]: "2"
+                    - generic "4/22 18:42" [ref=e693]
+                - img "この焼酎の名前わかる方いませんか？ 教えて下さい。" [ref=e696]
+          - article [ref=e697]:
+            - link "メルカリ 100%私が悪いのですが、メルカリで購入した商品の宛先を間違えました。 同じマンションの違う部屋に届いてしまったようです。ネコポスなので、恐らく他人のポストに届いています。 回答数： 3 4/22 23:26 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e699] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327470753
+              - generic [ref=e701]:
+                - paragraph [ref=e705]: メルカリ
+                - heading "100%私が悪いのですが、メルカリで購入した商品の宛先を間違えました。 同じマンションの違う部屋に届いてしまったようです。ネコポスなので、恐らく他人のポストに届いています。" [level=2] [ref=e708]
+                - generic [ref=e709]:
+                  - generic [ref=e710]:
+                    - generic "回答数：" [ref=e711]:
+                      - img [ref=e712]
+                    - generic [ref=e714]: "3"
+                  - generic "4/22 23:26" [ref=e716]
+                  - generic [ref=e717]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e718]:
+                      - img [ref=e719]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e725]: "100"
+          - article [ref=e726]:
+            - link "政治、社会問題 朝日新聞は統一協会ですか？昔、DELLのパソコンの広告いっぱい入ってたよね？デルはCIAのスノーデンが在籍してた会社だよね？あと朝日新聞には回転寿司の広告入ってるよね？ 統一協会はアメリカで寿司屋やってることで有名。日本の寿司屋も統一協会の可能性が高い。朝日新聞は統一協会？ 回答数： 0 4/24 20:00" [ref=e728] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517465
+              - generic [ref=e730]:
+                - paragraph [ref=e734]: 政治、社会問題
+                - heading "朝日新聞は統一協会ですか？昔、DELLのパソコンの広告いっぱい入ってたよね？デルはCIAのスノーデンが在籍してた会社だよね？あと朝日新聞には回転寿司の広告入ってるよね？ 統一協会はアメリカで寿司屋やってることで有名。日本の寿司屋も統一協会の可能性が高い。朝日新聞は統一協会？" [level=2] [ref=e737]
+                - generic [ref=e738]:
+                  - generic [ref=e739]:
+                    - generic "回答数：" [ref=e740]:
+                      - img [ref=e741]
+                    - generic [ref=e743]: "0"
+                  - generic "4/24 20:00" [ref=e745]
+          - article [ref=e746]:
+            - link "電池 リチウム電池のCR2025はドラッグストアで同じくらいの大きさの電池があったらそれで間違いないでしょうか？ 回答数： 3 4/23 0:03" [ref=e748] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327471653
+              - generic [ref=e750]:
+                - paragraph [ref=e754]: 電池
+                - heading "リチウム電池のCR2025はドラッグストアで同じくらいの大きさの電池があったらそれで間違いないでしょうか？" [level=2] [ref=e757]
+                - generic [ref=e758]:
+                  - generic [ref=e759]:
+                    - generic "回答数：" [ref=e760]:
+                      - img [ref=e761]
+                    - generic [ref=e763]: "3"
+                  - generic "4/23 0:03" [ref=e765]
+          - article [ref=e766]:
+            - link "リズム、音楽ゲーム プロセカについて 現在開催しているWLをオートで回そうと思っているのですが、上限アップするには一番値段高いパスに入らないといけないっぽくて、皆さんだったら2日間だけの為であっても買いますか？(；；) 回答数： 2 4/23 0:20" [ref=e768] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327472013
+              - generic [ref=e770]:
+                - paragraph [ref=e774]: リズム、音楽ゲーム
+                - heading "プロセカについて 現在開催しているWLをオートで回そうと思っているのですが、上限アップするには一番値段高いパスに入らないといけないっぽくて、皆さんだったら2日間だけの為であっても買いますか？(；；)" [level=2] [ref=e777]
+                - generic [ref=e778]:
+                  - generic [ref=e779]:
+                    - generic "回答数：" [ref=e780]:
+                      - img [ref=e781]
+                    - generic [ref=e783]: "2"
+                  - generic "4/23 0:20" [ref=e785]
+          - article [ref=e786]:
+            - link "サッカー 今後オリンピックの男子サッカーがU24代表になる代わりにオーバーエイジ枠廃止される可能性とU20代表になる代わりにオーバーエイジ枠が最大4枠に増える可能性だとどちらが高いですかね？ 回答数： 0 4/24 20:00" [ref=e788] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517464
+              - generic [ref=e790]:
+                - paragraph [ref=e794]: サッカー
+                - heading "今後オリンピックの男子サッカーがU24代表になる代わりにオーバーエイジ枠廃止される可能性とU20代表になる代わりにオーバーエイジ枠が最大4枠に増える可能性だとどちらが高いですかね？" [level=2] [ref=e797]
+                - generic [ref=e798]:
+                  - generic [ref=e799]:
+                    - generic "回答数：" [ref=e800]:
+                      - img [ref=e801]
+                    - generic [ref=e803]: "0"
+                  - generic "4/24 20:00" [ref=e805]
+          - article [ref=e806]:
+            - link "動画サービス 至急探している動画？を見つけて欲しいです 以前TikTokで見かけてから忘れられません 回答数： 0 4/22 2:02 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e808] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327359309
+              - generic [ref=e810]:
+                - paragraph [ref=e814]: 動画サービス
+                - heading "至急探している動画？を見つけて欲しいです 以前TikTokで見かけてから忘れられません" [level=2] [ref=e817]
+                - generic [ref=e818]:
+                  - generic [ref=e819]:
+                    - generic "回答数：" [ref=e820]:
+                      - img [ref=e821]
+                    - generic [ref=e823]: "0"
+                  - generic "4/22 2:02" [ref=e825]
+                  - generic [ref=e826]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e827]:
+                      - img [ref=e828]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e834]: "100"
+          - article [ref=e835]:
+            - link "YouTube 至急！！ 航空系のYouTubeをやっていたのですが、突如、 以下のようなメッセージが届きました。 Capcatの音源を使った動画が4本あったので、 全てその部分の音源をカットしました。 回答数： 2 4/23 16:02 ベストアンサーへのお礼（知恵コイン）： 100 至急！！ 航空系のYouTubeをやっていたのですが、突如、 以下のようなメッセージが届きました。 Capcatの音源を使った動画が4本あったので、 全てその部分の音源をカットしました。" [ref=e837] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327403169
+              - generic [ref=e838]:
+                - generic [ref=e839]:
+                  - paragraph [ref=e843]: YouTube
+                  - heading "至急！！ 航空系のYouTubeをやっていたのですが、突如、 以下のようなメッセージが届きました。 Capcatの音源を使った動画が4本あったので、 全てその部分の音源をカットしました。" [level=2] [ref=e846]
+                  - generic [ref=e847]:
+                    - generic [ref=e848]:
+                      - generic "回答数：" [ref=e849]:
+                        - img [ref=e850]
+                      - generic [ref=e852]: "2"
+                    - generic "4/23 16:02" [ref=e854]
+                    - generic [ref=e855]:
+                      - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e856]:
+                        - img [ref=e857]: xmlns="http://www.w3.org/2000/svg">
+                      - generic [ref=e863]: "100"
+                - img "至急！！ 航空系のYouTubeをやっていたのですが、突如、 以下のようなメッセージが届きました。 Capcatの音源を使った動画が4本あったので、 全てその部分の音源をカットしました。" [ref=e866]
+          - article [ref=e867]:
+            - link "バス、タクシー 学校へ行くのにバスを使っています。 定期券を使っているのですが、行きは普通に使えるのですが帰りになると乗り越し清算してしまいます。 行きはA区間からB区間のバスに乗り、 帰りはB区間からA区間のバスに乗ります。この時に乗り越し精算されてしまいます。どちらも値段は同じはずです。なぜかわかる方いますか？ 回答数： 0 4/24 20:00" [ref=e869] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517463
+              - generic [ref=e871]:
+                - paragraph [ref=e875]: バス、タクシー
+                - heading "学校へ行くのにバスを使っています。 定期券を使っているのですが、行きは普通に使えるのですが帰りになると乗り越し清算してしまいます。 行きはA区間からB区間のバスに乗り、 帰りはB区間からA区間のバスに乗ります。この時に乗り越し精算されてしまいます。どちらも値段は同じはずです。なぜかわかる方いますか？" [level=2] [ref=e878]
+                - generic [ref=e879]:
+                  - generic [ref=e880]:
+                    - generic "回答数：" [ref=e881]:
+                      - img [ref=e882]
+                    - generic [ref=e884]: "0"
+                  - generic "4/24 20:00" [ref=e886]
+          - article [ref=e887]:
+            - link "iPhone 何回試してもこれになります 先日機種変更をしたからでしょうか？ 色々試したのですがダメなので、これしたら治ったよ等あれば教えてください（ ; ; ） 回答数： 1 4/21 20:15 何回試してもこれになります 先日機種変更をしたからでしょうか？ 色々試したのですがダメなので、これしたら治ったよ等あれば教えてください（ ; ; ）" [ref=e889] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327437444
+              - generic [ref=e890]:
+                - generic [ref=e891]:
+                  - paragraph [ref=e895]: iPhone
+                  - heading "何回試してもこれになります 先日機種変更をしたからでしょうか？ 色々試したのですがダメなので、これしたら治ったよ等あれば教えてください（ ; ; ）" [level=2] [ref=e898]
+                  - generic [ref=e899]:
+                    - generic [ref=e900]:
+                      - generic "回答数：" [ref=e901]:
+                        - img [ref=e902]
+                      - generic [ref=e904]: "1"
+                    - generic "4/21 20:15" [ref=e906]
+                - img "何回試してもこれになります 先日機種変更をしたからでしょうか？ 色々試したのですがダメなので、これしたら治ったよ等あれば教えてください（ ; ; ）" [ref=e909]
+          - article [ref=e910]:
+            - link "株式 株式投資を始めて６年が経過しました。 適当（優待株、高配当株を中心）に株を買い、今では投資した金額の２倍まで運用額がふくらみました。 ・ でも、まだできていません。 回答数： 4 4/21 20:17" [ref=e912] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327437499
+              - generic [ref=e914]:
+                - paragraph [ref=e918]: 株式
+                - heading "株式投資を始めて６年が経過しました。 適当（優待株、高配当株を中心）に株を買い、今では投資した金額の２倍まで運用額がふくらみました。 ・ でも、まだできていません。" [level=2] [ref=e921]
+                - generic [ref=e922]:
+                  - generic [ref=e923]:
+                    - generic "回答数：" [ref=e924]:
+                      - img [ref=e925]
+                    - generic [ref=e927]: "4"
+                  - generic "4/21 20:17" [ref=e929]
+          - article [ref=e930]:
+            - link "サッカー 野球やサッカー等で本選出場数が24チームの場合4チームずつ6グループに分けて上位2チームと各グループ3位の中の成績上位4チームがトーナメント進出が1番多いですかね？ 回答数： 0 4/24 20:00" [ref=e932] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517462
+              - generic [ref=e934]:
+                - paragraph [ref=e938]: サッカー
+                - heading "野球やサッカー等で本選出場数が24チームの場合4チームずつ6グループに分けて上位2チームと各グループ3位の中の成績上位4チームがトーナメント進出が1番多いですかね？" [level=2] [ref=e941]
+                - generic [ref=e942]:
+                  - generic [ref=e943]:
+                    - generic "回答数：" [ref=e944]:
+                      - img [ref=e945]
+                    - generic [ref=e947]: "0"
+                  - generic "4/24 20:00" [ref=e949]
+          - article [ref=e950]:
+            - link "ギター、ベース フェンダーのギターのブランド名がついている保護フィルムのそこだけを切りとってラミネートってできるのでしょうか。 回答数： 3 4/21 23:01" [ref=e952] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327442854
+              - generic [ref=e954]:
+                - paragraph [ref=e958]: ギター、ベース
+                - heading "フェンダーのギターのブランド名がついている保護フィルムのそこだけを切りとってラミネートってできるのでしょうか。" [level=2] [ref=e961]
+                - generic [ref=e962]:
+                  - generic [ref=e963]:
+                    - generic "回答数：" [ref=e964]:
+                      - img [ref=e965]
+                    - generic [ref=e967]: "3"
+                  - generic "4/21 23:01" [ref=e969]
+    - generic [ref=e970]:
+      - generic [ref=e974]:
+        - heading "総合Q&Aランキング" [level=2] [ref=e977]
+        - link "1 にじさんじデビュー新人「Y4T4」(読み：ヤタ) 「Rei7」「男虎」「御子神琴音」「塚原大地」「千凛あゆむ」「九里詠太」「小々波いるか」「レヨン」の中の人を教えてください。Twitchってつかいずらくないですか？" [ref=e980] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327480385
+          - generic [ref=e981]:
+            - generic [ref=e983]: "1"
+            - paragraph [ref=e986]: にじさんじデビュー新人「Y4T4」(読み：ヤタ) 「Rei7」「男虎」「御子神琴音」「塚原大地」「千凛あゆむ」「九里詠太」「小々波いるか」「レヨン」の中の人を教えてください。Twitchってつかいずらくないですか？
+        - link "2 おにちゃ、飲んでみた人へ 正直味はどうでしたか？僕は麦茶が好きで、夏の日なんかは毎日麦茶を飲んでいるのですが、ぶっちゃけあまり美味しくないと思いました。家で作る水出しの麦茶の方が美味しいレベルで、動画であれだけ引っ張ったあげく、味はワクワクしなかったので、残念です。 もちろん、美味しいと感じる人もい..." [ref=e989] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327451127
+          - generic [ref=e990]:
+            - generic [ref=e992]: "2"
+            - paragraph [ref=e995]: おにちゃ、飲んでみた人へ 正直味はどうでしたか？僕は麦茶が好きで、夏の日なんかは毎日麦茶を飲んでいるのですが、ぶっちゃけあまり美味しくないと思いました。家で作る水出しの麦茶の方が美味しいレベルで、動画であれだけ引っ張ったあげく、味はワクワクしなかったので、残念です。 もちろん、美味しいと感じる人もい...
+        - link "3 就活生です。 03-4212-7158 という電話番号から不在着信が来たのですが、この電話番号はキャリアパークからですか？" [ref=e998] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327430717
+          - generic [ref=e999]:
+            - generic [ref=e1001]: "3"
+            - paragraph [ref=e1004]: 就活生です。 03-4212-7158 という電話番号から不在着信が来たのですが、この電話番号はキャリアパークからですか？
+        - link "4 なぜ最近の9anime関係の質問が閲覧できないようされているのですか？" [ref=e1007] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327496372
+          - generic [ref=e1008]:
+            - generic [ref=e1010]: "4"
+            - paragraph [ref=e1013]: なぜ最近の9anime関係の質問が閲覧できないようされているのですか？
+        - link "5 特茶CMの上白石萌音の「ヒザ〜！」を理解できない人が多いみたい。僕はめちゃ面白いと思いますが…世代間ギャップでしょうか？" [ref=e1016] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327436221
+          - generic [ref=e1017]:
+            - generic [ref=e1019]: "5"
+            - paragraph [ref=e1022]: 特茶CMの上白石萌音の「ヒザ〜！」を理解できない人が多いみたい。僕はめちゃ面白いと思いますが…世代間ギャップでしょうか？
+        - link "6 2026年4月24日（金）の東京ディズニーシーは、三井不動産株式会社主催の貸切イベント「プライベート・イブニング・パーティー」とのこと。その日にミラコスタへ宿泊するのですが、ビリーヴはやると思いますか？折角なら部屋から見たいなぁと。" [ref=e1025] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327464262
+          - generic [ref=e1026]:
+            - generic [ref=e1028]: "6"
+            - paragraph [ref=e1031]: 2026年4月24日（金）の東京ディズニーシーは、三井不動産株式会社主催の貸切イベント「プライベート・イブニング・パーティー」とのこと。その日にミラコスタへ宿泊するのですが、ビリーヴはやると思いますか？折角なら部屋から見たいなぁと。
+        - link "7 4/24（金）嵐ライブ福岡に行きます。 関東から行くため、土地勘がありません。 箱崎線の箱崎九段前駅近くのホテルです。 15時にチェックイン後PayPayドームに向かう予定です。PayPayドームの往復は箱崎線で向かうのがよいか、博多駅からの直行バス？どちらが良いでしょうか？ 帰りのルートも出来れば..." [ref=e1034] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327310757
+          - generic [ref=e1035]:
+            - generic [ref=e1037]: "7"
+            - paragraph [ref=e1040]: 4/24（金）嵐ライブ福岡に行きます。 関東から行くため、土地勘がありません。 箱崎線の箱崎九段前駅近くのホテルです。 15時にチェックイン後PayPayドームに向かう予定です。PayPayドームの往復は箱崎線で向かうのがよいか、博多駅からの直行バス？どちらが良いでしょうか？ 帰りのルートも出来れば...
+        - link "8 特茶のCMあるじゃないですか？ あれなんで特茶って言った後、膝になるんですか？訳分かんないです。" [ref=e1043] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327292564
+          - generic [ref=e1044]:
+            - generic [ref=e1046]: "8"
+            - paragraph [ref=e1049]: 特茶のCMあるじゃないですか？ あれなんで特茶って言った後、膝になるんですか？訳分かんないです。
+        - link "9 ブロスタとヒロアカコラボっていつからですか！" [ref=e1052] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327436492
+          - generic [ref=e1053]:
+            - generic [ref=e1055]: "9"
+            - paragraph [ref=e1058]: ブロスタとヒロアカコラボっていつからですか！
+        - link "10 インスタグラムでフォロワー購入を検討しています。 価格やコスパももちろん気になるのですが、それ以上にフォロワーの質と「購入後にどれくらい減らないか」を重視しています。おすすめのサービスがあれば理由とあわせて教えていただけると助かります。" [ref=e1061] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327506491
+          - generic [ref=e1062]:
+            - generic [ref=e1064]: "10"
+            - paragraph [ref=e1067]: インスタグラムでフォロワー購入を検討しています。 価格やコスパももちろん気になるのですが、それ以上にフォロワーの質と「購入後にどれくらい減らないか」を重視しています。おすすめのサービスがあれば理由とあわせて教えていただけると助かります。
+      - generic [ref=e1068]:
+        - link "Yahoo!知恵袋をお使いのみなさまへ" [ref=e1070] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/topic/guide/top/
+          - img "Yahoo!知恵袋をお使いのみなさまへ" [ref=e1071]
+        - link "ご利用ガイド" [ref=e1073] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/topic/guide/tips/index.html
+          - img "ご利用ガイド" [ref=e1074]
+        - link "知恵袋オフィシャルブログ" [ref=e1076] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/blog/?fr=pctop-banner
+          - img "知恵袋オフィシャルブログ" [ref=e1077]
+        - link "占い師にお悩み相談" [ref=e1079] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_top_000
+          - img "占い師にお悩み相談" [ref=e1080]
+        - link "公式・専門家の回答はこちら" [ref=e1082] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=pctop-banner
+          - img "公式・専門家の回答はこちら" [ref=e1083]
+      - generic [ref=e1086]:
+        - heading "カテゴリ一覧" [level=2] [ref=e1089]
+        - generic [ref=e1090]:
+          - link "エンターテインメントと趣味 エンターテインメントと趣味" [ref=e1092] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297513/question/list
+            - generic [ref=e1093]:
+              - img "エンターテインメントと趣味" [ref=e1096]
+              - paragraph [ref=e1099]: エンターテインメントと趣味
+          - link "暮らしと生活ガイド 暮らしと生活ガイド" [ref=e1101] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297937/question/list
+            - generic [ref=e1102]:
+              - img "暮らしと生活ガイド" [ref=e1105]
+              - paragraph [ref=e1108]: 暮らしと生活ガイド
+          - link "健康、美容とファッション 健康、美容とファッション" [ref=e1110] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297854/question/list
+            - generic [ref=e1111]:
+              - img "健康、美容とファッション" [ref=e1114]
+              - paragraph [ref=e1117]: 健康、美容とファッション
+          - link "マナー、冠婚葬祭 マナー、冠婚葬祭" [ref=e1119] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297811/question/list
+            - generic [ref=e1120]:
+              - img "マナー、冠婚葬祭" [ref=e1123]
+              - paragraph [ref=e1126]: マナー、冠婚葬祭
+          - link "生き方と恋愛、人間関係の悩み 生き方と恋愛、人間関係の悩み" [ref=e1128] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079526977/question/list
+            - generic [ref=e1129]:
+              - img "生き方と恋愛、人間関係の悩み" [ref=e1132]
+              - paragraph [ref=e1135]: 生き方と恋愛、人間関係の悩み
+          - link "子育てと学校 子育てと学校" [ref=e1137] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297878/question/list
+            - generic [ref=e1138]:
+              - img "子育てと学校" [ref=e1141]
+              - paragraph [ref=e1144]: 子育てと学校
+          - link "Yahoo! JAPAN Yahoo! JAPAN" [ref=e1146] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297283/question/list
+            - generic [ref=e1147]:
+              - img "Yahoo! JAPAN" [ref=e1150]
+              - paragraph [ref=e1153]: Yahoo! JAPAN
+          - link "インターネット、通信 インターネット、通信" [ref=e1155] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401283/question/list
+            - generic [ref=e1156]:
+              - img "インターネット、通信" [ref=e1159]
+              - paragraph [ref=e1162]: インターネット、通信
+          - link "スマートデバイス、PC、家電 スマートデバイス、PC、家電" [ref=e1164] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401469/question/list
+            - generic [ref=e1165]:
+              - img "スマートデバイス、PC、家電" [ref=e1168]
+              - paragraph [ref=e1171]: スマートデバイス、PC、家電
+          - link "コンピュータテクノロジー コンピュータテクノロジー" [ref=e1173] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297616/question/list
+            - generic [ref=e1174]:
+              - img "コンピュータテクノロジー" [ref=e1177]
+              - paragraph [ref=e1180]: コンピュータテクノロジー
+          - link "教養と学問、サイエンス 教養と学問、サイエンス" [ref=e1182] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297812/question/list
+            - generic [ref=e1183]:
+              - img "教養と学問、サイエンス" [ref=e1186]
+              - paragraph [ref=e1189]: 教養と学問、サイエンス
+          - link "ビジネス、経済とお金 ビジネス、経済とお金" [ref=e1191] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297790/question/list
+            - generic [ref=e1192]:
+              - img "ビジネス、経済とお金" [ref=e1195]
+              - paragraph [ref=e1198]: ビジネス、経済とお金
+          - link "ニュース、政治、国際情勢 ニュース、政治、国際情勢" [ref=e1200] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297784/question/list
+            - generic [ref=e1201]:
+              - img "ニュース、政治、国際情勢" [ref=e1204]
+              - paragraph [ref=e1207]: ニュース、政治、国際情勢
+          - link "職業とキャリア 職業とキャリア" [ref=e1209] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297897/question/list
+            - generic [ref=e1210]:
+              - img "職業とキャリア" [ref=e1213]
+              - paragraph [ref=e1216]: 職業とキャリア
+          - link "スポーツ、アウトドア、車 スポーツ、アウトドア、車" [ref=e1218] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297753/question/list
+            - generic [ref=e1219]:
+              - img "スポーツ、アウトドア、車" [ref=e1222]
+              - paragraph [ref=e1225]: スポーツ、アウトドア、車
+          - link "地域、旅行、お出かけ 地域、旅行、お出かけ" [ref=e1227] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297918/question/list
+            - generic [ref=e1228]:
+              - img "地域、旅行、お出かけ" [ref=e1231]
+              - paragraph [ref=e1234]: 地域、旅行、お出かけ
+          - link "その他 その他" [ref=e1236] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297354/question/list
+            - generic [ref=e1237]:
+              - img "その他" [ref=e1240]
+              - paragraph [ref=e1243]: その他
+          - link "おしゃべり、雑談 おしゃべり、雑談" [ref=e1245] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297353/question/list
+            - generic [ref=e1246]:
+              - img "おしゃべり、雑談" [ref=e1249]
+              - paragraph [ref=e1252]: おしゃべり、雑談
+        - link "カテゴリ一覧を見る" [ref=e1254] [cursor=pointer]:
+          - /url: /category
+          - text: カテゴリ一覧を見る
+          - img [ref=e1255]
+      - generic [ref=e1258]:
+        - heading "おすすめリンク" [level=3] [ref=e1259]
+        - list [ref=e1260]:
+          - listitem [ref=e1261]:
+            - link "自動車情報サイトcarview!" [ref=e1262] [cursor=pointer]:
+              - /url: https://carview.yahoo.co.jp/
+          - listitem [ref=e1263]:
+            - link "仕事・求人探しはスタンバイ" [ref=e1264] [cursor=pointer]:
+              - /url: https://jp.stanby.com/
+          - listitem [ref=e1265]:
+            - link "無料でも遊べる人気タイトル満載 Yahoo!ゲーム" [ref=e1266] [cursor=pointer]:
+              - /url: https://games.yahoo.co.jp/
+          - listitem [ref=e1267]:
+            - link "企業情報サイト Yahoo!しごとカタログ" [ref=e1268] [cursor=pointer]:
+              - /url: https://jobcatalog.yahoo.co.jp/
+          - listitem [ref=e1269]:
+            - link "マンション・一戸建ての住宅情報 Yahoo!不動産" [ref=e1270] [cursor=pointer]:
+              - /url: https://realestate.yahoo.co.jp
+      - contentinfo [ref=e1272]:
+        - generic [ref=e1273]:
+          - link "Yahoo!知恵袋" [ref=e1274] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/
+          - generic [ref=e1275]: "|"
+          - link "Yahoo! JAPAN" [ref=e1276] [cursor=pointer]:
+            - /url: https://www.yahoo.co.jp/
+        - generic [ref=e1277]:
+          - link "プライバシーポリシー" [ref=e1278] [cursor=pointer]:
+            - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+          - generic [ref=e1279]: "-"
+          - link "プライバシーセンター" [ref=e1280] [cursor=pointer]:
+            - /url: https://privacy.lycorp.co.jp/ja/
+          - generic [ref=e1281]: "-"
+          - link "利用規約" [ref=e1282] [cursor=pointer]:
+            - /url: https://www.lycorp.co.jp/ja/company/terms/
+          - generic [ref=e1283]: "-"
+          - link "利用のルール" [ref=e1284] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+          - generic [ref=e1285]: "-"
+          - link "広告掲載について" [ref=e1286] [cursor=pointer]:
+            - /url: https://www.lycbiz.com/jp/service/yahoo-ads/?utm_source=yahoo&utm_medium=referral&utm_campaign=ysa_cv_link_chiebukuro_241001
+          - generic [ref=e1287]: "-"
+          - link "ご意見・ご要望" [ref=e1288] [cursor=pointer]:
+            - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+          - generic [ref=e1289]: "-"
+          - link "ヘルプ・お問い合わせ" [ref=e1290] [cursor=pointer]:
+            - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+        - generic [ref=e1291]: JASRAC許諾番号：9008249113Y38200
+        - generic [ref=e1292]: 画像：アフロ
+        - generic [ref=e1293]: © LY Corporation
+  - generic:
+    - button "ページの先頭へ戻る":
+      - generic: ページの先頭へ戻る
+      - img

@@ -1,0 +1,974 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - paragraph [ref=e15]:
+          - link "冷凍野菜は生野菜より栄養価が高い!? 技術進歩で味わいも向上" [ref=e16] [cursor=pointer]:
+            - /url: https://yahoo.jp/up_2dV
+        - generic [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+                - /url: https://www.yahoo.co.jp/
+            - listitem [ref=e21]:
+              - link "ヘルプ" [ref=e22] [cursor=pointer]:
+                - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+          - generic [ref=e25]:
+            - generic "キーワード："
+            - textbox "ウェブ検索" [ref=e26]
+            - button "検索" [ref=e27] [cursor=pointer]
+            - link "清水邦広 現役引退 急上昇" [ref=e28] [cursor=pointer]:
+              - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=%E6%B8%85%E6%B0%B4%E9%82%A6%E5%BA%83+%E7%8F%BE%E5%BD%B9%E5%BC%95%E9%80%80&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+              - text: 清水邦広 現役引退
+              - img "急上昇" [ref=e29]
+      - generic [ref=e30]:
+        - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+          - img "Yahoo!知恵袋" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - text: IDでもっと便利に
+            - link "新規取得" [ref=e36] [cursor=pointer]:
+              - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078297564%2Fquestion%2Flist&.src=chiebukuro
+          - generic [ref=e37]:
+            - link "ログイン" [ref=e38] [cursor=pointer]:
+              - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078297564%2Fquestion%2Flist
+            - link "初回購入限定、アプリで使えるお得なクーポン" [ref=e40] [cursor=pointer]:
+              - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8zMDkzODgvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9zaG9wcGluZy55YWhvby5jby5qcC9wcm9tb3Rpb24vY291cG9uL2xpbWl0ZWQvZGVidXRfYXBwLz9zY19lPXl5bGtfbWhkX3R4dF9zaHBfcG1zc191bmxvZ2dlZF9hcHBfZGVidXRjb3Vwb24/
+    - navigation [ref=e42]:
+      - generic [ref=e45]:
+        - textbox "このカテゴリで探す" [ref=e47]
+        - button [ref=e48] [cursor=pointer]:
+          - img [ref=e49]
+      - list [ref=e51]:
+        - listitem [ref=e52]:
+          - link "カテゴリ" [ref=e53] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e54]:
+          - link "Q&A一覧" [ref=e55] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e56]:
+          - link "公式・専門家" [ref=e57] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e58]:
+          - link "お知らせ" [ref=e59] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e61] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e65]
+        - text: 質問・相談
+    - list [ref=e70]:
+      - listitem [ref=e71]:
+        - link "知恵袋トップ" [ref=e72] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+        - text: ＞
+      - listitem [ref=e73]:
+        - link "カテゴリ一覧" [ref=e74] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category
+        - text: ＞
+      - listitem [ref=e75]:
+        - link "エンターテインメントと趣味" [ref=e76] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category/2078297513/question/list
+        - text: ＞
+      - listitem [ref=e77]:
+        - generic [ref=e78]: 占い、超常現象
+  - generic [ref=e79]:
+    - generic [ref=e80]:
+      - generic [ref=e83]:
+        - img "占い、超常現象" [ref=e86]
+        - generic [ref=e87]:
+          - heading "占い、超常現象" [level=1] [ref=e89]
+          - generic [ref=e90]:
+            - generic [ref=e93]:
+              - img [ref=e94]
+              - text: お気に入り
+            - link "このカテゴリに質問" [ref=e97] [cursor=pointer]:
+              - /url: https://chiebukuro.yahoo.co.jp/question/post/form?dnum=2078297564
+              - generic [ref=e98]:
+                - img [ref=e99]
+                - text: このカテゴリに質問
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - list [ref=e106]:
+            - listitem [ref=e107]:
+              - link "回答受付中" [ref=e108] [cursor=pointer]:
+                - /url: /category/2078297564/question/list?flg=0&type=list&sort=16
+                - generic [ref=e109]: 回答受付中
+            - listitem [ref=e110]:
+              - generic [ref=e112]: 解決済み
+            - listitem [ref=e113]:
+              - link "すべて" [ref=e114] [cursor=pointer]:
+                - /url: /category/2078297564/question/list?flg=3&type=list&sort=16
+                - generic [ref=e115]: すべて
+          - generic [ref=e117]:
+            - img [ref=e119]
+            - generic [ref=e121]: 並べ替え：
+            - generic [ref=e124]:
+              - combobox [ref=e125]:
+                - option "質問日時の新しい順"
+                - option "質問日時の古い順"
+                - option "更新日時の新しい順" [selected]
+                - option "更新日時の古い順"
+                - option "回答数の多い順"
+                - option "回答数の少ない順"
+                - option "お礼の多い順"
+              - img
+            - generic [ref=e127]:
+              - generic [ref=e128]: AI質問含む
+              - checkbox [ref=e129] [cursor=pointer]
+          - generic [ref=e130]:
+            - link "占い 占いをしてもらったのですが泣きながら帰宅しました涙 私とは相性の合わない方だったのでしょうか…？皆さんを意見をお聞かせください。 出先でチャットの占いで性格を見ていただきました。 初めは西洋占... ベストアンサー：それは本当に災難でしたね。 せっかく勇気を出して初めての占いに行ったのに、そんな風に決めつけられて、さらに自分の言葉を逆手に取られて否定されるなんて、悲しくなるのも当然です。 まず、結論から... 回答数： 9 4/17 21:12" [ref=e133] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327324113
+              - generic [ref=e134]:
+                - paragraph [ref=e135]: 占い
+                - paragraph [ref=e138]: 占いをしてもらったのですが泣きながら帰宅しました涙 私とは相性の合わない方だったのでしょうか…？皆さんを意見をお聞かせください。 出先でチャットの占いで性格を見ていただきました。 初めは西洋占...
+                - paragraph [ref=e141]: ベストアンサー：それは本当に災難でしたね。 せっかく勇気を出して初めての占いに行ったのに、そんな風に決めつけられて、さらに自分の言葉を逆手に取られて否定されるなんて、悲しくなるのも当然です。 まず、結論から...
+                - generic [ref=e142]:
+                  - generic [ref=e143]:
+                    - generic "回答数：" [ref=e144]:
+                      - img [ref=e145]
+                    - generic [ref=e147]: "9"
+                  - generic "4/17 21:12" [ref=e149]
+            - link "占い タロット占いお願いします。 すごく感じの悪いママ友がいます。子供同士の関係もあり、切れない関係です。 どのように付き合うのが正解でしょうか？ ベストアンサー：結論から言うと、そのママ友とは「無理に仲良くしようとせず、距離を保ったまま淡々と関わる」のが一番うまくいく付き合い方です。 まず、こういう「感じが悪い」と感じる相手って、無理に距離を縮めようと... 回答数： 1 4/24 18:42 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e152] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327515231
+              - generic [ref=e153]:
+                - paragraph [ref=e154]: 占い
+                - paragraph [ref=e157]: タロット占いお願いします。 すごく感じの悪いママ友がいます。子供同士の関係もあり、切れない関係です。 どのように付き合うのが正解でしょうか？
+                - paragraph [ref=e160]: ベストアンサー：結論から言うと、そのママ友とは「無理に仲良くしようとせず、距離を保ったまま淡々と関わる」のが一番うまくいく付き合い方です。 まず、こういう「感じが悪い」と感じる相手って、無理に距離を縮めようと...
+                - generic [ref=e161]:
+                  - generic [ref=e162]:
+                    - generic "回答数：" [ref=e163]:
+                      - img [ref=e164]
+                    - generic [ref=e166]: "1"
+                  - generic "4/24 18:42" [ref=e168]
+                  - generic [ref=e169]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e170]:
+                      - img [ref=e171]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e177]: "100"
+            - link "占い 風水で西に黄色など有名な話がありますが、この「西に黄色」というのはコンパスで自分が見た方角に黄色が有れば良いという解釈で合ってますか？ 例えば招き猫を置くとした場合、西の位置に招き猫を置くのが正... ベストアンサー：向きを考え始めたとき、急に「これで合ってるのかな」って足元が少し不安になる感じ…ありますよね。 見えないものを扱うからこそ、ひとつの置き方で意味が変わってしまいそうで、慎重になる気持ちも伝わって... 回答数： 2 4/22 7:35" [ref=e180] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327448707
+              - generic [ref=e181]:
+                - paragraph [ref=e182]: 占い
+                - paragraph [ref=e185]: 風水で西に黄色など有名な話がありますが、この「西に黄色」というのはコンパスで自分が見た方角に黄色が有れば良いという解釈で合ってますか？ 例えば招き猫を置くとした場合、西の位置に招き猫を置くのが正...
+                - paragraph [ref=e188]: ベストアンサー：向きを考え始めたとき、急に「これで合ってるのかな」って足元が少し不安になる感じ…ありますよね。 見えないものを扱うからこそ、ひとつの置き方で意味が変わってしまいそうで、慎重になる気持ちも伝わって...
+                - generic [ref=e189]:
+                  - generic [ref=e190]:
+                    - generic "回答数：" [ref=e191]:
+                      - img [ref=e192]
+                    - generic [ref=e194]: "2"
+                  - generic "4/22 7:35" [ref=e196]
+            - link "占い おみくじが結ぶ時に破けるのは縁起が悪いでしょうか？中吉でそんなに悪いことは書かれてませんでした ベストアンサー：逆です。神がきちんと返事を受領した合図であると聞いたことがあります。 回答数： 3 4/22 16:44" [ref=e199] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327458530
+              - generic [ref=e200]:
+                - paragraph [ref=e201]: 占い
+                - paragraph [ref=e204]: おみくじが結ぶ時に破けるのは縁起が悪いでしょうか？中吉でそんなに悪いことは書かれてませんでした
+                - paragraph [ref=e207]: ベストアンサー：逆です。神がきちんと返事を受領した合図であると聞いたことがあります。
+                - generic [ref=e208]:
+                  - generic [ref=e209]:
+                    - generic "回答数：" [ref=e210]:
+                      - img [ref=e211]
+                    - generic [ref=e213]: "3"
+                  - generic "4/22 16:44" [ref=e215]
+            - link "超常現象、オカルト 怨念とは何ですか？ ベストアンサー：＞怨念とは何ですか？ 怨念とは・・・ 恨みを抱いた念（思い）であるという事ですね。 回答数： 9 4/21 18:19" [ref=e218] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327433934
+              - generic [ref=e219]:
+                - paragraph [ref=e220]: 超常現象、オカルト
+                - paragraph [ref=e223]: 怨念とは何ですか？
+                - paragraph [ref=e226]: ベストアンサー：＞怨念とは何ですか？ 怨念とは・・・ 恨みを抱いた念（思い）であるという事ですね。
+                - generic [ref=e227]:
+                  - generic [ref=e228]:
+                    - generic "回答数：" [ref=e229]:
+                      - img [ref=e230]
+                    - generic [ref=e232]: "9"
+                  - generic "4/21 18:19" [ref=e234]
+            - link "超常現象、オカルト あまりにも酷すぎる人生に怒りと憎しみが湧いて仕方ない、人生だけじゃない人間的にも酷すぎるんですよ、才能やら容姿やらのスペックが低すぎる、多少の辛い人生なら許せますが、あまりにも酷すぎる。 どっち... ベストアンサー：こんばんは 私たちは皆サンプルなのではないでしょうか？ 実験されている途中なのだと思います。 そうでなければここまで個人差、格差が存在する理由がわかりません。 しかしあなたが何らかの才能... 回答数： 1 4/24 17:36" [ref=e237] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327513520
+              - generic [ref=e238]:
+                - paragraph [ref=e239]: 超常現象、オカルト
+                - paragraph [ref=e242]: あまりにも酷すぎる人生に怒りと憎しみが湧いて仕方ない、人生だけじゃない人間的にも酷すぎるんですよ、才能やら容姿やらのスペックが低すぎる、多少の辛い人生なら許せますが、あまりにも酷すぎる。 どっち...
+                - paragraph [ref=e245]: ベストアンサー：こんばんは 私たちは皆サンプルなのではないでしょうか？ 実験されている途中なのだと思います。 そうでなければここまで個人差、格差が存在する理由がわかりません。 しかしあなたが何らかの才能...
+                - generic [ref=e246]:
+                  - generic [ref=e247]:
+                    - generic "回答数：" [ref=e248]:
+                      - img [ref=e249]
+                    - generic [ref=e251]: "1"
+                  - generic "4/24 17:36" [ref=e253]
+            - link "宗教 神の力だと思えるようなことを経験したり、そのような話を聞いたことがあれば、そのエピソードを教えてください。 ベストアンサー：登山の人のブログを読み印象的な話。登山で道に迷って不安だった。けろっと元気な人が出てきて大丈夫と一緒に下山してくれた。無事下山して感謝して礼を言おうとしたらその人は消えていた。 優しい神様か何か... 回答数： 10 4/17 6:19" [ref=e256] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327306236
+              - generic [ref=e257]:
+                - paragraph [ref=e258]: 宗教
+                - paragraph [ref=e261]: 神の力だと思えるようなことを経験したり、そのような話を聞いたことがあれば、そのエピソードを教えてください。
+                - paragraph [ref=e264]: ベストアンサー：登山の人のブログを読み印象的な話。登山で道に迷って不安だった。けろっと元気な人が出てきて大丈夫と一緒に下山してくれた。無事下山して感謝して礼を言おうとしたらその人は消えていた。 優しい神様か何か...
+                - generic [ref=e265]:
+                  - generic [ref=e266]:
+                    - generic "回答数：" [ref=e267]:
+                      - img [ref=e268]
+                    - generic [ref=e270]: "10"
+                  - generic "4/17 6:19" [ref=e272]
+            - link "お酒、ドリンク おに茶の鬼みくじって全部大吉なんですか？ ベストアンサー：小吉でした。 回答数： 1 4/21 21:37" [ref=e275] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327440185
+              - generic [ref=e276]:
+                - paragraph [ref=e277]: お酒、ドリンク
+                - paragraph [ref=e280]: おに茶の鬼みくじって全部大吉なんですか？
+                - paragraph [ref=e283]: ベストアンサー：小吉でした。
+                - generic [ref=e284]:
+                  - generic [ref=e285]:
+                    - generic "回答数：" [ref=e286]:
+                      - img [ref=e287]
+                    - generic [ref=e289]: "1"
+                  - generic "4/21 21:37" [ref=e291]
+            - link "占い 手相について質問です。 手相が変わる事は、聞いた事がありますが 今回大きく変わった事に気が付きました。 以前までは、両手ともに、運命線がまっすぐ中指の付け根まで伸びていたのですが、 最近に... ベストアンサー：結論から言うと、その変化は悪いものではなく、「人生の方向性や考え方が変わったサイン」で、むしろ転機に入っている可能性が高いです。 まず運命線が途中で変わるというのは、手相ではよくあることで、特... 回答数： 2 4/22 2:04 ベストアンサーへのお礼（知恵コイン）： 500 手相について質問です。 手相が変わる事は、聞いた事がありますが 今回大きく変わった事に気が付きました。 以前までは、両手ともに、運命線がまっすぐ中指の付け根まで伸びていたのですが、 最近に..." [ref=e294] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327446377
+              - generic [ref=e295]:
+                - paragraph [ref=e296]: 占い
+                - paragraph [ref=e299]: 手相について質問です。 手相が変わる事は、聞いた事がありますが 今回大きく変わった事に気が付きました。 以前までは、両手ともに、運命線がまっすぐ中指の付け根まで伸びていたのですが、 最近に...
+                - paragraph [ref=e302]: ベストアンサー：結論から言うと、その変化は悪いものではなく、「人生の方向性や考え方が変わったサイン」で、むしろ転機に入っている可能性が高いです。 まず運命線が途中で変わるというのは、手相ではよくあることで、特...
+                - generic [ref=e303]:
+                  - generic [ref=e304]:
+                    - generic "回答数：" [ref=e305]:
+                      - img [ref=e306]
+                    - generic [ref=e308]: "2"
+                  - generic "4/22 2:04" [ref=e310]
+                  - generic [ref=e311]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e312]:
+                      - img [ref=e313]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e319]: "500"
+              - img "手相について質問です。 手相が変わる事は、聞いた事がありますが 今回大きく変わった事に気が付きました。 以前までは、両手ともに、運命線がまっすぐ中指の付け根まで伸びていたのですが、 最近に..." [ref=e322]
+            - link "超常現象、オカルト 生まれ変わったら神様になりたいですか？仏様になりたいですか？ ベストアンサー：煩悩を克服してない凡夫である神より 煩悩を克服した仏様の方が良いでしょうね 回答数： 11 4/20 17:23" [ref=e325] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327405056
+              - generic [ref=e326]:
+                - paragraph [ref=e327]: 超常現象、オカルト
+                - paragraph [ref=e330]: 生まれ変わったら神様になりたいですか？仏様になりたいですか？
+                - paragraph [ref=e333]: ベストアンサー：煩悩を克服してない凡夫である神より 煩悩を克服した仏様の方が良いでしょうね
+                - generic [ref=e334]:
+                  - generic [ref=e335]:
+                    - generic "回答数：" [ref=e336]:
+                      - img [ref=e337]
+                    - generic [ref=e339]: "11"
+                  - generic "4/20 17:23" [ref=e341]
+            - link "超常現象、オカルト 死んだ人の霊って本当にいるんですか？ ベストアンサー：死んだら肉体と魂が分かれます。 無にはなりません。 死んだら霊界で過ごした後生まれ変わります。 霊界は天国界、中間霊界、地獄界に分れています。 中間霊界は良い事と悪い事差引勘定したらほとんど... 回答数： 3 4/24 17:34" [ref=e344] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327513463
+              - generic [ref=e345]:
+                - paragraph [ref=e346]: 超常現象、オカルト
+                - paragraph [ref=e349]: 死んだ人の霊って本当にいるんですか？
+                - paragraph [ref=e352]: ベストアンサー：死んだら肉体と魂が分かれます。 無にはなりません。 死んだら霊界で過ごした後生まれ変わります。 霊界は天国界、中間霊界、地獄界に分れています。 中間霊界は良い事と悪い事差引勘定したらほとんど...
+                - generic [ref=e353]:
+                  - generic [ref=e354]:
+                    - generic "回答数：" [ref=e355]:
+                      - img [ref=e356]
+                    - generic [ref=e358]: "3"
+                  - generic "4/24 17:34" [ref=e360]
+            - link "超常現象、オカルト 幽霊を見たことがある、または信じている人で、 死後の世界は信じてない人っていますか？ 変な文章、すいません。 ベストアンサー：幽霊と死後の世界は違います。 違いが分かるかなー 解らないだろうなー (笑) 死後の世界は無い‼ 回答数： 2 4/24 8:50" [ref=e363] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327504148
+              - generic [ref=e364]:
+                - paragraph [ref=e365]: 超常現象、オカルト
+                - paragraph [ref=e368]: 幽霊を見たことがある、または信じている人で、 死後の世界は信じてない人っていますか？ 変な文章、すいません。
+                - paragraph [ref=e371]: ベストアンサー：幽霊と死後の世界は違います。 違いが分かるかなー 解らないだろうなー (笑) 死後の世界は無い‼
+                - generic [ref=e372]:
+                  - generic [ref=e373]:
+                    - generic "回答数：" [ref=e374]:
+                      - img [ref=e375]
+                    - generic [ref=e377]: "2"
+                  - generic "4/24 8:50" [ref=e379]
+            - link "占い タロット占いお願いします。 2年前の秋、元彼に別れを告げられてからも、たまに2人で遊ぶような関係を続けてきましたが、先月ついに新しい彼女ができたようで、もう会えないと言われました。私は振られた側... ベストアンサー：こんにちは。 辛い日々を過ごされているのですね… タロットカードで拝見しました。 あなたと彼は、過去、とても堅実で安定した関係性を築いてこられたように見受けられます（ペンタクルのナイト） お... 回答数： 5 4/22 7:10" [ref=e382] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327448379
+              - generic [ref=e383]:
+                - paragraph [ref=e384]: 占い
+                - paragraph [ref=e387]: タロット占いお願いします。 2年前の秋、元彼に別れを告げられてからも、たまに2人で遊ぶような関係を続けてきましたが、先月ついに新しい彼女ができたようで、もう会えないと言われました。私は振られた側...
+                - paragraph [ref=e390]: ベストアンサー：こんにちは。 辛い日々を過ごされているのですね… タロットカードで拝見しました。 あなたと彼は、過去、とても堅実で安定した関係性を築いてこられたように見受けられます（ペンタクルのナイト） お...
+                - generic [ref=e391]:
+                  - generic [ref=e392]:
+                    - generic "回答数：" [ref=e393]:
+                      - img [ref=e394]
+                    - generic [ref=e396]: "5"
+                  - generic "4/22 7:10" [ref=e398]
+            - link "恋愛相談 別れて1ヶ月経つのに忘れられません、今さら遅いですか 元彼と別れてからちょうど1ヶ月が経ちました。 別れた直後は距離を置いた方がいいと思い、自分から連絡するのを我慢してきました。 でも時間が経... ベストアンサー：一番苦しいのは、時間が経てば薄れていくと思っていた気持ちが、逆にはっきり残っていることに気づいてしまった今ではないでしょうか。忘れようとしてきた分だけ、本音が浮かび上がってくる感覚がつらいです... 回答数： 4 4/24 11:36" [ref=e401] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327506813
+              - generic [ref=e402]:
+                - paragraph [ref=e403]: 恋愛相談
+                - paragraph [ref=e406]: 別れて1ヶ月経つのに忘れられません、今さら遅いですか 元彼と別れてからちょうど1ヶ月が経ちました。 別れた直後は距離を置いた方がいいと思い、自分から連絡するのを我慢してきました。 でも時間が経...
+                - paragraph [ref=e409]: ベストアンサー：一番苦しいのは、時間が経てば薄れていくと思っていた気持ちが、逆にはっきり残っていることに気づいてしまった今ではないでしょうか。忘れようとしてきた分だけ、本音が浮かび上がってくる感覚がつらいです...
+                - generic [ref=e410]:
+                  - generic [ref=e411]:
+                    - generic "回答数：" [ref=e412]:
+                      - img [ref=e413]
+                    - generic [ref=e415]: "4"
+                  - generic "4/24 11:36" [ref=e417]
+            - link "恋愛相談 好きな彼への告白が直前で怖くなって逃げそうです 明日、好きな彼に告白しようと決めています。 でも直前になって急に怖くなってしまい、この2日間ずっと気持ちが落ち着きません。 もし断られたら今の... ベストアンサー：一番怖いのは、結果そのものよりも「今の関係が変わってしまうかもしれない」という想像ではないでしょうか。大切にしてきた距離が壊れるかもしれない、その不確かさが心を強く揺らしているように感じます。 勇気 回答数： 3 4/24 11:35" [ref=e420] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327506799
+              - generic [ref=e421]:
+                - paragraph [ref=e422]: 恋愛相談
+                - paragraph [ref=e425]: 好きな彼への告白が直前で怖くなって逃げそうです 明日、好きな彼に告白しようと決めています。 でも直前になって急に怖くなってしまい、この2日間ずっと気持ちが落ち着きません。 もし断られたら今の...
+                - paragraph [ref=e428]: ベストアンサー：一番怖いのは、結果そのものよりも「今の関係が変わってしまうかもしれない」という想像ではないでしょうか。大切にしてきた距離が壊れるかもしれない、その不確かさが心を強く揺らしているように感じます。 勇気
+                - generic [ref=e429]:
+                  - generic [ref=e430]:
+                    - generic "回答数：" [ref=e431]:
+                      - img [ref=e432]
+                    - generic [ref=e434]: "3"
+                  - generic "4/24 11:35" [ref=e436]
+            - link "恋愛相談 彼が急に冷たいまま連絡も減ってきて、このまま終わりですよね いい感じだった彼がいるのですが、ここ2週間くらいで急に態度が変わりました。 前は毎日LINEしていたのに、今は2日に1回あるかない... ベストアンサー：一番つらいのは、前の距離感を知っているからこそ、今の変化をはっきり感じてしまう瞬間ではないでしょうか。同じ人なのに、何かだけが変わってしまったような違和感がずっと残りますよね。 理由がわからな... 回答数： 3 4/24 11:34" [ref=e439] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327506778
+              - generic [ref=e440]:
+                - paragraph [ref=e441]: 恋愛相談
+                - paragraph [ref=e444]: 彼が急に冷たいまま連絡も減ってきて、このまま終わりですよね いい感じだった彼がいるのですが、ここ2週間くらいで急に態度が変わりました。 前は毎日LINEしていたのに、今は2日に1回あるかない...
+                - paragraph [ref=e447]: ベストアンサー：一番つらいのは、前の距離感を知っているからこそ、今の変化をはっきり感じてしまう瞬間ではないでしょうか。同じ人なのに、何かだけが変わってしまったような違和感がずっと残りますよね。 理由がわからな...
+                - generic [ref=e448]:
+                  - generic [ref=e449]:
+                    - generic "回答数：" [ref=e450]:
+                      - img [ref=e451]
+                    - generic [ref=e453]: "3"
+                  - generic "4/24 11:34" [ref=e455]
+            - link "恋愛相談 片思いの彼が他の女性と仲良くして嫉妬が止まりません 職場に好きな彼がいて、ここ3ヶ月くらいずっと気持ちを引きずっています。 特に最近は同じ部署の女性とよく話していて、楽しそうに笑っているのを見... ベストアンサー：一番つらいのは、その人が誰かと笑っている何気ない瞬間に胸がざわつき、そのあとに「何も始まっていないのに」と自分を責めてしまう繰り返しではないでしょうか。その静かな消耗が続いているのが本当につらい... 回答数： 2 4/24 11:33" [ref=e458] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327506759
+              - generic [ref=e459]:
+                - paragraph [ref=e460]: 恋愛相談
+                - paragraph [ref=e463]: 片思いの彼が他の女性と仲良くして嫉妬が止まりません 職場に好きな彼がいて、ここ3ヶ月くらいずっと気持ちを引きずっています。 特に最近は同じ部署の女性とよく話していて、楽しそうに笑っているのを見...
+                - paragraph [ref=e466]: ベストアンサー：一番つらいのは、その人が誰かと笑っている何気ない瞬間に胸がざわつき、そのあとに「何も始まっていないのに」と自分を責めてしまう繰り返しではないでしょうか。その静かな消耗が続いているのが本当につらい...
+                - generic [ref=e467]:
+                  - generic [ref=e468]:
+                    - generic "回答数：" [ref=e469]:
+                      - img [ref=e470]
+                    - generic [ref=e472]: "2"
+                  - generic "4/24 11:33" [ref=e474]
+            - link "恋愛相談 嫉妬が爆発して泣きながら彼を責めてしまいました、嫌われた？ 付き合って半年の彼氏がいます。 ここ1週間くらい、特定の女友達と頻繁に連絡を取っているのが気になっていて、ずっとモヤモヤしていました。 ベストアンサー：本当にしんどいのは、ぶつけた瞬間ではなく、そのあと一人になったときに彼の表情や沈黙が何度も頭に浮かんでくる時間ではないでしょうか。言い過ぎたとわかっているのに巻き戻せない、その感覚が静かに苦しさ... 回答数： 5 4/24 11:32" [ref=e477] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327506744
+              - generic [ref=e478]:
+                - paragraph [ref=e479]: 恋愛相談
+                - paragraph [ref=e482]: 嫉妬が爆発して泣きながら彼を責めてしまいました、嫌われた？ 付き合って半年の彼氏がいます。 ここ1週間くらい、特定の女友達と頻繁に連絡を取っているのが気になっていて、ずっとモヤモヤしていました。
+                - paragraph [ref=e485]: ベストアンサー：本当にしんどいのは、ぶつけた瞬間ではなく、そのあと一人になったときに彼の表情や沈黙が何度も頭に浮かんでくる時間ではないでしょうか。言い過ぎたとわかっているのに巻き戻せない、その感覚が静かに苦しさ...
+                - generic [ref=e486]:
+                  - generic [ref=e487]:
+                    - generic "回答数：" [ref=e488]:
+                      - img [ref=e489]
+                    - generic [ref=e491]: "5"
+                  - generic "4/24 11:32" [ref=e493]
+            - link "占い タロット占いお願いします。 好きな人とは少しずつ進展してる状態ですが、彼の仕事がとても忙しそうで 今は見守ろうと思っています。 今後は仕事が落ち着けば進展していけるんでしょうか？ ベストアンサー：初めまして、こんにちは^ ^ 本当は、彼と頻繁に連絡をとったり、会ったりしたいのに、お仕事が忙しい彼を「今は見守ろう」という思いやりがもてる、あなた様は素晴らしいですね 霊視タロットでみさせて... 回答数： 3 4/20 21:35" [ref=e496] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327412735
+              - generic [ref=e497]:
+                - paragraph [ref=e498]: 占い
+                - paragraph [ref=e501]: タロット占いお願いします。 好きな人とは少しずつ進展してる状態ですが、彼の仕事がとても忙しそうで 今は見守ろうと思っています。 今後は仕事が落ち着けば進展していけるんでしょうか？
+                - paragraph [ref=e504]: ベストアンサー：初めまして、こんにちは^ ^ 本当は、彼と頻繁に連絡をとったり、会ったりしたいのに、お仕事が忙しい彼を「今は見守ろう」という思いやりがもてる、あなた様は素晴らしいですね 霊視タロットでみさせて...
+                - generic [ref=e505]:
+                  - generic [ref=e506]:
+                    - generic "回答数：" [ref=e507]:
+                      - img [ref=e508]
+                    - generic [ref=e510]: "3"
+                  - generic "4/20 21:35" [ref=e512]
+            - link "占い 東京で本当に当たる占いの先生や場所を教えてください。 カウンセリングのようなものではなく、占い師の方から「あなたはこうだね」「この時期こうだったでしょ」など、自分から情報を提供せずとも言い当てら... ベストアンサー：存在しません それが結論です 回答数： 1 4/8 7:32" [ref=e515] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327036351
+              - generic [ref=e516]:
+                - paragraph [ref=e517]: 占い
+                - paragraph [ref=e520]: 東京で本当に当たる占いの先生や場所を教えてください。 カウンセリングのようなものではなく、占い師の方から「あなたはこうだね」「この時期こうだったでしょ」など、自分から情報を提供せずとも言い当てら...
+                - paragraph [ref=e523]: ベストアンサー：存在しません それが結論です
+                - generic [ref=e524]:
+                  - generic [ref=e525]:
+                    - generic "回答数：" [ref=e526]:
+                      - img [ref=e527]
+                    - generic [ref=e529]: "1"
+                  - generic "4/8 7:32" [ref=e531]
+            - link "占い 占って欲しい人は、事実を知りたいのか？それとも嘘でも構わないから安心させて欲しいだけなのか？ 占ってくれという人に事実を告げるとキレられることが多いです(;_;) ベストアンサー：後者だろうなwwww ここyahoo知恵袋でも、同じですwwwww 事実伝えたら逆ギレされますwwwwwwwww https://detail.chiebukuro.yahoo.co.jp... 回答数： 14 4/21 12:09" [ref=e534] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327426036
+              - generic [ref=e535]:
+                - paragraph [ref=e536]: 占い
+                - paragraph [ref=e539]: 占って欲しい人は、事実を知りたいのか？それとも嘘でも構わないから安心させて欲しいだけなのか？ 占ってくれという人に事実を告げるとキレられることが多いです(;_;)
+                - paragraph [ref=e542]: ベストアンサー：後者だろうなwwww ここyahoo知恵袋でも、同じですwwwww 事実伝えたら逆ギレされますwwwwwwwww https://detail.chiebukuro.yahoo.co.jp...
+                - generic [ref=e543]:
+                  - generic [ref=e544]:
+                    - generic "回答数：" [ref=e545]:
+                      - img [ref=e546]
+                    - generic [ref=e548]: "14"
+                  - generic "4/21 12:09" [ref=e550]
+            - link "超常現象、オカルト 人形に魂が入るとかあるんですかね？ぬいぐるみの表情が変わって見えるとか聞いたことありますけど、理系なものでありえないと思ってしまうのですが。 ベストアンサー：例えばある少年が花瓶を割ったとします。 持ち主のおじいさんは花瓶が割れた事に気づいていなくて普段通りに少年に接しているのに、少年はおじいさんの言葉の端々やふとした表情が気になって、「実はおじいさ... 回答数： 5 4/23 20:18 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e553] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327491959
+              - generic [ref=e554]:
+                - paragraph [ref=e555]: 超常現象、オカルト
+                - paragraph [ref=e558]: 人形に魂が入るとかあるんですかね？ぬいぐるみの表情が変わって見えるとか聞いたことありますけど、理系なものでありえないと思ってしまうのですが。
+                - paragraph [ref=e561]: ベストアンサー：例えばある少年が花瓶を割ったとします。 持ち主のおじいさんは花瓶が割れた事に気づいていなくて普段通りに少年に接しているのに、少年はおじいさんの言葉の端々やふとした表情が気になって、「実はおじいさ...
+                - generic [ref=e562]:
+                  - generic [ref=e563]:
+                    - generic "回答数：" [ref=e564]:
+                      - img [ref=e565]
+                    - generic [ref=e567]: "5"
+                  - generic "4/23 20:18" [ref=e569]
+                  - generic [ref=e570]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e571]:
+                      - img [ref=e572]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e578]: "50"
+            - link "超常現象、オカルト 2000年代初頭、民放テレビ局で超能力者が行方不明者を捜す番組を毎週、放送していました（局名や番組名は失念しました）。私が知る限り、超能力で見つけたことは一例もなかったはずです。 ただ、同じ番組... ベストアンサー：事前に大体の場所は聞いて下見して金属探知機で調べてます。そして後日に題意本通りやるだけなので100%見つかります。 回答数： 2 4/21 20:04" [ref=e581] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327437007
+              - generic [ref=e582]:
+                - paragraph [ref=e583]: 超常現象、オカルト
+                - paragraph [ref=e586]: 2000年代初頭、民放テレビ局で超能力者が行方不明者を捜す番組を毎週、放送していました（局名や番組名は失念しました）。私が知る限り、超能力で見つけたことは一例もなかったはずです。 ただ、同じ番組...
+                - paragraph [ref=e589]: ベストアンサー：事前に大体の場所は聞いて下見して金属探知機で調べてます。そして後日に題意本通りやるだけなので100%見つかります。
+                - generic [ref=e590]:
+                  - generic [ref=e591]:
+                    - generic "回答数：" [ref=e592]:
+                      - img [ref=e593]
+                    - generic [ref=e595]: "2"
+                  - generic "4/21 20:04" [ref=e597]
+            - link "占い タロット占いお願いします。私には片思いの相手がいます。その人と週に1回は会うし、どんなに忙しくても必ず会ってくれます。短くてもいいから会いたいと言ってくれてるんですけど、本命なんでしょうか？？ ... ベストアンサー：片思いの相手の方が、どんなに忙しくても週に1回は必ず会ってくれるというのは、とても嬉しいことですね。 ご質問の内容から2枚の タロットカードをひきました。 「正義」と「剣の9（逆位置）」から、お... 回答数： 2 2025/6/15 11:26" [ref=e600] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10316309040
+              - generic [ref=e601]:
+                - paragraph [ref=e602]: 占い
+                - paragraph [ref=e605]: タロット占いお願いします。私には片思いの相手がいます。その人と週に1回は会うし、どんなに忙しくても必ず会ってくれます。短くてもいいから会いたいと言ってくれてるんですけど、本命なんでしょうか？？ ...
+                - paragraph [ref=e608]: ベストアンサー：片思いの相手の方が、どんなに忙しくても週に1回は必ず会ってくれるというのは、とても嬉しいことですね。 ご質問の内容から2枚の タロットカードをひきました。 「正義」と「剣の9（逆位置）」から、お...
+                - generic [ref=e609]:
+                  - generic [ref=e610]:
+                    - generic "回答数：" [ref=e611]:
+                      - img [ref=e612]
+                    - generic [ref=e614]: "2"
+                  - generic "2025/6/15 11:26" [ref=e616]
+            - link "超常現象、オカルト 鈍感な母ですが、同じ場所で2度転び、霊のせいだと言ってます。そんなことありますでしょうか？ 先日、実家の裏の目と鼻の先ほどの場所にコンビニができたので、そこに向かったときの話です。実家が若干高台... ベストアンサー：視る人が視たら分かるかも。 そこを通したくないのでしょう。 もしくは何か伝えたい事があるとか。 そこが評判になったら誰か視てくれるかも。 回答数： 4 4/11 2:01 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e619] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327122800
+              - generic [ref=e620]:
+                - paragraph [ref=e621]: 超常現象、オカルト
+                - paragraph [ref=e624]: 鈍感な母ですが、同じ場所で2度転び、霊のせいだと言ってます。そんなことありますでしょうか？ 先日、実家の裏の目と鼻の先ほどの場所にコンビニができたので、そこに向かったときの話です。実家が若干高台...
+                - paragraph [ref=e627]: ベストアンサー：視る人が視たら分かるかも。 そこを通したくないのでしょう。 もしくは何か伝えたい事があるとか。 そこが評判になったら誰か視てくれるかも。
+                - generic [ref=e628]:
+                  - generic [ref=e629]:
+                    - generic "回答数：" [ref=e630]:
+                      - img [ref=e631]
+                    - generic [ref=e633]: "4"
+                  - generic "4/11 2:01" [ref=e635]
+                  - generic [ref=e636]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e637]:
+                      - img [ref=e638]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e644]: "25"
+            - link "占い 来年の引っ越しについて質問です。 マンションの購入を考えています。 九星気学で来年は主人も私も西が吉方位なのですが先日とても良い物件が西方向にありました。 ですが人気物件の為もうどれだけ遅くと... ベストアンサー：お願いします。 >来年は主人も私も西が吉方位なのですが 令和9年（2027年）九紫中宮の盤で見た時にご夫婦共に吉方位になるということでしょうか？ その場合、申し込み・契約などは、今年... 回答数： 4 2/19 2:57 ベストアンサーへのお礼（知恵コイン）： 500" [ref=e647] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10325491685
+              - generic [ref=e648]:
+                - paragraph [ref=e649]: 占い
+                - paragraph [ref=e652]: 来年の引っ越しについて質問です。 マンションの購入を考えています。 九星気学で来年は主人も私も西が吉方位なのですが先日とても良い物件が西方向にありました。 ですが人気物件の為もうどれだけ遅くと...
+                - paragraph [ref=e655]: ベストアンサー：お願いします。 >来年は主人も私も西が吉方位なのですが 令和9年（2027年）九紫中宮の盤で見た時にご夫婦共に吉方位になるということでしょうか？ その場合、申し込み・契約などは、今年...
+                - generic [ref=e656]:
+                  - generic [ref=e657]:
+                    - generic "回答数：" [ref=e658]:
+                      - img [ref=e659]
+                    - generic [ref=e661]: "4"
+                  - generic "2/19 2:57" [ref=e663]
+                  - generic [ref=e664]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e665]:
+                      - img [ref=e666]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e672]: "500"
+            - link "超常現象、オカルト うつ病や精神疾患になり人生が狂ったり苦しんでいる人がスピリチュアルや宗教に傾倒して変な怪しい高額商品を買わされそうになることはありますか？ ベストアンサー：知恵袋にすら、日蓮ゴリ押しが3人ほど キリストゴリ押しが2人ほど その他宗教ゴリ押しが2人ほどいまして うつ病や精神病や自殺の悩みの質問に毎日24時間我先にと 超長文コピペで布教に来ますよ あ... 回答数： 11 4/23 16:32" [ref=e675] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327485618
+              - generic [ref=e676]:
+                - paragraph [ref=e677]: 超常現象、オカルト
+                - paragraph [ref=e680]: うつ病や精神疾患になり人生が狂ったり苦しんでいる人がスピリチュアルや宗教に傾倒して変な怪しい高額商品を買わされそうになることはありますか？
+                - paragraph [ref=e683]: ベストアンサー：知恵袋にすら、日蓮ゴリ押しが3人ほど キリストゴリ押しが2人ほど その他宗教ゴリ押しが2人ほどいまして うつ病や精神病や自殺の悩みの質問に毎日24時間我先にと 超長文コピペで布教に来ますよ あ...
+                - generic [ref=e684]:
+                  - generic [ref=e685]:
+                    - generic "回答数：" [ref=e686]:
+                      - img [ref=e687]
+                    - generic [ref=e689]: "11"
+                  - generic "4/23 16:32" [ref=e691]
+            - link "宗教 日蓮大聖人の仏法の功徳は体験しないとわからない部分は 大きいですか？ ベストアンサー：仏教を学ぶ事によって、人としての道徳観や人生観が向上する事こそが功徳だと思います。 回答数： 4 4/22 11:23" [ref=e694] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327452286
+              - generic [ref=e695]:
+                - paragraph [ref=e696]: 宗教
+                - paragraph [ref=e699]: 日蓮大聖人の仏法の功徳は体験しないとわからない部分は 大きいですか？
+                - paragraph [ref=e702]: ベストアンサー：仏教を学ぶ事によって、人としての道徳観や人生観が向上する事こそが功徳だと思います。
+                - generic [ref=e703]:
+                  - generic [ref=e704]:
+                    - generic "回答数：" [ref=e705]:
+                      - img [ref=e706]
+                    - generic [ref=e708]: "4"
+                  - generic "4/22 11:23" [ref=e710]
+            - link "占い 至急お願いします！復縁したい元彼との今後をタロット占いで見てください 20代後半の女性です。 最近、別れてしまった元彼との復縁について悩んでいます。 付き合っていた期間は約2年で、大きな喧嘩が... ベストアンサー：とてもつらい状況の中で、しっかり自分の気持ちと向き合っていらっしゃるのが伝わってきました。復縁の悩みは「好き」という気持ちだけでなく、「どう動けばいいのか分からない苦しさ」が大きいですよね。 ... 回答数： 3 4/23 20:37" [ref=e713] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327492597
+              - generic [ref=e714]:
+                - paragraph [ref=e715]: 占い
+                - paragraph [ref=e718]: 至急お願いします！復縁したい元彼との今後をタロット占いで見てください 20代後半の女性です。 最近、別れてしまった元彼との復縁について悩んでいます。 付き合っていた期間は約2年で、大きな喧嘩が...
+                - paragraph [ref=e721]: ベストアンサー：とてもつらい状況の中で、しっかり自分の気持ちと向き合っていらっしゃるのが伝わってきました。復縁の悩みは「好き」という気持ちだけでなく、「どう動けばいいのか分からない苦しさ」が大きいですよね。 ...
+                - generic [ref=e722]:
+                  - generic [ref=e723]:
+                    - generic "回答数：" [ref=e724]:
+                      - img [ref=e725]
+                    - generic [ref=e727]: "3"
+                  - generic "4/23 20:37" [ref=e729]
+            - link "占い タロット占いで年上の彼との恋愛、進展はありますか？ 30代前半の女性です。 今、職場で出会った年上の男性に片想いしています。 彼とは仕事を通じて関わることが多く、優しく接してくれるのですが、そ... ベストアンサー：年上の男性との恋愛は、安心感がある反面「相手の気持ちが見えにくい」という悩みが出やすいですよね。とても自然な感情だと思います。 タロット的に今の状況を読み解くと、「関係はまだ静かに進行している... 回答数： 1 4/23 20:36" [ref=e732] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327492562
+              - generic [ref=e733]:
+                - paragraph [ref=e734]: 占い
+                - paragraph [ref=e737]: タロット占いで年上の彼との恋愛、進展はありますか？ 30代前半の女性です。 今、職場で出会った年上の男性に片想いしています。 彼とは仕事を通じて関わることが多く、優しく接してくれるのですが、そ...
+                - paragraph [ref=e740]: ベストアンサー：年上の男性との恋愛は、安心感がある反面「相手の気持ちが見えにくい」という悩みが出やすいですよね。とても自然な感情だと思います。 タロット的に今の状況を読み解くと、「関係はまだ静かに進行している...
+                - generic [ref=e741]:
+                  - generic [ref=e742]:
+                    - generic "回答数：" [ref=e743]:
+                      - img [ref=e744]
+                    - generic [ref=e746]: "1"
+                  - generic "4/23 20:36" [ref=e748]
+            - link "占い 至急お願いします！タロット占いで片想いの恋愛、どう動けばいいですか？ 20代後半の女性です。今、片想いしている相手がいるのですが、なかなか関係が進まず悩んでいます。彼とは知り合って半年ほどで、L... ベストアンサー：とてもよくあるけれど、とても苦しい状況ですよね。「どう動けばいいのか分からない」という状態が続くと、気持ちもどんどん不安定になってしまうものです。 タロット的な視点で見ると、今は「動きたい気持... 回答数： 1 4/23 20:35" [ref=e751] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327492537
+              - generic [ref=e752]:
+                - paragraph [ref=e753]: 占い
+                - paragraph [ref=e756]: 至急お願いします！タロット占いで片想いの恋愛、どう動けばいいですか？ 20代後半の女性です。今、片想いしている相手がいるのですが、なかなか関係が進まず悩んでいます。彼とは知り合って半年ほどで、L...
+                - paragraph [ref=e759]: ベストアンサー：とてもよくあるけれど、とても苦しい状況ですよね。「どう動けばいいのか分からない」という状態が続くと、気持ちもどんどん不安定になってしまうものです。 タロット的な視点で見ると、今は「動きたい気持...
+                - generic [ref=e760]:
+                  - generic [ref=e761]:
+                    - generic "回答数：" [ref=e762]:
+                      - img [ref=e763]
+                    - generic [ref=e765]: "1"
+                  - generic "4/23 20:35" [ref=e767]
+            - link "災害 「スロースリップ発生か」専門家は続発を警戒 青森で震度5強 https://mainichi.jp/articles/20260420/k00/00m/040/266000c 数日前に長野県でも... ベストアンサー：たつき諒さんの予言では…2025年7月でした。確か月末に、津波警報で大分騒がれたと思いますが、発生場所が全く合わないんです。予言では南西の海底噴火のことでしたから。広瀬謙次郎さんも、太平洋上に島... 回答数： 1 4/21 8:29" [ref=e770] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327422462
+              - generic [ref=e771]:
+                - paragraph [ref=e772]: 災害
+                - paragraph [ref=e775]: 「スロースリップ発生か」専門家は続発を警戒 青森で震度5強 https://mainichi.jp/articles/20260420/k00/00m/040/266000c 数日前に長野県でも...
+                - paragraph [ref=e778]: ベストアンサー：たつき諒さんの予言では…2025年7月でした。確か月末に、津波警報で大分騒がれたと思いますが、発生場所が全く合わないんです。予言では南西の海底噴火のことでしたから。広瀬謙次郎さんも、太平洋上に島...
+                - generic [ref=e779]:
+                  - generic [ref=e780]:
+                    - generic "回答数：" [ref=e781]:
+                      - img [ref=e782]
+                    - generic [ref=e784]: "1"
+                  - generic "4/21 8:29" [ref=e786]
+            - link "超常現象、オカルト 寝ている時に夢の中に白いヒゲのおじいさんが 出てきて、杖を持って「ここを掘れ」と言ったら 実際に掘りますか？ ベストアンサー：掘りません 回答数： 5 4/23 15:50" [ref=e789] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327484668
+              - generic [ref=e790]:
+                - paragraph [ref=e791]: 超常現象、オカルト
+                - paragraph [ref=e794]: 寝ている時に夢の中に白いヒゲのおじいさんが 出てきて、杖を持って「ここを掘れ」と言ったら 実際に掘りますか？
+                - paragraph [ref=e797]: ベストアンサー：掘りません
+                - generic [ref=e798]:
+                  - generic [ref=e799]:
+                    - generic "回答数：" [ref=e800]:
+                      - img [ref=e801]
+                    - generic [ref=e803]: "5"
+                  - generic "4/23 15:50" [ref=e805]
+            - link "宗教 創価学会の日蓮大聖人の仏法は生命論ともいえますか？ ベストアンサー：そうとも言えます。「生命論」とは「生死論」といってもいいと思います。正しい生死観を示すことができるのは、日蓮仏法だけです。さらに、日蓮仏法を正しく信仰するこの世で唯一の教団である、創価学会だけ... 回答数： 2 4/23 18:26" [ref=e808] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327488591
+              - generic [ref=e809]:
+                - paragraph [ref=e810]: 宗教
+                - paragraph [ref=e813]: 創価学会の日蓮大聖人の仏法は生命論ともいえますか？
+                - paragraph [ref=e816]: ベストアンサー：そうとも言えます。「生命論」とは「生死論」といってもいいと思います。正しい生死観を示すことができるのは、日蓮仏法だけです。さらに、日蓮仏法を正しく信仰するこの世で唯一の教団である、創価学会だけ...
+                - generic [ref=e817]:
+                  - generic [ref=e818]:
+                    - generic "回答数：" [ref=e819]:
+                      - img [ref=e820]
+                    - generic [ref=e822]: "2"
+                  - generic "4/23 18:26" [ref=e824]
+            - link "国際情勢 もし宇宙から宇宙人が攻めてきたら アメリカ、ロシア、ウクライナ、北朝鮮、イランなどが 団結して宇宙人と戦うのでしょうか？ ベストアンサー：地球外から攻めてこれる科学力がある時点で、 地球一丸となって対抗したとしても、 全く歯が立たない。 人間だけ殺すナノマシンとか撒かれて終わり。 映画みたいにデカい宇宙船とかでわざわざこないよ。 回答数： 3 4/23 17:33" [ref=e827] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327487149
+              - generic [ref=e828]:
+                - paragraph [ref=e829]: 国際情勢
+                - paragraph [ref=e832]: もし宇宙から宇宙人が攻めてきたら アメリカ、ロシア、ウクライナ、北朝鮮、イランなどが 団結して宇宙人と戦うのでしょうか？
+                - paragraph [ref=e835]: ベストアンサー：地球外から攻めてこれる科学力がある時点で、 地球一丸となって対抗したとしても、 全く歯が立たない。 人間だけ殺すナノマシンとか撒かれて終わり。 映画みたいにデカい宇宙船とかでわざわざこないよ。
+                - generic [ref=e836]:
+                  - generic [ref=e837]:
+                    - generic "回答数：" [ref=e838]:
+                      - img [ref=e839]
+                    - generic [ref=e841]: "3"
+                  - generic "4/23 17:33" [ref=e843]
+            - link "天文、宇宙 アメリカ NASAの月面着陸ですが、あれは本当なのですか？ ベストアンサー：本当です。 捏造だという根拠と称するモノは全部無知か誤解による物か、さもなくばそっちの方が捏造です。 回答数： 2 4/23 19:22" [ref=e846] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327490302
+              - generic [ref=e847]:
+                - paragraph [ref=e848]: 天文、宇宙
+                - paragraph [ref=e851]: アメリカ NASAの月面着陸ですが、あれは本当なのですか？
+                - paragraph [ref=e854]: ベストアンサー：本当です。 捏造だという根拠と称するモノは全部無知か誤解による物か、さもなくばそっちの方が捏造です。
+                - generic [ref=e855]:
+                  - generic [ref=e856]:
+                    - generic "回答数：" [ref=e857]:
+                      - img [ref=e858]
+                    - generic [ref=e860]: "2"
+                  - generic "4/23 19:22" [ref=e862]
+            - link "超常現象、オカルト 前世とは関係ない不幸ってあるのですか？ ベストアンサー：現世で起きてることが全て前世のカルマで起きているはありません。 ただ、何が起きるにせよ、不幸かどうかは価値判断によりますよ。万事塞翁が馬て聞いたことがありますか？何事も前向きに！ 回答数： 3 4/24 9:19" [ref=e865] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327504618
+              - generic [ref=e866]:
+                - paragraph [ref=e867]: 超常現象、オカルト
+                - paragraph [ref=e870]: 前世とは関係ない不幸ってあるのですか？
+                - paragraph [ref=e873]: ベストアンサー：現世で起きてることが全て前世のカルマで起きているはありません。 ただ、何が起きるにせよ、不幸かどうかは価値判断によりますよ。万事塞翁が馬て聞いたことがありますか？何事も前向きに！
+                - generic [ref=e874]:
+                  - generic [ref=e875]:
+                    - generic "回答数：" [ref=e876]:
+                      - img [ref=e877]
+                    - generic [ref=e879]: "3"
+                  - generic "4/24 9:19" [ref=e881]
+            - link "超常現象、オカルト 前世の記憶をごくわずかですが覚えているってあり得ますか？ ちなみに前世は虫です。 ベストアンサー：なんか不思議なのですが、アメリカでも日本でも戦争でなくなった兵士が生まれ変わり、過去の記憶を正確に語った例があります。その生まれ変わりの理論は、身体から分離した魂が、いちど集合的な魂とつながり、... 回答数： 3 4/20 13:15 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e884] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327399949
+              - generic [ref=e885]:
+                - paragraph [ref=e886]: 超常現象、オカルト
+                - paragraph [ref=e889]: 前世の記憶をごくわずかですが覚えているってあり得ますか？ ちなみに前世は虫です。
+                - paragraph [ref=e892]: ベストアンサー：なんか不思議なのですが、アメリカでも日本でも戦争でなくなった兵士が生まれ変わり、過去の記憶を正確に語った例があります。その生まれ変わりの理論は、身体から分離した魂が、いちど集合的な魂とつながり、...
+                - generic [ref=e893]:
+                  - generic [ref=e894]:
+                    - generic "回答数：" [ref=e895]:
+                      - img [ref=e896]
+                    - generic [ref=e898]: "3"
+                  - generic "4/20 13:15" [ref=e900]
+                  - generic [ref=e901]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e902]:
+                      - img [ref=e903]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e909]: "25"
+            - link "超常現象、オカルト これは守護霊の力ですか？ 私は２０代のころ自殺未遂をしたときに友達から電話来たり、就活で仕事がきつくてパワハラされて死にたくなった時に、アパートの５階にいって飛び降りしようとしたら下に人がいて飛... ベストアンサー：愛情深いご先祖様や守護霊様なのでしょうね(^^) しかも上手く連携が取れていらっしゃるので、お身内も仲良しなんじゃありませんか？ 強い絆があるのだと思いました♪ お身内の方々がご先祖様へのご供... 回答数： 5 4/23 20:04 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e912] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327491554
+              - generic [ref=e913]:
+                - paragraph [ref=e914]: 超常現象、オカルト
+                - paragraph [ref=e917]: これは守護霊の力ですか？ 私は２０代のころ自殺未遂をしたときに友達から電話来たり、就活で仕事がきつくてパワハラされて死にたくなった時に、アパートの５階にいって飛び降りしようとしたら下に人がいて飛...
+                - paragraph [ref=e920]: ベストアンサー：愛情深いご先祖様や守護霊様なのでしょうね(^^) しかも上手く連携が取れていらっしゃるので、お身内も仲良しなんじゃありませんか？ 強い絆があるのだと思いました♪ お身内の方々がご先祖様へのご供...
+                - generic [ref=e921]:
+                  - generic [ref=e922]:
+                    - generic "回答数：" [ref=e923]:
+                      - img [ref=e924]
+                    - generic [ref=e926]: "5"
+                  - generic "4/23 20:04" [ref=e928]
+                  - generic [ref=e929]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e930]:
+                      - img [ref=e931]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e937]: "25"
+            - link "占い 友だちに占いの練習させてもらったらラインが帰ってこない。嫌わた❔誤ったんだけど ベストアンサー：送ったあとに返事が来ない時間って、頭の中でいろんな想像が広がりますよね。 さっきまで普通にやり取りしていたのに急に止まると、胸の奥が少し冷える感じもあると思います。 占いの練習って、受ける側に... 回答数： 4 4/20 17:39 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e940] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327405439
+              - generic [ref=e941]:
+                - paragraph [ref=e942]: 占い
+                - paragraph [ref=e945]: 友だちに占いの練習させてもらったらラインが帰ってこない。嫌わた❔誤ったんだけど
+                - paragraph [ref=e948]: ベストアンサー：送ったあとに返事が来ない時間って、頭の中でいろんな想像が広がりますよね。 さっきまで普通にやり取りしていたのに急に止まると、胸の奥が少し冷える感じもあると思います。 占いの練習って、受ける側に...
+                - generic [ref=e949]:
+                  - generic [ref=e950]:
+                    - generic "回答数：" [ref=e951]:
+                      - img [ref=e952]
+                    - generic [ref=e954]: "4"
+                  - generic "4/20 17:39" [ref=e956]
+                  - generic [ref=e957]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e958]:
+                      - img [ref=e959]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e965]: "25"
+        - generic [ref=e968]:
+          - generic [ref=e969]:
+            - generic [ref=e970]: "1"
+            - link "2" [ref=e971] [cursor=pointer]:
+              - /url: /category/2078297564/question/list?flg=1&type=list&sort=16&page=2
+            - link "3" [ref=e972] [cursor=pointer]:
+              - /url: /category/2078297564/question/list?flg=1&type=list&sort=16&page=3
+            - link "4" [ref=e973] [cursor=pointer]:
+              - /url: /category/2078297564/question/list?flg=1&type=list&sort=16&page=4
+            - link "5" [ref=e974] [cursor=pointer]:
+              - /url: /category/2078297564/question/list?flg=1&type=list&sort=16&page=5
+            - link "6" [ref=e975] [cursor=pointer]:
+              - /url: /category/2078297564/question/list?flg=1&type=list&sort=16&page=6
+            - link "7" [ref=e976] [cursor=pointer]:
+              - /url: /category/2078297564/question/list?flg=1&type=list&sort=16&page=7
+            - link "8" [ref=e977] [cursor=pointer]:
+              - /url: /category/2078297564/question/list?flg=1&type=list&sort=16&page=8
+            - link "9" [ref=e978] [cursor=pointer]:
+              - /url: /category/2078297564/question/list?flg=1&type=list&sort=16&page=9
+            - link "10" [ref=e979] [cursor=pointer]:
+              - /url: /category/2078297564/question/list?flg=1&type=list&sort=16&page=10
+            - generic [ref=e980]: ...
+            - link "次へ" [ref=e981] [cursor=pointer]:
+              - /url: /category/2078297564/question/list?flg=1&type=list&sort=16&page=2
+              - text: 次へ
+              - img [ref=e982]
+          - paragraph [ref=e984]:
+            - generic [ref=e985]: 約792,464件
+      - complementary [ref=e986]:
+        - generic [ref=e987]:
+          - iframe
+          - iframe [ref=e989]:
+            - generic [ref=f252e3]:
+              - generic [ref=f252e8]:
+                - link [ref=f252e9] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A9VN62kAAAKoWGdQw4JhySKAjfq9JFt5tyKvm8FAfZl2tOzdHEQ4AfZ1eovCgSwlmbXQmCajz9Bfj5cdgxlv2SNIEAqv0Vn7Gm3ZVx44flDkNFAQ1vUNqG05hg8c1AHhHiJVetjrGp7ubdtdBmadJt8rB0gX_ra4EDraRnM9AL07AnAsDjk3q2qscgKzgR4NuP3RoYOs7z5SUFpfjb5YgmHXjTA3z9FG5-aA2S2xKtmhOy2NS-3Qz6_tH0cgOVR9n9fYVyWlaJZKXIWpRcGms9068D-PMlspg0X3QHGeMAgsb56lgEUW0WxUPgEMlyFqT8sDR1BondzbZu5_GHpjDIT0QUa7aIeDVPVPBkn5JcjVJH4jdjODOrPMgm5vWuGiW6lZ7sWnhXk8ScIjBZRwE_wOSoe6mqDP49JAN-_JU9_EJQM4rwENNO_pPtwoFcRxdJwY1l4g85foqF_M9SI-_ksQURL8id1R_c-hngJo4xw9pItNU08UGmMJL2vjuerXug0YYBaq9VFKydoPk6FHWbbH7DTjTEQJbTbYYk3okPFWXpuaq89wkE8U169PlKTCp0gxBJQUWASsvmiodSdENgUZ2R_i8NnJlc0niBS3VpJFZEKIoQOBgUfyuZDq2jIjDIuIV0jfgJ2UIrrsgG07xC_m80ZQc6kft5aMVl_6uoFMPh9371SEjn6xSmPo7fKuAMs4mpyt6R0ShZY3iPcz5jf_GWU3ZbU4BxNiLxbcRJ4PVgA8BbFA1rI0VZ_64hYpX_P_Zq7ye8X-A2oIUXRL7hi9uHBNGuh438Te0Ka2xs083ZUApvGPZ08Sauinks9VurqYBofkuqCPgxK6sDgZZgr3AuD440ulvUZUE_yglf50FouCPqWIPY0uJXm2qRS8DR6Kb1r7zQoBC2vrea6p8jJ-3sEhGdC6eaeotaxUaMc7gaM1UouQ9fFIgI8XhZ65Dkg_m-6ou3RpBeBNqlxSUyRqWznj-LMJzP057h80Hj4i7yzi4jhFdNyHa-yEu3chlMYEXsVITbhrDnNmN7QfH9BBL8ZmhtU9qJoAIC3glyhq9Svxdddeivbs_1aRxIMZWshtiii_0jNXj_CtWcxRlJOmxIYpEdUutsL6uJQoLcLUZxlDR7R7MnVsz2WYT4rLLVZylh_kgv-2S2Sxy0bBExMux8fm4MsfQ2RujaYqjKI7fUZA3S1d6k4aFEF4dtedJQH1qZmo9-MZy0t8TChc845_ClNR8X623Up-6LXI5LXV1LTOmDL3R4ID2nJ1bNT7NzE956whVVWI3J6vSRUhNVqZlAfKqfRz2lTFz73xvNVmPrhvNgICjfV36VtVvQz4myshWzY20sRzYW4RQcVjRMIfMrNP6WTfrYMOgDm3adSDiUywCD5ZQr0xi5JwO3ttzPsM8q-fgq4naUCN0jCegsQhp4BJCvV780sWSO2g2ktvjaeBK1y0nD4Cn5MrYwdPhifdkmqIxymi9srfsy0s1KDf8KDE-W6MLvCMCsMjNPpEc5gvU6tCgc7T5QIsTmyXH_-eIF755YjNTlAkb7GZfkX0NIfGOd6zEmJ5uxZB2XBqV0HR7N3FlLxq&v=5
+                  - img [ref=f252e10]
+                - generic [ref=f252e11] [cursor=pointer]:
+                  - link "広告" [ref=f252e14]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A9VN62kAAFaBMHGXyNySFqELNVDb0xE6CMVJDhUkKkfGhfFrMj8zazSyrHoyFIQdD9wmnRjEQ1_smLvtNwGA57nRPl-XbzJmpGLjnrRRtixEf-e5k1yVgU6wnDPmHUy7W0SolFHgIKOLyOmPyFTFo3dUkgqQ2nRODb8Z31cnHKiqYM7bCIvTjtEnI6FTWpgDKBLag4NjBi2mZFZ1oETvUwY4RZyKg56M632VuDPX5vR7W-5KzCrhKLdgfKOUwPP4Ixoq0zOoec4meO0PxK5athDbBnEFFVSgTF6npWkCEFwTf15ZmWUj2g&o=A9VN62kAAAhs6lJsWUxDRd4mnL15_Sz77p7tLOeZF3D5c1ZIMcWNYNu6qzy9am21jb1HswfqwpC_HVEM8c-I6stEZmIIBWNUdr-AVB13CzYAWuOEKgEMFh87cymRRM2u6PKLt0fuDKi2NYRyTlyeu90uLjyr_Fg70kBR6rdAHKP5r-4nOY4oYkcrW9UXPiel5ZGn5DYU56xOe_qHxqnq-rVraErre0E87Wkc9HqSp8Oh-HSCHmZ7GN7L7KT2eCV9y22T3Oa_FK9U9PVHXq8StDOwGveheRc
+                    - generic [ref=f252e16]:
+                      - generic [ref=f252e17]: 広告
+                      - img [ref=f252e19]
+                  - img [ref=f252e24]
+              - generic [ref=f252e29]:
+                - link "大田区の住所入力で土地価格がわかる 詳しくはこちら かんたん不動産比較" [ref=f252e30] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A9VN62kAABjwNshWZ7spA3yu6Frs-AzaPkGG1P7ZdKHNrZWJuq9ejT5gGieO-5GZJdwE81Ygk2pugmlQncG51QEqkxjJdDaxMr9yfP0Ia87_D4lB78IJwkMQzClSwxIZ3r2OgtS_UTc30JtM65I4ew1f-0BSaZIAEAUU2DufHbRt40AAzSu0YGapRqgoAewaY1fX-OugnZCW0mdl7H7EXANmzUMowO-j2C_iIriMJHoXVNze_DzPeLxs-kL3RuKZHevyuODroq-NBkIY4PwwyQi73z2Vs-JRCE6EQjzO450GEKJMcF9gABRDdTW9zpFJeB9LD00cxiryOoQ2VKJwTXd1yCE9m3E5K91-47fxqF9NA730artexWgt7-qJLuVfnTnB2zdtbo4Erw9zpFugQEIswrdUk7rDs6R5DBrOciloV6j7kY8v-fk1eQMnlSY9mHoybKFl6TQcEzHqPhygR6mMiy6CkBGUwr0AKKxKunNvpTC1E2YFCxeRtyfCuVaZ83VO_rohVWmbjk_3Pf8_p5Lsdcv3xA1sXAJoCsTx0C83Kc7sGlQjQH6xW_Bq23lwjBoLTRtpTO_HNnUhEW_SKgSSQJEyEMTVOJa5_HpOEeizWX0tTZlvfJt74PnhtA2SiKeUPfI-ySAHtb2cqGMmpBr2oWMLS5RU7wnOkgcxlRw-xAdGeIYaKoqkyPmzI5VnkPKZSsIAnrvRMxX0buMTA6syk91lp6Ea-PLUyHZ6m7uTilE9XU4tRgYNuAD6AqB66Cs1UaYDqGXf7VuwqvrKPua7GAeMcVW0BXPm6uvbPOfnMU0rcoRGZr6Xpw25ZiadM76ot3B5NT3Bf7IgfXFEcoPyeQG6m8h-43OW3gtBT0MsXDkfq45laHIupwJn6O0XTh7bc9_hSnYzKrkM6Wx0YNkCya8WRMTd4mUYBHuhEeXE3pGu-mG-qg19oCB4CcHRgss3fVeYEDAPpfzafpfHLNwRO8BsW6T1D4EoGtgFxZjOvvfSuXFsQFh-gDpJzr-H7nOk1mHvgH7osTRHU_22BlZ5lSEXH59toRV61Mzufj7Tp4mWHhhGY57MtbOQa5qB9nZSn_LuvPP4zq-_5Fw69-mWYtnapM4yRS1Pqomz0rW8fcTakL721bf9EPXVe2zv7Uc-MeC6No7isCiqXY23IcBpqeRCu3JfYc7b1RXT0Q1Qne5YUhuYKkjKtDovqwwRaz4y53mHeg-AUmf90Dwgx3CiSVM36DQwP4WbwGFcMndwmxBRC30yiu2ZMvvtSPLSva1fVzEjBtc0sGgTN-TwvV7g7eyCR8nxMe2B6EnWMQuP9zpc80LiJE3-dZr7o-1MiKRot2qrC9UITwQ5s5FwzhlyUcSbsAyGUVGHvimMNdT1VgDZOWJNpSIyXxZqTU7x5aLOIMfNqpVkGOrww9FlWA6oEceJlUQkxoFjAqHi4d2QNfJJvJNcUnaq9JU5Xjc_hWJZTrxrmtY7XN-ABVSqAeF12Rnm9QPB_SX09c1skfOYfCTuK4rfpC0a_PnbJEP3vHZNbQ0lcS_dn_uL9TDkeFK1GawJ38Sd7u9RU-2UdAYwKBZvyRd8PwnYGZbSQORncnU&v=5
+                  - paragraph [ref=f252e33]: 大田区の住所入力で土地価格がわかる
+                  - paragraph [ref=f252e34]:
+                    - generic [ref=f252e35]: 詳しくはこちら
+                  - paragraph [ref=f252e36]: かんたん不動産比較
+                - generic [ref=f252e37] [cursor=pointer]:
+                  - link "広告" [ref=f252e40]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A9VN62kAAAS6xIW6UQOz6f7aZtQ3JS4rBXdiKLgP4OqqRUNo6w723dMWdE1TgA-EWD7iH06uLL1Qa1w0W-f-YYWEveivsAVAORzMMCtEdmnj44sxGzGxNBVAda-JSFjm7BhTcZubPxXybxhz7CrT4ejXHRF5SDTLY1NXzsT7Ktm81IxXUMfRdpU8KqVyELWVGXQuSyOGSAUFc_evimnVW-3LLdpbbVTJGzqxEO-ltxbnt6nyFjbqwwhlTootXbaa24BCRfTa_TyWDyTXBtj2myxW1QlNfz5IEccbhUb6ENPuhqNd7u4&o=A9VN62kAAD3Yv0umF8Hg9trya7aR96VbpNibjdb6f-JzaObQFemXAYAJ2xTOd0xzeAotxtOTQ5Qhf2TzSwPRIK5ffs0VdFBbr0TJfHYHiq3KihPK7QhquFVoP6M5WPBSTo9kPp91hphZbBtt3SxHlwvkLiu4GZlHLN1jQoPSvaWYuutFrribevzZOFLXZkmhPoDS5e0XA9c76SCMVPbNPhLxCHK2R_aAxS7cxUIBTKxnJ8PSwv7Jaxo35TG2JZO_MU8kTgz0zl2TwcibCy-1ORuBNhfMuw
+                    - generic [ref=f252e42]:
+                      - generic [ref=f252e43]: 広告
+                      - img [ref=f252e45]
+                  - img [ref=f252e50]
+    - generic [ref=e990]:
+      - generic [ref=e991]:
+        - generic [ref=e993]:
+          - iframe
+          - iframe [ref=e995]:
+            - generic [ref=f253e6]:
+              - link [ref=f253e7] [cursor=pointer]:
+                - /url: https://apm.yahoo.co.jp/rd?ep=A9VN62kAAMhGJ7NxLahNNJ7JRi2CqLj--eE7wfZtYDoR5mtjuVBv0M0IdW0hC8EbNx6743EcvEanbgcklAJDFwltYOE13Ol5h-WhHKqa2gZxvDsEujwm1MguBVv5YC3lFVlkPCoI8k__d2PE7WDLrZAX-qPemYikAQ2WO7j9046dAUgj158NILNAjAxCGXOaPvTmoE7vXmRl5DYA1qpuQ18HhieRvCN3MJx65ktFqTRqgrRPJlckp8BU6icNP075TEs3BvfcSY5hGlTRARSj9a4iyIZ7yJTl9XtlfhLAyF5RiuPCrlzms09wajbPMnJfMcgXywcsABPnfEcKKHjTJSfzyIZswkpIGOhnt7X_iHXRAZPFzJs20qsTna3IEBGB1Ab4ReeTpbLQx8NgXBeWpEmXXEIXUdMZI1zztGG0B679H7lMfAhsvC5s2zJd-TLjYVc1GXxbaRTRr8VYFFZCTFZQk9-3Zz_Rq6pVwrkwiO4J5ztWhUUx_sCvpULEJsNOEGj1urp3UCYsDzZQ8L_0y3zt-ZEbG_Oa2uVKQXvB_bNPtKj3zNvVZJF_DvhUIgrlqOU3jitajjymgqvcg7tbUkcI1z3iSeV3jZQuusu9bV4zo5Id-Auv7dk1TW_m7III213IuKf7cK4nAVZCLyD8GErPcQXz9aCGfqz5q7Pa9KzM8Ixkp_e0xi1_vpQcJRQOo_eSOkWDjLm47BvdPIeA45wfdCU5LXZNAi8fzKpT5Xz5RMefuZtucINQkMNPjvCWYAEPSFR5QGmHSTnOZcakJL8RNfpLP23t9Id9VDGZF0L1lXGZcO_OhKw7jo_iZ-3b_7PLmaT6-tYL3Bj5heZaJFGFnLK71N5P-xQtSKawjhE7HuU0EgcKpZI29dG-gv1niba1rWxah1T5bvOK3-juXQhzZjo-Gw0qXDSFVMidYy48alLOvr1GhfGwCcm2NxoNo4vXjZbtpGx2apDkHKNTFIsV9UJTqov51ltfsfYkvGNCv8HpJzb1Y9NPASQlTcWNQ5iIUjtIN06mGuJ-gRI811pZkQr62w7gJqKJnn5gZeCQ4j_9agmVHUWysmhHuwBjOJzpoTQFvC1jh_3ofRIVNgAw5b-QIX6m5PYH3Wr0wqKK8GV9en55eREQkI0jI8R_vDkxys943wSNs4PUHRQuSZmQBwAFnUsDcq7llhBLkpvLsWsFeVOkEGuzL9kzbjj5bLho4XFyfbNysNWwW1T7bICdbbSrZB-IbKwDiJTW_YkiX-sX4CMtiOpCP745kuT_2r4jwIOYHBeU-D_qmd27yCBmhVvNqOXE0w_MnXh6Y3lV_eZ-LTMb5daOtuY1Qxa4TREDsCGinfXrwshSVb9dKHBZ8cRtjfaq3H2uGbExWhD4Bd2Gokr-nLNVCQxBkgHziJpycaSGhtyjMTx3Y-l92mOAYqnIwWMNtpTSyOw8yLWQUUP0WCJhNNixaS8aNAFXmvyR6mw5htVAYdJiR9j7Su_3OlrhO2j573xOWPAAt0W9OJDBsJHEoaBKH6n4QQXN5TuwwbtAYoc-U8vaXLOU3V9aWLEAXsXmzhndlD5mEYU9CkRg4kGiIdmhTEJ-PA&v=5
+                - img [ref=f253e8]
+              - generic [ref=f253e9] [cursor=pointer]:
+                - link "広告" [ref=f253e12]:
+                  - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A9VN62kAAHeiTmWJsPStj8ZjQNy_FG1whegSAMT_oS_YsNYTIdmY3ec80U9323M2-Ma2Nlo1pHEbgb-oadHharz5xMyELwvWC3xWDA7ZKJpGFKavmRt40q4WugkOcWEkr_0FZpRuEpY8yoYpzVuzaU49sV_MH3mmch9igaaq7EdoHETNkrMEBnON-KrEL7I4tVyMcx5YUAwQiGr2VEUMF7uaHa20LH07C2z_FtV5LVYmMwRPR5yxCPbVUEtKW5ctofpspE2UDBktx_1W67Mg_vW_Q7XbpBw8aXYybXUbIsNP0LuZvkQ&o=A9VN62kAAJkSqKBucbv6qkqsQjigLYu9kZe-6llVcVZExIKQRPzRF5cguq7qVhyaBhHr0fPcYGF6qcxOguYUpRP3kEy3ErtWvaRAM7DPhKt_b7K4vliRU3HlBlp1RX8KtqzxBKLAa2L1ix5N0dg0nevrvXlZUWKEbKKfU4N0n9VR65A47Tn-iMo5jIoF-_TGzurvBSj0IbDAfgD0aZx2YT1rx4Z-236B1601KqXaLzBzGwSxsMLUoDWtK8nKz4PvtesMEEbOjfpE1FtUJP3aPCmPm8QotDM
+                  - generic [ref=f253e14]:
+                    - generic [ref=f253e15]: 広告
+                    - img [ref=f253e17]
+                - img [ref=f253e22]
+        - generic [ref=e1001]:
+          - link [ref=e1002] [cursor=pointer]:
+            - /url: https://apm.yahoo.co.jp/rd?ep=A9RN62kAAHklK-iyPDg9GgjLI57TCHiShDFsT4xRcDzA_ypppFDGHe6HRLZjoojMuA_m805TY3vbOKHWuC88FOMorvzRDJAJR7rcZ63jtX34Jrk3i4OLqpz6EFbDOnQK10yXmjXPVe9cJhKhy4icUx6dZ98gwhEf2GrJXIAHyXU6ifOPAMo4ZAtjK0LfBPQDnFewmB1FNZe1gWigurGZwu2LxG6bc9CVnGDMwbKygzdbeU020VC9Mak-OHBsHSzOYKAYXTXILrQRjLXCWCK4rjkK3yFCLTK_Wq1ICdW9uBspiqtalNOaMSXhAsTbluxudd2UBgAKzHGU24Tz8OG5W70mcnN8NFJvjOZdV5AZMr2i965Pm9wRavTYSyagPPsp0qvfxdJ4U9BaO0EW_ZqH1hlyhZxrJ9BGnUs1TDsn_dKchdnpE3QDX75qj-jCs9LHN-_HStRaFuuBvasS2TGgiaB04EDUIF9nTq1s09BQxnvDCwQNQu4W6mPRhxdwM1FDHc6_Ca2-9rlvDaf2L-6UTSsHbrUN_cV_NzK07LDtBZqcE6I1sJ7b2SQswMZ895lxoH5WRXabhYJdNXoYJxRtckJGXvxexNWKjaNKUTiVkP073gGNi-PAf8r0UEPk_PPvZS1hUBxvZ8dVzuUm4eim4-2jZrRdCGV84Evo0nBm7AhEhcZ4UXpjX_Ag4EJD6nXbFaS4OzpLRvzfDVkRGVkSB8Sk0B1tFvCpsvxcKS8E7qk22p-t-Xlyd4tod8cvc9-E_Ny6RFgPC_TEKc6MLFWqife72Yn0KKHF1QR_u55MW2M2mVzWL-v0zS-ANdXXov3F7cCLony5PFFGfnVCgej-55OzDNdabcws9b4zeMEjqG-hF-GCeu1--Hre1bQuzG0tTcnxY_B9gaCX3myReBI7L_tOXL5rax5RPWCQDH9-icGEvjLKau1497gAujoNcNsEqJJdKV2FUhKgaVOuB-b5b_tW1JAlKo1DeKZQT3yK_zc-3ggvWeKHqc4edRGgrPJmr3y9RUGJF_yG2pHX02GqZJrgSX8PQQdPKiAWx4TPZgAgEgrI5XDd4f2F8lRF9Kfpb2AIAjuUUOX9lgzva0ag271jizr_PJ3PZpaeKNiL3jkzVgV4xSGvAamULZAGRtTdZhQkxXYgCto192qAI-KCoqjZLRxCyBNbMWylH8kUoj2feEiNxa73AzVgF5vsdy0mVScQw8e9BszEg9MdbClRes0CBL6zFAztMkS6OQiHsFK0q-KAc63AL_C1Ghp_xAwk2N9CDazo_TG0bk2vLhLw4fAk-frf-MupukxoHVQ1hmOerPSvg7v9N_dQrfdGa5YulsiXe9jw30jlQRv1xuvoy-SwILkDx7bZad63IVgqzZGzEZh_Wkuyiog5WJzXfdnK1pbAI7QyUvuQig70hTxIsqfCP3rvO2en36UvcjVXjQxUwXKrdvd6DlN0tfnYGxhICsCBTXVcGoc7nTiEPlz3lcWP_TWZgxzYasFR3O7OT7iGL52C2nrObqIFp6NPzA&v=5
+            - img [ref=e1003]
+          - generic [ref=e1004] [cursor=pointer]:
+            - link "広告" [ref=e1007]:
+              - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A9RN62kAAJGBwTF_prUomA3Qc-aA3VNpsmodCnFPSzbxY3nMBxirFRnXEFJf3Fh-UqIWKUnXqMGdkpBKLRndx-0emdCAz7jJ0KETpg-miDDe26rvW5-1DIUFXUGfcIN9-Lv9Z3qPokbMLGXy1irDjaSsLXk_nAaSp-CoHCigWM7bkE7XQQJnaSKfGtHYbtkxFrv6Ng6wPe6gUXYTjzwB7gYpH0tqCnF5Hfbn1V-QgjnZBSGyn6BrpLnFo7iEOa25nQ1JOBhomMzrdzgAPb60-bIOacPqwdt8MpV71ds_NDtg-2-JBn0&o=A9RN62kAAHx28mpbDYUL49jj6hFupWG2YbOVdahgWkYhwV2bW_DEU3r0M0s4O30QHctJ5FuY2a5F2pdOimDnAy2wvxc0NFAzkZkPYtsGKYO6vpHbKOeNKc8zOnycjChBORVcJP88eKMYQfuj5Y3sCh0a8bFmNfBg6zmt5LUe6__KXGzEug-Z7B0kQPXOTZQw5l5hirreDZt0Dz7wJHIXt3Pkxkkd3HWIgj65jHoj3O_YD2rI9TMtQvd1_DVyZ-zUroJ71ztZrQCl1DNIXYJy6COnt66-U-E
+              - generic [ref=e1009]:
+                - generic [ref=e1010]: 広告
+                - img [ref=e1012]
+            - img [ref=e1017]
+      - link "占い師にお悩み相談" [ref=e1022] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_ca-top_000
+        - img "占い師にお悩み相談" [ref=e1023]
+      - generic [ref=e1026]:
+        - generic [ref=e1027]:
+          - heading "カテゴリQ&Aランキング" [level=2] [ref=e1029]
+          - paragraph [ref=e1032]: 占い、超常現象
+        - link "1 占いお願いします。アメブロをしてるのですが、深夜帯にポチポチと読者がいるようです。（特定の人）「いいね」は２０人程度。パソコンからというのは分かります（アイパッドかもしれない）私はスマホからはやってなく、パソコンからなので年代別は分かりません。最近は結構昔のを読んでるようです。身バレするのは凄く嫌なのであまり個人特定、本当の年齢も出してません。私の知り合いでしょうか？" [ref=e1035] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327307845
+          - generic [ref=e1036]:
+            - generic [ref=e1038]: "1"
+            - paragraph [ref=e1041]: 占いお願いします。アメブロをしてるのですが、深夜帯にポチポチと読者がいるようです。（特定の人）「いいね」は２０人程度。パソコンからというのは分かります（アイパッドかもしれない）私はスマホからはやってなく、パソコンからなので年代別は分かりません。最近は結構昔のを読んでるようです。身バレするのは凄く嫌なのであまり個人特定、本当の年齢も出してません。私の知り合いでしょうか？
+        - link "2 ツインレイを信じてる方について質問です！ツインレイ？だと思ってた方が過去にいました！出会いは僕が小学校6年生の時に引っ越してきた時彼女に出会いました！ツインレイは40代に出会うとよくいいます！早くても20、30代だと！小学生はごく稀にと言いますよね！ましてや同級生なんて…それもあり最初はツインレイなのかな？と疑うこともありましたがツインレイなのではないかと会えてない10年間いまだにずっと思っています！心に彼女がずっといるため恋人も23なのにいまだに作っておりません！なぜツインレイと思ったかというと初めて出会った時懐かしさを覚えた！メガネのフレームの横に自分と同じように星がついてた！お互い..." [ref=e1044] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327281086
+          - generic [ref=e1045]:
+            - generic [ref=e1047]: "2"
+            - paragraph [ref=e1050]: ツインレイを信じてる方について質問です！ツインレイ？だと思ってた方が過去にいました！出会いは僕が小学校6年生の時に引っ越してきた時彼女に出会いました！ツインレイは40代に出会うとよくいいます！早くても20、30代だと！小学生はごく稀にと言いますよね！ましてや同級生なんて…それもあり最初はツインレイなのかな？と疑うこともありましたがツインレイなのではないかと会えてない10年間いまだにずっと思っています！心に彼女がずっといるため恋人も23なのにいまだに作っておりません！なぜツインレイと思ったかというと初めて出会った時懐かしさを覚えた！メガネのフレームの横に自分と同じように星がついてた！お互い...
+        - link "3 どんな占いでも良いので占いお願いします。大人になってから久しぶりに恋愛した相手との相性今後がどうなるのかをお願いします。1976年7月1日1981年6月27日練習中の方も大歓迎です。よろしくお願いします。" [ref=e1053] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327121084
+          - generic [ref=e1054]:
+            - generic [ref=e1056]: "3"
+            - paragraph [ref=e1059]: どんな占いでも良いので占いお願いします。大人になってから久しぶりに恋愛した相手との相性今後がどうなるのかをお願いします。1976年7月1日1981年6月27日練習中の方も大歓迎です。よろしくお願いします。
+        - link "4 縁結びや願望叶うご利益がある神社で叶って欲しくないことを魔が差して、願ってしまったら叶うものなのでしょうか？縁結びで有名な神社で好きな人と嫌いな人が結ばれるのを願ってしまった場合はどうなりますか？考えないようにしようとすればする程強く願ってしまったら？御守りを触って願ってしまった場合も教えて欲しいです。" [ref=e1062] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327107182
+          - generic [ref=e1063]:
+            - generic [ref=e1065]: "4"
+            - paragraph [ref=e1068]: 縁結びや願望叶うご利益がある神社で叶って欲しくないことを魔が差して、願ってしまったら叶うものなのでしょうか？縁結びで有名な神社で好きな人と嫌いな人が結ばれるのを願ってしまった場合はどうなりますか？考えないようにしようとすればする程強く願ってしまったら？御守りを触って願ってしまった場合も教えて欲しいです。
+        - link "5 悪口の自業自得はありますか。見たことがありますか。" [ref=e1071] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327168210
+          - generic [ref=e1072]:
+            - generic [ref=e1074]: "5"
+            - paragraph [ref=e1077]: 悪口の自業自得はありますか。見たことがありますか。
+        - link "6 例えば、神社でAさんと結ばれたいという願い事をした後、その神社でその願いに関連したえんむすびのお守りを購入したとします。その後に、別のBさんを好きになって、Bさんと結ばれますようにとその時買った守りを大切に持ち歩いたりしたら効果としては、Aさんと結ばれる方に叶いますか？お守りは処分した方がいいですか？それとも、お守りと神社での願いは別物と考えていいですか？" [ref=e1080] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327394438
+          - generic [ref=e1081]:
+            - generic [ref=e1083]: "6"
+            - paragraph [ref=e1086]: 例えば、神社でAさんと結ばれたいという願い事をした後、その神社でその願いに関連したえんむすびのお守りを購入したとします。その後に、別のBさんを好きになって、Bさんと結ばれますようにとその時買った守りを大切に持ち歩いたりしたら効果としては、Aさんと結ばれる方に叶いますか？お守りは処分した方がいいですか？それとも、お守りと神社での願いは別物と考えていいですか？
+        - link "7 三十三間堂どこにパワーを感じますか？" [ref=e1089] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327335475
+          - generic [ref=e1090]:
+            - generic [ref=e1092]: "7"
+            - paragraph [ref=e1095]: 三十三間堂どこにパワーを感じますか？
+        - link "8 スピリチュアルについて。ある出来事があり、謝罪もなくそれを期に縁をきりました。すごく傷つきましたが、この出来事のおかげで縁が切れてよかった。などスピリチュアル的にありますか？また、そのような経験のある方、お話し聞かせて欲しいです。よろしくお願いします。" [ref=e1098] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327287986
+          - generic [ref=e1099]:
+            - generic [ref=e1101]: "8"
+            - paragraph [ref=e1104]: スピリチュアルについて。ある出来事があり、謝罪もなくそれを期に縁をきりました。すごく傷つきましたが、この出来事のおかげで縁が切れてよかった。などスピリチュアル的にありますか？また、そのような経験のある方、お話し聞かせて欲しいです。よろしくお願いします。
+        - link "9 誕生日について。私の叔母、夫の妹、私の大尊敬している先輩が同じ誕生日です。また、私の子供と夫の弟が同じ誕生日なのですが、こういう同じ誕生日になるのは世間では普通のことですか？スピリチュアルとかよくわからないですが、そういうのがあるのかと思いました。" [ref=e1107] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327210042
+          - generic [ref=e1108]:
+            - generic [ref=e1110]: "9"
+            - paragraph [ref=e1113]: 誕生日について。私の叔母、夫の妹、私の大尊敬している先輩が同じ誕生日です。また、私の子供と夫の弟が同じ誕生日なのですが、こういう同じ誕生日になるのは世間では普通のことですか？スピリチュアルとかよくわからないですが、そういうのがあるのかと思いました。
+        - link "10 朝からカラスが鳴き続けています。何かの前兆ですか？" [ref=e1116] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327333978
+          - generic [ref=e1117]:
+            - generic [ref=e1119]: "10"
+            - paragraph [ref=e1122]: 朝からカラスが鳴き続けています。何かの前兆ですか？
+      - generic [ref=e1125]:
+        - generic [ref=e1126]:
+          - heading "カテゴリマスターランキング" [level=2] [ref=e1128]
+          - paragraph [ref=e1131]: 占い、超常現象
+        - generic [ref=e1132]:
+          - link "1 ++++++++ ++++++++" [ref=e1134] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/101951261
+            - generic [ref=e1135]:
+              - generic [ref=e1137]: "1"
+              - generic [ref=e1139]:
+                - generic: ++++++++
+              - paragraph [ref=e1142]: ++++++++
+          - link "2 エミ スターシード エミ スターシード" [ref=e1144] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1123093272
+            - generic [ref=e1145]:
+              - generic [ref=e1147]: "2"
+              - generic [ref=e1149]:
+                - generic: エミ スターシード
+              - paragraph [ref=e1152]: エミ スターシード
+          - link "3 和みナビ☆ 和みナビ☆" [ref=e1154] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1154303604
+            - generic [ref=e1155]:
+              - generic [ref=e1157]: "3"
+              - generic [ref=e1159]:
+                - generic: 和みナビ☆
+              - paragraph [ref=e1162]: 和みナビ☆
+        - heading "急上昇のユーザー" [level=4] [ref=e1163]:
+          - generic [ref=e1164]: 急上昇のユーザー
+        - generic [ref=e1165]:
+          - link "和みナビ☆ 和みナビ☆" [ref=e1167] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1154303604
+            - generic [ref=e1168]:
+              - img [ref=e1170]
+              - generic [ref=e1173]:
+                - generic: 和みナビ☆
+              - paragraph [ref=e1176]: 和みナビ☆
+          - link "かわちぃ☆猫娘 かわちぃ☆猫娘" [ref=e1178] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1240122746
+            - generic [ref=e1179]:
+              - img [ref=e1181]
+              - generic [ref=e1184]:
+                - generic: かわちぃ☆猫娘
+              - paragraph [ref=e1187]: かわちぃ☆猫娘
+        - generic [ref=e1188]: 更新日：2026/04/20
+      - link "公式・専門家の回答はこちら" [ref=e1191] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/expert/
+        - img "公式・専門家の回答はこちら" [ref=e1194]
+      - generic [ref=e1197]:
+        - heading "カテゴリ一覧" [level=2] [ref=e1200]
+        - generic [ref=e1201]:
+          - link "エンターテインメントと趣味 エンターテインメントと趣味" [ref=e1203] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297513/question/list
+            - generic [ref=e1204]:
+              - img "エンターテインメントと趣味" [ref=e1207]
+              - paragraph [ref=e1210]: エンターテインメントと趣味
+          - link "芸能人 芸能人" [ref=e1212] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297558/question/list
+            - generic [ref=e1213]:
+              - img "芸能人" [ref=e1216]
+              - paragraph [ref=e1219]: 芸能人
+          - link "テレビ、ラジオ テレビ、ラジオ" [ref=e1221] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297526/question/list
+            - generic [ref=e1222]:
+              - img "テレビ、ラジオ" [ref=e1225]
+              - paragraph [ref=e1228]: テレビ、ラジオ
+          - link "音楽 音楽" [ref=e1230] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297536/question/list
+            - generic [ref=e1231]:
+              - img "音楽" [ref=e1234]
+              - paragraph [ref=e1237]: 音楽
+          - link "映画 映画" [ref=e1239] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297543/question/list
+            - generic [ref=e1240]:
+              - img "映画" [ref=e1243]
+              - paragraph [ref=e1246]: 映画
+          - link "演劇、ミュージカル 演劇、ミュージカル" [ref=e1248] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401215/question/list
+            - generic [ref=e1249]:
+              - img "演劇、ミュージカル" [ref=e1252]
+              - paragraph [ref=e1255]: 演劇、ミュージカル
+          - link "アニメ、コミック アニメ、コミック" [ref=e1257] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079048392/question/list
+            - generic [ref=e1258]:
+              - img "アニメ、コミック" [ref=e1261]
+              - paragraph [ref=e1264]: アニメ、コミック
+          - link "ゲーム ゲーム" [ref=e1266] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297514/question/list
+            - generic [ref=e1267]:
+              - img "ゲーム" [ref=e1270]
+              - paragraph [ref=e1273]: ゲーム
+          - link "オンラインゲーム オンラインゲーム" [ref=e1275] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401152/question/list
+            - generic [ref=e1276]:
+              - img "オンラインゲーム" [ref=e1279]
+              - paragraph [ref=e1282]: オンラインゲーム
+          - link "趣味 趣味" [ref=e1284] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401176/question/list
+            - generic [ref=e1285]:
+              - img "趣味" [ref=e1288]
+              - paragraph [ref=e1291]: 趣味
+          - link "おもちゃ おもちゃ" [ref=e1293] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401164/question/list
+            - generic [ref=e1294]:
+              - img "おもちゃ" [ref=e1297]
+              - paragraph [ref=e1300]: おもちゃ
+          - link "本、雑誌 本、雑誌" [ref=e1302] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297562/question/list
+            - generic [ref=e1303]:
+              - img "本、雑誌" [ref=e1306]
+              - paragraph [ref=e1309]: 本、雑誌
+          - link "占い、超常現象 占い、超常現象" [ref=e1311] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297564/question/list
+            - generic [ref=e1312]:
+              - img "占い、超常現象" [ref=e1315]
+              - paragraph [ref=e1318]: 占い、超常現象
+          - link "占い" [ref=e1320] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078645002/question/list
+            - generic [ref=e1321]:
+              - img [ref=e1323]
+              - paragraph [ref=e1327]: 占い
+          - link "超常現象、オカルト" [ref=e1329] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078645003/question/list
+            - generic [ref=e1330]:
+              - img [ref=e1332]
+              - paragraph [ref=e1336]: 超常現象、オカルト
+          - link "懸賞、くじ 懸賞、くじ" [ref=e1338] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078645004/question/list
+            - generic [ref=e1339]:
+              - img "懸賞、くじ" [ref=e1342]
+              - paragraph [ref=e1345]: 懸賞、くじ
+          - link "伝統文化、伝統芸能 伝統文化、伝統芸能" [ref=e1347] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079048291/question/list
+            - generic [ref=e1348]:
+              - img "伝統文化、伝統芸能" [ref=e1351]
+              - paragraph [ref=e1354]: 伝統文化、伝統芸能
+        - link "カテゴリ一覧を見る" [ref=e1356] [cursor=pointer]:
+          - /url: /category
+          - text: カテゴリ一覧を見る
+          - img [ref=e1357]
+      - generic [ref=e1360]:
+        - iframe
+        - iframe [ref=e1362]:
+          - generic [ref=f251e5]:
+            - link "石丸伸二、大道芸人を目指した過去告白 “本気の恋を忘れた大人たち”が本音で向き合うABEMAオリジナル恋愛番組『恋…｜ABEMA" [ref=f251e6] [cursor=pointer]:
+              - /url: https://apm.yahoo.co.jp/rd?ep=A9VN62kAAB2rUhzErPqvCYHRBT_axpAGnmlzI6j3mp80oIEfmBauumWoF_4XjK4PTROSUMmZuyPZwVs99I1Td4Tk7KCz9HxNHXnWId8pux4wwatrvNleJgWXa0KmpGPh_0LcV8h4Ku5HzqM_ci35Hl2PPaYucSQgE76PIbPX9hKqPxbwpxFuQee8XGM2BmqyyzMfRmqu4urgpWphlxNRPA5gkepLBRkVlvyJOq3KxHOXUyS7oO_h_iCTETB_cq5IOfrfoiLetPEH4U_qLZgPqK8woTmqOdcgeRiJq26VuWNsDd_0MQAiqMbwe7BZcoUjpYL7ifFivmEJlzZDwOO8xuNf9NBpLtueu5yilK5QllCy2lECtPAEsdxHFWWVyI2McXp6l_TzdLB-8HZV_mPZ36SrIPOtMcwReCK0RbNaW3t9GbOf7Lnii8FG5QNGysJg5E56jzJ46IPjMd4DQi6PB61uNei_RNoJGG2bXopy2xAKBfa5I-I0Onx3ucsescA3CjkvrNTzuMxj8eTjB3ek5N9oUa90e_tJKl1hXZgMOGIws3XR_cphgUMjf2tu4CcgR0lGydVSw3lxCrSW5B9EIVTOfTbUuP_fB2PBXmsAgN_g3dCMxmyhGOoLGVGwunw5ZYAVOsaWYvbylX1eKNKs28quB2h7qNvBashp0kFUtnJT_DaMTQVZo-sM3CJpwS4FjVeEQuvzMGUfcHbNlUqN8sYZ9TFqZqQYleEvbsu_ow3d4BbHd_aSwIZDZrOCDPOvsEbxhsggX1DOd7hLfpgmSchChOF9Fns9_EiFGR9sq-WMVS4YxTlJP2DZS-UQEXbzUPxCg8F4zn-Et_TiUZmfKEyFi17tLPw42061S0tcBMnxY2s2pjZgqKb122AnQD7TpEW5zcyGEwkU_wzWqF5CoL-CEFQzjQ4zkOU-yetp4Q9zG326uVAl7joY3zzKBTeunI9Tt1lGkoxCADHgM-Kn02382hFX85dXZIVJxKCAwV4EXE25qidLZ-ZFNyNq9ZIJquRAkbc_FSX7Fqf-zTB5PSCly2asWv3yCaTC2AFwhJyNRgN1JzikTwn5joKF1rZo2HgCUVAr_MS9p_4U87wphamZWl6Z1Ykwqn45EjgBQJHWMvuczsF9SJtsT16g90yFscqgXRg6CDyCUseo0B0Stf3l2E9Uaqy0dRLqVWRFSsv8l3IRBRKQoqqpYkcNZJ9FsjYbLgTE3PVmPIvT-Y6pVLQwJn7YaeqIp-7ZjZ78lnanvwVWlUrz3Okxqh-LakV8050AQSdh0P0JSR3TT9dVoP021qmBOla24HOEWFMvy1swsMmZhUFhwupV-YhNAVnfqPWTafnWgq72GCG3DEZ0uBpcq9gPGS85rG7_I9LVwcaeF4cr3s8Gnhe78_8Qj9iLhfN90dwAXlhP2tOv2tjtpg&v=5
+              - generic [ref=f251e7]:
+                - generic [ref=f251e8]: 石丸伸二、大道芸人を目指した過去告白
+                - generic [ref=f251e9]:
+                  - img
+              - generic [ref=f251e11]:
+                - img
+                - img
+              - generic [ref=f251e14]: “本気の恋を忘れた大人たち”が本音で向き合うABEMAオリジナル恋愛番組『恋…｜ABEMA
+            - generic [ref=f251e15] [cursor=pointer]:
+              - link "広告" [ref=f251e18]:
+                - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A9VN62kAADis-JUsrzc5_verRVXC83oFynnERzu07ocowDrP8lbrdKG5U15Co-c-QIzPTPNVj8AXUdwdKN4ed-gaFKCgSFdilC7VvWiyifW-vw9iNeY0AiQvcKRTlApG2A4aVhuOQ1oKru3zMz6sQqhqNEMAj06fCy7Q4dlKl6mBS36fbYAZWVbn4Vtv9VxQm2xCakrvb4sOt2t7J3Ih-APQfZ5qESFkpoEej39o23i8s7C4tpEgsVoot-1jYp22zDaJsnuaKQGBr0zudc9uYOxrKW3jcjJArOGuKGx-HH2FdBhfoJAl45UbHS8mdP0&o=A9VN62kAALXOCKq7hxnAQuS_X__lnxkFInvZiuweWBEd_oT_ZJ3IQU_h6k4XGHRcjD5z4PgH5LP2lmLmP0Fqmv8p9cQxNkmKyjtU1SOFG0mph6XHOHhTkGNUcyMdZ9Y01Z7QJjq2E7BfNSVCi1HnQPcXfRNqDdB3ezUuZlI-4CjrFhCo-SG1My0ciXtCM0Qm2DrHk-2LYQ8ZMCp5kbkFNLOPAJ0laMyMpAo42DvrDygutnd9XFiTiyrKuyAq4_uyesd8SvaidMoQxN31OevNvx-u96f0
+                - generic [ref=f251e20]:
+                  - generic [ref=f251e21]: 広告
+                  - img [ref=f251e23]
+              - img [ref=f251e28]
+  - contentinfo [ref=e1364]:
+    - generic [ref=e1365]:
+      - link "Yahoo!知恵袋" [ref=e1366] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e1367]: "|"
+      - link "Yahoo! JAPAN" [ref=e1368] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e1369]:
+      - link "プライバシーポリシー" [ref=e1370] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e1371]: "-"
+      - link "プライバシーセンター" [ref=e1372] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e1373]: "-"
+      - link "利用規約" [ref=e1374] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e1375]: "-"
+      - link "利用のルール" [ref=e1376] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e1377]: "-"
+      - link "広告掲載について" [ref=e1378] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/?utm_source=yahoo&utm_medium=referral&utm_campaign=ysa_cv_link_chiebukuro_241001
+      - generic [ref=e1379]: "-"
+      - link "ご意見・ご要望" [ref=e1380] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e1381]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e1382] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e1383]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e1384]: 画像：アフロ
+    - generic [ref=e1385]: © LY Corporation
+  - generic:
+    - generic:
+      - generic:
+        - paragraph:
+          - img
+          - text: 通信に失敗しました

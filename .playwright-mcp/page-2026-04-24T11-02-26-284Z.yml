@@ -1,0 +1,937 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - paragraph [ref=e15]:
+          - link "冷凍野菜は生野菜より栄養価が高い!? 技術進歩で味わいも向上" [ref=e16] [cursor=pointer]:
+            - /url: https://yahoo.jp/up_2dV
+        - generic [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+                - /url: https://www.yahoo.co.jp/
+            - listitem [ref=e21]:
+              - link "ヘルプ" [ref=e22] [cursor=pointer]:
+                - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+          - generic [ref=e25]:
+            - generic "キーワード："
+            - textbox "ウェブ検索" [ref=e26]
+            - button "検索" [ref=e27] [cursor=pointer]
+            - link "かつみさゆり 急上昇" [ref=e28] [cursor=pointer]:
+              - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=%E3%81%8B%E3%81%A4%E3%81%BF%E3%81%95%E3%82%86%E3%82%8A&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+              - text: かつみさゆり
+              - img "急上昇" [ref=e29]
+      - generic [ref=e30]:
+        - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+          - img "Yahoo!知恵袋" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - text: IDでもっと便利に
+            - link "新規取得" [ref=e36] [cursor=pointer]:
+              - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078297937%2Fquestion%2Flist&.src=chiebukuro
+          - generic [ref=e37]:
+            - link "ログイン" [ref=e38] [cursor=pointer]:
+              - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078297937%2Fquestion%2Flist
+            - link "初回購入限定、アプリで使えるお得なクーポン" [ref=e40] [cursor=pointer]:
+              - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8zMDkzODgvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9zaG9wcGluZy55YWhvby5jby5qcC9wcm9tb3Rpb24vY291cG9uL2xpbWl0ZWQvZGVidXRfYXBwLz9zY19lPXl5bGtfbWhkX3R4dF9zaHBfcG1zc191bmxvZ2dlZF9hcHBfZGVidXRjb3Vwb24/
+    - navigation [ref=e42]:
+      - generic [ref=e45]:
+        - textbox "このカテゴリで探す" [ref=e47]
+        - button [ref=e48] [cursor=pointer]:
+          - img [ref=e49]
+      - list [ref=e51]:
+        - listitem [ref=e52]:
+          - link "カテゴリ" [ref=e53] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e54]:
+          - link "Q&A一覧" [ref=e55] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e56]:
+          - link "公式・専門家" [ref=e57] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e58]:
+          - link "お知らせ" [ref=e59] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e61] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e65]
+        - text: 質問・相談
+    - list [ref=e70]:
+      - listitem [ref=e71]:
+        - link "知恵袋トップ" [ref=e72] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+        - text: ＞
+      - listitem [ref=e73]:
+        - link "カテゴリ一覧" [ref=e74] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category
+        - text: ＞
+      - listitem [ref=e75]:
+        - generic [ref=e76]: 暮らしと生活ガイド
+  - generic [ref=e77]:
+    - generic [ref=e78]:
+      - generic [ref=e81]:
+        - img "暮らしと生活ガイド" [ref=e84]
+        - generic [ref=e85]:
+          - heading "暮らしと生活ガイド" [level=1] [ref=e87]
+          - generic [ref=e91]:
+            - img [ref=e92]
+            - text: お気に入り
+      - generic [ref=e95]:
+        - generic [ref=e96]:
+          - list [ref=e99]:
+            - listitem [ref=e100]:
+              - generic [ref=e102]: 回答受付中
+            - listitem [ref=e103]:
+              - link "解決済み" [ref=e104] [cursor=pointer]:
+                - /url: /category/2078297937/question/list?flg=1
+                - generic [ref=e105]: 解決済み
+            - listitem [ref=e106]:
+              - link "すべて" [ref=e107] [cursor=pointer]:
+                - /url: /category/2078297937/question/list?flg=3
+                - generic [ref=e108]: すべて
+          - generic [ref=e110]:
+            - img [ref=e112]
+            - generic [ref=e114]: 並べ替え：
+            - generic [ref=e117]:
+              - combobox [ref=e118]:
+                - option "質問日時の新しい順" [selected]
+                - option "質問日時の古い順"
+                - option "更新日時の新しい順"
+                - option "更新日時の古い順"
+                - option "回答数の多い順"
+                - option "回答数の少ない順"
+                - option "お礼の多い順"
+              - img
+            - generic [ref=e120]:
+              - generic [ref=e121]: AI質問含む
+              - checkbox [ref=e122] [cursor=pointer]
+            - generic [ref=e124]:
+              - checkbox [ref=e125] [cursor=pointer]
+              - img [ref=e127]
+              - generic [ref=e129]: 回答なし
+          - generic [ref=e130]:
+            - link "料理、食材 ダイエットで鶏肉を食べてるのですが、作り置きすると栄養素は失われますか？ タンパク質を摂るために解凍した鶏むね肉を使って親子丼やソテーなど簡単に調理して毎晩食べてます。 でも毎日調理するのは面... 回答数： 0 4/24 20:01 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e133] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517500
+              - generic [ref=e134]:
+                - paragraph [ref=e135]: 料理、食材
+                - paragraph [ref=e138]: ダイエットで鶏肉を食べてるのですが、作り置きすると栄養素は失われますか？ タンパク質を摂るために解凍した鶏むね肉を使って親子丼やソテーなど簡単に調理して毎晩食べてます。 でも毎日調理するのは面...
+                - generic [ref=e139]:
+                  - generic [ref=e140]:
+                    - generic "回答数：" [ref=e141]:
+                      - img [ref=e142]
+                    - generic [ref=e144]: "0"
+                  - generic "4/24 20:01" [ref=e146]
+                  - generic [ref=e147]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e148]:
+                      - img [ref=e149]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e155]: "50"
+            - link "交通事故 物損事故 相手が割合に納得いかず 色々あり弁護士委任することになりました。 けれど弁護士から連絡しても一切出ない 折り返しもない こういう場合、期間どのくらいかかりますか？ 回答数： 0 4/24 20:01" [ref=e158] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517491
+              - generic [ref=e159]:
+                - paragraph [ref=e160]: 交通事故
+                - paragraph [ref=e163]: 物損事故 相手が割合に納得いかず 色々あり弁護士委任することになりました。 けれど弁護士から連絡しても一切出ない 折り返しもない こういう場合、期間どのくらいかかりますか？
+                - generic [ref=e164]:
+                  - generic [ref=e165]:
+                    - generic "回答数：" [ref=e166]:
+                      - img [ref=e167]
+                    - generic [ref=e169]: "0"
+                  - generic "4/24 20:01" [ref=e171]
+            - link "恋愛相談、人間関係の悩み 目がバキバキしてる人は犯罪者や危険な人が多いですか？ 回答数： 0 4/24 20:01" [ref=e174] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517490
+              - generic [ref=e175]:
+                - paragraph [ref=e176]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e179]: 目がバキバキしてる人は犯罪者や危険な人が多いですか？
+                - generic [ref=e180]:
+                  - generic [ref=e181]:
+                    - generic "回答数：" [ref=e182]:
+                      - img [ref=e183]
+                    - generic [ref=e185]: "0"
+                  - generic "4/24 20:01" [ref=e187]
+            - link "メルカリ メルカリで住所書かないで送る方法ってどうすればいいんですか 回答数： 0 4/24 20:01" [ref=e190] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517485
+              - generic [ref=e191]:
+                - paragraph [ref=e192]: メルカリ
+                - paragraph [ref=e195]: メルカリで住所書かないで送る方法ってどうすればいいんですか
+                - generic [ref=e196]:
+                  - generic [ref=e197]:
+                    - generic "回答数：" [ref=e198]:
+                      - img [ref=e199]
+                    - generic [ref=e201]: "0"
+                  - generic "4/24 20:01" [ref=e203]
+            - link "法律相談 法律に抵触しなければ何しても良いでは無い理由はそれするとそれもいずれ法律で規制されるからですか？倫理観の話ですか？ 回答数： 0 4/24 20:00" [ref=e206] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517442
+              - generic [ref=e207]:
+                - paragraph [ref=e208]: 法律相談
+                - paragraph [ref=e211]: 法律に抵触しなければ何しても良いでは無い理由はそれするとそれもいずれ法律で規制されるからですか？倫理観の話ですか？
+                - generic [ref=e212]:
+                  - generic [ref=e213]:
+                    - generic "回答数：" [ref=e214]:
+                      - img [ref=e215]
+                    - generic [ref=e217]: "0"
+                  - generic "4/24 20:00" [ref=e219]
+            - link "料理、食材 市販の温泉卵って賞味期限割と長くないですか？なんでですか？？ 回答数： 0 4/24 19:59" [ref=e222] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517439
+              - generic [ref=e223]:
+                - paragraph [ref=e224]: 料理、食材
+                - paragraph [ref=e227]: 市販の温泉卵って賞味期限割と長くないですか？なんでですか？？
+                - generic [ref=e228]:
+                  - generic [ref=e229]:
+                    - generic "回答数：" [ref=e230]:
+                      - img [ref=e231]
+                    - generic [ref=e233]: "0"
+                  - generic "4/24 19:59" [ref=e235]
+            - link "メルカリ メルカリで教科書が売れたので送料着払いで発送したいんですけど、着払いの場合ってどうやって送ればいいのですか？ 回答数： 0 4/24 19:59" [ref=e238] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517420
+              - generic [ref=e239]:
+                - paragraph [ref=e240]: メルカリ
+                - paragraph [ref=e243]: メルカリで教科書が売れたので送料着払いで発送したいんですけど、着払いの場合ってどうやって送ればいいのですか？
+                - generic [ref=e244]:
+                  - generic [ref=e245]:
+                    - generic "回答数：" [ref=e246]:
+                      - img [ref=e247]
+                    - generic [ref=e249]: "0"
+                  - generic "4/24 19:59" [ref=e251]
+            - link "料理、食材 お茶漬けは何の為に食べますか？ 回答数： 0 4/24 19:59 ベストアンサーへのお礼（知恵コイン）： 50 お茶漬けは何の為に食べますか？" [ref=e254] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517415
+              - generic [ref=e255]:
+                - paragraph [ref=e256]: 料理、食材
+                - paragraph [ref=e259]: お茶漬けは何の為に食べますか？
+                - generic [ref=e260]:
+                  - generic [ref=e261]:
+                    - generic "回答数：" [ref=e262]:
+                      - img [ref=e263]
+                    - generic [ref=e265]: "0"
+                  - generic "4/24 19:59" [ref=e267]
+                  - generic [ref=e268]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e269]:
+                      - img [ref=e270]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e276]: "50"
+              - img "お茶漬けは何の為に食べますか？" [ref=e279]
+            - link "ファーストフード マックナゲット5Pの他に食べるなら何食べますか？割引クーポンを他に何頼もうかと思ってます。 回答数： 3 4/24 19:58" [ref=e282] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517395
+              - generic [ref=e283]:
+                - paragraph [ref=e284]: ファーストフード
+                - paragraph [ref=e287]: マックナゲット5Pの他に食べるなら何食べますか？割引クーポンを他に何頼もうかと思ってます。
+                - generic [ref=e288]:
+                  - generic [ref=e289]:
+                    - generic "回答数：" [ref=e290]:
+                      - img [ref=e291]
+                    - generic [ref=e293]: "3"
+                  - generic "4/24 19:58" [ref=e295]
+            - link "DIY 金槌はどんな時に使いますか？ 回答数： 1 4/24 19:58" [ref=e298] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517385
+              - generic [ref=e299]:
+                - paragraph [ref=e300]: DIY
+                - paragraph [ref=e303]: 金槌はどんな時に使いますか？
+                - generic [ref=e304]:
+                  - generic [ref=e305]:
+                    - generic "回答数：" [ref=e306]:
+                      - img [ref=e307]
+                    - generic [ref=e309]: "1"
+                  - generic "4/24 19:58" [ref=e311]
+            - link "ショッピング temuのクレジットバックキャンペーンについて質問です。 最近はじめてクレジットバックキャンペーンで4000円ゲットしたんですが、調べていると何度もこのキャンペーンで4000円ゲットしている人が... 回答数： 0 4/24 19:58 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e314] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517376
+              - generic [ref=e315]:
+                - paragraph [ref=e316]: ショッピング
+                - paragraph [ref=e319]: temuのクレジットバックキャンペーンについて質問です。 最近はじめてクレジットバックキャンペーンで4000円ゲットしたんですが、調べていると何度もこのキャンペーンで4000円ゲットしている人が...
+                - generic [ref=e320]:
+                  - generic [ref=e321]:
+                    - generic "回答数：" [ref=e322]:
+                      - img [ref=e323]
+                    - generic [ref=e325]: "0"
+                  - generic "4/24 19:58" [ref=e327]
+                  - generic [ref=e328]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e329]:
+                      - img [ref=e330]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e336]: "50"
+            - link "新築一戸建て 住宅メーカーで天井4箇所の下地入れを忘れていて1箇所のカーテンレールが外れて判明しました。 その場所は連絡したことから壁紙一面と下地の入れ直し（釘打ちすぎじゃないかな？と思うくらい入れてました）... 回答数： 0 4/24 19:57" [ref=e339] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517368
+              - generic [ref=e340]:
+                - paragraph [ref=e341]: 新築一戸建て
+                - paragraph [ref=e344]: 住宅メーカーで天井4箇所の下地入れを忘れていて1箇所のカーテンレールが外れて判明しました。 その場所は連絡したことから壁紙一面と下地の入れ直し（釘打ちすぎじゃないかな？と思うくらい入れてました）...
+                - generic [ref=e345]:
+                  - generic [ref=e346]:
+                    - generic "回答数：" [ref=e347]:
+                      - img [ref=e348]
+                    - generic [ref=e350]: "0"
+                  - generic "4/24 19:57" [ref=e352]
+            - link "法律相談 公正証書についての質問ですが、遺言公正証書を作成するにあたり、遺言執行者が、法人の場合、その法人の従業員をその公正証書の証人とすることができるのでしょうか？ また、その証人の住所を会社の所在地す... 回答数： 0 4/24 19:57 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e355] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517366
+              - generic [ref=e356]:
+                - paragraph [ref=e357]: 法律相談
+                - paragraph [ref=e360]: 公正証書についての質問ですが、遺言公正証書を作成するにあたり、遺言執行者が、法人の場合、その法人の従業員をその公正証書の証人とすることができるのでしょうか？ また、その証人の住所を会社の所在地す...
+                - generic [ref=e361]:
+                  - generic [ref=e362]:
+                    - generic "回答数：" [ref=e363]:
+                      - img [ref=e364]
+                    - generic [ref=e366]: "0"
+                  - generic "4/24 19:57" [ref=e368]
+                  - generic [ref=e369]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e370]:
+                      - img [ref=e371]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e377]: "100"
+            - link "害虫、ねずみ ヒメマルカツオブシムシについて 部屋で3日連続成虫を見かけました。 初めて見た時はカメムシと思って居ましたが、3日連続で見かけたのでChatGPTに写真付きでみてもらったるヒメマルカツオブシム... 回答数： 0 4/24 19:57 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e380] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517351
+              - generic [ref=e381]:
+                - paragraph [ref=e382]: 害虫、ねずみ
+                - paragraph [ref=e385]: ヒメマルカツオブシムシについて 部屋で3日連続成虫を見かけました。 初めて見た時はカメムシと思って居ましたが、3日連続で見かけたのでChatGPTに写真付きでみてもらったるヒメマルカツオブシム...
+                - generic [ref=e386]:
+                  - generic [ref=e387]:
+                    - generic "回答数：" [ref=e388]:
+                      - img [ref=e389]
+                    - generic [ref=e391]: "0"
+                  - generic "4/24 19:57" [ref=e393]
+                  - generic [ref=e394]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e395]:
+                      - img [ref=e396]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e402]: "100"
+            - link "お酒、ドリンク 1Lジョッキに氷を3分の2入れて 42度のウイスキーを60mlいれて 炭酸水を600ml入れて飲む場合 何%のハイボールになっているんですか？ 約でも良いので、知りたいです 回答数： 0 4/24 19:57" [ref=e405] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517349
+              - generic [ref=e406]:
+                - paragraph [ref=e407]: お酒、ドリンク
+                - paragraph [ref=e410]: 1Lジョッキに氷を3分の2入れて 42度のウイスキーを60mlいれて 炭酸水を600ml入れて飲む場合 何%のハイボールになっているんですか？ 約でも良いので、知りたいです
+                - generic [ref=e411]:
+                  - generic [ref=e412]:
+                    - generic "回答数：" [ref=e413]:
+                      - img [ref=e414]
+                    - generic [ref=e416]: "0"
+                  - generic "4/24 19:57" [ref=e418]
+            - link "料理、食材 ラーメンってカロリーすごいですが、あれって汁まで飲んだらですか？麺と具材だけだとそんなに？ 回答数： 0 4/24 19:56" [ref=e421] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517323
+              - generic [ref=e422]:
+                - paragraph [ref=e423]: 料理、食材
+                - paragraph [ref=e426]: ラーメンってカロリーすごいですが、あれって汁まで飲んだらですか？麺と具材だけだとそんなに？
+                - generic [ref=e427]:
+                  - generic [ref=e428]:
+                    - generic "回答数：" [ref=e429]:
+                      - img [ref=e430]
+                    - generic [ref=e432]: "0"
+                  - generic "4/24 19:56" [ref=e434]
+            - link "ショッピング 買い物NGと言われましたが‥セリア、スリコ辺りでグッズを飾る用のディスプレイ購入も不可になりますかね？流石に 回答数： 0 4/24 19:55" [ref=e437] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517303
+              - generic [ref=e438]:
+                - paragraph [ref=e439]: ショッピング
+                - paragraph [ref=e442]: 買い物NGと言われましたが‥セリア、スリコ辺りでグッズを飾る用のディスプレイ購入も不可になりますかね？流石に
+                - generic [ref=e443]:
+                  - generic [ref=e444]:
+                    - generic "回答数：" [ref=e445]:
+                      - img [ref=e446]
+                    - generic [ref=e448]: "0"
+                  - generic "4/24 19:55" [ref=e450]
+            - link "ペット わんちゃんとは言うけどにゃーちゃんと言わないのは何故ですか？ 回答数： 1 4/24 19:55" [ref=e453] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517302
+              - generic [ref=e454]:
+                - paragraph [ref=e455]: ペット
+                - paragraph [ref=e458]: わんちゃんとは言うけどにゃーちゃんと言わないのは何故ですか？
+                - generic [ref=e459]:
+                  - generic [ref=e460]:
+                    - generic "回答数：" [ref=e461]:
+                      - img [ref=e462]
+                    - generic [ref=e464]: "1"
+                  - generic "4/24 19:55" [ref=e466]
+            - link "福祉、介護 中国残留邦人支援給付金受給者と生活保護受給者の実質的な支援の意味は同じでしょうか？ ※AI回答 『中国残留邦人支援給付受給者は、戦後の混乱期に中国大陸に取り残され、永住帰国した日本人の本人（中国... 回答数： 0 4/24 19:55 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e469] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517300
+              - generic [ref=e470]:
+                - paragraph [ref=e471]: 福祉、介護
+                - paragraph [ref=e474]: 中国残留邦人支援給付金受給者と生活保護受給者の実質的な支援の意味は同じでしょうか？ ※AI回答 『中国残留邦人支援給付受給者は、戦後の混乱期に中国大陸に取り残され、永住帰国した日本人の本人（中国...
+                - generic [ref=e475]:
+                  - generic [ref=e476]:
+                    - generic "回答数：" [ref=e477]:
+                      - img [ref=e478]
+                    - generic [ref=e480]: "0"
+                  - generic "4/24 19:55" [ref=e482]
+                  - generic [ref=e483]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e484]:
+                      - img [ref=e485]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e491]: "25"
+            - link "法律相談 父親が離婚歴ある場合、相続時に離婚相手との間に、子供がいないことを証明する必要あるでしょうか？ もし、証明必要な時は、どうすれば良いのでしょうか？ 回答数： 2 4/24 19:55" [ref=e494] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517276
+              - generic [ref=e495]:
+                - paragraph [ref=e496]: 法律相談
+                - paragraph [ref=e499]: 父親が離婚歴ある場合、相続時に離婚相手との間に、子供がいないことを証明する必要あるでしょうか？ もし、証明必要な時は、どうすれば良いのでしょうか？
+                - generic [ref=e500]:
+                  - generic [ref=e501]:
+                    - generic "回答数：" [ref=e502]:
+                      - img [ref=e503]
+                    - generic [ref=e505]: "2"
+                  - generic "4/24 19:55" [ref=e507]
+            - link "賃貸物件 賃貸契約に詳しい方教えてください！ 離婚していて週末だけ子供が泊まる場合、アパートの管理会社に子供のマイナンバーを提出する必要がありますか？ 同居ではなく泊まりに来るだけなのに、なぜマイナン... 回答数： 0 4/24 19:54 ベストアンサーへのお礼（知恵コイン）： 250" [ref=e510] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517262
+              - generic [ref=e511]:
+                - paragraph [ref=e512]: 賃貸物件
+                - paragraph [ref=e515]: 賃貸契約に詳しい方教えてください！ 離婚していて週末だけ子供が泊まる場合、アパートの管理会社に子供のマイナンバーを提出する必要がありますか？ 同居ではなく泊まりに来るだけなのに、なぜマイナン...
+                - generic [ref=e516]:
+                  - generic [ref=e517]:
+                    - generic "回答数：" [ref=e518]:
+                      - img [ref=e519]
+                    - generic [ref=e521]: "0"
+                  - generic "4/24 19:54" [ref=e523]
+                  - generic [ref=e524]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e525]:
+                      - img [ref=e526]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e532]: "250"
+            - link "料理、食材 朝レンチンしたおにぎりを深夜にもう一回温めて食べれますか？ラップに包みっぱなしにして常温保存していたおにぎりです。 回答数： 1 4/24 19:54" [ref=e535] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517261
+              - generic [ref=e536]:
+                - paragraph [ref=e537]: 料理、食材
+                - paragraph [ref=e540]: 朝レンチンしたおにぎりを深夜にもう一回温めて食べれますか？ラップに包みっぱなしにして常温保存していたおにぎりです。
+                - generic [ref=e541]:
+                  - generic [ref=e542]:
+                    - generic "回答数：" [ref=e543]:
+                      - img [ref=e544]
+                    - generic [ref=e546]: "1"
+                  - generic "4/24 19:54" [ref=e548]
+            - link "イヌ 現在高校一年生です。今赤ちゃんの柴犬を飼おうと考えています。ただ将来的に大学2年生で1年間留学に行こうと思っています。親には自分が留学している間の世話を誰がするのかで少し反対されています。 でも... 回答数： 0 4/24 19:54 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e551] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517251
+              - generic [ref=e552]:
+                - paragraph [ref=e553]: イヌ
+                - paragraph [ref=e556]: 現在高校一年生です。今赤ちゃんの柴犬を飼おうと考えています。ただ将来的に大学2年生で1年間留学に行こうと思っています。親には自分が留学している間の世話を誰がするのかで少し反対されています。 でも...
+                - generic [ref=e557]:
+                  - generic [ref=e558]:
+                    - generic "回答数：" [ref=e559]:
+                      - img [ref=e560]
+                    - generic [ref=e562]: "0"
+                  - generic "4/24 19:54" [ref=e564]
+                  - generic [ref=e565]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e566]:
+                      - img [ref=e567]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e573]: "100"
+            - link "法律相談 認知症の大叔母が施設入居中であり、私の母（姪）が施設の保証人となり介護をしています。大叔母の兄弟も健在しており、血縁者で争いなく皆でサポートしている状況です。 しかし遠い親戚（大叔母と血縁なし）... 回答数： 0 4/24 19:54" [ref=e576] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517249
+              - generic [ref=e577]:
+                - paragraph [ref=e578]: 法律相談
+                - paragraph [ref=e581]: 認知症の大叔母が施設入居中であり、私の母（姪）が施設の保証人となり介護をしています。大叔母の兄弟も健在しており、血縁者で争いなく皆でサポートしている状況です。 しかし遠い親戚（大叔母と血縁なし）...
+                - generic [ref=e582]:
+                  - generic [ref=e583]:
+                    - generic "回答数：" [ref=e584]:
+                      - img [ref=e585]
+                    - generic [ref=e587]: "0"
+                  - generic "4/24 19:54" [ref=e589]
+            - link "ファーストフード すき家の塩野菜牛丼まじで美味しくないんですけど食べた人いますか？ 写真よりも肉が格段に少なかったのはまだ許せるんですけど、塩野菜が塩味全然感じません。かかってた部分ほんとに一部分だけであと全部油... 回答数： 0 4/24 19:52" [ref=e592] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517210
+              - generic [ref=e593]:
+                - paragraph [ref=e594]: ファーストフード
+                - paragraph [ref=e597]: すき家の塩野菜牛丼まじで美味しくないんですけど食べた人いますか？ 写真よりも肉が格段に少なかったのはまだ許せるんですけど、塩野菜が塩味全然感じません。かかってた部分ほんとに一部分だけであと全部油...
+                - generic [ref=e598]:
+                  - generic [ref=e599]:
+                    - generic "回答数：" [ref=e600]:
+                      - img [ref=e601]
+                    - generic [ref=e603]: "0"
+                  - generic "4/24 19:52" [ref=e605]
+            - link "福祉、介護 統合失調症の家族についての相談です。 【事前情報】 60歳女性。20歳くらいに統合失調症を発症し、当時の田舎という状況もあり、通院させず隠した結果、難治性統合失調症になる。 現在は、家族と同居... 回答数： 0 4/24 19:52 ベストアンサーへのお礼（知恵コイン）： 250" [ref=e608] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517206
+              - generic [ref=e609]:
+                - paragraph [ref=e610]: 福祉、介護
+                - paragraph [ref=e613]: 統合失調症の家族についての相談です。 【事前情報】 60歳女性。20歳くらいに統合失調症を発症し、当時の田舎という状況もあり、通院させず隠した結果、難治性統合失調症になる。 現在は、家族と同居...
+                - generic [ref=e614]:
+                  - generic [ref=e615]:
+                    - generic "回答数：" [ref=e616]:
+                      - img [ref=e617]
+                    - generic [ref=e619]: "0"
+                  - generic "4/24 19:52" [ref=e621]
+                  - generic [ref=e622]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e623]:
+                      - img [ref=e624]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e630]: "250"
+            - link "住宅ローン これから住宅ローンを組むにあたり、結構金利が上がっていく場面だと思うのですが、元利均等返済を選択すると、未払利息がふえて後々大変になる可能性があるので、やめた方がいいでしょうか？ 元利均等返済を... 回答数： 0 4/24 19:52 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e633] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517201
+              - generic [ref=e634]:
+                - paragraph [ref=e635]: 住宅ローン
+                - paragraph [ref=e638]: これから住宅ローンを組むにあたり、結構金利が上がっていく場面だと思うのですが、元利均等返済を選択すると、未払利息がふえて後々大変になる可能性があるので、やめた方がいいでしょうか？ 元利均等返済を...
+                - generic [ref=e639]:
+                  - generic [ref=e640]:
+                    - generic "回答数：" [ref=e641]:
+                      - img [ref=e642]
+                    - generic [ref=e644]: "0"
+                  - generic "4/24 19:52" [ref=e646]
+                  - generic [ref=e647]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e648]:
+                      - img [ref=e649]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e655]: "50"
+            - link "料理、食材 寿司の保存方法 生ものなので常温だと怖いし かといって冷蔵庫入れるとシャリが固くなったりで まずくてとても食べられなくなりますが やっぱりすぐ食べてしまうしかないのでしょうか？ 回答数： 0 4/24 19:51 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e658] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517185
+              - generic [ref=e659]:
+                - paragraph [ref=e660]: 料理、食材
+                - paragraph [ref=e663]: 寿司の保存方法 生ものなので常温だと怖いし かといって冷蔵庫入れるとシャリが固くなったりで まずくてとても食べられなくなりますが やっぱりすぐ食べてしまうしかないのでしょうか？
+                - generic [ref=e664]:
+                  - generic [ref=e665]:
+                    - generic "回答数：" [ref=e666]:
+                      - img [ref=e667]
+                    - generic [ref=e669]: "0"
+                  - generic "4/24 19:51" [ref=e671]
+                  - generic [ref=e672]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e673]:
+                      - img [ref=e674]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e680]: "50"
+            - 'link "料理、食材 パン屋で買ったパンの紙袋を開けたらコバエが出てきました。前から行きたかった都内のパン屋にやっと行けて楽しみにしていたのでショックでした(´⌒`。) 高いので捨てるのも嫌で食べましたが、大丈夫でし... 回答数： 0 4/24 19:51 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e683] [cursor=pointer]':
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517174
+              - generic [ref=e684]:
+                - paragraph [ref=e685]: 料理、食材
+                - paragraph [ref=e688]: "パン屋で買ったパンの紙袋を開けたらコバエが出てきました。前から行きたかった都内のパン屋にやっと行けて楽しみにしていたのでショックでした(´⌒`。) 高いので捨てるのも嫌で食べましたが、大丈夫でし..."
+                - generic [ref=e689]:
+                  - generic [ref=e690]:
+                    - generic "回答数：" [ref=e691]:
+                      - img [ref=e692]
+                    - generic [ref=e694]: "0"
+                  - generic "4/24 19:51" [ref=e696]
+                  - generic [ref=e697]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e698]:
+                      - img [ref=e699]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e705]: "25"
+            - link "日用品、生活雑貨 汗をかいた後に臭くならないグッズありますか？ 回答数： 1 4/24 19:50" [ref=e708] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517138
+              - generic [ref=e709]:
+                - paragraph [ref=e710]: 日用品、生活雑貨
+                - paragraph [ref=e713]: 汗をかいた後に臭くならないグッズありますか？
+                - generic [ref=e714]:
+                  - generic [ref=e715]:
+                    - generic "回答数：" [ref=e716]:
+                      - img [ref=e717]
+                    - generic [ref=e719]: "1"
+                  - generic "4/24 19:50" [ref=e721]
+            - link "イヌ 友達の飼っている事故？病気？あまりよく覚えていないけどで片足がない犬を見て妖怪みたいと言ったら僕が周囲から批判されたのですがこれ僕が悪いんですか その犬は後ろ足の片方がないのですがそれが妖怪のよ... 回答数： 2 4/24 19:50" [ref=e724] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517134
+              - generic [ref=e725]:
+                - paragraph [ref=e726]: イヌ
+                - paragraph [ref=e729]: 友達の飼っている事故？病気？あまりよく覚えていないけどで片足がない犬を見て妖怪みたいと言ったら僕が周囲から批判されたのですがこれ僕が悪いんですか その犬は後ろ足の片方がないのですがそれが妖怪のよ...
+                - generic [ref=e730]:
+                  - generic [ref=e731]:
+                    - generic "回答数：" [ref=e732]:
+                      - img [ref=e733]
+                    - generic [ref=e735]: "2"
+                  - generic "4/24 19:50" [ref=e737]
+            - link "法律相談 女性へのAED、訴えられるわけないし訴えられても別によくないですか？ SNSで訴えられるのを怖がってる男性が非常に多いようですが、状況的に訴えられるわけないですよね 警察や検察も裁判所も「異性... 回答数： 1 4/24 19:50 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e740] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517129
+              - generic [ref=e741]:
+                - paragraph [ref=e742]: 法律相談
+                - paragraph [ref=e745]: 女性へのAED、訴えられるわけないし訴えられても別によくないですか？ SNSで訴えられるのを怖がってる男性が非常に多いようですが、状況的に訴えられるわけないですよね 警察や検察も裁判所も「異性...
+                - generic [ref=e746]:
+                  - generic [ref=e747]:
+                    - generic "回答数：" [ref=e748]:
+                      - img [ref=e749]
+                    - generic [ref=e751]: "1"
+                  - generic "4/24 19:50" [ref=e753]
+                  - generic [ref=e754]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e755]:
+                      - img [ref=e756]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e762]: "25"
+            - link "菓子、スイーツ 粉糖と水で作ったアイシングそのままたべたらまずくないですか？友達はおいしいといっていました。私の味覚がおかしいだけですか？ 回答数： 2 4/24 19:49" [ref=e765] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517127
+              - generic [ref=e766]:
+                - paragraph [ref=e767]: 菓子、スイーツ
+                - paragraph [ref=e770]: 粉糖と水で作ったアイシングそのままたべたらまずくないですか？友達はおいしいといっていました。私の味覚がおかしいだけですか？
+                - generic [ref=e771]:
+                  - generic [ref=e772]:
+                    - generic "回答数：" [ref=e773]:
+                      - img [ref=e774]
+                    - generic [ref=e776]: "2"
+                  - generic "4/24 19:49" [ref=e778]
+            - link "住宅ローン 気分障害な気がするので精神科や心療内科に行ってみようと思っているのですが、 受診履歴や通院入院履歴があると社会的に不利に働く場面はどのような場合がありますか？ここが心配で中々行く勇気が出ません。 ・現 回答数： 1 4/24 19:49 ベストアンサーへのお礼（知恵コイン）： 250" [ref=e781] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517118
+              - generic [ref=e782]:
+                - paragraph [ref=e783]: 住宅ローン
+                - paragraph [ref=e786]: 気分障害な気がするので精神科や心療内科に行ってみようと思っているのですが、 受診履歴や通院入院履歴があると社会的に不利に働く場面はどのような場合がありますか？ここが心配で中々行く勇気が出ません。 ・現
+                - generic [ref=e787]:
+                  - generic [ref=e788]:
+                    - generic "回答数：" [ref=e789]:
+                      - img [ref=e790]
+                    - generic [ref=e792]: "1"
+                  - generic "4/24 19:49" [ref=e794]
+                  - generic [ref=e795]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e796]:
+                      - img [ref=e797]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e803]: "250"
+            - link "文房具 なぜこの消しゴムにはMONOと書いてあるのですか？ 回答数： 2 4/24 19:49 なぜこの消しゴムにはMONOと書いてあるのですか？" [ref=e806] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517113
+              - generic [ref=e807]:
+                - paragraph [ref=e808]: 文房具
+                - paragraph [ref=e811]: なぜこの消しゴムにはMONOと書いてあるのですか？
+                - generic [ref=e812]:
+                  - generic [ref=e813]:
+                    - generic "回答数：" [ref=e814]:
+                      - img [ref=e815]
+                    - generic [ref=e817]: "2"
+                  - generic "4/24 19:49" [ref=e819]
+              - img "なぜこの消しゴムにはMONOと書いてあるのですか？" [ref=e822]
+            - link "法律相談 ネットの人にインスタを特定されてフォロー欄から僕の友達にメッセージを送ったりしてきた人がいます。 メッセージの内容は僕の学校名 住所 個人情報 を聞き出すようなものです。 しかも相手はネカマ（女... 回答数： 0 4/24 19:49 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e825] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517109
+              - generic [ref=e826]:
+                - paragraph [ref=e827]: 法律相談
+                - paragraph [ref=e830]: ネットの人にインスタを特定されてフォロー欄から僕の友達にメッセージを送ったりしてきた人がいます。 メッセージの内容は僕の学校名 住所 個人情報 を聞き出すようなものです。 しかも相手はネカマ（女...
+                - generic [ref=e831]:
+                  - generic [ref=e832]:
+                    - generic "回答数：" [ref=e833]:
+                      - img [ref=e834]
+                    - generic [ref=e836]: "0"
+                  - generic "4/24 19:49" [ref=e838]
+                  - generic [ref=e839]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e840]:
+                      - img [ref=e841]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e847]: "100"
+            - link "生物、動物、植物 犬を散歩に連れて帰ってきたら、手足に結構な量の緑の物体(画像参照)が付着していました。 ひっつき虫かな？と思ったんですが、調べてみたら見た目が違うような気がして、触ってみるとコロコロしてて硬いの... 回答数： 0 4/24 19:48 犬を散歩に連れて帰ってきたら、手足に結構な量の緑の物体(画像参照)が付着していました。 ひっつき虫かな？と思ったんですが、調べてみたら見た目が違うような気がして、触ってみるとコロコロしてて硬いの..." [ref=e850] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517077
+              - generic [ref=e851]:
+                - paragraph [ref=e852]: 生物、動物、植物
+                - paragraph [ref=e855]: 犬を散歩に連れて帰ってきたら、手足に結構な量の緑の物体(画像参照)が付着していました。 ひっつき虫かな？と思ったんですが、調べてみたら見た目が違うような気がして、触ってみるとコロコロしてて硬いの...
+                - generic [ref=e856]:
+                  - generic [ref=e857]:
+                    - generic "回答数：" [ref=e858]:
+                      - img [ref=e859]
+                    - generic [ref=e861]: "0"
+                  - generic "4/24 19:48" [ref=e863]
+              - img "犬を散歩に連れて帰ってきたら、手足に結構な量の緑の物体(画像参照)が付着していました。 ひっつき虫かな？と思ったんですが、調べてみたら見た目が違うような気がして、触ってみるとコロコロしてて硬いの..." [ref=e866]
+            - link "この仕事教えて 浴室の床の清掃方法を教えてください。 私は清掃会社で働いている者です。 いくつか担当している現場があるのですが、その中の住宅型老人ホームにある機械浴室の床の清掃方法が分かりません。 その床は... 回答数： 0 4/24 19:48" [ref=e869] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517065
+              - generic [ref=e870]:
+                - paragraph [ref=e871]: この仕事教えて
+                - paragraph [ref=e874]: 浴室の床の清掃方法を教えてください。 私は清掃会社で働いている者です。 いくつか担当している現場があるのですが、その中の住宅型老人ホームにある機械浴室の床の清掃方法が分かりません。 その床は...
+                - generic [ref=e875]:
+                  - generic [ref=e876]:
+                    - generic "回答数：" [ref=e877]:
+                      - img [ref=e878]
+                    - generic [ref=e880]: "0"
+                  - generic "4/24 19:48" [ref=e882]
+            - link "アニメ 犬について質問です。 アニメ忍たま乱太郎に出てくるヘムヘムの飼い主は学園長です。 ヘムヘムは忍犬で要は犬です。 しかしヘムヘムは犬なのになぜか鳴き声がワンワンじゃなくてヘムヘムヘムです。 ぼくは... 回答数： 0 4/24 19:47" [ref=e885] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517044
+              - generic [ref=e886]:
+                - paragraph [ref=e887]: アニメ
+                - paragraph [ref=e890]: 犬について質問です。 アニメ忍たま乱太郎に出てくるヘムヘムの飼い主は学園長です。 ヘムヘムは忍犬で要は犬です。 しかしヘムヘムは犬なのになぜか鳴き声がワンワンじゃなくてヘムヘムヘムです。 ぼくは...
+                - generic [ref=e891]:
+                  - generic [ref=e892]:
+                    - generic "回答数：" [ref=e893]:
+                      - img [ref=e894]
+                    - generic [ref=e896]: "0"
+                  - generic "4/24 19:47" [ref=e898]
+            - link "園芸、ガーデニング 芍薬の葉が黄色くなりました。どなたか原因を教えて頂けますか。黄色くなったのは全部ではなく1株のうち１つの芽が伸びたものだけです。芍薬は和芍薬です。 回答数： 2 4/24 19:46 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e901] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517025
+              - generic [ref=e902]:
+                - paragraph [ref=e903]: 園芸、ガーデニング
+                - paragraph [ref=e906]: 芍薬の葉が黄色くなりました。どなたか原因を教えて頂けますか。黄色くなったのは全部ではなく1株のうち１つの芽が伸びたものだけです。芍薬は和芍薬です。
+                - generic [ref=e907]:
+                  - generic [ref=e908]:
+                    - generic "回答数：" [ref=e909]:
+                      - img [ref=e910]
+                    - generic [ref=e912]: "2"
+                  - generic "4/24 19:46" [ref=e914]
+                  - generic [ref=e915]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e916]:
+                      - img [ref=e917]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e923]: "50"
+        - generic [ref=e926]:
+          - generic [ref=e927]:
+            - generic [ref=e928]: "1"
+            - link "2" [ref=e929] [cursor=pointer]:
+              - /url: /category/2078297937/question/list?page=2
+            - link "3" [ref=e930] [cursor=pointer]:
+              - /url: /category/2078297937/question/list?page=3
+            - link "4" [ref=e931] [cursor=pointer]:
+              - /url: /category/2078297937/question/list?page=4
+            - link "5" [ref=e932] [cursor=pointer]:
+              - /url: /category/2078297937/question/list?page=5
+            - link "6" [ref=e933] [cursor=pointer]:
+              - /url: /category/2078297937/question/list?page=6
+            - link "7" [ref=e934] [cursor=pointer]:
+              - /url: /category/2078297937/question/list?page=7
+            - link "8" [ref=e935] [cursor=pointer]:
+              - /url: /category/2078297937/question/list?page=8
+            - link "9" [ref=e936] [cursor=pointer]:
+              - /url: /category/2078297937/question/list?page=9
+            - link "10" [ref=e937] [cursor=pointer]:
+              - /url: /category/2078297937/question/list?page=10
+            - generic [ref=e938]: ...
+            - link "次へ" [ref=e939] [cursor=pointer]:
+              - /url: /category/2078297937/question/list?page=2
+              - text: 次へ
+              - img [ref=e940]
+          - paragraph [ref=e942]:
+            - generic [ref=e943]: 約7,082件
+      - complementary [ref=e944]:
+        - generic [ref=e945]:
+          - iframe
+          - iframe [ref=e947]:
+            - generic [ref=f217e3]:
+              - generic [ref=f217e8]:
+                - link [ref=f217e9] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A8FN62kAAMUPgJ02d822n-l1yWNXKzDIs7hFmOmulDmPNUzJo-r0BKqo3kCnA5WWD_f4QPPgbO-AnN1OZ-bwDlMxWacFNyenNpmSsGnt-I-zXwTR5BobAf8uWATO3Jko7pfalYBhMnjEmNC_oqEfMQGoBVOnUvxVxfC-Skr31TR9ajaQP9X2OsAOZCwKNercm8FRrJd3p2XVyhSduD3ZELWaF8wVIVj5N8zz6zSHAcciwpOCY5d3OTfWG1DNwkKvmfhCiQdgc6_TuBUfT6qTXymgppLZDBq4n7l-a2emaPHcmlM8rUd3eRbrn7Ajh_ki-pbfH_nGDC9CS1e7T80jfFBkIa6m9sRxVL4-NXGruuo5YySQ-ZlY81jtEze8_Ejuh2g83pD0f4jZQtlWH_U3kZNRiKHn94PpRlyeBt_bxjfIAKvZf2gKSTELPVVL9VH7nBu2unCKUHo731h_ElgRub4jxW9xb4s3q1LiZGYxvW6Jr8OYtR_AAJ9CTbzNWZ-juabFFflUnNCZGZti7zyNzG9F3KEOjPZ9u-lbXpIpwArfuZWq7uQwxA4MClDnBJMsZ7pgfTj0NVzEHiyr6Skns5I7thvaWBLZbvxSOvAGrHkLfaGjryl8KVHoBD1_fBby-OX1aBc54beSebyL9rCaVSTdiIA1tPxXk-L-esp5FUGmw3b64WRKo3A3ME2jMydtITzbkZN8-7B6i0yk5l_l6YWgjVFZT3VaRivxB7ZD6J4ZDH9GK55lsxbED_OXH3RJAPl2Uciulmhd3IccUjAQplLfCnd9fZbp6pYzWU2Oga9EiWJpMz0c6sO3xBX7WYxKjoZ1to6AnC3kYjjTy3e1gH32_RWI3EVIWAVPfyrkeEb_lx5S40ECQOE5p7Kt7C_d1psRAQZSoJRPlAFo3--0HiOAY_EJRmZOcFmqG_QXkhb0kPVgr4TmY1WLQk7807eQEEfVgf_mGmq0XWFIaJJZ3XpsPgBvIK1x_gNG2xz4lFpDb5uoYkZe-cI6umR72jKl1giwb2nLuX6pW6xwodEq9r9rh8ljBq5ln4ldgfPxGsi75mXC8yTOCjabAsxJ0_dSR2iVyySanPXTQls_3CDc8gEQ3UFLBsPHPxXnYxPvpgfdexFpn5LBqQerN6ZMkJQkxoxGnwrIXQFeCUH75xDrpGJZSJNiIuIoUewdFIoLVm-MmHH0X-56BqI3cxiXAz_lJ84PWnZwG8mjG2-ioCH6SBcSfYn_Xn6CE08omg4fiawGV_mGb3yYOP_ltKQfW2cVNjqAKqXPEBDHWGpP6FCuP2Aagwk8f6s4J9v8BRyaqEwG7buZUDszXj6_YGWVqseIcv-jGOyCzEl3pRvXcoOdcbd2sjNIfIXa0paTyqVzkeeMXPvvh0_UUjJUPPGLSDmIpw9ininZObkDpXLPR7l1pM_CYR_LXWAJYt6gYbAzkRonnXa5rdtBlFxu3rvQbRdG9DjzCUEh3ghHJyJDmiJr&v=5
+                  - img [ref=f217e10]
+                - generic [ref=f217e11] [cursor=pointer]:
+                  - link "広告" [ref=f217e14]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A8FN62kAAPp_1db7lsRY8O2GlKaCiCcAHSW2P1cpyCEnRgDz6zB_oZN1dCCm1Jf9JfZjbmekanQcmi8DDdU_mcnnOcMjaI69KNUwzhgXtGidMQUtWf2Gt88tj1WA4vkN8OaQarlK4aYWNdqmaRc_xNASDOErkfBOeLM0oIu-3KnGu9eHPv88uaLr2SEaGCDEWVFqCmUXFGCPLrtJc88vyxpO_iarVvPrtM368GzmFRYGwG3n3Tu2ktPQGAyXAqVD7T6f2xssxrX3Fmcw5nhFtEkikNHE0JtPgxdxa0J0fW74hDWwDyFZvw&o=A8FN62kAAGvC0e-9uGsGVtNxHTp_7zeJEeF9QSMUoB9jLYxrcCJjS0Uff5yev4UD9RjlVu2axEsSHWoFRQfViUKQDv0aqHsVmmnZnFElEW6rQAv2Y2lSmhUfZgzXCDGXwSBcQCZlMpIGCu0vYeToqCq3hu2UF4yiV3Q0nWBqtG8ynHe4eeSsUSDX-3lMFv3ehyMlAl-4_J2nWdmMg3KP8k2dVqelIX27bn_ggAkQpW6gsgHCxtpVfIUlrLFBlsBhN1baXG-lwUzhdMwU4AUQ-QbUxx41
+                    - generic [ref=f217e16]:
+                      - generic [ref=f217e17]: 広告
+                      - img [ref=f217e19]
+                  - img [ref=f217e24]
+              - generic [ref=f217e31]:
+                - link [ref=f217e32] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A8FN62kAAEMEVkI-Zas92JsA9YoDA3rNoAV-3T9yye7ZmRghD3k68xHGMINbIBei6kOtQvLNdPfvPUlkrNlW0fK3IAIpYN9iZjZ_B3Ick6i4tM8W1LqW6IJrJa475nE2c0ejx-yUWAz4j88IqSXnpoAw_1GN9UDbiHYTd8SdrWDPFOxP3TgdkX5WORqdeAPCZn8ze1Io7vbYOWSst1r_OvjVtP1VeHZF8tsuNaE0JVxGANmJ5Hgc8qov_bjyQsoJW38jt2XSmsw6gFZwDydsVgReTIyFLPdYOXiy9UyLFMEYUspuTWbJ-8pJ344cysaKdYOXIJ4LnGY0I4kYglYSNZEDyasEd-X-9maJN2WgDuWUEeYPzGoeqhOrMO5hjmJap-STOlJMq6NvthTqHXq10Ub0Ac6MHs3x1Go0B7Q-neE5mrxfUHY8tzC0Qtr6tYJuiBipUT6Os9kM590Lxxn2eC86k-sPY4XJ0btcVoKeYyddcKCBoXB2JncHCkAAcf8VMKnvF81trZganbQDWHnObf15RN0tUceBSyOqn7U-x4CTiG9AjrakRCumMENkXlfDT7BRGh8QgVeM99f8NiQlF3rv41TI5ohofkGRmMHiz-MRI66C26ZJ2yW5GG095F-XWP5l6bSPFt0YyrWJWbSrslgxAER8G5DYWixJ6Amfui7g4TJvCENGKIGjpcEIXlCPsYfLH8XzPcJWir-vVSKXO9Isz4sz6nJLgx7eVRbJjrI7_Izr-Y4i0WCuc6mpfOGVcoDUtFEuLlPRD5K6eeG13Hg_32Q0SczOhAU52s3RIPjLUBxc93ivKz2ToZ_ASt_f9d0QungGJp0r6GPbFejNkzIm4LDt8Ahr3d5f3ZfACEGHin4nEp7jTOil_mSRamin6jQZDQlTuOPRu0ugJ0iId7cHtOnaTqJbn2y7qOFF_M1YGkDpFiyR5kGCE1SLLwwsbO0qfmRgKzyHr2G7Q5A1EEt3mqAqFBlVVEi4wy1so8Z33-Z-8WQZmhAip5ynYDiKboomQZ4Kgm4l8MBS-unLexxdGiuKignhpg-RNwjKaVewJGfYnLq1jNc4NEmiZC7a46xODoRTNgpaOGdRq9xOCxeUQ4VbL6BQeOXGyJdL9JVixBRHyzMEYrcmtjf8MAq_KUdfQ5HjdlFTkE9xLxeLDbMuedeb3EBhknwc_Zzq1n42w5Mo9lv0MWIbjAQMf37qKI0QKUPve1-zQgFlPa_J9NppY9E1AxVK7qKP1a8Z7zrxRk9QDneAMgVyE4-d-s0YdbHPYvVjE8Vpl5A373i9x62idkcANIRYcT-qnvV2eqcYoIV3jj3KId_7GwxSghOJs0P_X-cK0bAxr7z5BXpr3OuDgM_e9vY2faxdEdUP4QZ1JdBKqajZ7JpZNbhN0IhNhp3UtxUj9x67_I3ACwApXXx-X638smA1V4dC-oboTCh6GNEe-jbbb3GgWv7iYuyogEorjRxd0Bz9FUXrpTjdsw9LH3pgzSu5dis2A4J9G050DEgTCSvyw4lshqIFSeehe4c_4JtH_MfTHKe6Gp2Xo2Pp2K14weWSC7TLIXtYiiEGZrNwtQ&v=5
+                  - img [ref=f217e33]
+                - generic [ref=f217e34] [cursor=pointer]:
+                  - link "広告" [ref=f217e37]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A8FN62kAABlBBK1v-z-yHR1IxtowMiKwm_aAGigcyzEvmlkrjAuQWB8lGZryuwg09FzHm05E6uwbTZCOyjvkHr0NJsjiZWGvHIn5CnrXX21u0exA5WFLhic23bCD3r2vCzTqKKS9u_J8KAqqGuLwVTTShVxg9z3ubXobkcby-uXRslfKVlqgkJ3xXdblbrPvMElkcHc_zJoYzhn52o76KjnffIxhRp4vFVPwpz1FDOLJ3rxSobhvYNFQT_QwMzT-1rqdUrKThrTKaSrUFkjX9FTSKLgKWpOYP6pDzoO7E4TDA8IOC0xF&o=A8FN62kAAD0qwfhg7lP4juB1mj1TbXe6EK1K9aRjW6jpEykemdpQmn5e4LR5AZQJZ7luCu7we8tgozsf3q55We0wP_ead3NyX-IaY3ISdj37TM5iH7fKvyMyghYomeBI_ACsUqMYgR06g4eIegpL2yh6BjfZesk-VOwXRP-PpNcKoZTeSoeeJXzcTP1JWUFbhFg0T0Ic6pt1BZOQUcHYA5I9atHIqExpZdl01kZKPYt5y_YWT2fCusHQINJ09itCUdUcVkkPIhRK7wZT4FJ-X28KdAWn
+                    - generic [ref=f217e39]:
+                      - generic [ref=f217e40]: 広告
+                      - img [ref=f217e42]
+                  - img [ref=f217e47]
+    - generic [ref=e948]:
+      - generic [ref=e949]:
+        - generic [ref=e951]:
+          - iframe
+          - iframe [ref=e953]:
+            - generic [ref=f224e6]:
+              - link [ref=f224e7] [cursor=pointer]:
+                - /url: https://apm.yahoo.co.jp/rd?ep=A8FN62kAAO9_AMaOeGtu6iRLT9Ipl6oxFNCfy8jCbxsYkcnOmUShWNFLqrj9R17uQY6_ni1jld4UFvUNTN3wX7MLHXwIQ4JyL1Za8ZEnOdp1X5YCe6P0qY-MFqa0URGhkp9k1SfpM-QOnCw_qf-IJhjhdmixKP0Mi4PmNHEXYnGXD249P-ANebxRDh0xu8FLFasTXecUu2LxsPHn8Hw281tyoWL81qigYoc-8bH5eWgfwq4xwFY8O4gx2erLUVd_kXQXfQYbqFsnzp_xHcbqpETSmaOVgvDiyeS-oMkEF5Vaj_A3Eo6kH06d6PuJ-cbe4W8HJBTTWWtb6ABdxQMQjg_R3SGr5mrj0wnBvyYolK9QgCsunUbDjURytZxP2gYz10DQwLXlnH0RGhTTayPmxcQh4j1bTL3Cn4KZiDaq_4AG6xjvpsvl32SNLUEextAww0MsjP5bAd43LdKzXG_RJlYbQY-Qo3ABKUoTIU4--5q-0OqiV2jXNmW6Wcvw0JGnh_tBaeoFrsZPrRyQmXd_LOHhFPjzjKScFwVcPAFJKJhEu9RaNlWJwnj2Lyshjayc-zTtLyKpkp0zT37Ns6pPN0qVigEmHdYP9hUWt0mMpdSLY3I21TNdOe50d5FhQzeLWPCKHl0MBn7mdqS7K-IjMnYQARB6jrWGlHGL8yyg9_Q0Cy2ciAojvKT11KXbCZEXVJrk69_vKrHxQiyeNGvsBJEVJlWTAkder0Q8T3vLAiNVPTkambTYBlE2NdjQZVWrDqidx638wyzWDYqsw8FxRDZH9zNjmXMqgf0JNH5UkKpKT09mdUo1uZt1Zo5rStpU5sqWX5bMBilZJLJncyWU9CMkWoQAolMsCnEDtGZIcr9OKNwYg2kSexqIJPe67wIgv8JdQ3_fQ2OAQ3Y3wookcmxac9IDgWj9BAKo715lH3XylZX9BoBhzDSxBzn-HEqURuO4wBtUXiXnuN-jzkSis04tNy2qFCijscce1-7fYQ6PRgPOE1Cm5RMbz0B38v2c-AEqmjNnR1YHKbqUVU3m04ZS4fryDA0Wnm4TokcOlTwuhEmuzaRb_fTix2j-J3MnGeJItm_CSKW29z3-qby82U_3EajVMsgPte4AJjXU_wfto2DAicJ4J1-O1yEjuT3GnCvEK216qIzqxdSow4pNHawhBcQjf_09OlO96SBg0gN4VDKFKDSCAGCSiNXQL7uPKFPcZ8dqGYU3fCXfCqqBmxBQrtanY_Jb5YYrbbFkp0LVAYRPJ7fzNhtClLAYWdqLoo8KBHTThU0dOBfYOpqIYIHFAhqOitdgjY4866AZW7gcZrUdU9_H4y9NbBP8kMgPWp6LS91SssOczKb3GIzZvhouKRq_RihVEfQW4pOCi_II8JiuoL5hJgBvRR-nlYjBbGWfY0btXxz9wVlRavu_P63w82QGbYY2r22tmV5y_zqPyBtiO9bDUh0uLJqi8d3UhZe5zO_2-XfYTCTb8Q&v=5
+                - img [ref=f224e8]
+              - generic [ref=f224e9] [cursor=pointer]:
+                - link "広告" [ref=f224e12]:
+                  - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A8FN62kAAG4fBMEf29WJGCh1f0rCn8WUwRuVj37uixaF5slj8VwnP_bkygylUoX1IkPZ7P_Jy0W3kvAkWpvOoVJWxiFhTOc4W-XEDNrHjVrSAGv2jBp6RF1d0ogroIAt6SXJFG67KmEucYV-49FTlgTGBdmx7NZk4KxotWza6GIc7J9HnwWfOAZ4fREohxLGSr3ohjUt3Qr-8Yk-4GuJbaC9x6a1rWP6chSB6JSpb4GbtoEm7qrX7TDxC6B8wn1C-pbixDNXDLHk0M_B3QljgIT_vm2_k4VmxGBJFrq_HmDnFx1XKng&o=A8FN62kAAMPSQFFMQL5JRhRv2Mcc2r2p-O7ZxWeSkzDFMVF5buhk69MIbqKLXReH8Y3qEMmbp95HRrgAl_iBRtmbi3ZzenbTGGpIlM3KeCt-BiYzZKDNQxSyYG4KKnoxcesXHmV3ImtWjF3tVWpfSPWyzFDm2pgZAke0-Amp_5li4_3fTSzTOhiDVrl3EdUiyUwL5Y2PNmr0UP02efojRTGzFf7xBZMdGlVc04aZii2G-rA1pHlEAtEyVmGCWtGhwgSKiz3eOot-Y3PpPvy0ziAg1Ol9
+                  - generic [ref=f224e14]:
+                    - generic [ref=f224e15]: 広告
+                    - img [ref=f224e17]
+                - img [ref=f224e22]
+        - generic [ref=e959]:
+          - link [ref=e960] [cursor=pointer]:
+            - /url: https://apm.yahoo.co.jp/rd?ep=A8BN62kAACHWo2cgc3MgTPvOoX7Z33hzqd8Ew3TJnQtFkpcJgJIUZJiKzDmUyRDmRuDf_zOuzDMqQbimGY9qRvt0Nb8Cog8LkVByDpfG0kgfXZa1jQpxu7XL7eNUNQnUR15vD68YCXjhjEDq9h3Cq_huLUTV2l1RjbLiWAtWMGaix1BZkfwDItVgVgJg_C_T8WN7Gbk0dBDGoeY5TnrshHRwMObJM2MaDxsPYlpmGY697Yr4cTQVJMa8Vw9-OrZfjchVEH0DAcw7F1Cei4ulxAEUfaNwioFoCBvPBYMmBC_wJDoe3MpMgM6jtucFpwyBYo3bB4ekZCr9Uhn0_qkZNfNKJjLM3MJXvXeJX8lwI4jhPZCkiuk6c6xX7HUvbvMrsRCwmP3hxogAkbv20lYOKa2Hl5m5fAREo3iLKM6nQcLGu5HawytxT4ZasmvoPX5JOKhNgQ-lo-J9TEdygX_JHk5Q403-b9U1PzXIeJkco8xdta0vOWCOP99iaRmIdAJESlXX8efxHQL6D_0YUC42thIfNCP7swNPB8XfW91KrpJNltD1emwBEiFbf0TmZLAzB64iaZa02xjE1CPUY7uQAtweEdO9ybc3-sAozhFf4374MHZHVLbiZPEZn_Vqr6BpN3ddPgCl71excvm9dxDRuCVgv2x3qfho2YB_aG8_ZvZbQaYT0YPHb0KfLwL2s_qDHZ3SAvCbOzSF67FQrQhAvTu8Ac1OPbqggx8ojHrlvpDPD7QuBYtjDPuwP3TQFjdkaymAD0c9Oz9ej0Ti1t_oZnQgEvU-MvgsJ5ihxIU_j19wlNHpnaHYthKt4Yuj4wAQtgJWgf07KPIYsbuDyXtdtXmmyPwSNRrrgYu1vpV71bA-FU0Y3USlCYAEhY_hXH0vC75rKoOKuVWZcb_qF0apmSMmPHOKc_brIruzbUmeoKh3KWG7XcozorZhAJVWdVdqkFX45IA88OK_1VrgT0SHH8auTxv9zeHRhbHrRXEuP3mlXTH3KiQHfEA-5BX92oB43qBJjB_bgFCgcgHhcR0EX4F1XSyFJjuY5OQj-NOE6LPcDLrNkZkMTsliGo4QL2gcmN8sOy0hXOZwWDws0IguUHVe5nGMOZgrBhyNgevLzHWcCm8v0bKJwm3_pViaFGYMtXCrc9ttVvWcMlWaCLbI3Sc0muotPAQAxYhddz5i4JaIfw9t2mi8OLrR91VMeSEhm7ZRAqo20Nvrt1A-Di2kpkLiYSwttj6Mh0BJjyhIPmjw-2uyKTEl9fmByWj_TSRuwpCTZBTDsnhBMwScmbnmSGkPsSPTGAHiG8pdjPLCqR7O5OW9V0lv5JovzIfI1Y2f537NEjLgkalMSYmpXQgv-cvnP7XBYjJZ0YYL2QUsfk85ZYAgXA-1iMnDxkVXFMsbjRcPOkqNKHyFvjxzCB1NwuJinf7jbADAh6WMFiq5DmxerZ0STfCZctTAnxJclB6yMOoOrzKbVX4&v=5
+            - img [ref=e961]
+          - generic [ref=e962] [cursor=pointer]:
+            - link "広告" [ref=e965]:
+              - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A8BN62kAAOhyR6al1ThnFtPycs5HT_Eb3N0rGqOKkg8UuT7-yHVBCVmNyh1BDCkyCBeRQ9g6a-DO7PorTAZn8-1J36ZL_UA0FP91mipq0oSneL-xTgvAkQopp15QMrye6XQeJTQk2dHy1qI-P21Pu042HUsYxmvwpp6g3ZdtWE8JOjbZJc5xMRoSBkg5eZigNH8ctjrHWVUSd7v-f0oPGcmot-i2PhuDFhBpS3cwKy3pHcSTGXGq6WOaP_eIknR4TOxp1s8xsdRt_9bBLh91khqCNd6F3zS66i-K4o9mjssScVJ_XRkf&o=A8BN62kAABNUxAecdwf4-fwv7rjqxjRvpzAuvpKxFm0QQZwfn9QJeZbfGHw1sLZKOYDj1DF7oy1YASrvYn733jHrFss3D0JUHDOEJRib7noO25MTbN4WpvQnFmXY6OWvAH95kOF3AmX1dnjdqqBGbtYjU3KWvlNO0dXtUv8R6k1hl1Z99ywhxatqyRhoUrEn9GQZ48RyPphBKzQFyQvFXpEZ6xEJN3xFdYEQ_9NvaH3Sfpa6pUKCJSWe1ZB6Y043NlY-1pq7c1mls2PFtCgNqvRVZKYY
+              - generic [ref=e967]:
+                - generic [ref=e968]: 広告
+                - img [ref=e970]
+            - img [ref=e975]
+      - link "占い師にお悩み相談" [ref=e980] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_ca-top_000
+        - img "占い師にお悩み相談" [ref=e981]
+      - generic [ref=e984]:
+        - generic [ref=e985]:
+          - heading "カテゴリQ&Aランキング" [level=2] [ref=e987]
+          - paragraph [ref=e990]: 暮らしと生活ガイド
+        - link "1 おにちゃ、飲んでみた人へ正直味はどうでしたか？僕は麦茶が好きで、夏の日なんかは毎日麦茶を飲んでいるのですが、ぶっちゃけあまり美味しくないと思いました。家で作る水出しの麦茶の方が美味しいレベルで、動画であれだけ引っ張ったあげく、味はワクワクしなかったので、残念です。もちろん、美味しいと感じる人もいると思いますが、皆様方の正直な意見を教えていただきたいです。" [ref=e993] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327451127
+          - generic [ref=e994]:
+            - generic [ref=e996]: "1"
+            - paragraph [ref=e999]: おにちゃ、飲んでみた人へ正直味はどうでしたか？僕は麦茶が好きで、夏の日なんかは毎日麦茶を飲んでいるのですが、ぶっちゃけあまり美味しくないと思いました。家で作る水出しの麦茶の方が美味しいレベルで、動画であれだけ引っ張ったあげく、味はワクワクしなかったので、残念です。もちろん、美味しいと感じる人もいると思いますが、皆様方の正直な意見を教えていただきたいです。
+        - link "2 X(Twitter)でしゃぶ葉のこの薄い肉の画像を見ました。これって本当ですか？一か月前ほどに行った時はこんなんじゃなかったのですが……つい最近しゃぶ葉に行った方、教えて欲しいです" [ref=e1002] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327345159
+          - generic [ref=e1003]:
+            - generic [ref=e1005]: "2"
+            - paragraph [ref=e1008]: X(Twitter)でしゃぶ葉のこの薄い肉の画像を見ました。これって本当ですか？一か月前ほどに行った時はこんなんじゃなかったのですが……つい最近しゃぶ葉に行った方、教えて欲しいです
+        - link "3 至急ナフサ不足で塩ビ管が買えなくなりますか？" [ref=e1011] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327196451
+          - generic [ref=e1012]:
+            - generic [ref=e1014]: "3"
+            - paragraph [ref=e1017]: 至急ナフサ不足で塩ビ管が買えなくなりますか？
+        - link "4 田畑３０００坪あるってすごい金持ちですか安達結希さんの母親の安達家" [ref=e1020] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327298603
+          - generic [ref=e1021]:
+            - generic [ref=e1023]: "4"
+            - paragraph [ref=e1026]: 田畑３０００坪あるってすごい金持ちですか安達結希さんの母親の安達家
+        - link "5 至急ナフサ不足でパーツクリーナーも無くなりそうですか？" [ref=e1029] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327227571
+          - generic [ref=e1030]:
+            - generic [ref=e1032]: "5"
+            - paragraph [ref=e1035]: 至急ナフサ不足でパーツクリーナーも無くなりそうですか？
+        - link "6 郵便局にヨドバシドットコムで買った荷物を留守中に勝手に玄関に置き去りにされ盗難に遭いました。こちら盗難被害を郵便局に言って返金して貰うのは可能でしょうか？土日に掛かるので不安なのでご教授ください。返金はヨドバシドットコムからの返金になるのでしょうか？郵便局からの返金になるのでしょうか？返金を受ける場合、金額を伝えますが証拠になるスマホの明細画面など郵便局員に見せないといけないのでしょうか？品物が人に知られるの恥ずかしい薬品なので見せたくないです…。勝手に宅配便を置き配、放置されて盗難被害に遭われた方いらっしゃったら教えてください。よろしくお願いいたします" [ref=e1038] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327322341
+          - generic [ref=e1039]:
+            - generic [ref=e1041]: "6"
+            - paragraph [ref=e1044]: 郵便局にヨドバシドットコムで買った荷物を留守中に勝手に玄関に置き去りにされ盗難に遭いました。こちら盗難被害を郵便局に言って返金して貰うのは可能でしょうか？土日に掛かるので不安なのでご教授ください。返金はヨドバシドットコムからの返金になるのでしょうか？郵便局からの返金になるのでしょうか？返金を受ける場合、金額を伝えますが証拠になるスマホの明細画面など郵便局員に見せないといけないのでしょうか？品物が人に知られるの恥ずかしい薬品なので見せたくないです…。勝手に宅配便を置き配、放置されて盗難被害に遭われた方いらっしゃったら教えてください。よろしくお願いいたします
+        - link "7 高等学校等就学支援金申請手続きの、eｰShienを利用したオンライン申請についてです。学校側から渡された資料で、19日に締切なのをすっかり忘れていたので急いでしようとしましたが、緊急メンテナンスで利用できません。完全に忘れていた私の責任なのですが・メンテナンスは今日中に終わるのか・期限がすぎた場合、いかなる場合でも再申請はできないのか・メンテナンスはいつからあったのかこの3つが知りたいです。よろしくお願いします。" [ref=e1047] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327381372
+          - generic [ref=e1048]:
+            - generic [ref=e1050]: "7"
+            - paragraph [ref=e1053]: 高等学校等就学支援金申請手続きの、eｰShienを利用したオンライン申請についてです。学校側から渡された資料で、19日に締切なのをすっかり忘れていたので急いでしようとしましたが、緊急メンテナンスで利用できません。完全に忘れていた私の責任なのですが・メンテナンスは今日中に終わるのか・期限がすぎた場合、いかなる場合でも再申請はできないのか・メンテナンスはいつからあったのかこの3つが知りたいです。よろしくお願いします。
+        - link "8 「経済センサス-活動調査」という郵便が届きました昨今は詐欺も多いのでなんか疑ってしまったんですがこれは大丈夫なものでしょうか?" [ref=e1056] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327335095
+          - generic [ref=e1057]:
+            - generic [ref=e1059]: "8"
+            - paragraph [ref=e1062]: 「経済センサス-活動調査」という郵便が届きました昨今は詐欺も多いのでなんか疑ってしまったんですがこれは大丈夫なものでしょうか?
+        - link "9 エンジンオイルの品薄って脅威ですか?まもなく手に入らなくなるでしょうか？" [ref=e1065] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327253353
+          - generic [ref=e1066]:
+            - generic [ref=e1068]: "9"
+            - paragraph [ref=e1071]: エンジンオイルの品薄って脅威ですか?まもなく手に入らなくなるでしょうか？
+        - link "10 塗装の営業してます。シンナー不足はいつまで続くのでしょうか？屋根や外壁の下塗り材や、コーキングが手に入らなくて困っています。" [ref=e1074] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327334791
+          - generic [ref=e1075]:
+            - generic [ref=e1077]: "10"
+            - paragraph [ref=e1080]: 塗装の営業してます。シンナー不足はいつまで続くのでしょうか？屋根や外壁の下塗り材や、コーキングが手に入らなくて困っています。
+      - generic [ref=e1083]:
+        - generic [ref=e1084]:
+          - heading "カテゴリマスターランキング" [level=2] [ref=e1086]
+          - paragraph [ref=e1089]: 暮らしと生活ガイド
+        - generic [ref=e1090]:
+          - link "1 匿名希望改め「お豆さん」 匿名希望改め「お豆さん」" [ref=e1092] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1047885354
+            - generic [ref=e1093]:
+              - generic [ref=e1095]: "1"
+              - generic [ref=e1097]:
+                - generic: 匿名希望改め「お豆さん」
+              - paragraph [ref=e1100]: 匿名希望改め「お豆さん」
+          - link "2 srr******** srr********" [ref=e1102] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/125649812
+            - generic [ref=e1103]:
+              - generic [ref=e1105]: "2"
+              - generic [ref=e1107]:
+                - generic: srr********
+              - paragraph [ref=e1110]: srr********
+          - link "3 ドガオちゃん ドガオちゃん" [ref=e1112] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1148733957
+            - generic [ref=e1113]:
+              - generic [ref=e1115]: "3"
+              - generic [ref=e1117]:
+                - generic: ドガオちゃん
+              - paragraph [ref=e1120]: ドガオちゃん
+        - heading "急上昇のユーザー" [level=4] [ref=e1121]:
+          - generic [ref=e1122]: 急上昇のユーザー
+        - generic [ref=e1123]:
+          - link "エリカ エリカ" [ref=e1125] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1051630408
+            - generic [ref=e1126]:
+              - img [ref=e1128]
+              - generic [ref=e1131]:
+                - generic: エリカ
+              - paragraph [ref=e1134]: エリカ
+          - link "乙姫むつみ 乙姫むつみ" [ref=e1136] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1050238009
+            - generic [ref=e1137]:
+              - img [ref=e1139]
+              - generic [ref=e1142]:
+                - generic: 乙姫むつみ
+              - paragraph [ref=e1145]: 乙姫むつみ
+        - generic [ref=e1146]: 更新日：2026/04/20
+      - link "公式・専門家の回答はこちら" [ref=e1149] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/expert/
+        - img "公式・専門家の回答はこちら" [ref=e1152]
+      - generic [ref=e1155]:
+        - heading "カテゴリ一覧" [level=2] [ref=e1158]
+        - generic [ref=e1159]:
+          - link "暮らしと生活ガイド 暮らしと生活ガイド" [ref=e1161] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297937/question/list
+            - generic [ref=e1162]:
+              - img "暮らしと生活ガイド" [ref=e1165]
+              - paragraph [ref=e1168]: 暮らしと生活ガイド
+          - link "料理、レシピ 料理、レシピ" [ref=e1170] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297945/question/list
+            - generic [ref=e1171]:
+              - img "料理、レシピ" [ref=e1174]
+              - paragraph [ref=e1177]: 料理、レシピ
+          - link "家事 家事" [ref=e1179] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297950/question/list
+            - generic [ref=e1180]:
+              - img "家事" [ref=e1183]
+              - paragraph [ref=e1186]: 家事
+          - link "住宅 住宅" [ref=e1188] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297940/question/list
+            - generic [ref=e1189]:
+              - img "住宅" [ref=e1192]
+              - paragraph [ref=e1195]: 住宅
+          - link "日用品、生活雑貨 日用品、生活雑貨" [ref=e1197] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079405678/question/list
+            - generic [ref=e1198]:
+              - img "日用品、生活雑貨" [ref=e1201]
+              - paragraph [ref=e1204]: 日用品、生活雑貨
+          - link "ショッピング ショッピング" [ref=e1206] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297938/question/list
+            - generic [ref=e1207]:
+              - img "ショッピング" [ref=e1210]
+              - paragraph [ref=e1213]: ショッピング
+          - link "法律、消費者問題 法律、消費者問題" [ref=e1215] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297944/question/list
+            - generic [ref=e1216]:
+              - img "法律、消費者問題" [ref=e1219]
+              - paragraph [ref=e1222]: 法律、消費者問題
+          - link "公共施設、役所 公共施設、役所" [ref=e1224] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297942/question/list
+            - generic [ref=e1225]:
+              - img "公共施設、役所" [ref=e1228]
+              - paragraph [ref=e1231]: 公共施設、役所
+          - link "郵便、宅配 郵便、宅配" [ref=e1233] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079822377/question/list
+            - generic [ref=e1234]:
+              - img "郵便、宅配" [ref=e1237]
+              - paragraph [ref=e1240]: 郵便、宅配
+          - link "ボランティア、環境問題、国際協力 ボランティア、環境問題、国際協力" [ref=e1242] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297939/question/list
+            - generic [ref=e1243]:
+              - img "ボランティア、環境問題、国際協力" [ref=e1246]
+              - paragraph [ref=e1249]: ボランティア、環境問題、国際協力
+          - link "福祉、介護 福祉、介護" [ref=e1251] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297943/question/list
+            - generic [ref=e1252]:
+              - img "福祉、介護" [ref=e1255]
+              - paragraph [ref=e1258]: 福祉、介護
+          - link "ペット ペット" [ref=e1260] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297852/question/list
+            - generic [ref=e1261]:
+              - img "ペット" [ref=e1264]
+              - paragraph [ref=e1267]: ペット
+          - link "園芸、ガーデニング 園芸、ガーデニング" [ref=e1269] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297853/question/list
+            - generic [ref=e1270]:
+              - img "園芸、ガーデニング" [ref=e1273]
+              - paragraph [ref=e1276]: 園芸、ガーデニング
+          - link "海外生活 海外生活" [ref=e1278] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297941/question/list
+            - generic [ref=e1279]:
+              - img "海外生活" [ref=e1282]
+              - paragraph [ref=e1285]: 海外生活
+        - link "カテゴリ一覧を見る" [ref=e1287] [cursor=pointer]:
+          - /url: /category
+          - text: カテゴリ一覧を見る
+          - img [ref=e1288]
+      - generic [ref=e1291]:
+        - iframe
+        - iframe [ref=e1293]:
+          - generic [ref=f216e6]:
+            - link [ref=f216e7] [cursor=pointer]:
+              - /url: https://apm.yahoo.co.jp/rd?ep=A8FN62kAAG-udWXlCIi0AHI1R4_4U9mfWna9oWjjL8HwFm17C8AViJx73y9dygXlqsaVuOfJt_fdqcuO2zKGiVJG-vFsleZuxkPBdYTAkli8xyt4ggyWktNUi5RLnvisvKYOuvQbtJdPqJvOEx9oCPhuQHNlBFQp_scfYxn32R2EGyF7DesBHaMIXtoeAGM1orQRlxMI_NoUtgBzdIEhFsIV0K7a2i1KRfZyxzTA-0M8Al-K1pkGJBRc2j-9hV3d7Ig7p9qJrwBB9_mp5Yl_Dr8n9q5BrVpWWYWU1LeDlQJC9eQ6o1EEFmMpAS-ftLWKP2u2iu4PQfEp9GamrMRrLliHdUUlrqAseOpWeUH-CkiOVTiOSDqjeDpZAgXqzWWQP1OcnVNdatMi_zjjn17TDtm0ozfMn4r1ZzsL018Fps2siSpKRkC8GNdl2k230HALA83ZZtJfobFJ8Ow-mazUMYuhUbeQcnHmtxN7I53sZ26yBoH2f5eaRHo4LKLRBXQeGy-hWt9cgVV2RwREVAnrNvEYpJgiPK3J3RGhWeG-2HlEs7e5CJGvkp8wS0oHYpUTtxhpAhwCF30Q42edhztqDxDpFa09dfU6qSrnSQGVzeWASGhSWzW_13tqoQQRTfwHwhqyOyoUfQqBxUFJzWJL4jZYftW_nsbOxNayj2gCfRL3Rfj2X8mi6d-4mIQAsvAEosnebkDcZSVqWRQ7726TNDgUDNvuDxIMv2LyFvUKVOFCItDxcJNHGKBro8r74xn14Y3yA8EQck6EwqkZs0kv6cn6dbYfoBuyPKX91gO_UHULI49DbPsaONbAEUlkIKBwkh_ZfQAgwXv-x8-zWIR1i98I7Uy2F21_q4NA_eXPKZ3y5bJ1CpqVsALBc8hCWaZrpwtYkhJWv778IXoKIT1hxllsOlpe3mVRgEjPY46GWlD-hPRBs0ERe9wrjCsxX_6NpBEk4CRTKdusBVogw38g2sAOy23uk29xybPaPziXmK3ucGV9Qz0RTkGxtkkaDGW1ubNhyXt_DsWFe-ugkPrQmG-QDK1ZIZvlwogo1qTUAUtu3Cc9E1fnydK9H2TMkk7bHrCfKjylsdoN08s7sAwRcOM-1l0VNJX-fQCHCATXU8xB1GbSROQBp21le4g7esw_p_LKrdInIlrSG3_l5ZnsrJ9ugp6x0azr2Ng2comwCB6DIOBBZ-JpuiGNZj4h_m5zwyWN80ht1RmrYc6iE4uEsZYf79lVOk7TGAgR4_lIlYedVHku8RcTKOYhZTfxkYmNWhv8ipZkwC9SeBgzDlhkVwDjJMHi0q_0Uu3oDS-bV4Gvc0THV3ZPjJaqBVYSnB9B2Zg4MoCF4u0n26xRWgYmLtZpSkRftmaWQza9UOwEvkUZgqTxGu5dRSLaXbxoWbqSPb56W4cd0aPzSJYNKjqCsja_eAPaV1v3D-o_arSeNBe6DOv0sB4Sc7wkFoapV5k07TrGVfRIX_2PC7QgOl5Hc5y0&v=5
+              - img [ref=f216e8]
+            - generic [ref=f216e9] [cursor=pointer]:
+              - link "広告" [ref=f216e12]:
+                - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A8FN62kAAJID5y_KrTc29seKrzEmFnBRZ7tz7M9BHH2BB3Hsg0h4OZUUeERYzkN6oh3NO5GrVkCouK6YJCaWo-sOUnolgnsTDT1_igqiRz0P2wz5OXotd-dzgSDnN0KXhuoUHolLYIFPUWjg3HSCxH2eWGaRX9ot7lyWKaC167V1gtnM8g8GSX6ZzAC95L_younY-akl47sbL9r3HM0o2o6o7xEWtXL_tx3qVWF-MmJeemRPdH2Bck69bYq-rk9wBUgHmK7-o3sQDOLDs7EZyYztE1k5nnCqsXRV2_ktrqQ68QisXYg&o=A8FN62kAAHZ1eEKxdo6bC4ehqF7Ln1aghptWPP3xbJGL65Si-mzKgmpj15vyrtXzGe3Oq-Uv-Bs_oerojLPtQGx5pqcW1sTirKbQUQnUtZRUf3fRgFTrhdwh-XukEYhxg3L-_7LF2QHQbno509_nX6ztmH8GSW3kMOCNPSPOhfulImxEQDgTne85QAzFbZy0vYbf1OuoZZE25Ic-SzGhMcNI3CAjvqZi4lh6fB0dhH4A48bIJpHWruIPx7eIr60Ks4iGWSuwctumbaPprm6TZA7ia547
+                - generic [ref=f216e14]:
+                  - generic [ref=f216e15]: 広告
+                  - img [ref=f216e17]
+              - img [ref=f216e22]
+  - contentinfo [ref=e1295]:
+    - generic [ref=e1296]:
+      - link "Yahoo!知恵袋" [ref=e1297] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e1298]: "|"
+      - link "Yahoo! JAPAN" [ref=e1299] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e1300]:
+      - link "プライバシーポリシー" [ref=e1301] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e1302]: "-"
+      - link "プライバシーセンター" [ref=e1303] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e1304]: "-"
+      - link "利用規約" [ref=e1305] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e1306]: "-"
+      - link "利用のルール" [ref=e1307] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e1308]: "-"
+      - link "広告掲載について" [ref=e1309] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/?utm_source=yahoo&utm_medium=referral&utm_campaign=ysa_cv_link_chiebukuro_241001
+      - generic [ref=e1310]: "-"
+      - link "ご意見・ご要望" [ref=e1311] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e1312]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e1313] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e1314]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e1315]: 画像：アフロ
+    - generic [ref=e1316]: © LY Corporation
+  - generic:
+    - generic:
+      - generic:
+        - paragraph:
+          - img
+          - text: 通信に失敗しました

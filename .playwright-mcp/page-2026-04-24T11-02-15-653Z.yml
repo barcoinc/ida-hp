@@ -1,0 +1,900 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - paragraph [ref=e15]:
+          - link "冷凍野菜は生野菜より栄養価が高い!? 技術進歩で味わいも向上" [ref=e16] [cursor=pointer]:
+            - /url: https://yahoo.jp/up_2dV
+        - generic [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+                - /url: https://www.yahoo.co.jp/
+            - listitem [ref=e21]:
+              - link "ヘルプ" [ref=e22] [cursor=pointer]:
+                - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+          - generic [ref=e25]:
+            - generic "キーワード："
+            - textbox "ウェブ検索" [ref=e26]
+            - button "検索" [ref=e27] [cursor=pointer]
+            - link "100万バレル 日本 急上昇" [ref=e28] [cursor=pointer]:
+              - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=100%E4%B8%87%E3%83%90%E3%83%AC%E3%83%AB+%E6%97%A5%E6%9C%AC&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+              - text: 100万バレル 日本
+              - img "急上昇" [ref=e29]
+      - generic [ref=e30]:
+        - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+          - img "Yahoo!知恵袋" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - text: IDでもっと便利に
+            - link "新規取得" [ref=e36] [cursor=pointer]:
+              - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078297875%2Fquestion%2Flist&.src=chiebukuro
+          - generic [ref=e37]:
+            - link "ログイン" [ref=e38] [cursor=pointer]:
+              - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078297875%2Fquestion%2Flist
+            - link "お買い物がお得になるクーポンがたくさん" [ref=e40] [cursor=pointer]:
+              - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8yNjU5NDMvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly90YWthcmFiYWtvLnlhaG9vLmNvLmpwLz9zY19lPXltc3RoZHBjX20yY3dpdGhscA/
+    - navigation [ref=e42]:
+      - generic [ref=e45]:
+        - textbox "このカテゴリで探す" [ref=e47]
+        - button [ref=e48] [cursor=pointer]:
+          - img [ref=e49]
+      - list [ref=e51]:
+        - listitem [ref=e52]:
+          - link "カテゴリ" [ref=e53] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e54]:
+          - link "Q&A一覧" [ref=e55] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e56]:
+          - link "公式・専門家" [ref=e57] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e58]:
+          - link "お知らせ" [ref=e59] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e61] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e65]
+        - text: 質問・相談
+    - list [ref=e70]:
+      - listitem [ref=e71]:
+        - link "知恵袋トップ" [ref=e72] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+        - text: ＞
+      - listitem [ref=e73]:
+        - link "カテゴリ一覧" [ref=e74] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category
+        - text: ＞
+      - listitem [ref=e75]:
+        - link "生き方と恋愛、人間関係の悩み" [ref=e76] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category/2079526977/question/list
+        - text: ＞
+      - listitem [ref=e77]:
+        - generic [ref=e78]: 恋愛相談、人間関係の悩み
+  - generic [ref=e79]:
+    - generic [ref=e80]:
+      - generic [ref=e83]:
+        - img "恋愛相談、人間関係の悩み" [ref=e86]
+        - generic [ref=e87]:
+          - heading "恋愛相談、人間関係の悩み" [level=1] [ref=e89]
+          - generic [ref=e90]:
+            - generic [ref=e93]:
+              - img [ref=e94]
+              - text: お気に入り
+            - link "このカテゴリに質問" [ref=e97] [cursor=pointer]:
+              - /url: https://chiebukuro.yahoo.co.jp/question/post/form?dnum=2078297875
+              - generic [ref=e98]:
+                - img [ref=e99]
+                - text: このカテゴリに質問
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - list [ref=e106]:
+            - listitem [ref=e107]:
+              - generic [ref=e109]: 回答受付中
+            - listitem [ref=e110]:
+              - link "解決済み" [ref=e111] [cursor=pointer]:
+                - /url: /category/2078297875/question/list?flg=1
+                - generic [ref=e112]: 解決済み
+            - listitem [ref=e113]:
+              - link "すべて" [ref=e114] [cursor=pointer]:
+                - /url: /category/2078297875/question/list?flg=3
+                - generic [ref=e115]: すべて
+          - generic [ref=e117]:
+            - img [ref=e119]
+            - generic [ref=e121]: 並べ替え：
+            - generic [ref=e124]:
+              - combobox [ref=e125]:
+                - option "質問日時の新しい順" [selected]
+                - option "質問日時の古い順"
+                - option "更新日時の新しい順"
+                - option "更新日時の古い順"
+                - option "回答数の多い順"
+                - option "回答数の少ない順"
+                - option "お礼の多い順"
+              - img
+            - generic [ref=e127]:
+              - generic [ref=e128]: AI質問含む
+              - checkbox [ref=e129] [cursor=pointer]
+            - generic [ref=e131]:
+              - checkbox [ref=e132] [cursor=pointer]
+              - img [ref=e134]
+              - generic [ref=e136]: 回答なし
+          - generic [ref=e137]:
+            - link "哲学、倫理 我が子への至高の愛は、産み落としてあげないことではないでしょうか？ 反出生主義の考え方を少し知りたいです 人を産む、命を作るというのは、これからその子の人生で起こることの全ての責任の根源であ... 回答数： 0 4/24 20:01" [ref=e140] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517503
+              - generic [ref=e141]:
+                - paragraph [ref=e142]: 哲学、倫理
+                - paragraph [ref=e145]: 我が子への至高の愛は、産み落としてあげないことではないでしょうか？ 反出生主義の考え方を少し知りたいです 人を産む、命を作るというのは、これからその子の人生で起こることの全ての責任の根源であ...
+                - generic [ref=e146]:
+                  - generic [ref=e147]:
+                    - generic "回答数：" [ref=e148]:
+                      - img [ref=e149]
+                    - generic [ref=e151]: "0"
+                  - generic "4/24 20:01" [ref=e153]
+            - link "恋愛相談、人間関係の悩み 目がバキバキしてる人は犯罪者や危険な人が多いですか？ 回答数： 0 4/24 20:01" [ref=e156] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517490
+              - generic [ref=e157]:
+                - paragraph [ref=e158]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e161]: 目がバキバキしてる人は犯罪者や危険な人が多いですか？
+                - generic [ref=e162]:
+                  - generic [ref=e163]:
+                    - generic "回答数：" [ref=e164]:
+                      - img [ref=e165]
+                    - generic [ref=e167]: "0"
+                  - generic "4/24 20:01" [ref=e169]
+            - link "恋愛相談、人間関係の悩み 噂を利用して私の事意識させる事ってできますか？ 回答数： 2 4/24 20:00" [ref=e172] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517475
+              - generic [ref=e173]:
+                - paragraph [ref=e174]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e177]: 噂を利用して私の事意識させる事ってできますか？
+                - generic [ref=e178]:
+                  - generic [ref=e179]:
+                    - generic "回答数：" [ref=e180]:
+                      - img [ref=e181]
+                    - generic [ref=e183]: "2"
+                  - generic "4/24 20:00" [ref=e185]
+            - link "恋愛相談、人間関係の悩み こんばんは、質問ですが、次のスペックの男性は恋愛対象に入りますか？友達や恋人にしたいですか？ 本名のイニシャルK.N 現年齢36歳 生年月日1989年4月29日 星座おうし座 干支巳年 血液型... 回答数： 0 4/24 20:00" [ref=e188] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517474
+              - generic [ref=e189]:
+                - paragraph [ref=e190]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e193]: こんばんは、質問ですが、次のスペックの男性は恋愛対象に入りますか？友達や恋人にしたいですか？ 本名のイニシャルK.N 現年齢36歳 生年月日1989年4月29日 星座おうし座 干支巳年 血液型...
+                - generic [ref=e194]:
+                  - generic [ref=e195]:
+                    - generic "回答数：" [ref=e196]:
+                      - img [ref=e197]
+                    - generic [ref=e199]: "0"
+                  - generic "4/24 20:00" [ref=e201]
+            - link "恋愛相談 紹介された女性が写真で見るより10キロ程太ってたらもう対象外ですよね？ 165センチ51キロから62キロくらいです。 回答数： 1 4/24 20:00" [ref=e204] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517472
+              - generic [ref=e205]:
+                - paragraph [ref=e206]: 恋愛相談
+                - paragraph [ref=e209]: 紹介された女性が写真で見るより10キロ程太ってたらもう対象外ですよね？ 165センチ51キロから62キロくらいです。
+                - generic [ref=e210]:
+                  - generic [ref=e211]:
+                    - generic "回答数：" [ref=e212]:
+                      - img [ref=e213]
+                    - generic [ref=e215]: "1"
+                  - generic "4/24 20:00" [ref=e217]
+            - link "家族関係の悩み 風呂入ってて気づいたんですが、ちくびが消えました。ポロッとちぎれてるとかじゃなくてほんとに消えてます。どうするべきですか？ 回答数： 1 4/24 20:00" [ref=e220] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517467
+              - generic [ref=e221]:
+                - paragraph [ref=e222]: 家族関係の悩み
+                - paragraph [ref=e225]: 風呂入ってて気づいたんですが、ちくびが消えました。ポロッとちぎれてるとかじゃなくてほんとに消えてます。どうするべきですか？
+                - generic [ref=e226]:
+                  - generic [ref=e227]:
+                    - generic "回答数：" [ref=e228]:
+                      - img [ref=e229]
+                    - generic [ref=e231]: "1"
+                  - generic "4/24 20:00" [ref=e233]
+            - link "職場の悩み 前務めていた会社にいた上司のことが忘れられません。その会社に私は3年いました。私が会社にいた頃、上司は28歳、私は21歳でした。新入社員の頃から気になっていました。 休日は暇だったら朝からパチン... 回答数： 1 4/24 20:00" [ref=e236] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517466
+              - generic [ref=e237]:
+                - paragraph [ref=e238]: 職場の悩み
+                - paragraph [ref=e241]: 前務めていた会社にいた上司のことが忘れられません。その会社に私は3年いました。私が会社にいた頃、上司は28歳、私は21歳でした。新入社員の頃から気になっていました。 休日は暇だったら朝からパチン...
+                - generic [ref=e242]:
+                  - generic [ref=e243]:
+                    - generic "回答数：" [ref=e244]:
+                      - img [ref=e245]
+                    - generic [ref=e247]: "1"
+                  - generic "4/24 20:00" [ref=e249]
+            - link "恋愛相談、人間関係の悩み 男性の「少し考えたい」って何日かかるんですか？ それほんとに考えてます？考えること自体後回しにするくらい興味無いから返事に時間かかるだけですよね？ ある男性にはゲームのグループ鯖の運営の件でそう... 回答数： 0 4/24 20:00" [ref=e252] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517458
+              - generic [ref=e253]:
+                - paragraph [ref=e254]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e257]: 男性の「少し考えたい」って何日かかるんですか？ それほんとに考えてます？考えること自体後回しにするくらい興味無いから返事に時間かかるだけですよね？ ある男性にはゲームのグループ鯖の運営の件でそう...
+                - generic [ref=e258]:
+                  - generic [ref=e259]:
+                    - generic "回答数：" [ref=e260]:
+                      - img [ref=e261]
+                    - generic [ref=e263]: "0"
+                  - generic "4/24 20:00" [ref=e265]
+            - link "学校の悩み 高1の不登校です。学校に行きたいのですが、なかなか行けずにいます。 私は中学時代、3年間の思い出が勉強しかないくらいひたすら勉強をしていました。しかし、自分の意思でやりたいからやった、というわけ... 回答数： 0 4/24 20:00" [ref=e268] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517449
+              - generic [ref=e269]:
+                - paragraph [ref=e270]: 学校の悩み
+                - paragraph [ref=e273]: 高1の不登校です。学校に行きたいのですが、なかなか行けずにいます。 私は中学時代、3年間の思い出が勉強しかないくらいひたすら勉強をしていました。しかし、自分の意思でやりたいからやった、というわけ...
+                - generic [ref=e274]:
+                  - generic [ref=e275]:
+                    - generic "回答数：" [ref=e276]:
+                      - img [ref=e277]
+                    - generic [ref=e279]: "0"
+                  - generic "4/24 20:00" [ref=e281]
+            - link "恋愛相談、人間関係の悩み 某有名美術大学生に一目惚れをしました。 私はごく一般的な大学生です。周りから芸術系の人は変人しか居ないからやめとけとか、付き合えたとしても大変だと思うよとか、そういうことを言われます。私の周りに... 回答数： 0 4/24 20:00" [ref=e284] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517448
+              - generic [ref=e285]:
+                - paragraph [ref=e286]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e289]: 某有名美術大学生に一目惚れをしました。 私はごく一般的な大学生です。周りから芸術系の人は変人しか居ないからやめとけとか、付き合えたとしても大変だと思うよとか、そういうことを言われます。私の周りに...
+                - generic [ref=e290]:
+                  - generic [ref=e291]:
+                    - generic "回答数：" [ref=e292]:
+                      - img [ref=e293]
+                    - generic [ref=e295]: "0"
+                  - generic "4/24 20:00" [ref=e297]
+            - link "恋愛相談、人間関係の悩み 今まで絶望的にモテなかった人が、めっちゃモテるようになるって可能ですか？ 回答数： 0 4/24 20:00" [ref=e300] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517445
+              - generic [ref=e301]:
+                - paragraph [ref=e302]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e305]: 今まで絶望的にモテなかった人が、めっちゃモテるようになるって可能ですか？
+                - generic [ref=e306]:
+                  - generic [ref=e307]:
+                    - generic "回答数：" [ref=e308]:
+                      - img [ref=e309]
+                    - generic [ref=e311]: "0"
+                  - generic "4/24 20:00" [ref=e313]
+            - link "大学受験 大学受験について 中学 不登校 高校 通信制 です。 現在高校3年生 進路について色々と考えております。 高校受験の際に受かったとしてまた中学の時のように高校に行けなくなってしまうかもしれないと... 回答数： 0 4/24 19:59" [ref=e316] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517438
+              - generic [ref=e317]:
+                - paragraph [ref=e318]: 大学受験
+                - paragraph [ref=e321]: 大学受験について 中学 不登校 高校 通信制 です。 現在高校3年生 進路について色々と考えております。 高校受験の際に受かったとしてまた中学の時のように高校に行けなくなってしまうかもしれないと...
+                - generic [ref=e322]:
+                  - generic [ref=e323]:
+                    - generic "回答数：" [ref=e324]:
+                      - img [ref=e325]
+                    - generic [ref=e327]: "0"
+                  - generic "4/24 19:59" [ref=e329]
+            - link "恋愛相談、人間関係の悩み ごめんなさい。少し長くなります。 彼が3日前から体調が悪く熱は無いけどだるくてずっと眠気があるらしくて昨日病院に行くと 当てはまる病気はないが精神的な問題が体に出ているのかもと告げられたそうです。 回答数： 0 4/24 19:59" [ref=e332] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517430
+              - generic [ref=e333]:
+                - paragraph [ref=e334]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e337]: ごめんなさい。少し長くなります。 彼が3日前から体調が悪く熱は無いけどだるくてずっと眠気があるらしくて昨日病院に行くと 当てはまる病気はないが精神的な問題が体に出ているのかもと告げられたそうです。
+                - generic [ref=e338]:
+                  - generic [ref=e339]:
+                    - generic "回答数：" [ref=e340]:
+                      - img [ref=e341]
+                    - generic [ref=e343]: "0"
+                  - generic "4/24 19:59" [ref=e345]
+            - link "学校の悩み 自分があほすぎて辛いです。今日部活で練習中にふざけすぎて普段とても優しい顧問を怒らせてしまいました。 100%自分が悪いし、めちゃくちゃ尊敬してたし、大好きな先生だったのもあって今罪悪感で押しつ... 回答数： 2 4/24 19:59 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e348] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517425
+              - generic [ref=e349]:
+                - paragraph [ref=e350]: 学校の悩み
+                - paragraph [ref=e353]: 自分があほすぎて辛いです。今日部活で練習中にふざけすぎて普段とても優しい顧問を怒らせてしまいました。 100%自分が悪いし、めちゃくちゃ尊敬してたし、大好きな先生だったのもあって今罪悪感で押しつ...
+                - generic [ref=e354]:
+                  - generic [ref=e355]:
+                    - generic "回答数：" [ref=e356]:
+                      - img [ref=e357]
+                    - generic [ref=e359]: "2"
+                  - generic "4/24 19:59" [ref=e361]
+                  - generic [ref=e362]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e363]:
+                      - img [ref=e364]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e370]: "100"
+            - link "恋愛相談、人間関係の悩み 大学一年生です。男です。眉毛の下とか間とか剃って整えてただけで親にクソ笑われました。 超不快なんですけど。 みんな剃らないものなんですか？ 回答数： 2 4/24 19:59" [ref=e373] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517423
+              - generic [ref=e374]:
+                - paragraph [ref=e375]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e378]: 大学一年生です。男です。眉毛の下とか間とか剃って整えてただけで親にクソ笑われました。 超不快なんですけど。 みんな剃らないものなんですか？
+                - generic [ref=e379]:
+                  - generic [ref=e380]:
+                    - generic "回答数：" [ref=e381]:
+                      - img [ref=e382]
+                    - generic [ref=e384]: "2"
+                  - generic "4/24 19:59" [ref=e386]
+            - link "恋愛相談、人間関係の悩み 流石に授業中のトークタイムぐらいでしか話せてない女子のLINEいきなり追加するのはきもいですよね 回答数： 0 4/24 19:59" [ref=e389] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517419
+              - generic [ref=e390]:
+                - paragraph [ref=e391]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e394]: 流石に授業中のトークタイムぐらいでしか話せてない女子のLINEいきなり追加するのはきもいですよね
+                - generic [ref=e395]:
+                  - generic [ref=e396]:
+                    - generic "回答数：" [ref=e397]:
+                      - img [ref=e398]
+                    - generic [ref=e400]: "0"
+                  - generic "4/24 19:59" [ref=e402]
+            - link "学校の悩み イーサットジェイを受験したことがある人感想教えてください 回答数： 0 4/24 19:59" [ref=e405] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517410
+              - generic [ref=e406]:
+                - paragraph [ref=e407]: 学校の悩み
+                - paragraph [ref=e410]: イーサットジェイを受験したことがある人感想教えてください
+                - generic [ref=e411]:
+                  - generic [ref=e412]:
+                    - generic "回答数：" [ref=e413]:
+                      - img [ref=e414]
+                    - generic [ref=e416]: "0"
+                  - generic "4/24 19:59" [ref=e418]
+            - link "政治、社会問題 首相総理大臣政治家毎日靖国参拝したら悪質クレームなくなりますか 回答数： 0 4/24 19:59" [ref=e421] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517411
+              - generic [ref=e422]:
+                - paragraph [ref=e423]: 政治、社会問題
+                - paragraph [ref=e426]: 首相総理大臣政治家毎日靖国参拝したら悪質クレームなくなりますか
+                - generic [ref=e427]:
+                  - generic [ref=e428]:
+                    - generic "回答数：" [ref=e429]:
+                      - img [ref=e430]
+                    - generic [ref=e432]: "0"
+                  - generic "4/24 19:59" [ref=e434]
+            - link "職場の悩み 経験者様にお聞きします。 職場に気になる女性がいるんですが、毎日その女性と楽しく仕事をしていました。 今その子は体調不良で1ヶ月程休職しています。真面目で責任感が強いです。 本人は休職に入る前に... 回答数： 0 4/24 19:59" [ref=e437] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517408
+              - generic [ref=e438]:
+                - paragraph [ref=e439]: 職場の悩み
+                - paragraph [ref=e442]: 経験者様にお聞きします。 職場に気になる女性がいるんですが、毎日その女性と楽しく仕事をしていました。 今その子は体調不良で1ヶ月程休職しています。真面目で責任感が強いです。 本人は休職に入る前に...
+                - generic [ref=e443]:
+                  - generic [ref=e444]:
+                    - generic "回答数：" [ref=e445]:
+                      - img [ref=e446]
+                    - generic [ref=e448]: "0"
+                  - generic "4/24 19:59" [ref=e450]
+            - link "恋愛相談、人間関係の悩み 何を着るかは人それぞれですが、地雷系やロリータ系の服は何歳まで着てたらイタイ目で見られたりしませんか？ 私は地雷系やロリータ系の服は来ませんが、ネッ友がそういう服を好んできてます。10代とかでし... 回答数： 0 4/24 19:59" [ref=e453] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517407
+              - generic [ref=e454]:
+                - paragraph [ref=e455]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e458]: 何を着るかは人それぞれですが、地雷系やロリータ系の服は何歳まで着てたらイタイ目で見られたりしませんか？ 私は地雷系やロリータ系の服は来ませんが、ネッ友がそういう服を好んできてます。10代とかでし...
+                - generic [ref=e459]:
+                  - generic [ref=e460]:
+                    - generic "回答数：" [ref=e461]:
+                      - img [ref=e462]
+                    - generic [ref=e464]: "0"
+                  - generic "4/24 19:59" [ref=e466]
+            - link "家族関係の悩み 母に障害があるんじゃないかと言われました。 高三です。私は子供の頃から些細な言い間違いが多く、よく母に指摘されていました。 そして最近、言い間違いが多すぎて障害者と疑うレベル、と言われてしまいま... 回答数： 1 4/24 19:58 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e469] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517402
+              - generic [ref=e470]:
+                - paragraph [ref=e471]: 家族関係の悩み
+                - paragraph [ref=e474]: 母に障害があるんじゃないかと言われました。 高三です。私は子供の頃から些細な言い間違いが多く、よく母に指摘されていました。 そして最近、言い間違いが多すぎて障害者と疑うレベル、と言われてしまいま...
+                - generic [ref=e475]:
+                  - generic [ref=e476]:
+                    - generic "回答数：" [ref=e477]:
+                      - img [ref=e478]
+                    - generic [ref=e480]: "1"
+                  - generic "4/24 19:58" [ref=e482]
+                  - generic [ref=e483]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e484]:
+                      - img [ref=e485]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e491]: "25"
+            - link "友人関係の悩み 虚言癖の人についての質問です。 最近予備校で仲良くなった子がいますが、その子の言動に恐怖を感じています。 先日、一緒に勉強していたところ「家に忘れ物を取りに行く」と言われました。その子は荷物をす... 回答数： 1 4/24 19:57" [ref=e494] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517367
+              - generic [ref=e495]:
+                - paragraph [ref=e496]: 友人関係の悩み
+                - paragraph [ref=e499]: 虚言癖の人についての質問です。 最近予備校で仲良くなった子がいますが、その子の言動に恐怖を感じています。 先日、一緒に勉強していたところ「家に忘れ物を取りに行く」と言われました。その子は荷物をす...
+                - generic [ref=e500]:
+                  - generic [ref=e501]:
+                    - generic "回答数：" [ref=e502]:
+                      - img [ref=e503]
+                    - generic [ref=e505]: "1"
+                  - generic "4/24 19:57" [ref=e507]
+            - link "恋愛相談、人間関係の悩み 5つ年下男性の前で別の男性のことを「あの男とは絶対結婚したくない」と伝えるアラフォー女性は、伝えた男性に対しても興味がないですか？ 回答数： 2 4/24 19:57" [ref=e510] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517355
+              - generic [ref=e511]:
+                - paragraph [ref=e512]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e515]: 5つ年下男性の前で別の男性のことを「あの男とは絶対結婚したくない」と伝えるアラフォー女性は、伝えた男性に対しても興味がないですか？
+                - generic [ref=e516]:
+                  - generic [ref=e517]:
+                    - generic "回答数：" [ref=e518]:
+                      - img [ref=e519]
+                    - generic [ref=e521]: "2"
+                  - generic "4/24 19:57" [ref=e523]
+            - link "職場の悩み 至急 新卒です。私は仕事が遅いです。こんな人間が、ウエディングプランナーなんて向いてるのでしょうか？教えてください。 回答数： 1 4/24 19:57 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e526] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517352
+              - generic [ref=e527]:
+                - paragraph [ref=e528]: 職場の悩み
+                - paragraph [ref=e531]: 至急 新卒です。私は仕事が遅いです。こんな人間が、ウエディングプランナーなんて向いてるのでしょうか？教えてください。
+                - generic [ref=e532]:
+                  - generic [ref=e533]:
+                    - generic "回答数：" [ref=e534]:
+                      - img [ref=e535]
+                    - generic [ref=e537]: "1"
+                  - generic "4/24 19:57" [ref=e539]
+                  - generic [ref=e540]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e541]:
+                      - img [ref=e542]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e548]: "25"
+            - link "学校の悩み 私の市で初めてある学校で、いじめ重大事態と認定された案件があったらしいですが…。 少し前に、ネット記事でその話題を見て今日改めて、紙の新聞でその案件についてちょっと詳しく書かれているのを、見たん... 回答数： 0 4/24 19:57 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e551] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517348
+              - generic [ref=e552]:
+                - paragraph [ref=e553]: 学校の悩み
+                - paragraph [ref=e556]: 私の市で初めてある学校で、いじめ重大事態と認定された案件があったらしいですが…。 少し前に、ネット記事でその話題を見て今日改めて、紙の新聞でその案件についてちょっと詳しく書かれているのを、見たん...
+                - generic [ref=e557]:
+                  - generic [ref=e558]:
+                    - generic "回答数：" [ref=e559]:
+                      - img [ref=e560]
+                    - generic [ref=e562]: "0"
+                  - generic "4/24 19:57" [ref=e564]
+                  - generic [ref=e565]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e566]:
+                      - img [ref=e567]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e573]: "25"
+            - link "恋愛相談、人間関係の悩み 紹介された男性と会って話が盛り上がらなかったら、どうしますか？ 回答数： 1 4/24 19:57" [ref=e576] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517344
+              - generic [ref=e577]:
+                - paragraph [ref=e578]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e581]: 紹介された男性と会って話が盛り上がらなかったら、どうしますか？
+                - generic [ref=e582]:
+                  - generic [ref=e583]:
+                    - generic "回答数：" [ref=e584]:
+                      - img [ref=e585]
+                    - generic [ref=e587]: "1"
+                  - generic "4/24 19:57" [ref=e589]
+            - link "職場の悩み 勤務してる会社で数年前からベトナム人を雇い始めたのですが彼等と仕事をする上で日本語で会話をする時にどうしても聞き取れない言葉が何個もあります。 結局、その時の状況や話の流れなどから予測して理解す... 回答数： 1 4/24 19:57" [ref=e592] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327517343
+              - generic [ref=e593]:
+                - paragraph [ref=e594]: 職場の悩み
+                - paragraph [ref=e597]: 勤務してる会社で数年前からベトナム人を雇い始めたのですが彼等と仕事をする上で日本語で会話をする時にどうしても聞き取れない言葉が何個もあります。 結局、その時の状況や話の流れなどから予測して理解す...
+                - generic [ref=e598]:
+                  - generic [ref=e599]:
+                    - generic "回答数：" [ref=e600]:
+                      - img [ref=e601]
+                    - generic [ref=e603]: "1"
+                  - generic "4/24 19:57" [ref=e605]
+            - link "恋愛相談、人間関係の悩み マッチングアプリで、気が合いそうだなーって人と今度会う約束したんですけど、その前に会いたいねってなって、私が明明後日の仕事終わりならちょっとなら会えるよって言ったら彼のお家に泊まろうよって言われて 彼 回答数： 0 4/24 19:56" [ref=e608] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517340
+              - generic [ref=e609]:
+                - paragraph [ref=e610]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e613]: マッチングアプリで、気が合いそうだなーって人と今度会う約束したんですけど、その前に会いたいねってなって、私が明明後日の仕事終わりならちょっとなら会えるよって言ったら彼のお家に泊まろうよって言われて 彼
+                - generic [ref=e614]:
+                  - generic [ref=e615]:
+                    - generic "回答数：" [ref=e616]:
+                      - img [ref=e617]
+                    - generic [ref=e619]: "0"
+                  - generic "4/24 19:56" [ref=e621]
+            - link "恋愛相談、人間関係の悩み 皆さんは好きなもの、綺麗なものから嫌いなもの、醜いもの全て見えてしまう目と、曖昧にしか見えないが自分の解釈で見える目どちらがいいですか？長く謎い質問なので適当に聞いてください 私は生まれつき目が... 回答数： 0 4/24 19:56 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e624] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517321
+              - generic [ref=e625]:
+                - paragraph [ref=e626]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e629]: 皆さんは好きなもの、綺麗なものから嫌いなもの、醜いもの全て見えてしまう目と、曖昧にしか見えないが自分の解釈で見える目どちらがいいですか？長く謎い質問なので適当に聞いてください 私は生まれつき目が...
+                - generic [ref=e630]:
+                  - generic [ref=e631]:
+                    - generic "回答数：" [ref=e632]:
+                      - img [ref=e633]
+                    - generic [ref=e635]: "0"
+                  - generic "4/24 19:56" [ref=e637]
+                  - generic [ref=e638]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e639]:
+                      - img [ref=e640]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e646]: "50"
+            - link "恋愛相談、人間関係の悩み 今日バイトで人前で泣いてしまいました。 大学一年生です。 バイトは初めてで始めてから三週間程です。私は人間関係が得意ではなく、感受性豊かでアニメではすぐ何回も泣けます。初めての仕事に対応できず、... 回答数： 0 4/24 19:56" [ref=e649] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327517317
+              - generic [ref=e650]:
+                - paragraph [ref=e651]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e654]: 今日バイトで人前で泣いてしまいました。 大学一年生です。 バイトは初めてで始めてから三週間程です。私は人間関係が得意ではなく、感受性豊かでアニメではすぐ何回も泣けます。初めての仕事に対応できず、...
+                - generic [ref=e655]:
+                  - generic [ref=e656]:
+                    - generic "回答数：" [ref=e657]:
+                      - img [ref=e658]
+                    - generic [ref=e660]: "0"
+                  - generic "4/24 19:56" [ref=e662]
+            - link "職場の悩み 仕事をたくさん抱えているのにシフトを減らされています。貴方ならどうしますか？ 回答数： 1 4/24 19:56" [ref=e665] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517316
+              - generic [ref=e666]:
+                - paragraph [ref=e667]: 職場の悩み
+                - paragraph [ref=e670]: 仕事をたくさん抱えているのにシフトを減らされています。貴方ならどうしますか？
+                - generic [ref=e671]:
+                  - generic [ref=e672]:
+                    - generic "回答数：" [ref=e673]:
+                      - img [ref=e674]
+                    - generic [ref=e676]: "1"
+                  - generic "4/24 19:56" [ref=e678]
+            - link "職場の悩み バイトについてです。愚痴っぽいですが吐くところがないのでよかったら見てください。 僕は今20歳の大学生でバイトしてます。 オープン当初から働いてて1年経ちました。店長とも他のバイト仲間とも1年間... 回答数： 0 4/24 19:56" [ref=e681] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517314
+              - generic [ref=e682]:
+                - paragraph [ref=e683]: 職場の悩み
+                - paragraph [ref=e686]: バイトについてです。愚痴っぽいですが吐くところがないのでよかったら見てください。 僕は今20歳の大学生でバイトしてます。 オープン当初から働いてて1年経ちました。店長とも他のバイト仲間とも1年間...
+                - generic [ref=e687]:
+                  - generic [ref=e688]:
+                    - generic "回答数：" [ref=e689]:
+                      - img [ref=e690]
+                    - generic [ref=e692]: "0"
+                  - generic "4/24 19:56" [ref=e694]
+            - link "恋愛相談、人間関係の悩み 人間関係においての正解ってなんだと思いますか。 ほんとにみんなと仲良くしたくて、誰とでも話していたら、八方美人と言われました。あとユメウツという少女漫画の冒頭に、誰とでも仲良くしようとしてる自分... 回答数： 0 4/24 19:55" [ref=e697] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517294
+              - generic [ref=e698]:
+                - paragraph [ref=e699]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e702]: 人間関係においての正解ってなんだと思いますか。 ほんとにみんなと仲良くしたくて、誰とでも話していたら、八方美人と言われました。あとユメウツという少女漫画の冒頭に、誰とでも仲良くしようとしてる自分...
+                - generic [ref=e703]:
+                  - generic [ref=e704]:
+                    - generic "回答数：" [ref=e705]:
+                      - img [ref=e706]
+                    - generic [ref=e708]: "0"
+                  - generic "4/24 19:55" [ref=e710]
+            - link "恋愛相談、人間関係の悩み 片思いがこのまま終わりそうで悲しいです…。 相手は一つ年上のバイト先が同じ男性です。 1年ほどかけて距離を縮めLINEを交換したのですが、そこからあまり進展せず… 2ヶ月ほど前思い切って電話の... 回答数： 1 4/24 19:55" [ref=e713] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517290
+              - generic [ref=e714]:
+                - paragraph [ref=e715]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e718]: 片思いがこのまま終わりそうで悲しいです…。 相手は一つ年上のバイト先が同じ男性です。 1年ほどかけて距離を縮めLINEを交換したのですが、そこからあまり進展せず… 2ヶ月ほど前思い切って電話の...
+                - generic [ref=e719]:
+                  - generic [ref=e720]:
+                    - generic "回答数：" [ref=e721]:
+                      - img [ref=e722]
+                    - generic [ref=e724]: "1"
+                  - generic "4/24 19:55" [ref=e726]
+            - link "恋愛相談、人間関係の悩み 私「ゴールデンウィーク空いてる日ある？？」 好「大体空いてるよー」 私「5日か6日遊ばん？？」 好「6日いけるよー」 私「ありがとう！楽しみ！」 「何する？」 好「映画とか？」 私「あり！何み... 回答数： 0 4/24 19:55 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e729] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517289
+              - generic [ref=e730]:
+                - paragraph [ref=e731]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e734]: 私「ゴールデンウィーク空いてる日ある？？」 好「大体空いてるよー」 私「5日か6日遊ばん？？」 好「6日いけるよー」 私「ありがとう！楽しみ！」 「何する？」 好「映画とか？」 私「あり！何み...
+                - generic [ref=e735]:
+                  - generic [ref=e736]:
+                    - generic "回答数：" [ref=e737]:
+                      - img [ref=e738]
+                    - generic [ref=e740]: "0"
+                  - generic "4/24 19:55" [ref=e742]
+                  - generic [ref=e743]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e744]:
+                      - img [ref=e745]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e751]: "100"
+            - link "恋愛相談、人間関係の悩み 昨日インスタで気になる人からフォロリク来てて、後で返そうと思ってちょっとした後（20分程度）にまたインスタ見たらアプリの通知のところから消えてました。相手がフォロリク取り消したってことですよね？ これ 回答数： 0 4/24 19:55" [ref=e754] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517281
+              - generic [ref=e755]:
+                - paragraph [ref=e756]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e759]: 昨日インスタで気になる人からフォロリク来てて、後で返そうと思ってちょっとした後（20分程度）にまたインスタ見たらアプリの通知のところから消えてました。相手がフォロリク取り消したってことですよね？ これ
+                - generic [ref=e760]:
+                  - generic [ref=e761]:
+                    - generic "回答数：" [ref=e762]:
+                      - img [ref=e763]
+                    - generic [ref=e765]: "0"
+                  - generic "4/24 19:55" [ref=e767]
+            - link "職場の悩み 3ヶ月の新人エンジニアです。 僕の性根を叩き直してください。 そしてアドバイスをください。 ちゃんと的を得ているものがあればそれも知りたいです。 ①積極的に「口頭」で話にいけ。空気みたい ↓ ... 回答数： 0 4/24 19:54" [ref=e770] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327517259
+              - generic [ref=e771]:
+                - paragraph [ref=e772]: 職場の悩み
+                - paragraph [ref=e775]: 3ヶ月の新人エンジニアです。 僕の性根を叩き直してください。 そしてアドバイスをください。 ちゃんと的を得ているものがあればそれも知りたいです。 ①積極的に「口頭」で話にいけ。空気みたい ↓ ...
+                - generic [ref=e776]:
+                  - generic [ref=e777]:
+                    - generic "回答数：" [ref=e778]:
+                      - img [ref=e779]
+                    - generic [ref=e781]: "0"
+                  - generic "4/24 19:54" [ref=e783]
+            - link "恋愛相談、人間関係の悩み 何度も質問してすみません。 マチアプで知り合って遠距離の彼氏がいます。実家暮らしの実家の住所教えてくれて、免許証も見せてくれて、 なおかつ教えてくれた住所と免許証の住所も一緒です。 やましいこと... 回答数： 0 4/24 19:54" [ref=e786] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517255
+              - generic [ref=e787]:
+                - paragraph [ref=e788]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e791]: 何度も質問してすみません。 マチアプで知り合って遠距離の彼氏がいます。実家暮らしの実家の住所教えてくれて、免許証も見せてくれて、 なおかつ教えてくれた住所と免許証の住所も一緒です。 やましいこと...
+                - generic [ref=e792]:
+                  - generic [ref=e793]:
+                    - generic "回答数：" [ref=e794]:
+                      - img [ref=e795]
+                    - generic [ref=e797]: "0"
+                  - generic "4/24 19:54" [ref=e799]
+            - link "イヌ 現在高校一年生です。今赤ちゃんの柴犬を飼おうと考えています。ただ将来的に大学2年生で1年間留学に行こうと思っています。親には自分が留学している間の世話を誰がするのかで少し反対されています。 でも... 回答数： 0 4/24 19:54 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e802] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327517251
+              - generic [ref=e803]:
+                - paragraph [ref=e804]: イヌ
+                - paragraph [ref=e807]: 現在高校一年生です。今赤ちゃんの柴犬を飼おうと考えています。ただ将来的に大学2年生で1年間留学に行こうと思っています。親には自分が留学している間の世話を誰がするのかで少し反対されています。 でも...
+                - generic [ref=e808]:
+                  - generic [ref=e809]:
+                    - generic "回答数：" [ref=e810]:
+                      - img [ref=e811]
+                    - generic [ref=e813]: "0"
+                  - generic "4/24 19:54" [ref=e815]
+                  - generic [ref=e816]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e817]:
+                      - img [ref=e818]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e824]: "100"
+            - link "恋愛相談、人間関係の悩み 別れたいか別れようと思わないか、皆さんに聞きたいです。 付き合って2年以上の彼氏がいます。お互い社会人です。 実は最近頭を強打してしまい救急搬送されて入院していました。もう退院したのですが、嗅... 回答数： 0 4/24 19:54" [ref=e827] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327517250
+              - generic [ref=e828]:
+                - paragraph [ref=e829]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e832]: 別れたいか別れようと思わないか、皆さんに聞きたいです。 付き合って2年以上の彼氏がいます。お互い社会人です。 実は最近頭を強打してしまい救急搬送されて入院していました。もう退院したのですが、嗅...
+                - generic [ref=e833]:
+                  - generic [ref=e834]:
+                    - generic "回答数：" [ref=e835]:
+                      - img [ref=e836]
+                    - generic [ref=e838]: "0"
+                  - generic "4/24 19:54" [ref=e840]
+        - generic [ref=e843]:
+          - generic [ref=e844]:
+            - generic [ref=e845]: "1"
+            - link "2" [ref=e846] [cursor=pointer]:
+              - /url: /category/2078297875/question/list?page=2
+            - link "3" [ref=e847] [cursor=pointer]:
+              - /url: /category/2078297875/question/list?page=3
+            - link "4" [ref=e848] [cursor=pointer]:
+              - /url: /category/2078297875/question/list?page=4
+            - link "5" [ref=e849] [cursor=pointer]:
+              - /url: /category/2078297875/question/list?page=5
+            - link "6" [ref=e850] [cursor=pointer]:
+              - /url: /category/2078297875/question/list?page=6
+            - link "7" [ref=e851] [cursor=pointer]:
+              - /url: /category/2078297875/question/list?page=7
+            - link "8" [ref=e852] [cursor=pointer]:
+              - /url: /category/2078297875/question/list?page=8
+            - link "9" [ref=e853] [cursor=pointer]:
+              - /url: /category/2078297875/question/list?page=9
+            - link "10" [ref=e854] [cursor=pointer]:
+              - /url: /category/2078297875/question/list?page=10
+            - generic [ref=e855]: ...
+            - link "次へ" [ref=e856] [cursor=pointer]:
+              - /url: /category/2078297875/question/list?page=2
+              - text: 次へ
+              - img [ref=e857]
+          - paragraph [ref=e859]:
+            - generic [ref=e860]: 約11,826件
+      - complementary [ref=e861]:
+        - generic [ref=e862]:
+          - iframe
+          - iframe [ref=e864]:
+            - generic [ref=f185e3]:
+              - generic [ref=f185e6]:
+                - link "母「長時間バスも余裕」女性頻尿は家で簡単 明治薬品株式会社 明治薬品から【クーポン配布中】家族にバレずちょい漏れを治す。本日半額以下 詳しくはこちら" [ref=f185e7] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A7ZN62kAAFWjm-T54SvEvqR22HlAVKuSA5hms2JRfo9znC1ew_qNx2gu9oLrlPd5VhfDdpZG4CANO_6UiJj8OyaXVjwKAIFHWcA8aiAY7jAFanj2CMETo-e0VWMeht1krj5fMKc-G9mZcnaRwFNSRX-14XZsydCWJn4T8CmsmYGOck3sUUh8p8vfkboygoj_ZyWfHAA_RKt7doU4-An_JwVp364YiozBZ0lm7cyaVQ5AdBvAkJgyYHB8S_vh3ZtOfJYj-h_7M96t7oqiOyaWBFvlxKIEQZnegbprY2iuntTRsr7wIQvs5RV-BIxUONdkv0yrOA25vzUXOSFfCR38PhrVM5csTxjezE5L7wHtMIM9A0b05TYZ9ZfALTpFUyv7lOPDeHIezDIhG6u6vtNJcSlz63-oqB7eelFFtNiq2jwNbi2XasxyErPTyA4dxNRNahnPklqQ_5mBlNBYEia856MJfkW1jhdxt9ApxLOFCxyuRwkC_zM9ft5Y_p3B85sIkIqZiqw99vjfJpr0JOv8EfP48RzncqPF8B8KQuvsqcynIhLY3UELnIM4ZY-8TtdAYh3HtCSXStBrbzWK3988OkpNz7pilmc6A-cj4Y4joaQxJoimKVhOvE6FNHZNK-tfrCmuVF6bwP5vN3NCHVBYaAAXbML4alTNSaVt4a_V_Z63hnCsW8684YApvr2DlycidGyeaqfgzIFzracDCcgZG-KzNXMyxMZHNw5dQFy2ZFMlsn3hYjRBQzEQ7ybaSNIlMRWg6oroL_7enMZ7OVvKkjWWE3YJ1PMZR-h9L9IvAD-N4xSGmepqS4V1NK_mWs04MgvlUUfRx9nOaLinjPmwLtkq5kofLt9jA7KlCXhRBTraYjdHj44KriCX0iz3itymTFyj-_zddJUYqgTmLd1W1mKsl16eLK8i9hBa2Ao5XpUeSyxsbjV0vWRwKn7lBLYz08ydIuds9XPrIXL17y605xqTxVHCfC2WO-JyOF4EmBkClVgE0cFffI4lH5AwXWuDIosr0U10Np7GAh6kXU79MZywdYwGAvAKq2aZ5XIPZEOpRnaYRzRAaiSgRVubwKk_lUiboh39jEyUopnFgreQlAaogFqjomejy6SMnV23H01b5RCjq9ZCLV-8GpdMWZvzi3x-a49mjMxZRE_-apl0RLMCFYR_V5KeiUnere-SKEjlgnpWIES2IKAsw27nVJJuE24HNecDUmG8jXwYIBuqFnGbbc7oYuP6yHyWRCtqer1dsa9qCWu01-p18AhvKIE7CX9-L7lBUEr3LiZq9WFVb_Xi2jRDl7OnX-q2blvKDTszFuh9tzYl2WYqM5xvcq06M-Ux5008ipD_U6zLROol3lI_XI2uAmEaucp1zaBAd0nnt8cWULH3plRZhXELXc5bZU5mY6pO7WkpM7RQtfjtn7hhmJtJO92RHIOXkExCDrZ23IJSUpQK&v=5
+                  - generic [ref=f185e8]:
+                    - img [ref=f185e10]
+                    - generic [ref=f185e11]:
+                      - paragraph [ref=f185e12]: 母「長時間バスも余裕」女性頻尿は家で簡単
+                      - paragraph [ref=f185e13]: 明治薬品株式会社
+                  - generic [ref=f185e14]:
+                    - paragraph [ref=f185e15]: 明治薬品から【クーポン配布中】家族にバレずちょい漏れを治す。本日半額以下
+                    - generic [ref=f185e16]: 詳しくはこちら
+                - generic [ref=f185e17] [cursor=pointer]:
+                  - link "広告" [ref=f185e20]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A7ZN62kAAFaBM_lSKp8A9h6PWHS2Wu1VBvoo8U53QvOn7ReAhs3ptsIft6KfOEXO2hagSgRyaxGQ6unCsXG-X4UX4IQSQDgeHV04GynAtfOPvlRqw2hI0-XOS7sOKofBfDpRynBYf-VEE8hMP_v9NQd8F6ly8-KIEdNLcQmP_BkZMvNUEEFgQAjHt7gh4UsuyzsAuY2y90PqCCltUZlzoiJ-dK9nqRQzOXgV2dD_Nu8LyxRKJmwT7cwKc7gMmSDha67h-lqxfJZWtNcJuUoEsDg37SoNUPn3q1g3Abt6bPGriR-WZnc&o=A7ZN62kAADZzWEYP3aJ1wCuedauqzMCGNazRFlv7LDKwtQgIDFucSPrKDyjJMXAPM61XaHlxytr6zun2Zl6blZ26hMed0wUCqaRyav1fbyRQcCAbZeNew0d2i65o-_1UGeUqIu1VFUWr27quwYI_8AYHww5UzfuBXQ7Og5zE5owzfodrSJJMSCzxsLmH100qxkGfnz-piwUNGGuvLxsOVbo3WVJMnK0DsR1rJXYPSs7Ka2AWOoOOW5uPA8iQZWehJrd-7ORg3C5G5w3xCzmDOH8xnsrE
+                    - generic [ref=f185e22]:
+                      - generic [ref=f185e23]: 広告
+                      - img [ref=f185e25]
+                  - img [ref=f185e30]
+              - generic [ref=f185e35]:
+                - link "1996年創業 上質な指輪作り体験工房 詳しくはこちら a.w.s（エー・ダブリュ・エス）蔵前店" [ref=f185e36] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A7ZN62kAAM4aHICFiKgnhEifU0peTHlCdRu1Qh8W5lm9_Hi4ilRmmBPK0pSEA0ay_KoB09Aq1Vet21Nk2F1l6nuFlTSNC5QsoBAkHrTMpd4FNAacqtrUqdpY-gYZlHNzNW-5tnOHsALit5nrNS8U_iCvYU8lzo48QrMVENmJxhtHBCezqS0xTseJKSGA2ZWXpRQimqROGt-EL3yrJwPyUaRdFzIu-Q-xt1tT9HE9UwPWLzYj9mXyoZtcwPr4VuJibzo_r-1wtzatofdLpu_C3gsAYQGE0k1xPGb8l6O9YRxhI_dlo2ktEjo0tWoRidkl7_wlJysJAbLJiBX9TT8RYqz_0KFt8D2eR2PuAGwLPT9JWkROW5euGgRSRpU5v_sVADWaiynYUAt2F_7CLDo2QiCw8LEj308Ik3PeAR2svpH2Gv-_YfdvgL7_63MemgkHn5VrNFrOOmI2OVqV0G1Q4j7xekWhZu09Rg1JpwkqOtLTzDnV02b3CpLGSOLScrqclvWAtnzWovogPERc4wZSBhBrn_7_1Nxq-QPwdA-lGv6OBNgEE8WjyPXXU5zc_LBk6K4caXDnxMoiqC8q5zgoMv4-iM4EdFZ0uy1pz0cEBszSBDDfHB62ttluZ_ymWYVWy1fYtVgaVwfW5Mt9lB5ogIwfX7zAczkLWo4qQYPp5O9kUllK99YHrh7t8UKoofgjCKLj7LYa2j3BS4Hmzw7e5YYy97YpuMHEJU2D70LWc02RV9LkZVgGBz9aJUmq2VcGFj77jFLUKjHohTTI2wSNtMTWF5m3lot-9rS3zoUqi1ybbHhoMXzfRhz2MFkes06wmPoOAs_t7rmwsxQ1-lMmREnI6NuSnsEIhBKVdk2MQzVBADV7YXM_G77yk2Ekql5YwJCQg_E5EWm4RyanUGGstaQnsMuvJeXDxJqc4IpxqosLEq3PGwacaxbUWXR9pNc2FswiyXh4KrZb9PfKiZ6GRvqudTDyzI7f1pZr1D61qHvBG3rUO8CWRkTDoONepncOwT5Syp8RG6XYL04nWOLepa1fzSbHt3EUdW6-ARe4o8I-hncGR5ctK35jtOFkptmDovm9h_747grCaCTFDrFe3ELqMJ0LOUa0lXWQxMb4zm3SArnSJ0Q7t0Mz-M0WW3awEIPRU91gg0SFQNjZm7wFoBGKm4XSoW_PWbfsGiyzQ_RJ7JuSgWNDu0T4xyq1kO7jNWHnrKPRVcSPTTlWdSKpSyoomLN3P-40xHLbZ78ZTQR7lorqnMHXSGGdxfJ0T_ZwFeqkCJig_gSm99qWCyI8YgfDKgHfTPVUSNZOdFbjGDrx6V0foWVVqtm6Gaxge-tLxxzznYT7QcnaF4Wfqpz0zD9bxZtKDNcjUQdxl2Bd0E_U3DF6WreETyZfq2Owr5jobZB-i_j-ntk&v=5
+                  - paragraph [ref=f185e39]: 1996年創業 上質な指輪作り体験工房
+                  - paragraph [ref=f185e40]:
+                    - generic [ref=f185e41]: 詳しくはこちら
+                  - paragraph [ref=f185e42]: a.w.s（エー・ダブリュ・エス）蔵前店
+                - generic [ref=f185e43] [cursor=pointer]:
+                  - link "広告" [ref=f185e46]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A7ZN62kAAD1luaYrmpOYIKPHC37XhnidNC_ja_tmywkVU6f_X5MtsJ9W4O35GQQhrENCWOUruJQ2-eT765Q_6iCrK_uU2Cv_KEgYgLLYHHjt4wO30iqtF6324k0YqUkTIdIfT7w4vcNcK4wNWobJafGMHAwgcs-ASFaevEo_ISEW0dK8OLL4YPMJFkd2pk2DO1db9LOIoZPc9EtHxQNphJPkefI3Lv0xLJlYbci6-ec9anrNRvBAbadsXxg_Npy5NJcEgMgOAvJhUMl1fPKn-zhd9eWwRmzVj6h6QygapYqhDcTl7xSISOR-xScNkwpmOo71nA&o=A7ZN62kAAJ25AeTgzyvfFByO7z79C5huxFUIYVh07moHudv8gwaXrX50I7nRITKbrhPcZkRc2yjHxufNPDZap-pHT3uwPcB7eCPQtTn1UMcV_RF4fGOMdSrRajdiA9jzzf5z-QnzQTxenKcNXtSYuBt9fHNuXuIkwZyG3QIQkT_we2ysMBtncrVRJ46dZY_C2zUzH6qfbV3BG7tVyNLGaeh_VEn0q3jIP2pIfdxJQsnAqJ2VeEqJlARd8BMuujTI6Lkk5DkoAaSEEihOcRk8pelf5A
+                    - generic [ref=f185e48]:
+                      - generic [ref=f185e49]: 広告
+                      - img [ref=f185e51]
+                  - img [ref=f185e56]
+    - generic [ref=e865]:
+      - generic [ref=e866]:
+        - generic [ref=e868]:
+          - iframe
+          - iframe [ref=e870]:
+            - generic [ref=f187e6]:
+              - link [ref=f187e7] [cursor=pointer]:
+                - /url: https://apm.yahoo.co.jp/rd?ep=A7ZN62kAAGtQx_wgsfsB1XeA6aSJNwacvtRTGcWfITrGmLs1JLzFCgyzN_K1VfPpD_DNoHP9eqNz56KpkVmHMnjPD-t8fRs4GJLBPhzQ7rO1RT_9ltFYY81oJWcW5sXcI1THAPlSaC9UDVoC__5g_gMF9dbQb2ExzkqUgBWyCWASrovIUC8TJHGwftDBoJPEBzIBHcGzuu89v2bmGuqU12j25LTihX_2QoOJV9O6gYdciIrb7bNfIrBF4PkUk55ZibbGFg7GlJ8at6xKKKpIRilsdwKvhVrfhAhYM-YyXAt7Ps59IkkE20qE4X_L1h4_Zzge9MM5KZuvFzmylcgdWqqUNRXQx-wKbKP3AkD4JYJWJxE7AUqZETzganMK2nuSpCJfGPCa4WSDEATHE006Votrtttcdqdett1gYKZmSB6T3MlrFf8xWjJQOvBH0Mh7OsVL0o0_xGFZfBwDpTZxU5pvoUxiOmcrLccBlc8eK0AY7Zamkeu6a_Vq7w2igN5DhbkwHlf5rN-l9uAqzxNdXtoLHWbsmJ7vL5WCKMIbymdBRGnU-cF4NnizCiinElI6Mm5TMGdgQSiMeJfvNI3Jt5SqUx3Ud6_5JnImVOB2g7i6d6or_skdq6nFreU9BI_NT1J93gCwsEPnIaPmjXmMgOVgFON1gHPopm0U1udvGc7Hd_vws2H5VLEXDDhvsB2wIzZFXqdyBmVHoxAoz30xqe-dUVti6hsk5dKD1SaxipNo_C1MxF4B08_kfsNNUyCMGEATcoG7zKPoXUeoYq2aib0NewiVq8JV7iOZTxq8kub6SHkN-4Qgs5eZBewhfGDRYaKR6AhLOPuZLwNBetyC1idZqMYxU1j0sGFH4vEe_ueHuMj7DpMElecBhYu0ofz5pDtWB_DvegeExTlxH32SrJXyxFIcp_-gLlW5nREdyebrXhqGtDO6hyuUN5F-wWp0XUnMGiqhZax1S17vL3kuxnToFeoq6_la0C_NvjIDpvo-2hSbVA_0SpdlMELxYjJ5IOQmb7Da-fkItZ6Ua4V31dM6Ddez1-bwUMlxiuzAbkmGRFnPpIy5jnjTVNzefnOK1MvaygkRE9gI7N6NItUZ9RUfS31dhli_JDZhdEEWM7uxUAmghJYWJ3meCVRIV-_AnoG6O7Gj9ovFD_4DpW5C_QLg0NkAZnDzRNfGB38p-eFtdnIUVQKOnc68RYk51ROfBTS9SXv8XA_aLFXz_CH1_36uAkFtaSDl2vhDeQq1XHsbyd71IhG8E9K1jDDphUQrUt2q35-p4k2tA7QSCytjrovK2howL9TCVtFduP2B4lwRKkjm3vGCi8TFSDAXUiMRdkmdK0hhodzZ0mEEUdK5SDaG_kmJfiNaWAY554DHTHRVHC-Nj38KqCEEfITo0N4r&v=5
+                - img [ref=f187e8]
+              - generic [ref=f187e9] [cursor=pointer]:
+                - link "広告" [ref=f187e12]:
+                  - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A7ZN62kAAOgwJDyUas2_aP89Axg11MF4KzJ73Ei51jg_ZlcrVgCMNqbFvfQd4_OjpEPhVGI9kooHCissyXb40WXg9X843IEDi-C_Iqv41oY0We-oMzyObQtdiXq3I5pl1z71DA6kof5lF1Xd2Ao2KOTvzF4nnT_RIlxiL4uLld2JtTtt-CnrbiMri4W8a9p1nJEuHZXBQecsl7_Dh63o8ylXTHNZz_OPqmj_VQJdHsWX4utSyy_AvDFBq14YjL8VfVXN8w0iNaL8Vgc8SKDukQeWIteq-0MWwN-St6p0X5FetdRt&o=A7ZN62kAAGRaaTfjroXOaZbwuK-khHJkxzJrac8RvozrGf5UKKsj3YkgCMxjtlW9vKOYE8WmnNSSnC-sAXmzOlxuXSYlknjISdUODfVBpPxQqwJVwLj8m_FGc04_m2Wbl3aRzVSmfkDsVhB6Nz1eXLC3xFVTC2oqCMeK5PFp8naabJM_DYhOttUHBLnhAJ7KRKe4E3lCNM1IlKsnQJ4lvSbwKS_MIbcoqFCdHPyWZGRm8K3Ob7-KehV4ps7LK6Hp-f89rPNOc1IuwMEDfp2dAY1qDUsbXw
+                  - generic [ref=f187e14]:
+                    - generic [ref=f187e15]: 広告
+                    - img [ref=f187e17]
+                - img [ref=f187e22]
+        - generic [ref=e876]:
+          - link [ref=e877] [cursor=pointer]:
+            - /url: https://apm.yahoo.co.jp/rd?ep=A7ZN62kAAF5zCkI1xMjOigzzHtZc_mH37pdj2FdhNnJlfreotsIlZG0rhGmkGOFcXAXsTdh8ZOFW3rGvv0O225TkS1bYDt7v9pqxIeKbaaDUkSoUkokqU6kU7pSzK7Wiw-JdxHCHNAHKLLzD962MQz322viOnvMDmm90j-MwD05zkURXMWXy6eCAblR78JHxd-3xBYbjV3OymDVgraSByMGwGmjotuKT4Ww8n0pdvWeYss5G1QqaC8JsN0r8hujJXLgZ6m6WT2QOTtY5_dPq0B7cYgzUx1jvNRwUdAPHSY7QKwy4oZdBHjUHCxHCtQpFg9vFlt2AdNsNQ07kRCrT7ihr9KcQU4S5W_Il4MTQ7SrLRzYcRcFL2zCa3sMWGFUNb7uiNW8CAEjRGBwSQg2jkSBLQ3EcmZX4ZGWF15RrUUuAhiVr-qEIPMFYde5JY-5ob6x3F5CQXwSdFcYCAszp5aSujx8WuL-NLFh59CTi5aq7Bo-lRrY94B1LQqfy8f5vxbbhfXx7pay2veyMJ7csfVWKY-xpwwgf0H0yUVY1SjI3YX2kNlhlkTlYAmGUoL1gVXQ7c6ICfl2AJk_bz2NL_aaNOHUlgfi_bYm8MEqUxHRFzL-944fZ7Q0cBWuko2sfbPjWmH7XthRhS1ljk6eRED4iunpJ9yFhMS0Ju0503VznukOM2_OTpNv59rUnUCsiSYg1ZMIC8qAoXdMylA9FvX_8DV_BYQ6X4p4icHTQH_Iw4roa9pX-DbjXsSElPjMHazmdJYIeVqd418_SmkZ6Hdc8RnnOxyN26j1oLxg_FXtfkLYlx0tdomf-rMLIvU7ApI4B7bFO_CJ8eg_t6Pdw3dhE4lWcwwYMgHg9OWjKjvop9uSIJ5J8rhiyNPAI046frI-rbP01HQnJWx4Oa2Nj5GjDIx2CGJqRs0VLDrNt_PunWcxdsqsSTqt5miCA7rdQFOkgWAhy6pBAY7v93Ul-z6G6PYOr_r2ywgTowV65CbcLXSzG3qvlQqcbD59eblqnZrANhYtm3WCAfRRwjAU9v-J86wLqoJnTA9aP-53iykSkoGTcE6KBv5ukBh4kTLpX7AfpzSLpblmwkKJCpehEs_PsaCY-sQaCPUM9QdpHasREoFgktbKq3yXLr7h_9CmW0t4Jh9H4pAEfitTOzjDOu5enfyF87BS5G4xjujAuB1COmuNrl0taK7zLEVRLP_JvkkF_4p6Gs657bgjqGR6vn2FaN4Wq_VbjDKBeIAcQvAiyb7Tcg8KuLt9I6KWIkvjJ7jdMWsP0DcR6ro-dquR9tDxAj5F6OqWWkMzytPQSU-TXezoDCPwrBN3cNoBbL0i9l5qSi1jN7BurUF8vAb9mkSFpOwaJeCtx0Omj3GBv1QE&v=5
+            - img [ref=e878]
+          - generic [ref=e879] [cursor=pointer]:
+            - link "広告" [ref=e882]:
+              - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A7ZN62kAAEDX407xFhUszAYJ_1HTKVzi42foOB5uubn1ng16jcrGBwanBqSJQLtinCHGVxzeBeG7NcsBt7ddTC_tIY7R_TjIpuUCXIMMWVtUfeEUsZtuyNgpHGjsDT9Qb37PGGRfVtmplt8bo2-lJwXL2Ce-ZMrSUpi3a2lIbSKbOSSYnbt4e5AOhsYb8TI08GSuK38EU6pQ1U3GnnmWVBDyAeGGNXl5v18HQY0MweQyy1TG8ENYUsJOvu2p8T7N488lirh1x0U9TlF4Pa0VD01NYiq3D7b9NHeB0FAa8Qj8v56Q&o=A7ZN62kAAFrBd7Y4AdnYzAKzl6lQyB2LrhryQaw01jUFfJ3MUJGX2nS1aoUgOlLzyyUCtkTq4SRO443yR5dmon8tzolyi8rVw585TeIFgJX9GLL6PCuFZdMIkHjekb_zZ5zdIGapEVibZDvxBRMK-1v2K12QcPoC9z1UC9IPnhCiUSQI6OusxWcsBzK-9ff32v2IcH7uGNyY5lgVjsGm0YuP773jYOvuxYNWAIZg8vAjsATTp_OeXCAGHNI0X6Ov8iOArqRBIaKDkSXTYsvmq1fBetHwEQ
+              - generic [ref=e884]:
+                - generic [ref=e885]: 広告
+                - img [ref=e887]
+            - img [ref=e892]
+      - link "占い師にお悩み相談" [ref=e897] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_ca-top_000
+        - img "占い師にお悩み相談" [ref=e898]
+      - generic [ref=e901]:
+        - generic [ref=e902]:
+          - heading "カテゴリQ&Aランキング" [level=2] [ref=e904]
+          - paragraph [ref=e907]: 恋愛相談、人間関係の悩み
+        - link "1 りくりゅうペア、引退するそうです。今後は２人で新しいことに挑戦…っていってますが、これって結婚を匂わしてると思いますか？" [ref=e910] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327308128
+          - generic [ref=e911]:
+            - generic [ref=e913]: "1"
+            - paragraph [ref=e916]: りくりゅうペア、引退するそうです。今後は２人で新しいことに挑戦…っていってますが、これって結婚を匂わしてると思いますか？
+        - link "2 彼氏にイチャイチャしたいと言われ、最初はキスやハグをしていましたが、急に目つきが変わって服の中に手を入れてきました。ですがすぐに体を離されて「あー無理だごめん」と言われました。その後は何もされませんでした。私の体が無理ということですか？？ттガッカリされてしまったのでしょうか？" [ref=e919] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327147362
+          - generic [ref=e920]:
+            - generic [ref=e922]: "2"
+            - paragraph [ref=e925]: 彼氏にイチャイチャしたいと言われ、最初はキスやハグをしていましたが、急に目つきが変わって服の中に手を入れてきました。ですがすぐに体を離されて「あー無理だごめん」と言われました。その後は何もされませんでした。私の体が無理ということですか？？ттガッカリされてしまったのでしょうか？
+        - link "3 小学生でモデルをやっている女の子って、大人っぽいと言えますが、逆に言えば老けて見えちゃいますよね？.あと、身長もそれなりにあって見た目がそれなりだった、成人男性も好意を寄せてしまうでしょうか？（写真の女の子は今年卒業したらしいですが、貼付した写真は5年生の時のものです。）" [ref=e928] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327096846
+          - generic [ref=e929]:
+            - generic [ref=e931]: "3"
+            - paragraph [ref=e934]: 小学生でモデルをやっている女の子って、大人っぽいと言えますが、逆に言えば老けて見えちゃいますよね？.あと、身長もそれなりにあって見た目がそれなりだった、成人男性も好意を寄せてしまうでしょうか？（写真の女の子は今年卒業したらしいですが、貼付した写真は5年生の時のものです。）
+        - link "4 婚活疲れ・なぜ自分は好かれない？34歳男性です。スペックは身長170cm、体重64kg、年収1000万です。外見にも気を遣っていて、肌は女性よりきれいと言われることも。服装も綺麗目なものを選んでいます。条件でマイナス面なのは自営業（代々の家業）という点は感じています。学生時代には恋人もいたので、女性慣れしていないわけではありません。コミュニケーション面でもリアクションが薄くならないように気を付けたり、堅苦しい印象ばかりにならないようにフランクさも使い分けるように心がけました。結婚相談所に入会して活動を始めましたが、全くうまくいきません。仲人さんからは「ほかでも出会いあるでしょう」と言われ..." [ref=e937] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327225407
+          - generic [ref=e938]:
+            - generic [ref=e940]: "4"
+            - paragraph [ref=e943]: 婚活疲れ・なぜ自分は好かれない？34歳男性です。スペックは身長170cm、体重64kg、年収1000万です。外見にも気を遣っていて、肌は女性よりきれいと言われることも。服装も綺麗目なものを選んでいます。条件でマイナス面なのは自営業（代々の家業）という点は感じています。学生時代には恋人もいたので、女性慣れしていないわけではありません。コミュニケーション面でもリアクションが薄くならないように気を付けたり、堅苦しい印象ばかりにならないようにフランクさも使い分けるように心がけました。結婚相談所に入会して活動を始めましたが、全くうまくいきません。仲人さんからは「ほかでも出会いあるでしょう」と言われ...
+        - link "5 ヘチャンの熱愛についてかなり酷いこと書いてるのでリアコの方は見ない方がいいかもですヘチャンの彼女の顔見ましたが凄く可愛かったですそれで、ヘチャンのどこを好きになるのでしょうか？顔はかっこいいとは言えない気がするのですが言動も別にかっこいい所ない気がします楽しいのがいいってことでしょうか" [ref=e946] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327114785
+          - generic [ref=e947]:
+            - generic [ref=e949]: "5"
+            - paragraph [ref=e952]: ヘチャンの熱愛についてかなり酷いこと書いてるのでリアコの方は見ない方がいいかもですヘチャンの彼女の顔見ましたが凄く可愛かったですそれで、ヘチャンのどこを好きになるのでしょうか？顔はかっこいいとは言えない気がするのですが言動も別にかっこいい所ない気がします楽しいのがいいってことでしょうか
+        - link "6 男性に質問です。どちらの女性がタイプですか？" [ref=e955] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327238733
+          - generic [ref=e956]:
+            - generic [ref=e958]: "6"
+            - paragraph [ref=e961]: 男性に質問です。どちらの女性がタイプですか？
+        - link "7 恋愛について悩んでます。高校二年生女です。男運がないというか私の見る目がないのか、本当に良い恋愛ができません。今まで自分から好きになった人が3人いるんですが毎回思わせぶりで終わってしまいます。1人目は中一からずっと好きだった仲いい男の子に中三になる3月、「かわいいと思ってるよ」って言われてゾッコン！！！状態だったんですが、後々色んな子に言ってることが判明。2人目は高校に入ってから一目惚れして初めて私から全力でアタックした相手です。他クラスでした。沢山話して、他の子と私に対する態度が明らか違っていたのにも関わらず突然突き放されてしまいました。学年集会とか廊下ですれ違う時よく見られてるよ！！..." [ref=e964] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327147213
+          - generic [ref=e965]:
+            - generic [ref=e967]: "7"
+            - paragraph [ref=e970]: 恋愛について悩んでます。高校二年生女です。男運がないというか私の見る目がないのか、本当に良い恋愛ができません。今まで自分から好きになった人が3人いるんですが毎回思わせぶりで終わってしまいます。1人目は中一からずっと好きだった仲いい男の子に中三になる3月、「かわいいと思ってるよ」って言われてゾッコン！！！状態だったんですが、後々色んな子に言ってることが判明。2人目は高校に入ってから一目惚れして初めて私から全力でアタックした相手です。他クラスでした。沢山話して、他の子と私に対する態度が明らか違っていたのにも関わらず突然突き放されてしまいました。学年集会とか廊下ですれ違う時よく見られてるよ！！...
+        - link "8 この人の名前を教えてください" [ref=e973] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327358874
+          - generic [ref=e974]:
+            - generic [ref=e976]: "8"
+            - paragraph [ref=e979]: この人の名前を教えてください
+        - link "9 婚活における身の丈って何でしょうか。アラフォー（三十代後半）の男です。背が低く、ナインティナインの岡村さんと同じ位の背丈です。中堅市大卒、仕事は大手の子会社に勤務していて、年収はジャスト1000万ぐらいです。この内容で婚活をするにあたって「高望みではない」といえるのはどの様な女性方になるのでしょうか。現状、年齢＋3まで、年収400万ぐらい以上、背丈は問わずで探そうとしていますが、2年ほど婚活をしていて実りがありません。（50人ぐらいに申し込んでやっと1人、コンタクトして貰える、といった感じ）" [ref=e982] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327211563
+          - generic [ref=e983]:
+            - generic [ref=e985]: "9"
+            - paragraph [ref=e988]: 婚活における身の丈って何でしょうか。アラフォー（三十代後半）の男です。背が低く、ナインティナインの岡村さんと同じ位の背丈です。中堅市大卒、仕事は大手の子会社に勤務していて、年収はジャスト1000万ぐらいです。この内容で婚活をするにあたって「高望みではない」といえるのはどの様な女性方になるのでしょうか。現状、年齢＋3まで、年収400万ぐらい以上、背丈は問わずで探そうとしていますが、2年ほど婚活をしていて実りがありません。（50人ぐらいに申し込んでやっと1人、コンタクトして貰える、といった感じ）
+        - link "10 彼氏とデートした時に、私がまだ彼と一緒にいたいと思ってしまい、まだ一緒にいたいと言ってしまいました。その流れで、初めてそういう関係になったのですが、結局その日は帰らないで、泊まって帰ることになったのですが彼が、親心配してるんじゃない？厳しくない？って聞かれて厳しくないし、大丈夫って答えました。それで、今度旅行に行こうよって話していて、計画をたててたのですが私が家に帰ってから、その旅行を延期したくなってしまい、無断で朝帰りしたのが怒られたからっていう、嘘の理由で旅行を延期したいと言ってしまいました。本当は、怒られていなかったのですが、延期したくなってしまった理由としては初めて彼としたときに..." [ref=e991] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327228744
+          - generic [ref=e992]:
+            - generic [ref=e994]: "10"
+            - paragraph [ref=e997]: 彼氏とデートした時に、私がまだ彼と一緒にいたいと思ってしまい、まだ一緒にいたいと言ってしまいました。その流れで、初めてそういう関係になったのですが、結局その日は帰らないで、泊まって帰ることになったのですが彼が、親心配してるんじゃない？厳しくない？って聞かれて厳しくないし、大丈夫って答えました。それで、今度旅行に行こうよって話していて、計画をたててたのですが私が家に帰ってから、その旅行を延期したくなってしまい、無断で朝帰りしたのが怒られたからっていう、嘘の理由で旅行を延期したいと言ってしまいました。本当は、怒られていなかったのですが、延期したくなってしまった理由としては初めて彼としたときに...
+      - generic [ref=e1000]:
+        - generic [ref=e1001]:
+          - heading "カテゴリマスターランキング" [level=2] [ref=e1003]
+          - paragraph [ref=e1006]: 恋愛相談、人間関係の悩み
+        - generic [ref=e1007]:
+          - link "1 ori******** ori********" [ref=e1009] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1047955594
+            - generic [ref=e1010]:
+              - generic [ref=e1012]: "1"
+              - generic [ref=e1014]:
+                - generic: ori********
+              - paragraph [ref=e1017]: ori********
+          - link "2 あいな あいな" [ref=e1019] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1051818466
+            - generic [ref=e1020]:
+              - generic [ref=e1022]: "2"
+              - generic [ref=e1024]:
+                - generic: あいな
+              - paragraph [ref=e1027]: あいな
+          - link "3 出会い系マニア 出会い系マニア" [ref=e1029] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1149201260
+            - generic [ref=e1030]:
+              - generic [ref=e1032]: "3"
+              - generic [ref=e1034]:
+                - generic: 出会い系マニア
+              - paragraph [ref=e1037]: 出会い系マニア
+        - heading "急上昇のユーザー" [level=4] [ref=e1038]:
+          - generic [ref=e1039]: 急上昇のユーザー
+        - generic [ref=e1040]:
+          - link "******** ********" [ref=e1042] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1241755158
+            - generic [ref=e1043]:
+              - img [ref=e1045]
+              - generic [ref=e1048]:
+                - generic: "********"
+              - paragraph [ref=e1051]: "********"
+          - link "冷静分析 冷静分析" [ref=e1053] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1154427951
+            - generic [ref=e1054]:
+              - img [ref=e1056]
+              - generic [ref=e1059]:
+                - generic: 冷静分析
+              - paragraph [ref=e1062]: 冷静分析
+        - generic [ref=e1063]: 更新日：2026/04/20
+      - link "公式・専門家の回答はこちら" [ref=e1066] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/expert/
+        - img "公式・専門家の回答はこちら" [ref=e1069]
+      - generic [ref=e1072]:
+        - heading "カテゴリ一覧" [level=2] [ref=e1075]
+        - generic [ref=e1076]:
+          - link "生き方と恋愛、人間関係の悩み 生き方と恋愛、人間関係の悩み" [ref=e1078] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079526977/question/list
+            - generic [ref=e1079]:
+              - img "生き方と恋愛、人間関係の悩み" [ref=e1082]
+              - paragraph [ref=e1085]: 生き方と恋愛、人間関係の悩み
+          - link "恋愛相談、人間関係の悩み 恋愛相談、人間関係の悩み" [ref=e1087] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+            - generic [ref=e1088]:
+              - img "恋愛相談、人間関係の悩み" [ref=e1091]
+              - paragraph [ref=e1094]: 恋愛相談、人間関係の悩み
+          - link "恋愛相談" [ref=e1096] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675272/question/list
+            - generic [ref=e1097]:
+              - img [ref=e1099]
+              - paragraph [ref=e1103]: 恋愛相談
+          - link "友人関係の悩み" [ref=e1105] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675275/question/list
+            - generic [ref=e1106]:
+              - img [ref=e1108]
+              - paragraph [ref=e1112]: 友人関係の悩み
+          - link "家族関係の悩み" [ref=e1114] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675273/question/list
+            - generic [ref=e1115]:
+              - img [ref=e1117]
+              - paragraph [ref=e1121]: 家族関係の悩み
+          - link "職場の悩み" [ref=e1123] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675274/question/list
+            - generic [ref=e1124]:
+              - img [ref=e1126]
+              - paragraph [ref=e1130]: 職場の悩み
+          - link "ご近所の悩み" [ref=e1132] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079495801/question/list
+            - generic [ref=e1133]:
+              - img [ref=e1135]
+              - paragraph [ref=e1139]: ご近所の悩み
+          - link "学校の悩み" [ref=e1141] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401676/question/list
+            - generic [ref=e1142]:
+              - img [ref=e1144]
+              - paragraph [ref=e1148]: 学校の悩み
+          - link "生き方、人生相談 生き方、人生相談" [ref=e1150] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079526980/question/list
+            - generic [ref=e1151]:
+              - img "生き方、人生相談" [ref=e1154]
+              - paragraph [ref=e1157]: 生き方、人生相談
+        - link "カテゴリ一覧を見る" [ref=e1159] [cursor=pointer]:
+          - /url: /category
+          - text: カテゴリ一覧を見る
+          - img [ref=e1160]
+      - generic [ref=e1163]:
+        - iframe
+        - iframe [ref=e1165]:
+          - generic [ref=f186e5]:
+            - link "これで俺達、アゴダチだー！ Agoda" [ref=f186e6] [cursor=pointer]:
+              - /url: https://apm.yahoo.co.jp/rd?ep=A7ZN62kAADeAIqo_jajXH-lLECxtG8B9Sx73TJZHZNseVAVsfI9F8w_VLBPlcSHHBZ73wXde642FhvV-HexYZKt-bESMYpKnAdiPIc7FJpw1oVNui5vngJ7AXDt2iHrcX8oEDAg8AUsQdRaNkYin8o16fQ68UkGkxzyMJh5lYw4v3ZAUeJaWkb57cLBBoYXGmhXHhRdqhzUO1S5tCFST-IvMPv7v6NgbCsV7xOID1QAajw_4dw2KnHPQkQqHlYpUZ0Jm_dc6XczL5jh45GV_fKhL5MwINFfqSg3SOEQ-QqqssKa-SX01W8s6xFB2a56OycRX_IuSpsAP_wZ7D4NreionLn6a7v7JUt3dkp2wOpRwZU_ANu9SE5IFUaEqKx1k3Rec716EsFtOswlT_2Id3z4CXCbRybqFs3hk5nr-KMS7QMPyxhtPNek3fLbOuGaVq_MVjZJ7KnXTWGc3WOvZ1CpffWndfYX0uYWST3ldTL_uo-W8Su642qpFer0I2ZDrXERb1-OqKkfgX4AXHkP1UA5_jHyXS4FyqlWV-x8oMnQ6njDcKUzU7eyWwXHge2rKJJSfWyqwaMYE5Tf6t8xw5Q0dwNhgruam3iWOmNveITjibmskZ2FPAuWUr2JEb-NiVUBEsF5o4ywDal8as5g81etWuA2yL8ENbRq1bkiGx2tGqTOXPSJKvySgocXc_jDC8O1MBOC_tQsadaLmA_VI7bmnzww2a4IUbvOoL9dli98uIUewdNbv0SK-h3SBqNLbpI5UGQViYPmXLtg390USkGZrK2ZJ4rmbav3Xr4AYeqbPpWiLhumtkbylQUjMexmkIkoUetKS0BlSh2FEadupIOCThFYzNi7BlcSQCEvgpP17kRWXDXl7h8LX_dOnDQAWie1hKqQ7Ghi6FkA2EIKOsI1knl-9ofAO47wrKRnAx7i_JpljToVYTcmMk4Cis1i0oHa2lNrj70n0e-kdJwqlytUAW9Frfs9MXK0E_SN3yCNzD2j7k5oi9YMbv9sK661M1fsN8fz7GXX4rRXfpLgrqtcYS8e1WxVWHcFi20psiB0_cbBHu8sEkUDZMdvjWN9oYmIiqzFs4ZMUeRr12QcVYQ7q2DZpor1EJjXlrfXBRWi2KUb1cBp0tCsJXUaLGLc2hODuXMsM6hwMwhf-TQostpPMow7wmcf0ErL5LscnjwmWawelkMtQUZX85Z3MmwQsGjFPcDn5OdqDUIfgHiuw7xuN2GqNMeL4ODuBKD8U410d7QsK4Xj_uDr_P9yqDLyxSbpulFhS3wrZaVAfjrg_lQWZZpAUcEmaArApFyWdkjm7XMuC--cfPE2LzMhovr-wn1i1usj7gOTkMqjQdavCpspa--0OrLa3aCDI3eqMpKZFr0hJrDIjiNGkHp7vge8aDe-BbTxy&v=5
+              - generic [ref=f186e7]:
+                - img
+              - generic [ref=f186e8]:
+                - generic [ref=f186e9]:
+                  - generic [ref=f186e10]: これで俺達、アゴダチだー！
+                  - generic [ref=f186e11]: Agoda
+                - generic [ref=f186e12]:
+                  - img
+            - generic [ref=f186e13] [cursor=pointer]:
+              - link "広告" [ref=f186e16]:
+                - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A7ZN62kAAJATToWr4wot3YLul3yIg8siWszkWLHQePHjvw5WUBXdTqY4pBPGfOjlNSt-fTIFszdkp0sgh1t_gultgt-4J2hQlYDZ0eJGuQVd-4yHoxhKUtI8PhpsPWSyuu7TDCpFCiS1CEv81l8Ms34fUe2leRp6rpVFyT9cOGfrF01uE3Z7BsdAxtmzc0zIhlcExSRHxcu6FFtkDO1uJLmtRGHL4H753RkiwUa4kkx9QlXOd5vrJYbgzTHPwQSfJZUp5W1S9Kg4iXnIdwx1Q5oHG93ei7h-DtLDEJ_Ic5xpsGSDzwT09MXoDFDU&o=A7ZN62kAAHI-oyrUVTXi6mfCLDo5aki_r3VwStr9VG3nsKYCyBsJnoKEHFrIbnnCD9zChkeYx7JGZ8YWMlmTx08DL9smbANpZE-VEfHibwM_2JBErabUdoIPkJLulYF4gu7Y7r6qvrorPKMT_dxVpWPm0CeHC5OZ8qeJzKYwUiDg5Jf8r68UcsMwTeV0RLDsBZLIy7jcnc9xEh4TTm5GYSY8SQPUgJ2PjIvxWqiGeTIOn2-PCt0634yqAOY-GlieCGaH30lo7cyccLBLk5wx48MQA0mPwg
+                - generic [ref=f186e18]:
+                  - generic [ref=f186e19]: 広告
+                  - img [ref=f186e21]
+              - img [ref=f186e26]
+  - contentinfo [ref=e1167]:
+    - generic [ref=e1168]:
+      - link "Yahoo!知恵袋" [ref=e1169] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e1170]: "|"
+      - link "Yahoo! JAPAN" [ref=e1171] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e1172]:
+      - link "プライバシーポリシー" [ref=e1173] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e1174]: "-"
+      - link "プライバシーセンター" [ref=e1175] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e1176]: "-"
+      - link "利用規約" [ref=e1177] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e1178]: "-"
+      - link "利用のルール" [ref=e1179] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e1180]: "-"
+      - link "広告掲載について" [ref=e1181] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/?utm_source=yahoo&utm_medium=referral&utm_campaign=ysa_cv_link_chiebukuro_241001
+      - generic [ref=e1182]: "-"
+      - link "ご意見・ご要望" [ref=e1183] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e1184]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e1185] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e1186]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e1187]: 画像：アフロ
+    - generic [ref=e1188]: © LY Corporation
+  - generic:
+    - generic:
+      - generic:
+        - paragraph:
+          - img
+          - text: 通信に失敗しました

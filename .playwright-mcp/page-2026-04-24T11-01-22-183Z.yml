@@ -1,0 +1,71 @@
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e11]:
+      - paragraph [ref=e15]:
+        - link "「半径5メートル」から進化する AI時代の組織のつくり方" [ref=e16] [cursor=pointer]:
+          - /url: https://yahoo.jp/Ds92QeB
+      - generic [ref=e17]:
+        - list [ref=e18]:
+          - listitem [ref=e19]:
+            - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+              - /url: https://www.yahoo.co.jp/
+          - listitem [ref=e21]:
+            - link "ヘルプ" [ref=e22] [cursor=pointer]:
+              - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+        - generic [ref=e25]:
+          - generic "キーワード："
+          - textbox "ウェブ検索" [ref=e26]
+          - button "検索" [ref=e27] [cursor=pointer]
+          - link "電気・ガス料金 急上昇" [ref=e28] [cursor=pointer]:
+            - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%96%99%E9%87%91&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+            - text: 電気・ガス料金
+            - img "急上昇" [ref=e29]
+    - generic [ref=e30]:
+      - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+        - img "Yahoo!知恵袋" [ref=e33]
+      - generic [ref=e34]:
+        - generic [ref=e35]:
+          - text: IDでもっと便利に
+          - link "新規取得" [ref=e36] [cursor=pointer]:
+            - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Ferror&.src=chiebukuro
+        - generic [ref=e37]:
+          - link "ログイン" [ref=e38] [cursor=pointer]:
+            - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Ferror
+          - link "［おトク］10％OFFクーポンあります" [ref=e40] [cursor=pointer]:
+            - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8zMDc0OTUvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9hdWN0aW9ucy55YWhvby5jby5qcC9jYW1wYWlnbi9wcm9tby9zdG9yZV9saW1pdGVkX2NvdXBvbg/
+  - generic [ref=e45]:
+    - generic [ref=e48]: お探しのページは見つかりませんでした
+    - paragraph [ref=e49]:
+      - link "知恵袋トップへ戻る" [ref=e50] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+  - contentinfo [ref=e52]:
+    - generic [ref=e53]:
+      - link "Yahoo!知恵袋" [ref=e54] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e55]: "|"
+      - link "Yahoo! JAPAN" [ref=e56] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e57]:
+      - link "プライバシーポリシー" [ref=e58] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e59]: "-"
+      - link "プライバシーセンター" [ref=e60] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e61]: "-"
+      - link "利用規約" [ref=e62] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e63]: "-"
+      - link "利用のルール" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e65]: "-"
+      - link "広告掲載について" [ref=e66] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/?utm_source=yahoo&utm_medium=referral&utm_campaign=ysa_cv_link_chiebukuro_241001
+      - generic [ref=e67]: "-"
+      - link "ご意見・ご要望" [ref=e68] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e69]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e70] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e71]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e72]: © LY Corporation

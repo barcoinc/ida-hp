@@ -1,0 +1,983 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - paragraph [ref=e15]:
+          - link "冷凍野菜は生野菜より栄養価が高い!? 技術進歩で味わいも向上" [ref=e16] [cursor=pointer]:
+            - /url: https://yahoo.jp/up_2dV
+        - generic [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+                - /url: https://www.yahoo.co.jp/
+            - listitem [ref=e21]:
+              - link "ヘルプ" [ref=e22] [cursor=pointer]:
+                - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+          - generic [ref=e25]:
+            - generic "キーワード："
+            - textbox "ウェブ検索" [ref=e26]
+            - button "検索" [ref=e27] [cursor=pointer]
+            - link "電気・ガス料金 急上昇" [ref=e28] [cursor=pointer]:
+              - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%96%99%E9%87%91&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+              - text: 電気・ガス料金
+              - img "急上昇" [ref=e29]
+      - generic [ref=e30]:
+        - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+          - img "Yahoo!知恵袋" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - text: IDでもっと便利に
+            - link "新規取得" [ref=e36] [cursor=pointer]:
+              - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078675274%2Fquestion%2Flist&.src=chiebukuro
+          - generic [ref=e37]:
+            - link "ログイン" [ref=e38] [cursor=pointer]:
+              - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078675274%2Fquestion%2Flist
+            - link "ヤフーショッピングなら「毎日5％」おトク" [ref=e40] [cursor=pointer]:
+              - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8yNjU0NDUvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9zaG9wcGluZy55YWhvby5jby5qcC9wcm9tb3Rpb24vY2FtcGFpZ24vcHBldnI1Lz9zY19lPXl5bGtfbWhkX3R4dF9wcGV2cjU/
+    - navigation [ref=e42]:
+      - generic [ref=e45]:
+        - textbox "このカテゴリで探す" [ref=e47]
+        - button [ref=e48] [cursor=pointer]:
+          - img [ref=e49]
+      - list [ref=e51]:
+        - listitem [ref=e52]:
+          - link "カテゴリ" [ref=e53] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e54]:
+          - link "Q&A一覧" [ref=e55] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e56]:
+          - link "公式・専門家" [ref=e57] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e58]:
+          - link "お知らせ" [ref=e59] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e61] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e65]
+        - text: 質問・相談
+    - list [ref=e70]:
+      - listitem [ref=e71]:
+        - link "知恵袋トップ" [ref=e72] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+        - text: ＞
+      - listitem [ref=e73]:
+        - link "カテゴリ一覧" [ref=e74] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category
+        - text: ＞
+      - listitem [ref=e75]:
+        - link "生き方と恋愛、人間関係の悩み" [ref=e76] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category/2079526977/question/list
+        - text: ＞
+      - listitem [ref=e77]:
+        - link "恋愛相談、人間関係の悩み" [ref=e78] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+        - text: ＞
+      - listitem [ref=e79]:
+        - generic [ref=e80]: 職場の悩み
+  - generic [ref=e81]:
+    - generic [ref=e82]:
+      - generic [ref=e86]:
+        - heading "職場の悩み" [level=1] [ref=e88]
+        - generic [ref=e89]:
+          - generic [ref=e92]:
+            - img [ref=e93]
+            - text: お気に入り
+          - link "このカテゴリに質問" [ref=e96] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/post/form?dnum=2078675274
+            - generic [ref=e97]:
+              - img [ref=e98]
+              - text: このカテゴリに質問
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - list [ref=e105]:
+            - listitem [ref=e106]:
+              - link "回答受付中" [ref=e107] [cursor=pointer]:
+                - /url: /category/2078675274/question/list?flg=0&type=list&sort=16
+                - generic [ref=e108]: 回答受付中
+            - listitem [ref=e109]:
+              - generic [ref=e111]: 解決済み
+            - listitem [ref=e112]:
+              - link "すべて" [ref=e113] [cursor=pointer]:
+                - /url: /category/2078675274/question/list?flg=3&type=list&sort=16
+                - generic [ref=e114]: すべて
+          - generic [ref=e116]:
+            - img [ref=e118]
+            - generic [ref=e120]: 並べ替え：
+            - generic [ref=e123]:
+              - combobox [ref=e124]:
+                - option "質問日時の新しい順"
+                - option "質問日時の古い順"
+                - option "更新日時の新しい順" [selected]
+                - option "更新日時の古い順"
+                - option "回答数の多い順"
+                - option "回答数の少ない順"
+                - option "お礼の多い順"
+              - img
+            - generic [ref=e126]:
+              - generic [ref=e127]: AI質問含む
+              - checkbox [ref=e128] [cursor=pointer]
+          - generic [ref=e129]:
+            - link "職場の悩み 飲食店でホールのアルバイトをしています この前バイト仲間と業務内容からの延長線上の私語をしてしまいお客様に怒られてしまいました。 こちらに関しては私達バイトが悪いと思うので反省しています。 た... ベストアンサー：店長に相談するのは問題は解決にいたらずとも精神的には軽くなると思います。 どこもそうではありませんが、そういう輩は少なからずいますね。 頭が悪いか、過去に承認欲求を満たせなかった可哀想な方なんで... 回答数： 2 2025/1/15 11:53 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e132] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11309446746
+              - generic [ref=e133]:
+                - paragraph [ref=e134]: 職場の悩み
+                - paragraph [ref=e137]: 飲食店でホールのアルバイトをしています この前バイト仲間と業務内容からの延長線上の私語をしてしまいお客様に怒られてしまいました。 こちらに関しては私達バイトが悪いと思うので反省しています。 た...
+                - paragraph [ref=e140]: ベストアンサー：店長に相談するのは問題は解決にいたらずとも精神的には軽くなると思います。 どこもそうではありませんが、そういう輩は少なからずいますね。 頭が悪いか、過去に承認欲求を満たせなかった可哀想な方なんで...
+                - generic [ref=e141]:
+                  - generic [ref=e142]:
+                    - generic "回答数：" [ref=e143]:
+                      - img [ref=e144]
+                    - generic [ref=e146]: "2"
+                  - generic "2025/1/15 11:53" [ref=e148]
+                  - generic [ref=e149]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e150]:
+                      - img [ref=e151]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e157]: "100"
+            - link "職場の悩み 私は接客業をしています。 雑貨屋のレジをしているのですが、クレームが入るかもしれないと不安に思っていることがあります。 昨日お客様が購入したバスマットを袋に入れる際、袋に迷ってしまい一緒に買って... ベストアンサー：すんません、と謝罪ときゃいいです 回答数： 7 4/22 8:36 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e160] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327449667
+              - generic [ref=e161]:
+                - paragraph [ref=e162]: 職場の悩み
+                - paragraph [ref=e165]: 私は接客業をしています。 雑貨屋のレジをしているのですが、クレームが入るかもしれないと不安に思っていることがあります。 昨日お客様が購入したバスマットを袋に入れる際、袋に迷ってしまい一緒に買って...
+                - paragraph [ref=e168]: ベストアンサー：すんません、と謝罪ときゃいいです
+                - generic [ref=e169]:
+                  - generic [ref=e170]:
+                    - generic "回答数：" [ref=e171]:
+                      - img [ref=e172]
+                    - generic [ref=e174]: "7"
+                  - generic "4/22 8:36" [ref=e176]
+                  - generic [ref=e177]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e178]:
+                      - img [ref=e179]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e185]: "50"
+            - link "職場の悩み ハラスメントに詳しい方アドバイスください。 今年新入社員で入社しました。 男7女3比率の会社です。 お局はこわいですがそこまで面倒な人はおらず、長く続けていけそうだなと感じていました。 教育係で... ベストアンサー：「すみません、休みの日や時間外は通知オフにしています。」 私はこの一言で全て防御しています 質問者さんの場合で私なら 「すみません、伝えようと思っていたのですが休日や時間外は基本通知オフにしてい... 回答数： 3 4/23 21:24 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e188] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327494189
+              - generic [ref=e189]:
+                - paragraph [ref=e190]: 職場の悩み
+                - paragraph [ref=e193]: ハラスメントに詳しい方アドバイスください。 今年新入社員で入社しました。 男7女3比率の会社です。 お局はこわいですがそこまで面倒な人はおらず、長く続けていけそうだなと感じていました。 教育係で...
+                - paragraph [ref=e196]: ベストアンサー：「すみません、休みの日や時間外は通知オフにしています。」 私はこの一言で全て防御しています 質問者さんの場合で私なら 「すみません、伝えようと思っていたのですが休日や時間外は基本通知オフにしてい...
+                - generic [ref=e197]:
+                  - generic [ref=e198]:
+                    - generic "回答数：" [ref=e199]:
+                      - img [ref=e200]
+                    - generic [ref=e202]: "3"
+                  - generic "4/23 21:24" [ref=e204]
+                  - generic [ref=e205]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e206]:
+                      - img [ref=e207]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e213]: "100"
+            - link "職場の悩み 私は血液恐怖症で血液やグロテスクなものを見ると意思とは関係なく失神、過呼吸、泣いたり等してしまいます。今日、会社でグロテスクな画像を見ないといけない場面があり、私は反射的に泣いてしまいました。 ... ベストアンサー：意識外しのテクニックだね。質問者さんは怒りの感情にとらわれ、意識がそちらに向かう事により、失神は回避されました。 後解釈すると、そうなりませんか？ 回答数： 1 4/21 20:33" [ref=e216] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327438072
+              - generic [ref=e217]:
+                - paragraph [ref=e218]: 職場の悩み
+                - paragraph [ref=e221]: 私は血液恐怖症で血液やグロテスクなものを見ると意思とは関係なく失神、過呼吸、泣いたり等してしまいます。今日、会社でグロテスクな画像を見ないといけない場面があり、私は反射的に泣いてしまいました。 ...
+                - paragraph [ref=e224]: ベストアンサー：意識外しのテクニックだね。質問者さんは怒りの感情にとらわれ、意識がそちらに向かう事により、失神は回避されました。 後解釈すると、そうなりませんか？
+                - generic [ref=e225]:
+                  - generic [ref=e226]:
+                    - generic "回答数：" [ref=e227]:
+                      - img [ref=e228]
+                    - generic [ref=e230]: "1"
+                  - generic "4/21 20:33" [ref=e232]
+            - link "退職 公務員の退職についての質問です。 今年59歳になる公務員です。 職場のストレスで心療内科にかかりながらも頑張って出勤しています。 しかし4月に入ってから人員不足の穴埋めが大変になり更に過度の仕事... ベストアンサー：元採用担当のおぢさんです。わかることだけ書きますが、活字で書きますので、厳しい感じがしたらご容赦ください。 数年前の休職から一定期間（自治体にもよりますが、6か月〜2年）正常に勤務していれば、... 回答数： 1 4/21 0:24 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e235] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327417701
+              - generic [ref=e236]:
+                - paragraph [ref=e237]: 退職
+                - paragraph [ref=e240]: 公務員の退職についての質問です。 今年59歳になる公務員です。 職場のストレスで心療内科にかかりながらも頑張って出勤しています。 しかし4月に入ってから人員不足の穴埋めが大変になり更に過度の仕事...
+                - paragraph [ref=e243]: ベストアンサー：元採用担当のおぢさんです。わかることだけ書きますが、活字で書きますので、厳しい感じがしたらご容赦ください。 数年前の休職から一定期間（自治体にもよりますが、6か月〜2年）正常に勤務していれば、...
+                - generic [ref=e244]:
+                  - generic [ref=e245]:
+                    - generic "回答数：" [ref=e246]:
+                      - img [ref=e247]
+                    - generic [ref=e249]: "1"
+                  - generic "4/21 0:24" [ref=e251]
+                  - generic [ref=e252]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e253]:
+                      - img [ref=e254]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e260]: "100"
+            - link "職場の悩み 優しくするな『ホワイトハラスメント』 もう、ハラスメントハラスメントじゃない？笑 ベストアンサー：わかります(笑) 回答数： 3 4/15 23:42 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e263] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327274636
+              - generic [ref=e264]:
+                - paragraph [ref=e265]: 職場の悩み
+                - paragraph [ref=e268]: 優しくするな『ホワイトハラスメント』 もう、ハラスメントハラスメントじゃない？笑
+                - paragraph [ref=e271]: ベストアンサー：わかります(笑)
+                - generic [ref=e272]:
+                  - generic [ref=e273]:
+                    - generic "回答数：" [ref=e274]:
+                      - img [ref=e275]
+                    - generic [ref=e277]: "3"
+                  - generic "4/15 23:42" [ref=e279]
+                  - generic [ref=e280]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e281]:
+                      - img [ref=e282]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e288]: "50"
+            - link "職場の悩み 至急 休日出勤に関する質問です。①先輩方から休日出勤してる人が多い、俺もしていると言われ、少したりとも私自身にも休日出勤を求める雰囲気がある場合にはさりげなく出勤しなくてもよいですか？ ②対策と... ベストアンサー：①直接求められなかった場合は問題ありません。 ②「休息日である」ではちょっと足りません。「どうしても外せない用事がある」なら大体は行けると思います。 ③業務命令に当たるので、原則拒否はできません... 回答数： 3 4/22 4:02 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e291] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327447109
+              - generic [ref=e292]:
+                - paragraph [ref=e293]: 職場の悩み
+                - paragraph [ref=e296]: 至急 休日出勤に関する質問です。①先輩方から休日出勤してる人が多い、俺もしていると言われ、少したりとも私自身にも休日出勤を求める雰囲気がある場合にはさりげなく出勤しなくてもよいですか？ ②対策と...
+                - paragraph [ref=e299]: ベストアンサー：①直接求められなかった場合は問題ありません。 ②「休息日である」ではちょっと足りません。「どうしても外せない用事がある」なら大体は行けると思います。 ③業務命令に当たるので、原則拒否はできません...
+                - generic [ref=e300]:
+                  - generic [ref=e301]:
+                    - generic "回答数：" [ref=e302]:
+                      - img [ref=e303]
+                    - generic [ref=e305]: "3"
+                  - generic "4/22 4:02" [ref=e307]
+                  - generic [ref=e308]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e309]:
+                      - img [ref=e310]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e316]: "50"
+            - link "アルバイト、フリーター 至急おねがいします。 アルバイト先から給料が振り込まれません。 去年からアルバイト先を新しくし飲食店で働いていました。 そのアルバイト先の親会社（？）は不動産会社なのですがこの不動産会社に務め... ベストアンサー：それこそが労基署案件なので、近くの労働局・労働基準監督署に相談に行ってください。 https://www.mhlw.go.jp/general/seido/chihou/kaiketu/soud... 回答数： 5 4/24 12:26" [ref=e319] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327507708
+              - generic [ref=e320]:
+                - paragraph [ref=e321]: アルバイト、フリーター
+                - paragraph [ref=e324]: 至急おねがいします。 アルバイト先から給料が振り込まれません。 去年からアルバイト先を新しくし飲食店で働いていました。 そのアルバイト先の親会社（？）は不動産会社なのですがこの不動産会社に務め...
+                - paragraph [ref=e327]: ベストアンサー：それこそが労基署案件なので、近くの労働局・労働基準監督署に相談に行ってください。 https://www.mhlw.go.jp/general/seido/chihou/kaiketu/soud...
+                - generic [ref=e328]:
+                  - generic [ref=e329]:
+                    - generic "回答数：" [ref=e330]:
+                      - img [ref=e331]
+                    - generic [ref=e333]: "5"
+                  - generic "4/24 12:26" [ref=e335]
+            - link "職場の悩み みなさんは学校、職場の1人の人が私はクラスの人から嫌われてる？職場の人から嫌われてる？って聞かれたら嫌われてるって本当のことを話しますか？ それとも嫌われてないよって嘘をつきますか？ みなさん... ベストアンサー：自分では、どう思う？なんでそう思った？ って聞き返すかな。 明確には答えないと思います。 回答数： 9 4/22 7:58" [ref=e338] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327449044
+              - generic [ref=e339]:
+                - paragraph [ref=e340]: 職場の悩み
+                - paragraph [ref=e343]: みなさんは学校、職場の1人の人が私はクラスの人から嫌われてる？職場の人から嫌われてる？って聞かれたら嫌われてるって本当のことを話しますか？ それとも嫌われてないよって嘘をつきますか？ みなさん...
+                - paragraph [ref=e346]: ベストアンサー：自分では、どう思う？なんでそう思った？ って聞き返すかな。 明確には答えないと思います。
+                - generic [ref=e347]:
+                  - generic [ref=e348]:
+                    - generic "回答数：" [ref=e349]:
+                      - img [ref=e350]
+                    - generic [ref=e352]: "9"
+                  - generic "4/22 7:58" [ref=e354]
+            - link "職場の悩み 4歳、1歳の子もち、事務未経験、Word Excelわかりません。やる気はあります！ 事務未経験ＯＫとありましたが、こんなやつ入って来ても迷惑ですよね、、、 面接するだけしてみてもいいでしょう... ベストアンサー：極端な例を出すと、 運転手やります！ 免許もってません！ やる気はあります！ って言ってるみたいに見えます。 人事担当は人手不足でどんなのでもいいから来てくれと思ってるけど、要望出してる... 回答数： 11 4/24 13:28" [ref=e357] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327508876
+              - generic [ref=e358]:
+                - paragraph [ref=e359]: 職場の悩み
+                - paragraph [ref=e362]: 4歳、1歳の子もち、事務未経験、Word Excelわかりません。やる気はあります！ 事務未経験ＯＫとありましたが、こんなやつ入って来ても迷惑ですよね、、、 面接するだけしてみてもいいでしょう...
+                - paragraph [ref=e365]: ベストアンサー：極端な例を出すと、 運転手やります！ 免許もってません！ やる気はあります！ って言ってるみたいに見えます。 人事担当は人手不足でどんなのでもいいから来てくれと思ってるけど、要望出してる...
+                - generic [ref=e366]:
+                  - generic [ref=e367]:
+                    - generic "回答数：" [ref=e368]:
+                      - img [ref=e369]
+                    - generic [ref=e371]: "11"
+                  - generic "4/24 13:28" [ref=e373]
+            - link "職場の悩み ウーバー 配達員からの質問です ある日から私だけ、某マクドナルド店からのリクエストが一切来なくなりました。トラブルや問題なありません。他の配達員にはリクエスト入っています。 ウーバー に問い合わ... ベストアンサー：評価が95%以下ならトラブルないと思っているだけかもね。 回答数： 3 4/14 18:20 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e376] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327234351
+              - generic [ref=e377]:
+                - paragraph [ref=e378]: 職場の悩み
+                - paragraph [ref=e381]: ウーバー 配達員からの質問です ある日から私だけ、某マクドナルド店からのリクエストが一切来なくなりました。トラブルや問題なありません。他の配達員にはリクエスト入っています。 ウーバー に問い合わ...
+                - paragraph [ref=e384]: ベストアンサー：評価が95%以下ならトラブルないと思っているだけかもね。
+                - generic [ref=e385]:
+                  - generic [ref=e386]:
+                    - generic "回答数：" [ref=e387]:
+                      - img [ref=e388]
+                    - generic [ref=e390]: "3"
+                  - generic "4/14 18:20" [ref=e392]
+                  - generic [ref=e393]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e394]:
+                      - img [ref=e395]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e401]: "100"
+            - link "職場の悩み バイトで先日やらかしをしてしまい、直接注意ではなく遠回しにつかえないと大声で(名指しはされてないけど内容で自分のことだと気付きました)社員さんに言われてしまってメンタルやられてます……。 他の社... ベストアンサー：人格は否定されてないと思います でも、あまり、そんなこと言われたことない人が言われたら、へこみますよね 気持ちわかります でも、仕事は人格だけではないかもです ただ単に仕事ができてなかっ... 回答数： 3 4/21 22:53" [ref=e404] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327442593
+              - generic [ref=e405]:
+                - paragraph [ref=e406]: 職場の悩み
+                - paragraph [ref=e409]: バイトで先日やらかしをしてしまい、直接注意ではなく遠回しにつかえないと大声で(名指しはされてないけど内容で自分のことだと気付きました)社員さんに言われてしまってメンタルやられてます……。 他の社...
+                - paragraph [ref=e412]: ベストアンサー：人格は否定されてないと思います でも、あまり、そんなこと言われたことない人が言われたら、へこみますよね 気持ちわかります でも、仕事は人格だけではないかもです ただ単に仕事ができてなかっ...
+                - generic [ref=e413]:
+                  - generic [ref=e414]:
+                    - generic "回答数：" [ref=e415]:
+                      - img [ref=e416]
+                    - generic [ref=e418]: "3"
+                  - generic "4/21 22:53" [ref=e420]
+            - link "職場の悩み 職場の人間関係についてモヤモヤしています。 自分がいる職場に半年ほど前に中途で入ってきた年下の男性がいます。 とても明るい性格で、誰とでもすぐに仲良くなるようなタイプなんですが、 ある時、雑談... ベストアンサー：振り回されている、との事ですがあなたはどうしたいのですか？ 彼と仲良くなりたいのか、彼と出かけたいのか、そのような気持ちがあるならあなたが「こうしよう」と主導権をもって決めればいいと思います。こ... 回答数： 2 4/22 17:11 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e423] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327459202
+              - generic [ref=e424]:
+                - paragraph [ref=e425]: 職場の悩み
+                - paragraph [ref=e428]: 職場の人間関係についてモヤモヤしています。 自分がいる職場に半年ほど前に中途で入ってきた年下の男性がいます。 とても明るい性格で、誰とでもすぐに仲良くなるようなタイプなんですが、 ある時、雑談...
+                - paragraph [ref=e431]: ベストアンサー：振り回されている、との事ですがあなたはどうしたいのですか？ 彼と仲良くなりたいのか、彼と出かけたいのか、そのような気持ちがあるならあなたが「こうしよう」と主導権をもって決めればいいと思います。こ...
+                - generic [ref=e432]:
+                  - generic [ref=e433]:
+                    - generic "回答数：" [ref=e434]:
+                      - img [ref=e435]
+                    - generic [ref=e437]: "2"
+                  - generic "4/22 17:11" [ref=e439]
+                  - generic [ref=e440]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e441]:
+                      - img [ref=e442]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e448]: "100"
+            - link "職場の悩み 男子トイレを掃除する女性は、自分がトイレをしている時に男性が入ってきてもいいという人しかいませんよね？ ベストアンサー：普通は掃除中の看板を出してます。 回答数： 2 2025/8/22 22:24 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e451] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13319052723
+              - generic [ref=e452]:
+                - paragraph [ref=e453]: 職場の悩み
+                - paragraph [ref=e456]: 男子トイレを掃除する女性は、自分がトイレをしている時に男性が入ってきてもいいという人しかいませんよね？
+                - paragraph [ref=e459]: ベストアンサー：普通は掃除中の看板を出してます。
+                - generic [ref=e460]:
+                  - generic [ref=e461]:
+                    - generic "回答数：" [ref=e462]:
+                      - img [ref=e463]
+                    - generic [ref=e465]: "2"
+                  - generic "2025/8/22 22:24" [ref=e467]
+                  - generic [ref=e468]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e469]:
+                      - img [ref=e470]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e476]: "50"
+            - link "メイク、コスメ 社会人になったら女性は盛るようなメイクが必須なのでしょうか？ 来年事務職か販売職に就職しようと思っている高校3年生の女子です。 私が最低限しようと思っているのは眉毛を整えたり、血色を良くするため... ベストアンサー：社会では清潔感が一番大事なので盛ったメイクは良しとされません。 仕事をお願いするのに盛った女性(派手な印象)と清潔感のある女性(真面目な印象)なら後者です。 回答数： 3 4/24 14:22" [ref=e479] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327509802
+              - generic [ref=e480]:
+                - paragraph [ref=e481]: メイク、コスメ
+                - paragraph [ref=e484]: 社会人になったら女性は盛るようなメイクが必須なのでしょうか？ 来年事務職か販売職に就職しようと思っている高校3年生の女子です。 私が最低限しようと思っているのは眉毛を整えたり、血色を良くするため...
+                - paragraph [ref=e487]: ベストアンサー：社会では清潔感が一番大事なので盛ったメイクは良しとされません。 仕事をお願いするのに盛った女性(派手な印象)と清潔感のある女性(真面目な印象)なら後者です。
+                - generic [ref=e488]:
+                  - generic [ref=e489]:
+                    - generic "回答数：" [ref=e490]:
+                      - img [ref=e491]
+                    - generic [ref=e493]: "3"
+                  - generic "4/24 14:22" [ref=e495]
+            - link "アルバイト、フリーター アルバイト 発熱による休みについて 今朝発熱とだるさがあり、バイトを当日欠勤しました。 運良く代わりの方もすぐに見つかりました。 明日も出勤なのですが、明日までに治っているかわからず代わりの方... ベストアンサー：代わりが見つかるなら無理せず今の段階で休んじゃって良いと思いますよ。季節の変わり目ですからね。お大事になさってください。 回答数： 3 4/22 14:43 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e498] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327456085
+              - generic [ref=e499]:
+                - paragraph [ref=e500]: アルバイト、フリーター
+                - paragraph [ref=e503]: アルバイト 発熱による休みについて 今朝発熱とだるさがあり、バイトを当日欠勤しました。 運良く代わりの方もすぐに見つかりました。 明日も出勤なのですが、明日までに治っているかわからず代わりの方...
+                - paragraph [ref=e506]: ベストアンサー：代わりが見つかるなら無理せず今の段階で休んじゃって良いと思いますよ。季節の変わり目ですからね。お大事になさってください。
+                - generic [ref=e507]:
+                  - generic [ref=e508]:
+                    - generic "回答数：" [ref=e509]:
+                      - img [ref=e510]
+                    - generic [ref=e512]: "3"
+                  - generic "4/22 14:43" [ref=e514]
+                  - generic [ref=e515]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e516]:
+                      - img [ref=e517]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e523]: "25"
+            - link "職場の悩み コンビニのバイトを1年か2年やったのですが やはり辞めて他の仕事を探す事を決意しました が1人身の上に住んでいるところは契約してから１ヶ月ちょいなので簡単には行きませんし実家に戻ろうにも自分の居... ベストアンサー：生活保護が受けられるか受けられないかなんて役所に聞けばよいこと。いくら給料もらってるのか知りませんが、少なくとも退職するようなので、最後の給料がアナタの住んでいる自治体の生活保護の生活扶助額の半... 回答数： 3 4/18 20:32 ベストアンサーへのお礼（知恵コイン）： 500" [ref=e526] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327351455
+              - generic [ref=e527]:
+                - paragraph [ref=e528]: 職場の悩み
+                - paragraph [ref=e531]: コンビニのバイトを1年か2年やったのですが やはり辞めて他の仕事を探す事を決意しました が1人身の上に住んでいるところは契約してから１ヶ月ちょいなので簡単には行きませんし実家に戻ろうにも自分の居...
+                - paragraph [ref=e534]: ベストアンサー：生活保護が受けられるか受けられないかなんて役所に聞けばよいこと。いくら給料もらってるのか知りませんが、少なくとも退職するようなので、最後の給料がアナタの住んでいる自治体の生活保護の生活扶助額の半...
+                - generic [ref=e535]:
+                  - generic [ref=e536]:
+                    - generic "回答数：" [ref=e537]:
+                      - img [ref=e538]
+                    - generic [ref=e540]: "3"
+                  - generic "4/18 20:32" [ref=e542]
+                  - generic [ref=e543]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e544]:
+                      - img [ref=e545]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e551]: "500"
+            - link "職場の悩み 高校生でバイトしてます 本当にやばいですバイト10時から15時までのシフトなのにさっき起きました… 電話もかかっていたみたいですか通知オフにしたままなことを確認してなかったのでアラームも聞こえず... ベストアンサー：まぁまず、こんなところに書き込む前に電話ですね。 回答数： 2 1/4 14:25" [ref=e554] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14323930489
+              - generic [ref=e555]:
+                - paragraph [ref=e556]: 職場の悩み
+                - paragraph [ref=e559]: 高校生でバイトしてます 本当にやばいですバイト10時から15時までのシフトなのにさっき起きました… 電話もかかっていたみたいですか通知オフにしたままなことを確認してなかったのでアラームも聞こえず...
+                - paragraph [ref=e562]: ベストアンサー：まぁまず、こんなところに書き込む前に電話ですね。
+                - generic [ref=e563]:
+                  - generic [ref=e564]:
+                    - generic "回答数：" [ref=e565]:
+                      - img [ref=e566]
+                    - generic [ref=e568]: "2"
+                  - generic "1/4 14:25" [ref=e570]
+            - link "職場の悩み ガールズバーで働いてます。いま入って1ヶ月半です。 すごく待遇よくしてもらっていて、入って3週間くらいで指名3人呼びました。たまたまです。今まで太客ができたことも指名たくさん呼べたこともないです... ベストアンサー：おはようございます^ ^ まだ1カ月半、先は長いです 早歩きしていたらそのうち疲れちゃいます 自分のペースでやってみてはいかがですか 回答数： 2 4/22 5:57 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e573] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327447716
+              - generic [ref=e574]:
+                - paragraph [ref=e575]: 職場の悩み
+                - paragraph [ref=e578]: ガールズバーで働いてます。いま入って1ヶ月半です。 すごく待遇よくしてもらっていて、入って3週間くらいで指名3人呼びました。たまたまです。今まで太客ができたことも指名たくさん呼べたこともないです...
+                - paragraph [ref=e581]: ベストアンサー：おはようございます^ ^ まだ1カ月半、先は長いです 早歩きしていたらそのうち疲れちゃいます 自分のペースでやってみてはいかがですか
+                - generic [ref=e582]:
+                  - generic [ref=e583]:
+                    - generic "回答数：" [ref=e584]:
+                      - img [ref=e585]
+                    - generic [ref=e587]: "2"
+                  - generic "4/22 5:57" [ref=e589]
+                  - generic [ref=e590]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e591]:
+                      - img [ref=e592]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e598]: "50"
+            - link "職場の悩み 私はドラックストアーでパートで働いている65歳の主婦です。今年に入ってから思い込みかもしれませんが、上司から嫌がらせのような事をされています。 扶養の為103万以上働くと社会保険に加入しないとい... ベストアンサー：お辛い状況ですね。あなたの感じている違和感は、いくつかの具体的な出来事に基づいているため、単なる思い込みとは言えないように思います。 状況を整理すると以下の点が気になります。 ・早退理由の提出... 回答数： 2 3/22 22:06" [ref=e601] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14326518459
+              - generic [ref=e602]:
+                - paragraph [ref=e603]: 職場の悩み
+                - paragraph [ref=e606]: 私はドラックストアーでパートで働いている65歳の主婦です。今年に入ってから思い込みかもしれませんが、上司から嫌がらせのような事をされています。 扶養の為103万以上働くと社会保険に加入しないとい...
+                - paragraph [ref=e609]: ベストアンサー：お辛い状況ですね。あなたの感じている違和感は、いくつかの具体的な出来事に基づいているため、単なる思い込みとは言えないように思います。 状況を整理すると以下の点が気になります。 ・早退理由の提出...
+                - generic [ref=e610]:
+                  - generic [ref=e611]:
+                    - generic "回答数：" [ref=e612]:
+                      - img [ref=e613]
+                    - generic [ref=e615]: "2"
+                  - generic "3/22 22:06" [ref=e617]
+            - link "職場の悩み 2年前に辞めたショッピングモールに併設されてる別店舗で働こうと思っているのですが、スーパー側の方は2年前でも覚えてたりすることはありますか？ ちなみに辞めた理由は人間関係です。とある女性が私の給... ベストアンサー：会社が違えば問題ないでしょう。 同じ会社の違う店舗に勤めるのであれば、社員データが残っているので、 覚えているでしょう。 回答数： 2 4/23 23:42" [ref=e620] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327498324
+              - generic [ref=e621]:
+                - paragraph [ref=e622]: 職場の悩み
+                - paragraph [ref=e625]: 2年前に辞めたショッピングモールに併設されてる別店舗で働こうと思っているのですが、スーパー側の方は2年前でも覚えてたりすることはありますか？ ちなみに辞めた理由は人間関係です。とある女性が私の給...
+                - paragraph [ref=e628]: ベストアンサー：会社が違えば問題ないでしょう。 同じ会社の違う店舗に勤めるのであれば、社員データが残っているので、 覚えているでしょう。
+                - generic [ref=e629]:
+                  - generic [ref=e630]:
+                    - generic "回答数：" [ref=e631]:
+                      - img [ref=e632]
+                    - generic [ref=e634]: "2"
+                  - generic "4/23 23:42" [ref=e636]
+            - link "転職 【長文】ヘッドハンティング会社から電話。 僕は腕時計屋に勤めている、27歳の男です。 先日、ヘッドハンティング会社から僕宛に電話がありました。内容は、僕の接客を受けたそうで、それがとても良かっ... ベストアンサー：まず、断りましょう！（条件が、悪すぎる！ と、言って。。。） 向こうが「本気」なら、条件を「吊り上げて」来るでしょう。。。 （決めるのは「希望以上の条件」に、達した時です！） SUE. 回答数： 5 4/24 2:54 ベストアンサーへのお礼（知恵コイン）： 500" [ref=e639] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327500902
+              - generic [ref=e640]:
+                - paragraph [ref=e641]: 転職
+                - paragraph [ref=e644]: 【長文】ヘッドハンティング会社から電話。 僕は腕時計屋に勤めている、27歳の男です。 先日、ヘッドハンティング会社から僕宛に電話がありました。内容は、僕の接客を受けたそうで、それがとても良かっ...
+                - paragraph [ref=e647]: ベストアンサー：まず、断りましょう！（条件が、悪すぎる！ と、言って。。。） 向こうが「本気」なら、条件を「吊り上げて」来るでしょう。。。 （決めるのは「希望以上の条件」に、達した時です！） SUE.
+                - generic [ref=e648]:
+                  - generic [ref=e649]:
+                    - generic "回答数：" [ref=e650]:
+                      - img [ref=e651]
+                    - generic [ref=e653]: "5"
+                  - generic "4/24 2:54" [ref=e655]
+                  - generic [ref=e656]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e657]:
+                      - img [ref=e658]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e664]: "500"
+            - link "職場の悩み オフィスで働く方に質問です 後ろを通ったりされる時、男性の方の手がお尻に当たったりする事はよくあるのですか？ 日に何度かあり、嫌な気持ちになったのですが、よくある仕方のないことなのでしょうか？ ... ベストアンサー：オフィスで働いていますが、何度もなんてことはないですし普通は他の方が言うように配慮します。 そして当たった場合は場所に関わらず謝罪します。 若いも若くないも関係ないです、不快に感じた時点で言って... 回答数： 3 4/24 13:35" [ref=e667] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327509000
+              - generic [ref=e668]:
+                - paragraph [ref=e669]: 職場の悩み
+                - paragraph [ref=e672]: オフィスで働く方に質問です 後ろを通ったりされる時、男性の方の手がお尻に当たったりする事はよくあるのですか？ 日に何度かあり、嫌な気持ちになったのですが、よくある仕方のないことなのでしょうか？ ...
+                - paragraph [ref=e675]: ベストアンサー：オフィスで働いていますが、何度もなんてことはないですし普通は他の方が言うように配慮します。 そして当たった場合は場所に関わらず謝罪します。 若いも若くないも関係ないです、不快に感じた時点で言って...
+                - generic [ref=e676]:
+                  - generic [ref=e677]:
+                    - generic "回答数：" [ref=e678]:
+                      - img [ref=e679]
+                    - generic [ref=e681]: "3"
+                  - generic "4/24 13:35" [ref=e683]
+            - link "職場の悩み 26卒の新卒です。 入社して1ヶ月ぐらいしか経ってないのですがもう辞めたくて辛いです。 薬局事務で研修中なのですが仕事中泣きそうになります。1年は頑張りたいと思っていたのですが仕事内容も難しく私... ベストアンサー：採用やキャリア支援に関わる立場からお伝えすると、入社1ヶ月でつらく感じるのは珍しいことではなく、「環境への適応途中」なのか「そもそも合っていないのか」を分けて考えることが大切です。 今の状況は... 回答数： 5 4/23 12:43 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e686] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327481185
+              - generic [ref=e687]:
+                - paragraph [ref=e688]: 職場の悩み
+                - paragraph [ref=e691]: 26卒の新卒です。 入社して1ヶ月ぐらいしか経ってないのですがもう辞めたくて辛いです。 薬局事務で研修中なのですが仕事中泣きそうになります。1年は頑張りたいと思っていたのですが仕事内容も難しく私...
+                - paragraph [ref=e694]: ベストアンサー：採用やキャリア支援に関わる立場からお伝えすると、入社1ヶ月でつらく感じるのは珍しいことではなく、「環境への適応途中」なのか「そもそも合っていないのか」を分けて考えることが大切です。 今の状況は...
+                - generic [ref=e695]:
+                  - generic [ref=e696]:
+                    - generic "回答数：" [ref=e697]:
+                      - img [ref=e698]
+                    - generic [ref=e700]: "5"
+                  - generic "4/23 12:43" [ref=e702]
+                  - generic [ref=e703]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e704]:
+                      - img [ref=e705]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e711]: "50"
+            - link "転職 転職内定、でも年収提示額が高すぎて不安とプレッシャーがすごいです。企業の意図や、新天地で私はどういう心持ちで、何を意識して動けばいいかお聞きしたいです。 このたび転職活動を行い、運良く大手日系企... ベストアンサー：会社の規則を守り、着実に真面目に仕事をすることだけだと思います 回答数： 2 4/21 11:19 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e714] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327425139
+              - generic [ref=e715]:
+                - paragraph [ref=e716]: 転職
+                - paragraph [ref=e719]: 転職内定、でも年収提示額が高すぎて不安とプレッシャーがすごいです。企業の意図や、新天地で私はどういう心持ちで、何を意識して動けばいいかお聞きしたいです。 このたび転職活動を行い、運良く大手日系企...
+                - paragraph [ref=e722]: ベストアンサー：会社の規則を守り、着実に真面目に仕事をすることだけだと思います
+                - generic [ref=e723]:
+                  - generic [ref=e724]:
+                    - generic "回答数：" [ref=e725]:
+                      - img [ref=e726]
+                    - generic [ref=e728]: "2"
+                  - generic "4/21 11:19" [ref=e730]
+                  - generic [ref=e731]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e732]:
+                      - img [ref=e733]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e739]: "50"
+            - link "家族関係の悩み 離婚後の氏姓をどうすればいいか、ご相談させてください。 今年11月か12月迄は今の勤め先で働く予定ですが、離婚したことを勤め先に知られたくないのです(事務員の方々が、口が軽くて信用できないのです... ベストアンサー：離婚した女です 基本は離婚で旧姓に戻る、なので 夫の姓を名乗りたい場合は手続きをするんですが、通称使用できる職場もあります、離婚すると扶養の関係とか世帯主の変更とか事務手続きがいると思うので事務... 回答数： 3 4/20 9:30 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e742] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327395807
+              - generic [ref=e743]:
+                - paragraph [ref=e744]: 家族関係の悩み
+                - paragraph [ref=e747]: 離婚後の氏姓をどうすればいいか、ご相談させてください。 今年11月か12月迄は今の勤め先で働く予定ですが、離婚したことを勤め先に知られたくないのです(事務員の方々が、口が軽くて信用できないのです...
+                - paragraph [ref=e750]: ベストアンサー：離婚した女です 基本は離婚で旧姓に戻る、なので 夫の姓を名乗りたい場合は手続きをするんですが、通称使用できる職場もあります、離婚すると扶養の関係とか世帯主の変更とか事務手続きがいると思うので事務...
+                - generic [ref=e751]:
+                  - generic [ref=e752]:
+                    - generic "回答数：" [ref=e753]:
+                      - img [ref=e754]
+                    - generic [ref=e756]: "3"
+                  - generic "4/20 9:30" [ref=e758]
+                  - generic [ref=e759]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e760]:
+                      - img [ref=e761]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e767]: "100"
+            - link "職場の悩み 電話対応について 4月から入社し、電話対応をしているのですが、相手の社名が聞き取れないことが多々あります。 担当の者に引き継がないといけないのに、です。 どう言った工夫をすれば正確に聞き取れ... ベストアンサー：早くて聞き取れない時もあるので、確認のためにも、 もう一度聞く様にしています。 回答数： 1 4/13 21:31 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e770] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327211867
+              - generic [ref=e771]:
+                - paragraph [ref=e772]: 職場の悩み
+                - paragraph [ref=e775]: 電話対応について 4月から入社し、電話対応をしているのですが、相手の社名が聞き取れないことが多々あります。 担当の者に引き継がないといけないのに、です。 どう言った工夫をすれば正確に聞き取れ...
+                - paragraph [ref=e778]: ベストアンサー：早くて聞き取れない時もあるので、確認のためにも、 もう一度聞く様にしています。
+                - generic [ref=e779]:
+                  - generic [ref=e780]:
+                    - generic "回答数：" [ref=e781]:
+                      - img [ref=e782]
+                    - generic [ref=e784]: "1"
+                  - generic "4/13 21:31" [ref=e786]
+                  - generic [ref=e787]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e788]:
+                      - img [ref=e789]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e795]: "100"
+            - link "恋愛相談 【緊急】完全にヒモ男になっていて、自分が惨めで辛いです。 30歳会社員の男です。 彼女は28歳です。 大学時代の後輩と復縁して同棲していますが、彼女の出世スピードが速すぎて自分が惨めで肩身が狭... ベストアンサー：料理が完成後に夕飯要らないと言われるのは内心腹が立つとかの後半の悩み全般は、一般的な男女が入れ替わってるだけで、ありがちな悩みかなと思います。 結婚して家事育児の主担当となれば、それなりに大変で... 回答数： 6 4/7 14:51 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e798] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327013581
+              - generic [ref=e799]:
+                - paragraph [ref=e800]: 恋愛相談
+                - paragraph [ref=e803]: 【緊急】完全にヒモ男になっていて、自分が惨めで辛いです。 30歳会社員の男です。 彼女は28歳です。 大学時代の後輩と復縁して同棲していますが、彼女の出世スピードが速すぎて自分が惨めで肩身が狭...
+                - paragraph [ref=e806]: ベストアンサー：料理が完成後に夕飯要らないと言われるのは内心腹が立つとかの後半の悩み全般は、一般的な男女が入れ替わってるだけで、ありがちな悩みかなと思います。 結婚して家事育児の主担当となれば、それなりに大変で...
+                - generic [ref=e807]:
+                  - generic [ref=e808]:
+                    - generic "回答数：" [ref=e809]:
+                      - img [ref=e810]
+                    - generic [ref=e812]: "6"
+                  - generic "4/7 14:51" [ref=e814]
+                  - generic [ref=e815]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e816]:
+                      - img [ref=e817]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e823]: "50"
+            - link "職場の悩み 高校2年生です。自分が仕事出来なさすぎて辛いです。 私は4ヶ月前から、自営業の飲食店で人生初めてのアルバイトをしているのですが、もう4ヶ月経つのにも関わらずミスが多くて泣きそうです。 主に良... ベストアンサー：いやこれさ、正直4ヶ月で完璧に回せる高校生の方が珍しいから、そんなに自分を責める段階じゃないよ。飲食って普通に難しいし、みんな最初は同じようなとこで詰まる。 ぶっちゃけミスの原因ってはっきりし... 回答数： 3 4/10 2:12 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e826] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327093305
+              - generic [ref=e827]:
+                - paragraph [ref=e828]: 職場の悩み
+                - paragraph [ref=e831]: 高校2年生です。自分が仕事出来なさすぎて辛いです。 私は4ヶ月前から、自営業の飲食店で人生初めてのアルバイトをしているのですが、もう4ヶ月経つのにも関わらずミスが多くて泣きそうです。 主に良...
+                - paragraph [ref=e834]: ベストアンサー：いやこれさ、正直4ヶ月で完璧に回せる高校生の方が珍しいから、そんなに自分を責める段階じゃないよ。飲食って普通に難しいし、みんな最初は同じようなとこで詰まる。 ぶっちゃけミスの原因ってはっきりし...
+                - generic [ref=e835]:
+                  - generic [ref=e836]:
+                    - generic "回答数：" [ref=e837]:
+                      - img [ref=e838]
+                    - generic [ref=e840]: "3"
+                  - generic "4/10 2:12" [ref=e842]
+                  - generic [ref=e843]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e844]:
+                      - img [ref=e845]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e851]: "50"
+            - link "職場の悩み 以前にも質問しましたが。職場の問題です。 今年に入り、やたらいろんなクリニックや調剤薬局で会計ミスが多く、 間違えたので不足分を払いに来てくださいという電話がかかってきて困ります。 クリニックは... ベストアンサー：いくら医療とは言っても最低限のサービスは果たさないといけませんね。 ミスしたのは向こうなら、本筋で言ったらあちらが集金しにきたっていいくらいですよ。 ただそれだと現実的ではないので、こちらも親切... 回答数： 2 4/24 10:59" [ref=e854] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327506169
+              - generic [ref=e855]:
+                - paragraph [ref=e856]: 職場の悩み
+                - paragraph [ref=e859]: 以前にも質問しましたが。職場の問題です。 今年に入り、やたらいろんなクリニックや調剤薬局で会計ミスが多く、 間違えたので不足分を払いに来てくださいという電話がかかってきて困ります。 クリニックは...
+                - paragraph [ref=e862]: ベストアンサー：いくら医療とは言っても最低限のサービスは果たさないといけませんね。 ミスしたのは向こうなら、本筋で言ったらあちらが集金しにきたっていいくらいですよ。 ただそれだと現実的ではないので、こちらも親切...
+                - generic [ref=e863]:
+                  - generic [ref=e864]:
+                    - generic "回答数：" [ref=e865]:
+                      - img [ref=e866]
+                    - generic [ref=e868]: "2"
+                  - generic "4/24 10:59" [ref=e870]
+            - link "職場の悩み 有給を取るのが怖いです。 現場の責任者なので、有給中も仕事のことを考えてしまいます、次仕事行った時怒られるのではないか、、と思ってしまいます、、 ベストアンサー：まぁ、気持ちは理解しますが、 気にしないことです。 有給中は、仕事のことは忘れましょう。 ＞次仕事行った時怒られる 「面従腹背（めんじゅうふくはい）」でOK。 そんなことで怒る〇〇の言う... 回答数： 2 4/24 11:54" [ref=e873] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327507083
+              - generic [ref=e874]:
+                - paragraph [ref=e875]: 職場の悩み
+                - paragraph [ref=e878]: 有給を取るのが怖いです。 現場の責任者なので、有給中も仕事のことを考えてしまいます、次仕事行った時怒られるのではないか、、と思ってしまいます、、
+                - paragraph [ref=e881]: ベストアンサー：まぁ、気持ちは理解しますが、 気にしないことです。 有給中は、仕事のことは忘れましょう。 ＞次仕事行った時怒られる 「面従腹背（めんじゅうふくはい）」でOK。 そんなことで怒る〇〇の言う...
+                - generic [ref=e882]:
+                  - generic [ref=e883]:
+                    - generic "回答数：" [ref=e884]:
+                      - img [ref=e885]
+                    - generic [ref=e887]: "2"
+                  - generic "4/24 11:54" [ref=e889]
+            - link "職場の悩み 職位が上であればいくら歳が若くても「上の立場」ですよね？再就職した定年済みの爺をイジメる二回り以上歳下の上位職位者から「爺はこんなことも知らないのか？ 知る気が無いんだろ！やる気が無いんだろ！仕... ベストアンサー：厚生労働省のホームページに記載ある様に https://www.no-harassment.mhlw.go.jp/worry/ 先ずは証拠を録りましょう ペン型のICレコーダーはネットでお安く... 回答数： 3 4/7 12:55" [ref=e892] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327010860
+              - generic [ref=e893]:
+                - paragraph [ref=e894]: 職場の悩み
+                - paragraph [ref=e897]: 職位が上であればいくら歳が若くても「上の立場」ですよね？再就職した定年済みの爺をイジメる二回り以上歳下の上位職位者から「爺はこんなことも知らないのか？ 知る気が無いんだろ！やる気が無いんだろ！仕...
+                - paragraph [ref=e900]: ベストアンサー：厚生労働省のホームページに記載ある様に https://www.no-harassment.mhlw.go.jp/worry/ 先ずは証拠を録りましょう ペン型のICレコーダーはネットでお安く...
+                - generic [ref=e901]:
+                  - generic [ref=e902]:
+                    - generic "回答数：" [ref=e903]:
+                      - img [ref=e904]
+                    - generic [ref=e906]: "3"
+                  - generic "4/7 12:55" [ref=e908]
+            - link "職場の悩み 同じ派遣会社の社員同士でグループ付き合いみたいな、馴れ合いみたいなのが発生していて面倒くさいです。研修中からそういう感じになっています。 今までの経験だと、同じ派遣会社であったとしても、みんなそ... ベストアンサー：極普通ですね。そんな会社もあります。 自分一人浮いてたとしても、給料は出るので、気にしなくて良いです。 そうはいかない、どうしても気になる等、嫌なら、別の派遣先を紹介してほしいと願い出れば良... 回答数： 3 4/24 8:11 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e911] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327503490
+              - generic [ref=e912]:
+                - paragraph [ref=e913]: 職場の悩み
+                - paragraph [ref=e916]: 同じ派遣会社の社員同士でグループ付き合いみたいな、馴れ合いみたいなのが発生していて面倒くさいです。研修中からそういう感じになっています。 今までの経験だと、同じ派遣会社であったとしても、みんなそ...
+                - paragraph [ref=e919]: ベストアンサー：極普通ですね。そんな会社もあります。 自分一人浮いてたとしても、給料は出るので、気にしなくて良いです。 そうはいかない、どうしても気になる等、嫌なら、別の派遣先を紹介してほしいと願い出れば良...
+                - generic [ref=e920]:
+                  - generic [ref=e921]:
+                    - generic "回答数：" [ref=e922]:
+                      - img [ref=e923]
+                    - generic [ref=e925]: "3"
+                  - generic "4/24 8:11" [ref=e927]
+                  - generic [ref=e928]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e929]:
+                      - img [ref=e930]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e936]: "25"
+            - link "職場の悩み 自営業なのにアルバイトに来る人っていったいどうして？ 誰でも出来るアルバイトに来てた人。 2日置きにアルバイトに来て、会う人全員に、「自分、自営業なんで」とアピールしてた30代の人がいました。 ... ベストアンサー：バイトがプライドで許さないので保険を掛けている。 まあ見苦しい。 回答数： 5 4/20 21:59" [ref=e939] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327413533
+              - generic [ref=e940]:
+                - paragraph [ref=e941]: 職場の悩み
+                - paragraph [ref=e944]: 自営業なのにアルバイトに来る人っていったいどうして？ 誰でも出来るアルバイトに来てた人。 2日置きにアルバイトに来て、会う人全員に、「自分、自営業なんで」とアピールしてた30代の人がいました。 ...
+                - paragraph [ref=e947]: ベストアンサー：バイトがプライドで許さないので保険を掛けている。 まあ見苦しい。
+                - generic [ref=e948]:
+                  - generic [ref=e949]:
+                    - generic "回答数：" [ref=e950]:
+                      - img [ref=e951]
+                    - generic [ref=e953]: "5"
+                  - generic "4/20 21:59" [ref=e955]
+            - link "職業 スキマバイトに来てる人が、 「自営業で会社員の年収以上稼いでる」とか言ってるんですが、本当だと思いますが？ ベストアンサー：嘘ですね。 私の知人にも自営業で忙しいけど、スキマバイトに行っていると自慢する人がいました。 稼いでいる人がわざわざスキマバイトに行くぐらいなら、 本業でもっと稼げば言い訳ですから。本来であれば。 回答数： 2 4/20 21:10" [ref=e958] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327411851
+              - generic [ref=e959]:
+                - paragraph [ref=e960]: 職業
+                - paragraph [ref=e963]: スキマバイトに来てる人が、 「自営業で会社員の年収以上稼いでる」とか言ってるんですが、本当だと思いますが？
+                - paragraph [ref=e966]: ベストアンサー：嘘ですね。 私の知人にも自営業で忙しいけど、スキマバイトに行っていると自慢する人がいました。 稼いでいる人がわざわざスキマバイトに行くぐらいなら、 本業でもっと稼げば言い訳ですから。本来であれば。
+                - generic [ref=e967]:
+                  - generic [ref=e968]:
+                    - generic "回答数：" [ref=e969]:
+                      - img [ref=e970]
+                    - generic [ref=e972]: "2"
+                  - generic "4/20 21:10" [ref=e974]
+            - link "職場の悩み 大至急。 歯医者の受付(事務)の仕事で、 体調が悪く、咳でても出勤して大丈夫ですか？？？？ ベストアンサー：受付は医院の最初の顔ですからね、あまりにひどい咳をしていたら患者がいやがるので、医師もクレームになったり大変なので、先生に聞いてみた方が良いですよ。 電話で聞けないなら、通勤だけして帰らせても... 回答数： 5 4/24 8:05 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e977] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327503400
+              - generic [ref=e978]:
+                - paragraph [ref=e979]: 職場の悩み
+                - paragraph [ref=e982]: 大至急。 歯医者の受付(事務)の仕事で、 体調が悪く、咳でても出勤して大丈夫ですか？？？？
+                - paragraph [ref=e985]: ベストアンサー：受付は医院の最初の顔ですからね、あまりにひどい咳をしていたら患者がいやがるので、医師もクレームになったり大変なので、先生に聞いてみた方が良いですよ。 電話で聞けないなら、通勤だけして帰らせても...
+                - generic [ref=e986]:
+                  - generic [ref=e987]:
+                    - generic "回答数：" [ref=e988]:
+                      - img [ref=e989]
+                    - generic [ref=e991]: "5"
+                  - generic "4/24 8:05" [ref=e993]
+                  - generic [ref=e994]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e995]:
+                      - img [ref=e996]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e1002]: "50"
+            - link "職場の悩み 18歳、初バイトです。 希望休を理由と共に書いて提出し、シフトが出た後に家族の友人（昔からとてもよくしてくれた方）が体調を崩されてゴールデンウィークまでもつか分かりませんが一目会いたくてシフトが... ベストアンサー：私も学生時代初めてのバイトでスーパーのレジ打ちをしていましたが、同じ状況で代わりが見つからず、泣き寝入りしたことがあります。 もう少し自分で調べて、ちゃんと主張すればよかったと後悔しかないです。 代 回答数： 2 4/24 11:30" [ref=e1005] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327506705
+              - generic [ref=e1006]:
+                - paragraph [ref=e1007]: 職場の悩み
+                - paragraph [ref=e1010]: 18歳、初バイトです。 希望休を理由と共に書いて提出し、シフトが出た後に家族の友人（昔からとてもよくしてくれた方）が体調を崩されてゴールデンウィークまでもつか分かりませんが一目会いたくてシフトが...
+                - paragraph [ref=e1013]: ベストアンサー：私も学生時代初めてのバイトでスーパーのレジ打ちをしていましたが、同じ状況で代わりが見つからず、泣き寝入りしたことがあります。 もう少し自分で調べて、ちゃんと主張すればよかったと後悔しかないです。 代
+                - generic [ref=e1014]:
+                  - generic [ref=e1015]:
+                    - generic "回答数：" [ref=e1016]:
+                      - img [ref=e1017]
+                    - generic [ref=e1019]: "2"
+                  - generic "4/24 11:30" [ref=e1021]
+            - link "職場の悩み 仕事を紹介してもらいましたが お断りしたいです。 断り方について困っています。 派遣先で働いています。 職場の同僚(会社は別の子)に勧誘され 1度は入社したいと伝えましたが入社したいと 伝えた後... ベストアンサー：元採用担当のおぢさんです。 まず、状況説明が大ざっぱ過ぎます。 >1度は入社したいと伝えましたが入社したいと >伝えた後に聞いていた内容と違う点があり、 これが断るに足りる理由... 回答数： 2 4/20 19:34" [ref=e1024] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327408806
+              - generic [ref=e1025]:
+                - paragraph [ref=e1026]: 職場の悩み
+                - paragraph [ref=e1029]: 仕事を紹介してもらいましたが お断りしたいです。 断り方について困っています。 派遣先で働いています。 職場の同僚(会社は別の子)に勧誘され 1度は入社したいと伝えましたが入社したいと 伝えた後...
+                - paragraph [ref=e1032]: ベストアンサー：元採用担当のおぢさんです。 まず、状況説明が大ざっぱ過ぎます。 >1度は入社したいと伝えましたが入社したいと >伝えた後に聞いていた内容と違う点があり、 これが断るに足りる理由...
+                - generic [ref=e1033]:
+                  - generic [ref=e1034]:
+                    - generic "回答数：" [ref=e1035]:
+                      - img [ref=e1036]
+                    - generic [ref=e1038]: "2"
+                  - generic "4/20 19:34" [ref=e1040]
+            - link "病気、症状 パニック障害等の症状がある人に対して、健常者に配慮しろと言うのは正しいですか？ ベストアンサー：健常者の相手によると思います。 でも、そもそも健常者に、何故配慮しなくてはいけないのでしょうか。 パニック障害になった方は、色んなストレスを抱えたり、追い詰められた方が多いです。 むしろ、そのパ... 回答数： 6 4/21 15:23" [ref=e1043] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327429684
+              - generic [ref=e1044]:
+                - paragraph [ref=e1045]: 病気、症状
+                - paragraph [ref=e1048]: パニック障害等の症状がある人に対して、健常者に配慮しろと言うのは正しいですか？
+                - paragraph [ref=e1051]: ベストアンサー：健常者の相手によると思います。 でも、そもそも健常者に、何故配慮しなくてはいけないのでしょうか。 パニック障害になった方は、色んなストレスを抱えたり、追い詰められた方が多いです。 むしろ、そのパ...
+                - generic [ref=e1052]:
+                  - generic [ref=e1053]:
+                    - generic "回答数：" [ref=e1054]:
+                      - img [ref=e1055]
+                    - generic [ref=e1057]: "6"
+                  - generic "4/21 15:23" [ref=e1059]
+            - link "職場の悩み 職場に休憩室がなく自分のデスクで食べている人に質問です。 どこで休んでいますか？また他部署の人との交流はどうやってしていますか？ 以前の職場では昼休みに食堂や休憩室に行って他部署の人たちと仲良く... ベストアンサー：休む。。。？ 普通にデスクで食事してそのままです。 休憩室も会議室もありますが、 外出する人もいますし、 机で寝ている人、 ネットする人、 イヤホンで何かしている人。 以前の職場は以前の... 回答数： 3 4/21 17:09 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e1062] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327432122
+              - generic [ref=e1063]:
+                - paragraph [ref=e1064]: 職場の悩み
+                - paragraph [ref=e1067]: 職場に休憩室がなく自分のデスクで食べている人に質問です。 どこで休んでいますか？また他部署の人との交流はどうやってしていますか？ 以前の職場では昼休みに食堂や休憩室に行って他部署の人たちと仲良く...
+                - paragraph [ref=e1070]: ベストアンサー：休む。。。？ 普通にデスクで食事してそのままです。 休憩室も会議室もありますが、 外出する人もいますし、 机で寝ている人、 ネットする人、 イヤホンで何かしている人。 以前の職場は以前の...
+                - generic [ref=e1071]:
+                  - generic [ref=e1072]:
+                    - generic "回答数：" [ref=e1073]:
+                      - img [ref=e1074]
+                    - generic [ref=e1076]: "3"
+                  - generic "4/21 17:09" [ref=e1078]
+                  - generic [ref=e1079]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e1080]:
+                      - img [ref=e1081]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e1087]: "50"
+        - generic [ref=e1090]:
+          - generic [ref=e1091]:
+            - link "前へ" [ref=e1092] [cursor=pointer]:
+              - /url: /category/2078675274/question/list?flg=1&type=list&sort=16
+              - img [ref=e1093]
+              - text: 前へ
+            - link "1" [ref=e1095] [cursor=pointer]:
+              - /url: /category/2078675274/question/list?flg=1&type=list&sort=16
+            - generic [ref=e1096]: "2"
+            - link "3" [ref=e1097] [cursor=pointer]:
+              - /url: /category/2078675274/question/list?flg=1&type=list&sort=16&page=3
+            - link "4" [ref=e1098] [cursor=pointer]:
+              - /url: /category/2078675274/question/list?flg=1&type=list&sort=16&page=4
+            - link "5" [ref=e1099] [cursor=pointer]:
+              - /url: /category/2078675274/question/list?flg=1&type=list&sort=16&page=5
+            - link "6" [ref=e1100] [cursor=pointer]:
+              - /url: /category/2078675274/question/list?flg=1&type=list&sort=16&page=6
+            - link "7" [ref=e1101] [cursor=pointer]:
+              - /url: /category/2078675274/question/list?flg=1&type=list&sort=16&page=7
+            - link "8" [ref=e1102] [cursor=pointer]:
+              - /url: /category/2078675274/question/list?flg=1&type=list&sort=16&page=8
+            - link "9" [ref=e1103] [cursor=pointer]:
+              - /url: /category/2078675274/question/list?flg=1&type=list&sort=16&page=9
+            - link "10" [ref=e1104] [cursor=pointer]:
+              - /url: /category/2078675274/question/list?flg=1&type=list&sort=16&page=10
+            - generic [ref=e1105]: ...
+            - link "次へ" [ref=e1106] [cursor=pointer]:
+              - /url: /category/2078675274/question/list?flg=1&type=list&sort=16&page=3
+              - text: 次へ
+              - img [ref=e1107]
+          - paragraph [ref=e1109]:
+            - generic [ref=e1110]: 約1,246,411件
+      - complementary [ref=e1111]:
+        - generic [ref=e1112]:
+          - iframe
+          - iframe [ref=e1114]:
+            - generic [ref=f271e3]:
+              - generic [ref=f271e8]:
+                - link [ref=f271e9] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A-lN62kAAMG8fiee-1wB5BHcIR3e55n82QzBlpbB4Dbu323Jw_HTfEAYouicH5hZLVcUDwDV5qOkYobefLcjFt2aaadwJywTbZR_rTCjxYRFeCUgqVsqnCFXHh78WyR9b5r0icc3EO72g93WbottYWMXEv7HQg71hB8c-SLNpf2pwb_Pl1_oVIGxtQ60rSgG0XeWEf3nmm29ncNMB9_GVxQIUqZTGj8ToZNDXQ8z-WPrF3b7VCu8OG5LmASptat46wlS_EClFSm8l5_1GAYvKPzAre0LcWKMIeQ56poW1ZdLTExL4tKNxAf307ggR-xaoGBKAtrnzCJXtnyuCh-DOdT5RZJd-Veqmyti4qnfC9YsczaSLPsd7K77QBHLA2tINUoZvfg-mDtRqCJYa1ZWl9G9s1GmDxP_uSdWFxtRLIzpp-fyQttSfE8O8MX82G4DPQqyRRkfS-E6ow_yYzEYQkJGRXSoSXUnjv7VMbBVIikcAcINsmsjMnLHDUUmeI5MqH_A3QIRjGJ0KoKOhK-j6HlbXE4sysq5VW676SyhaqXvUOr2jRRVVRx3ZvBrk6ORPC1iLONvzFy7iQ7O6AHNiTCztVdruTCedBiqDceHpbnEd5UVS4vUzVat7-Y3axi1Y0llst_Yf0k8P4nM3IANxqfRoo3IRqx3Uc4VQwW55Ii-HYYN9fJ6dCICSZrykx_dycAeZvPIJUBGVKxErf_8Yb6qqIdZ5qTJ1B-wQqQkej2YKJSnY8CVI9tDCOJ9Q8lUFgdnCdYs-pVIa6Qf6po-mzsxglFxtYa_vHElK-tbtV0ub382Nm27BWo6jet5Qp8uzHz4CZA0GTPCnkrZOblzCEJaDFZ_9Bw4MY1ODqq6yf-7bgsIBQiURurc1o6ArUD-lg_LB3-6z0JFFm03wl1p_WaWnsuc28WJ03BcMu3Gwqzio8jvNBbImnDozeEPvnC2AXiYUq6iOnc3ekcJgyuAuY2SDC79OsLdI3FzZeSkSL4CYb5wHJVkxEPMYi4zW5sKMoeOtm9PXS_2ArZkMQRFQTXcWtrEpXq96Ji5FkCRCU3Dit04ukggQGu2pd6rqGMg4KDdJ4bYpFAfLxOrl19dT2S9CWHUF4M5XkkxEJ2TYkQ4YsuE1BnkuOIh0mqgf2M7cZdj3mqLYFECySC1N2rBNwZ-rBsVYUouOZLov-uDksJq6nQ3yXgdyiI8tJYyPzY-s0jwXUnRNZ5Yp1uPMlQ0ay1yt5TXFWAStT60nCnihwr8fjmcJLvESXRHWaOdGriHupb1v1X2t1K7L7pWpLwI3_rbEuCqMZdeDIBiLkV1VE67AmU_8L21uOzHMTWb351tl3bAEwdqTaf7Fgq3wznJ8PZpbqMXl5ME3DGEi6ajhoPqmAXP-BQVcuXY_wQIdYQJcLFNJ4YfamS-8ihnQbMSg7RsmN_G7xsAeK5CmOBCNzdyUlBO_o4AohF54Jp9vAzD7uJ2ISNpiDHVRWMQQpqWcj15grNa0DFBGa2mzzbOvDoOpO0yc0ZMtAgv1Midynq_XCbewTOJP6cGE-srLbifCN1f1uKpFVSYGmTnHsJZU-zK7XIKQd2Tcg&v=5
+                  - img [ref=f271e10]
+                - generic [ref=f271e11] [cursor=pointer]:
+                  - link "広告" [ref=f271e14]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A-lN62kAADu-87KQwH6WV89r4amYgq-2U-4pHfyE9VSMayQ3h-nowhXTTAw3UmsIj7TPb88DgI-TQG0YGdqr4CoefL_Rh4HJQs1D4kc9Bw9mt6cFZepmXyRIB_CNCbqVtL-PkG41edXpUV5aYrsBTm8v-q2t8hYEyFMWYn4JW9TYS7q525EOgYX0uiPJPI6mjryah36xaXPVG8iU0FvaxF5gUxiToFEUQJ7ueKyoW34v95y2dLZtyoTvKEDezT4QQSpUYQ7SfMIk_GiY3aUQUllC6zPEURZbnBv_8j90GFB06ysYTRM&o=A-lN62kAANfeLJw6AaB0gaYSOba3rKn3f8DOjCN1zlsvW1RKobXEeavc-mnN5jduhYM_BRNTTntYn0DWsRkO2tvHLFNwifcC8DjTsDFEbXY3IvYc9QFAQ9Vs7SqFWdgwS1Sj4nqnHbkyrl7g-Wgdzi3gfJ5NU1gDfXLbxo0e4lRxjS7HZjjkB0I4x8OBRFGMrt0vGQC-DwMW2fBC99il1e5c6cjR04Q35ZK7_xrdjiQvA9_u2AtA1hUMPPjRLmRA3uDQrEHlsmea7qYD2FJZpCf_EYJB0w
+                    - generic [ref=f271e16]:
+                      - generic [ref=f271e17]: 広告
+                      - img [ref=f271e19]
+                  - img [ref=f271e24]
+              - generic [ref=f271e29]:
+                - link "大田区の住所入力で土地価格がわかる 詳しくはこちら かんたん不動産比較" [ref=f271e30] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A-lN62kAAKDDPA1WaSugkvB8S4g6Ocz9azA943wNAY1_s_3hLpoFZE6vdTwT1xrZhd_qqIYLymF4ov8HbuM2mCnWmnAxcd9x4lpJPQokVXfqfim4-rpB4O1OnIBNIFVjYz714XjezCm4h0LN96XkY1on2xVzSJYKJ22rYFot0DCXEzZxBfzdKxUMpMAXtLUFK7hps9iPv1cMfPZJF6UG2I46RWvDANVjkXkVS1Eb7tW7tpchWtzK9oNaHxQPq7sbop-5Yd77qWGBsG5Z7OFKnMH2RVZO0UhalnKI6_S9onDCnn2bbzruDEAq20tr1DdBGy6EcrSjPTzD40sNpyfUMf3FfEWEJfu1xVqAv4_aN5_Gw85kJWCLC7neRdcG1J516atr8G5vP7wujJpgzaI5RaQVyncqaLGURa7EAisZi3Boxa5G3PeySuRx4HRYqtOMDMfwW4CLlC42MQ4hL_rIpWAMuuaUHZ4whpuA0lSAZuNJaBus1gq3qGzlhkoAICF0d_A3EjvSOkHpuRWgnfYQSJy8iI4N6KgdxHGch3-vZb9sb1Mh2JJQx2-zICDu31D1wq59sZZi9jfrj24YRDsqvtQPJA4iC7oVQn42EyU4K4fj5HcSj4YoPYn6z-dMAZFk5VFwV4POqbs9z-Ep02AsyqDrvXHWkQIG1wQIrFd2iB5Pvc-3ySziXgm7HK4k64F21rusPC_0oBEZ7hWz1HC76VUqEA3OBlOvKMuYSncEvpb5vJtNSnE0gr4P6gpEuaWPCuhVn1i-kbApO6zqqpm9K1zao9PPIyqyj5GWwWnkX121OXja7VEGDWBpjlUI9DbSelnCpplLZSBkR1Lq3N4fL8a_TlKV4Mf5ulMW8HMe-5WtzgQ7mcSDpsvx6unCi-Fpzx2OMLrQOZMi4e2sCyJhvRBrbIczk5BrbigDBovhvzTpyRfeC4IP1Q2cw9M6DJPwfN4maS-ZuLtQ_r5sEhCVVplLKPgDp_EbR9RCKIDD6SU3rEF6UB-QYZshNYHsTRevbPm0Tlm4r6Er4B3T8Uz70Z9op9QXYjal8BTbVQKv1mCEIvIKwiVJIs-S9hEEKgsVWRaE7ny2eUWY0Vi7FD8Ws0QQ0dEcV43DGqq9YE4sOu4IjX_SP7YZlqAZvN90ahMF9IUyaORzWNGWDze7-yq2dL6KgpmZcy5IJLHPMty6QxoajuP4dXnu8awTdMtooI87hCiPnBxhDcMkvrJAVMIvJgs1grwR8t4vMRbpclTJZ968Fk85LjNQegJVN4rL0UbWPVd16Tu65cQEI4deghpYB_vsIgUJTWkOADJMlaNA8dKCkqjDFf76QhsG297WOau3SrKY36TcXUR4oHKuYb77fQYz_ZORLFzlh1KqrYatIq1um68rYHSoU6mxVtNeP15qXnO22hNacgbRKnLpVOyyKj0QhcntlLBOrq6ANpLEXZXJQKllwgRd-EKY6yU-XVrqM4NiTzlVuwiV2tHs65-d_0nBc64zrJzWEAmBKy8jLKwA44JjoU6Bxx8BS5qxuBRrEpOmga7t8iTg5odRAzy-lf-BG9wu6XDJ6aKU9AzWBdkvSdK3jyT68qVhfWgrnSz9&v=5
+                  - paragraph [ref=f271e33]: 大田区の住所入力で土地価格がわかる
+                  - paragraph [ref=f271e34]:
+                    - generic [ref=f271e35]: 詳しくはこちら
+                  - paragraph [ref=f271e36]: かんたん不動産比較
+                - generic [ref=f271e37] [cursor=pointer]:
+                  - link "広告" [ref=f271e40]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A-lN62kAAKlc0hgqD3_vacbZtUjkr3LJcVmjXAEVZ7TIlNHaXb7E59iZRwjn1glOXbXJmUgn9EJsoMlYBlIt5dxd7_Col_h0DhmQhlPnQQvPCzu9cybMTogFdW5aoG5w3ohhFou-sEq_WFwZxzg-EBEyOD7qWl24c-Zi6_uh28FXdMAja6e2isUqVJZcm6zgBuLgyk5jrA5UdzHILY_O9XIKinbulEdefqv-bmAl1-EbkW3-nf1SsDKUtUESf2EnI0_BsL6EqlrV_11HCnQODs4fzt8gv2OnQth_QxJKlMl7Hi3h&o=A-lN62kAAMcChJuBSyDB-9-6Zn_3PHQOpGXkTW7QqNNJ453fGuw3hgyuLQUwpFKo8w-9ieM3Trd_4oZohNLyZUd8TyudzGiQXroA64VXAlUgIoFsAJhpvejXw8LlL9EFNWn1irhnzXPl8L06EVJGiw_bGXBQVnSjrAz2BgjrmDhTf7VsOe5ISxx7AI7jVZOOB2C0tER_5RyOU9iopao2qEWWMD5E5Kp3nR7tisOkQv7eNlRp7aiOGZBpLG0hLW1La6Tuh_x2yObPRsQmZvU7NF6bsNOH
+                    - generic [ref=f271e42]:
+                      - generic [ref=f271e43]: 広告
+                      - img [ref=f271e45]
+                  - img [ref=f271e50]
+    - generic [ref=e1115]:
+      - generic [ref=e1116]:
+        - generic [ref=e1118]:
+          - iframe
+          - iframe [ref=e1120]:
+            - generic [ref=f272e6]:
+              - link [ref=f272e7] [cursor=pointer]:
+                - /url: https://apm.yahoo.co.jp/rd?ep=A-pN62kAAGAE6HGV14INAEm4cRyzFfcg6cW6-NvIVPLEcnn7stLIiGUd6bh2FLEWkmo5BJfXwTS8Uyj75NBrHWuTleVkKNyIlxSrTmYu5CrlXwKToH_N6nMPcbYuinselyX_VvZHPfEznxWGbev1Pha0Dz9uG9RqnAOz7KdAkLaM9M4Z4CfIwWW-iTT4_d7P-9CELOzvpML_CQwQJ42_y3IHQrfGti_3qzuHC7oNh6_lliDqHC4rYrT_ICkuAGZcCTbWjVFyWpjvJyNCdjhcdhRf0ZHcTnwXHS1vEM2RrBiu1U7HxUOjPt6YpacImHX8Du-bpAswFchLOPWbLbggDCh7-uFuYPb3HS-02g1CaI8kyQ9OSFKEM2AV3pdrapQPAkftcql4vpTq0xQmPkV6NS9bxKICQm5PnrpBhikACOHgvPNlwA6LhRyOtZ0cS7jpt5gm9MLSPgsGvBfSWXs3IwqUEihhzvky4FMvLTIr0KbOAhUHEF6F3nt7nvfFd0NIQEZbD6GOCs3Aks3XILoGUtMp7n9uSUpVx_Qrjp71dWPXm92El-gLaB--KHe1N6jMn-hFyknBLtQb94v6CyXU3lb6x1YnuD0Ru6Ta7wgqFg11EuRJMJhR8a5angbod51k5cRTD_zZfcaoBJ6o1WfIYzqEvBuzxN7z6k-1VazfQp3DDaVFrcQqZBkaDFGnGkSABE6P1xjxN7mibhQaPWfAUi52nb6HhVy_KaJFGt-dX1DZbw39KvYLeCDS5yOgPq6IZILlSRy8AKgPL0avyK6ud7Jxi_8HbVVzgclr_Mhi0zj1f1FUeNfsDv6SRYy0RP6kJ_bA9D6UeXLeJFARaExWU5Dl5c45H0DOViNB-wdhDtbra70Pi23A7mV9VVFMU7X9cj-lAJxUeCJWvkfmWwUZhXzO63lpQ74qlJAQVArfSJrGHqtWKICTY6sXeEwHt7Aa9p9mK2diGNLNwf7kGYBhrkR_1-BEZmz7s3wdDkb1CPG9rszvgD7fXKBRtB1qR6KqwGl6MXLp__0QZ1L29BgzpYFFUF_j_1Vh1kvvsuXE918P_RVg7TZuGdOdPy8l7exhF0xq2GmbxVV3TIHvNbHDmmuZCa3OEt51r3Y8DyKwKpOVM4VJ9gikyBPZQrFlBkm9dZwwjq7QPXYi2rE4LsuGR99LKyuI4Ab3Jb6QqXn-93x_gYYFHBbxP7BauGQeyp8mUTUYqOKaFqfIVFV8caadQ1Yj0O-_QvNnVC-yrgxXIGhK_wpIm5yKWGlWFraWLvg1IPF2I5lkdRs9xnZYhNebw7p7LGUHKIslPJVIgPtxSiRol4VQATUZ8aYPS0y394YwAt76338klYWyB9aCK2kH0XSN4YxqhVig4u2YSGcaZmWts2FjYUh2SRxKaBRGXCQYdvibEbDgu9kP5oSeTnwRKxWmXy-N1EQho29zz16RJ5Ae_cUu3iwBtCilxTWkkpGPk0RsWadS_Ceopv3yximKgvQ6T8JNLfyQzJmRhwNWwOCrC8PBKCpX82zbEggjk3jzRJtSy9xmaI__0Hd8ugwZgOEtqaIqcJMoIlrDizrQ2ollTudKM15HyLHIQw8hRyI&v=5
+                - img [ref=f272e8]
+              - generic [ref=f272e9] [cursor=pointer]:
+                - link "広告" [ref=f272e12]:
+                  - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A-pN62kAADM1TunyRkhS3JoCaXRFH7NvCOQJTfeUG9mEEDLEEzqgcsfaakntf8KchwSaWBBA77LV7KyO5vJs9dKAFEUKSkFTZH4P9OHbdwFQlbQKxhgwIIOGdylRnYVKm_3BLhs8Ksg-ozVLIrmCFrDLJwSD009p_jiCpKCqdaHpdSima09ykKkBPigOWSQMAUbNmLY15Th9XWtmhQqU5cBlSbOaBZQq3oR6rSI4iVCK0fvl8XaE9k8-83Ibnu3fe2yIrs-bgkslt64eYfq6PaqJmufnbBw0pn9umv-w91iRXeLA6Q&o=A-pN62kAAONe6pn28iMU7_fifKLboway2sB651qbFkcatFUdGFMNAuHwvj2Qs5LKWz_05knyttoRzFNfCcuYNKppZfP71rm4b1E9BRS7EwhuHRxzCjKqENqBBrkvW3hwEPseIXYOjpq0OARQe2d5T3JpS1LgHacNJ_5a5D_QvyGDG5KWEcel1qrS7EUOCXupN7snpY7yljdh9jNjkEfUHqWFvHf4qHsVfZkJZSP2mDWLpaU72cbm7XhcuwqkYxmbiSXHJb1frmlnVSeA-T4AJa3XcdvxPw
+                  - generic [ref=f272e14]:
+                    - generic [ref=f272e15]: 広告
+                    - img [ref=f272e17]
+                - img [ref=f272e22]
+        - generic [ref=e1126]:
+          - link [ref=e1127] [cursor=pointer]:
+            - /url: https://apm.yahoo.co.jp/rd?ep=A-lN62kAAPix5Q4YK-RTKVWKjfjG02cBQ1h1HlmuhAZbQWXkYmGk-Um_eTXU2jaFImMkAwPOF_lmcArmcb4_nfp6clwQsq-BFBW_Dfz6EVaHZ3BzHEQ-XQGDeODpcV-ELPMiLWud10uqM-DM0XpYKKlPkA5jHFmQyeCCUI3fAHaBhvFHIpBuhqX0S5bv_3Rbwz_IkK6VLHzhB0veYggXxBx3QqwU0lNsx6QolXqhE6RIRJHvZEqfBVF7NYgQLivGy7_kgVREgJ4UqNi9ryHDPObiaugGJdBjJFlqbURE1Bds7myJb1ODf513d5uYkd6U2Lo_mlhT6OxcVbCkpFOP3yynUHbDFwJhbsDVYnQf-xp8c3ZTuX2uoOIavixueM1AhC_gzNfU77jki7hLddptX6qdoyzYZexjm8Al7AJ9pN9ExehVenTmYQo2BzsdBNzovH0vQ3vWWuurV3maX7ASd-O3-v7L8w3w_O2roabtvUi90sYO7zx3recsl2zOQCrGuJDiWRw05mp5YgaKfzmNa3rc4I-wMdEH1aAQ0slAOv7_liZEgfaDba-WUQB8_M99eJX-7BIDmjTfLZzHlnee-uR7L93TxnXO4wWv9nhCu0sjrE7Xh-nu0IkNFNep0fhYIL7KY67mT2731iWDZPGkm9NlOS-uVEEHn1h3QGFa6o4d-vTLh8I2wnEY2rrDnM9MvpjiZxV2yjjdkROqfvttTvABDinF9ITKCtg8FnmHwCBcFVOBVF6L09McO89KUvONKUL7LNEfM1bgfRkMdxdWDzj0cpgOKOOyiyDbThUDCD74sj2kmC00l7e0xqcgwtLDcp0-bwO_qF0MTnAwH5PSgwGumZ47eEJok72jIhnF79_WOyQbXH8OjI64mN2alUqEgym_SmUsfkRSdNlCyav0GLDox3LUZOIV4TDGH60QqxH9b7HvT8mNfo3BjjWNBPQBglnSU6VDNvTCty40DCTxhEM865nK1vYjUB4FJSxlODR8UZVlmurBAsZjY4_8eSazlPJMn6jSIpU9ZdVOAwa1qmDAYqtEn73X35Ro7T0jWYVqN5ZtRHnMeLHRdi7xiXwCNY3cstFTmOxTSQe3P9_z5qHqGP5fzPLpanvtE04bzbPFz82y-eaetiEU2ru0jSRimj13iKJ7gog4Qgp-JgOFYBhsxFqbLhjIJ0Cp9DUojtevAL1cqemxfuj6mszxSHfu3tmSGeDK7LpbS2W2hJT4ePNODisdHL3sk2qB1ZvyXviwiWCVt5Pe5v9WFHr7dtyuf9t-aBlsn0geywL8g-t7SoMOoJCjv6qYXgACvYH51VJqRXpaOLQTjD5BUwJCpYsITc_IjNBfrdDW1pYLJqeZnyarXu4VH8GewGWKARTPJh3_O4DChTa27lpmraYfkwGmQXRaYAGM2G4mUP_UWH_ldV0ZQ7FmXHFdicE-pjPtQCr3FuowJVigolNz4iLBSQMqdovRxybJ89qIFPA43ploEOvYAG0nvOTe4D5DJQRRwC9d5bcgCvN_RYvwP6nB_M_dww&v=5
+            - img [ref=e1128]
+          - generic [ref=e1129] [cursor=pointer]:
+            - link "広告" [ref=e1132]:
+              - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A-lN62kAAOcQQeOsFAwF1n8RbHrUTvX4pJgopNMkiRHbj_gdhg-i5PMiP5cydcrohRN_vqJ1bZl40CTKdRQQ-THc10g8RbUiCvT96CrWnRmo4uVo3Q8NrvpOcse58Us0Z-S4r9afP9RQ2soNgs6eJCgYkunz_WAMrqlCP2FwdR2LOuCtMlXtTRuP90KZ-mDZKYilKz1iC5Xpdcvv5aPNXpCmIIsxF2Ktep9NfaUiLo18t85OybtustMJqZMNvgvvbtk2gn_FZ-BnAnPcPbpD-2inTBU9m3EUKbzjE9oBk0yPd6_RQcvW&o=A-lN62kAANWw8XSiu8dHIatBbvTDW_xRgK4CsKrAmwjJhSLmuC8PhUWe2nwuilDhaRVyH9wjhUG46jLzkQmJ0iEv4umbgfBeHur8xShMVKvS3aIiyNno7S5GTO-yi7te3RO1EGihPD2LFrMV-I8hJX_BVRmIL1Gnhm3dM06UBeHL4Ar8AzLQshz9fac4R47iTqKUr9Cigzgpl4koycNZmeMD6-UeGGldw-c8zCIxnrsVoiJRJ6Did-IGNsy1PfW41NP6FtoaBkwuAz_WrzJ2ljd4yqF-pA
+              - generic [ref=e1134]:
+                - generic [ref=e1135]: 広告
+                - img [ref=e1137]
+            - img [ref=e1142]
+      - link "占い師にお悩み相談" [ref=e1147] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_ca-top_000
+        - img "占い師にお悩み相談" [ref=e1148]
+      - generic [ref=e1151]:
+        - generic [ref=e1152]:
+          - heading "カテゴリQ&Aランキング" [level=2] [ref=e1154]
+          - paragraph [ref=e1157]: 職場の悩み
+        - link "1 3号が廃止されて、今まで家にいた専業主婦が働き始めたら、職場がなかなかのカオスになると思いませんか？世に出ない方がいい人もいると思うんですよね〜無理矢理働かれても、、まわりが大変になりそう笑" [ref=e1160] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327226880
+          - generic [ref=e1161]:
+            - generic [ref=e1163]: "1"
+            - paragraph [ref=e1166]: 3号が廃止されて、今まで家にいた専業主婦が働き始めたら、職場がなかなかのカオスになると思いませんか？世に出ない方がいい人もいると思うんですよね〜無理矢理働かれても、、まわりが大変になりそう笑
+        - link "2 ある会社の面接を受けたら、面接官から「うちの会社はクセの強い人が多いんですが、大丈夫ですか？」と聞かれました。一応、ハイ大丈夫ですと答えましたが、クセの強い人って、どんな人ですか？" [ref=e1169] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327257085
+          - generic [ref=e1170]:
+            - generic [ref=e1172]: "2"
+            - paragraph [ref=e1175]: ある会社の面接を受けたら、面接官から「うちの会社はクセの強い人が多いんですが、大丈夫ですか？」と聞かれました。一応、ハイ大丈夫ですと答えましたが、クセの強い人って、どんな人ですか？
+        - link "3 これって詐欺ですよね？↓はじめまして。PagePersonnelの●●●●●と申します。複数の求人サイトにてご登録のご経歴を拝見し、当社の「プロダクト評価・改善提案」パートタイムのお仕事をご紹介させていただきたく、ご連絡いたしました。【業務内容】指定された商品の使用体験後、簡単な感想や改善のヒントを共有していただくシンプルなお仕事です。作業時間はご自身のスケジュールに合わせて柔軟に調整していただけます。【報酬の目安】・1日あたり1万～2万円程度・試用期間中は基本支給として10万円をご用意しております・5日ごとに成果に応じた追加報酬あり・期間終了後は月額68万円相当の待遇となります【応募条..." [ref=e1178] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327227865
+          - generic [ref=e1179]:
+            - generic [ref=e1181]: "3"
+            - paragraph [ref=e1184]: これって詐欺ですよね？↓はじめまして。PagePersonnelの●●●●●と申します。複数の求人サイトにてご登録のご経歴を拝見し、当社の「プロダクト評価・改善提案」パートタイムのお仕事をご紹介させていただきたく、ご連絡いたしました。【業務内容】指定された商品の使用体験後、簡単な感想や改善のヒントを共有していただくシンプルなお仕事です。作業時間はご自身のスケジュールに合わせて柔軟に調整していただけます。【報酬の目安】・1日あたり1万～2万円程度・試用期間中は基本支給として10万円をご用意しております・5日ごとに成果に応じた追加報酬あり・期間終了後は月額68万円相当の待遇となります【応募条...
+        - link "4 新卒が入社早々に退職するケースが多いみたいですが、それだけ世の中ブラック企業だらけということですか？" [ref=e1187] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327194117
+          - generic [ref=e1188]:
+            - generic [ref=e1190]: "4"
+            - paragraph [ref=e1193]: 新卒が入社早々に退職するケースが多いみたいですが、それだけ世の中ブラック企業だらけということですか？
+        - link "5 運転のことで会社にクレームが来て、反省文をかくことになりました。もちろん100自分が悪いので何も言えません。軽く言いますと、赤信号になったため、ローソンで買い物しようと思って入りました。駐車場が以外にも満車ぐらいで、車も立ち往生してたため、邪魔やから諦めて別のとこ行くかって思ってショートカットする形になりました。すると横から来た車に気づかず、クラクションを鳴らされてしまい、気が動転して早く出なきゃ邪魔だよなって思ってそのまま出てしまいました。会社に戻ってくるとしばらくして電話が来て、おそらくその方ですかね、信号無視した！って電話が来てたらしく、、今朝部長会でそれが共有されて、反省文を書い..." [ref=e1196] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327396941
+          - generic [ref=e1197]:
+            - generic [ref=e1199]: "5"
+            - paragraph [ref=e1202]: 運転のことで会社にクレームが来て、反省文をかくことになりました。もちろん100自分が悪いので何も言えません。軽く言いますと、赤信号になったため、ローソンで買い物しようと思って入りました。駐車場が以外にも満車ぐらいで、車も立ち往生してたため、邪魔やから諦めて別のとこ行くかって思ってショートカットする形になりました。すると横から来た車に気づかず、クラクションを鳴らされてしまい、気が動転して早く出なきゃ邪魔だよなって思ってそのまま出てしまいました。会社に戻ってくるとしばらくして電話が来て、おそらくその方ですかね、信号無視した！って電話が来てたらしく、、今朝部長会でそれが共有されて、反省文を書い...
+        - link "6 今日の午前中に親戚から連絡がきて、明日お通夜、明後日葬儀と言ってる社員がいますが、こんな急なものでしょうか？" [ref=e1205] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327284926
+          - generic [ref=e1206]:
+            - generic [ref=e1208]: "6"
+            - paragraph [ref=e1211]: 今日の午前中に親戚から連絡がきて、明日お通夜、明後日葬儀と言ってる社員がいますが、こんな急なものでしょうか？
+        - link "7 M＆A総合研究所という会社から何カ月も代表宛の電話がかかってきているのですが何かいい断り方はないでしょうか？電話だけに留まらず封書まで何度も何度も送付してきてとても迷惑です" [ref=e1214] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327280483
+          - generic [ref=e1215]:
+            - generic [ref=e1217]: "7"
+            - paragraph [ref=e1220]: M＆A総合研究所という会社から何カ月も代表宛の電話がかかってきているのですが何かいい断り方はないでしょうか？電話だけに留まらず封書まで何度も何度も送付してきてとても迷惑です
+        - link "8 コンビニでバイトしてます。いつもタバコを買いにくる常連のおじさんがいるのですが、私が言われた番号のタバコを探すのに少しだけ時間がかかってしまい、何度も〇〇番！〇〇番！と言われました。さらに2個と言われていたのに私が1個だけ取ってしまい、思い出してもう1個取ろうと思った瞬間に2個2個！！と強く言われ、お釣りを少し乱暴に渡してしまいました。そしたら「なんだよ！ほんとによー！」と不要なレシートを入れるところに強くレシートを投げていきました。常連なのでパートのおばさんが「ありがとうございましたー！」と言うといつもは少し話したりしますが、今日は無言で乱暴にドアを開けて帰っていったので、パートのおば..." [ref=e1223] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327314214
+          - generic [ref=e1224]:
+            - generic [ref=e1226]: "8"
+            - paragraph [ref=e1229]: コンビニでバイトしてます。いつもタバコを買いにくる常連のおじさんがいるのですが、私が言われた番号のタバコを探すのに少しだけ時間がかかってしまい、何度も〇〇番！〇〇番！と言われました。さらに2個と言われていたのに私が1個だけ取ってしまい、思い出してもう1個取ろうと思った瞬間に2個2個！！と強く言われ、お釣りを少し乱暴に渡してしまいました。そしたら「なんだよ！ほんとによー！」と不要なレシートを入れるところに強くレシートを投げていきました。常連なのでパートのおばさんが「ありがとうございましたー！」と言うといつもは少し話したりしますが、今日は無言で乱暴にドアを開けて帰っていったので、パートのおば...
+        - link "9 4月末で28年勤めた会社を退職します。現在、2ヶ月分の有給を消化しております。27歳から入社し、現在55歳です。定年までもう少しだったのですが、肉体労働のため体力的につらく、退職を決めました。今まで長期の休みも無く、仕事からも解放され、嬉しかったのですが、ひと月も経つと喪失感がかなり有り落ち込んでいます。今の会社に入社してから結婚し、子供も2人生まれてて家も建てることができました。嫌なこともありましたが、今となっては大変辛いです。自分の人生に何か意味があったのかという事まで考えてしまいます。仕事ばかりやってきたので趣味の1つもありません。定年退職された方、現役から引退された方などにお聞き..." [ref=e1232] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327297130
+          - generic [ref=e1233]:
+            - generic [ref=e1235]: "9"
+            - paragraph [ref=e1238]: 4月末で28年勤めた会社を退職します。現在、2ヶ月分の有給を消化しております。27歳から入社し、現在55歳です。定年までもう少しだったのですが、肉体労働のため体力的につらく、退職を決めました。今まで長期の休みも無く、仕事からも解放され、嬉しかったのですが、ひと月も経つと喪失感がかなり有り落ち込んでいます。今の会社に入社してから結婚し、子供も2人生まれてて家も建てることができました。嫌なこともありましたが、今となっては大変辛いです。自分の人生に何か意味があったのかという事まで考えてしまいます。仕事ばかりやってきたので趣味の1つもありません。定年退職された方、現役から引退された方などにお聞き...
+        - link "10 倫理法人会について質問です社長(義父)が倫理法人会にどハマりして仕事そっちのけでセミナーやイベント等に参加して小さい会社なので当然社長も仕事戦力なのに仕事は遅延ばかりで心ここに在らずでミスばかり倫理法人会についてやんわり指摘するだけでキレちらかされ手がつけられず心底困っています。朝の朝礼も職場の教養と言う冊子を読んで感想を強要され社員は心底嫌がっています。どうすればこの状況から抜け出せるのかどなたか教えて下さい。切実です" [ref=e1241] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327279680
+          - generic [ref=e1242]:
+            - generic [ref=e1244]: "10"
+            - paragraph [ref=e1247]: 倫理法人会について質問です社長(義父)が倫理法人会にどハマりして仕事そっちのけでセミナーやイベント等に参加して小さい会社なので当然社長も仕事戦力なのに仕事は遅延ばかりで心ここに在らずでミスばかり倫理法人会についてやんわり指摘するだけでキレちらかされ手がつけられず心底困っています。朝の朝礼も職場の教養と言う冊子を読んで感想を強要され社員は心底嫌がっています。どうすればこの状況から抜け出せるのかどなたか教えて下さい。切実です
+      - generic [ref=e1250]:
+        - generic [ref=e1251]:
+          - heading "カテゴリマスターランキング" [level=2] [ref=e1253]
+          - paragraph [ref=e1256]: 職場の悩み
+        - generic [ref=e1257]:
+          - link "1 satoko satoko" [ref=e1259] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/101137792
+            - generic [ref=e1260]:
+              - generic [ref=e1262]: "1"
+              - generic [ref=e1264]:
+                - generic: satoko
+              - paragraph [ref=e1267]: satoko
+          - link "2 yum******** yum********" [ref=e1269] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/105878597
+            - generic [ref=e1270]:
+              - generic [ref=e1272]: "2"
+              - generic [ref=e1274]:
+                - generic: yum********
+              - paragraph [ref=e1277]: yum********
+          - link "3 おぢ おぢ" [ref=e1279] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1244600221
+            - generic [ref=e1280]:
+              - generic [ref=e1282]: "3"
+              - generic [ref=e1284]:
+                - generic: おぢ
+              - paragraph [ref=e1287]: おぢ
+        - heading "急上昇のユーザー" [level=4] [ref=e1288]:
+          - generic [ref=e1289]: 急上昇のユーザー
+        - generic [ref=e1290]:
+          - link "******** ********" [ref=e1292] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1241755158
+            - generic [ref=e1293]:
+              - img [ref=e1295]
+              - generic [ref=e1298]:
+                - generic: "********"
+              - paragraph [ref=e1301]: "********"
+          - link "名無しの名前 名無しの名前" [ref=e1303] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1214522609
+            - generic [ref=e1304]:
+              - img [ref=e1306]
+              - generic [ref=e1309]:
+                - generic: 名無しの名前
+              - paragraph [ref=e1312]: 名無しの名前
+        - generic [ref=e1313]: 更新日：2026/04/20
+      - link "公式・専門家の回答はこちら" [ref=e1316] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/expert/
+        - img "公式・専門家の回答はこちら" [ref=e1319]
+      - generic [ref=e1322]:
+        - heading "カテゴリ一覧" [level=2] [ref=e1325]
+        - generic [ref=e1326]:
+          - link "生き方と恋愛、人間関係の悩み 生き方と恋愛、人間関係の悩み" [ref=e1328] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079526977/question/list
+            - generic [ref=e1329]:
+              - img "生き方と恋愛、人間関係の悩み" [ref=e1332]
+              - paragraph [ref=e1335]: 生き方と恋愛、人間関係の悩み
+          - link "恋愛相談、人間関係の悩み 恋愛相談、人間関係の悩み" [ref=e1337] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+            - generic [ref=e1338]:
+              - img "恋愛相談、人間関係の悩み" [ref=e1341]
+              - paragraph [ref=e1344]: 恋愛相談、人間関係の悩み
+          - link "恋愛相談" [ref=e1346] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675272/question/list
+            - generic [ref=e1347]:
+              - img [ref=e1349]
+              - paragraph [ref=e1353]: 恋愛相談
+          - link "友人関係の悩み" [ref=e1355] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675275/question/list
+            - generic [ref=e1356]:
+              - img [ref=e1358]
+              - paragraph [ref=e1362]: 友人関係の悩み
+          - link "家族関係の悩み" [ref=e1364] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675273/question/list
+            - generic [ref=e1365]:
+              - img [ref=e1367]
+              - paragraph [ref=e1371]: 家族関係の悩み
+          - link "職場の悩み" [ref=e1373] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675274/question/list
+            - generic [ref=e1374]:
+              - img [ref=e1376]
+              - paragraph [ref=e1380]: 職場の悩み
+          - link "ご近所の悩み" [ref=e1382] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079495801/question/list
+            - generic [ref=e1383]:
+              - img [ref=e1385]
+              - paragraph [ref=e1389]: ご近所の悩み
+          - link "学校の悩み" [ref=e1391] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401676/question/list
+            - generic [ref=e1392]:
+              - img [ref=e1394]
+              - paragraph [ref=e1398]: 学校の悩み
+        - link "カテゴリ一覧を見る" [ref=e1400] [cursor=pointer]:
+          - /url: /category
+          - text: カテゴリ一覧を見る
+          - img [ref=e1401]
+      - generic [ref=e1405]:
+        - link "よし、切り替え！ キリンビバレッジ" [ref=e1407] [cursor=pointer]:
+          - /url: https://apm.yahoo.co.jp/rd?ep=A-lN62kAALNCPXYJHl3LLKdaucKitV0vlx595x-XPrZezXAS_6aCJcQfDCteg-8rc0HExIufylTWH3QZdT-4HqzH-v7jxNL3YlD88ZdNUE7a-g91neWFROH8UCzIL-H--TFT4OfO5hk3BKMBHBMnppSEvSBLS8pMeTjEQZY20TH7zQ3L9dqh_Os-quFA-ZTyPN5yabJTbJ27xnGKgRZnmQlkMjh8Em7UU9e7s-OOQxWZ7QLGdUvyy0WPi13XlC13vvKtNdumEAU8mX3DAddx50mH4xQ1i2a3AH-MEY042uh91zRdFtPiTXP8coXBmYcDy8LdGcLFAiWehjw4glfCB4pE-Ybg7KhGatZQVpw3BLLVVfAVsd-gJYul2-oE2nqEnNlQkArASXjDBKLaLN8TQZrlZ1IslIpZSLkzhxVdhxaOjUJOVkC77nup84_245Z5GDkSM7gYH1OoB0qZ6qfuQgxCY0-FlyDLOZ6QCIYZJPGiSkQ6IZ4LEgvPjamugUoXotflHZ5sXf6BcLicuBB5ShMw-ZyCL0v9NLGFB19X9oWTvPgp5G5P-bI9zk-kfQLM_ySuFLuzm8W2DaIu68n59yTJdoW12kly631F34tTU52-A6-n8HT4zMSrLVQhAUQUmsE6slrk2jOks-1nHlklBz4IzliXLBr9oK5jfWdLR7mRYyTnfq5VWC5ImH9JUrhgsJ1xSEjeCxRoIpImOfz6a4DRhLfl7EOhP03KtvZC7nxFgmU819En06w896s1ceontJBnbdqY3UcUUnB_D55U3xjoZ4PpSecF96fIbZ8f5W2csNz9kJKMY5A1fqnfcccZJ42-guf_eqjveFxp4DdA-4ngLVhulrKC2zM5VQrjJYdouw9hRwq44KMZKM4aPgKHT4eVCWgonJtALucXzKNses3jzL4KcWsI-mgNvI45O6P_LAxaASSRfN_RCE_5xTr2QaMmW4jF8sUKEB9H4c0SMEqwPOln7NT5a345SAGD3mHTG515rpVCodaUKVS46BRFRA1EgyJQAlTbAb3J3nYFcWYQawRf93kgCA2y6VMMVyZbcETnv3Qm0X0rcQxyj6Nh_J5wjRkxL7hlTybfhmO4EYP9r383GdBK4ibrSR85Z2QoqePl9L1OJpUzhfMDtlX11oLsmBIHI0dkPh5jxrxVyeS3Jd5Tg3vdorK03pPPYEizkjmzD38VwfAu0YQmchBW4RgDVa0GCuF-QYXjQ3tBqReL1pmmXXP7dRa9b_aI1Ku1aG6pRqS6H7mfFm-iotqSiWB5Z71_ibJS3o8D8XIs97D5xMxQyiYQuWcC5IpWw9-GpgDtFHCj6k5V_5XyLbnsCb0zt206Y0ZPdfIJGrimbHovVa6P9maySuJ6JrbclSdzIdkoJPPLpYKSbO8&v=5
+          - img [ref=e1408]
+          - generic [ref=e1409]:
+            - paragraph [ref=e1412]: よし、切り替え！
+            - paragraph [ref=e1413]: キリンビバレッジ
+        - generic [ref=e1414] [cursor=pointer]:
+          - link "広告" [ref=e1417]:
+            - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A-lN62kAAOJsy_0AU7-PVrBGlzeH1560gs48pFWdPnhpDj4smduhC_WVttdBwRdtGB1zt0iLoDActx1fYGeVDgtFmQlK66lrNSV1GcDyHi4jY8qL9zY4keG1_7KqXKhlSDNYNgNaTGKE758q87HzW4XrFrAXPedmjVt8is8Rym8jKz5prNg9hXE2wfFynsUKok8hVR6nfP_nuUPgU2DoepedO6YA1ls-GoJchG4XoeG3RbYA7N-YfxjVWenTytxreU_lamkHK91RGfgXaZoxqhA2a2p8ObjmsuWXcn_oJipX_3_mYWhlZYcFe7R2mQ&o=A-lN62kAALpNzI_hN3333hCvyA0CLbJ9Zep1zu3cT_quesdLi3Qyer2JJZb2NO8IR75I2pkbSfkqZ66KrQhkYHLu2RHTTYb4I9WRyKsEBGjnbiymy5w8nq2dhEUOuC_47JM5xd87IJpBtqXCMv8EAtBMcZ_EpGRXkSrjsnBeTY_mrNeA__AYihw3oaO6d3hTZ1ywX2gVWf13KQbuDq6iHJQPv02bN8GTOKzs5m2e52y8uYX7icbVFbwT6xj802lbfWwMdp4EDU8vbiIENNXXcjWNUzSC
+            - generic [ref=e1419]:
+              - generic [ref=e1420]: 広告
+              - img [ref=e1422]
+          - img [ref=e1427]
+  - contentinfo [ref=e1431]:
+    - generic [ref=e1432]:
+      - link "Yahoo!知恵袋" [ref=e1433] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e1434]: "|"
+      - link "Yahoo! JAPAN" [ref=e1435] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e1436]:
+      - link "プライバシーポリシー" [ref=e1437] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e1438]: "-"
+      - link "プライバシーセンター" [ref=e1439] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e1440]: "-"
+      - link "利用規約" [ref=e1441] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e1442]: "-"
+      - link "利用のルール" [ref=e1443] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e1444]: "-"
+      - link "広告掲載について" [ref=e1445] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/?utm_source=yahoo&utm_medium=referral&utm_campaign=ysa_cv_link_chiebukuro_241001
+      - generic [ref=e1446]: "-"
+      - link "ご意見・ご要望" [ref=e1447] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e1448]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e1449] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e1450]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e1451]: 画像：アフロ
+    - generic [ref=e1452]: © LY Corporation
+  - generic:
+    - generic:
+      - generic:
+        - paragraph:
+          - img
+          - text: 通信に失敗しました

@@ -1,0 +1,219 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - link "Onc Labo" [ref=e6] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e7]:
+        - link "ホーム" [ref=e8] [cursor=pointer]:
+          - /url: /
+        - link "私たちについて" [ref=e9] [cursor=pointer]:
+          - /url: /about
+        - link "サービス" [ref=e10] [cursor=pointer]:
+          - /url: /service
+        - link "お問い合わせ" [ref=e11] [cursor=pointer]:
+          - /url: /contact
+        - button "無料相談を申し込む" [ref=e12] [cursor=pointer]
+  - main [ref=e13]:
+    - generic [ref=e15]:
+      - generic [ref=e16]: Onc Labo
+      - generic [ref=e17]: 予防医学で、希望を灯す。
+    - generic [ref=e19]:
+      - generic [ref=e23]:
+        - paragraph [ref=e24]: WHY
+        - heading "なぜ、この仕事をしているのか" [level=2] [ref=e25]
+      - generic [ref=e27]:
+        - paragraph [ref=e34]:
+          - text: ある日突然、健康を失い
+          - text: 思い描く人生をあきらめる
+          - text: 「絶望」を無くしたい。
+        - generic [ref=e35]:
+          - paragraph [ref=e37]:
+            - text: 食事・栄養・検査で、
+            - text: ずっと健康でいられるサポートを。
+          - paragraph [ref=e39]: 元・抗がん剤研究者 ／ 予防医学士® 井田 孝
+        - paragraph [ref=e42]: SCROLL
+    - generic [ref=e46]:
+      - paragraph [ref=e48]: WHY
+      - heading "ある日突然、健康を失う。 その「絶望」を、私はたくさん見てきました。" [level=2] [ref=e50]:
+        - text: ある日突然、健康を失う。
+        - text: その「絶望」を、私はたくさん見てきました。
+      - generic [ref=e52]:
+        - paragraph [ref=e53]:
+          - text: 仕事を頑張ってきた。家族のために走り続けてきた。
+          - text: そんな人が、ある日突然、思い描いていた人生が思うようにいかなくなる。
+          - text: そういう場面を、何度も見てきました。
+        - paragraph [ref=e54]:
+          - text: 私はもともと、大手製薬会社で抗がん剤の新薬開発に携わっていました。
+          - text: がんの苦しみを何とかできないか。そんな思いで、膨大な論文を読み、研究を重ねてきた。
+        - paragraph [ref=e55]:
+          - text: でも現実は、抗がん剤の世界では、10年で亡くなるはずだった人が、11年生きられた。
+          - text: それが、「画期的な成果」と呼ばれる世界。
+        - paragraph [ref=e56]:
+          - text: その薬が必要な人がいることは、わかっています。
+          - text: でも私は思った。
+        - paragraph [ref=e57]:
+          - text: そもそも、そんな状態にならない人を増やしたい。
+          - text: 前の段階で、できることが山ほどある。
+        - paragraph [ref=e58]: その想いが、予防医学の道へ私を動かしました。
+    - generic [ref=e60]:
+      - heading "それが、今の仕事をしている理由です。" [level=2] [ref=e67]
+      - generic [ref=e71]:
+        - paragraph [ref=e72]: WHAT
+        - heading "私がサポートしていること" [level=2] [ref=e73]
+    - generic [ref=e76]:
+      - heading "私がやるのは 「あなたの身体を最高の状態にすること」です。" [level=2] [ref=e78]:
+        - text: 私がやるのは
+        - text: 「あなたの身体を最高の状態にすること」です。
+      - paragraph [ref=e80]:
+        - text: 体調が優れない人、痩せたい人、疲れやすい人、今は健康な人、
+        - text: どんな人にもお役に立つことが出来ます。
+      - heading "例えば・・・" [level=3] [ref=e82]
+      - generic [ref=e83]:
+        - generic [ref=e86]:
+          - paragraph [ref=e87]: ①
+          - heading "痩せたい・身体を絞りたい" [level=4] [ref=e88]
+          - paragraph [ref=e89]: 食べないで痩せようとしていませんか。実は、やり方を間違えると逆効果になります。「なぜ脂肪が落ちるのか」を理解しながら進むから、リバウンドしにくく、知識として一生使えます。
+        - generic [ref=e92]:
+          - paragraph [ref=e93]: ②
+          - heading "身体の違和感・不調を改善したい" [level=4] [ref=e94]
+          - paragraph [ref=e95]: 疲れやすい、集中力が続かない、なんとなくだるい。病院に行くほどではないけれど、ずっと気になっている。そこには必ず原因があります。検査で数値を見ながら、食事・サプリで根本から整えます。
+        - generic [ref=e98]:
+          - paragraph [ref=e99]: ③
+          - heading "今の健康を、ずっとキープしたい" [level=4] [ref=e100]
+          - paragraph [ref=e101]: 今は特に困っていない。今の状態が本当にいいのか確認したい。この先もずっと、思うように動ける身体でいたい。予防医学士として、生活習慣のリスクを数値で見える化しながら、ずっと思うように動ける身体を、一緒に整えていきます。
+    - generic [ref=e104]:
+      - paragraph [ref=e106]: HOW
+      - heading "3つのサービス" [level=2] [ref=e108]
+      - generic [ref=e109]:
+        - generic [ref=e113]:
+          - paragraph [ref=e114]: "01"
+          - heading "個別伴走サポート" [level=4] [ref=e115]
+          - paragraph [ref=e116]: 体質改善プラン
+          - paragraph [ref=e117]: 一人ひとりの体質や生活習慣に合わせ、検査データと科学的根拠をもとに体質改善をサポートします。
+        - generic [ref=e121]:
+          - paragraph [ref=e122]: "02"
+          - heading "ファスティング指導" [level=4] [ref=e123]
+          - paragraph [ref=e124]: オプティマムファスティング
+          - paragraph [ref=e125]: 栄養学に基づいた安全なファスティング。筋肉量を維持しながら、効率よく脂肪を落とします。
+        - generic [ref=e128]:
+          - img "セミナー・講師活動" [ref=e129]
+          - generic [ref=e130]:
+            - paragraph [ref=e131]: "03"
+            - heading "セミナー・講師活動" [level=4] [ref=e132]
+            - paragraph [ref=e133]: 予防医学セミナー
+            - paragraph [ref=e134]: 予防医学の考え方を、研究者ならではの視点でわかりやすく伝えます。のべ200名以上の登壇実績。
+    - generic [ref=e137]:
+      - paragraph [ref=e139]: HOW
+      - heading "私がお伝えするのは、 健康でい続けるための知識です。" [level=2] [ref=e141]:
+        - text: 私がお伝えするのは、
+        - text: 健康でい続けるための知識です。
+      - paragraph [ref=e143]: 誰にでも当てはまる話ではなく、あなたの身体に合ったものを。
+      - generic [ref=e145]:
+        - paragraph [ref=e146]: 健康サービスで「結局、何か買わされた」という経験がある方もいると思います。
+        - paragraph [ref=e147]:
+          - text: 私が大切にしているのは、必要なものだけを、理由とともに伝えること。
+          - text: 必要なければ、何も勧めません。
+          - text: あなた自身が、自分の身体を最高の状態で保てるようになることが、私のゴールです。
+        - paragraph [ref=e148]:
+          - text: 痩せたい人も、疲れやすい人も、なんとなく不安な人も。
+          - text: どんな悩みにも、必ず理由があります。
+        - paragraph [ref=e149]:
+          - text: 理由がわかると、動ける。
+          - text: そして、あなたはあなた自身を守れるようになります。
+          - text: それが私の「当たり前」です。
+    - generic [ref=e152]:
+      - paragraph [ref=e154]: FLOW
+      - heading "たった4ステップ。" [level=2] [ref=e156]
+      - paragraph [ref=e158]: 「なぜ」の積み重ねで、身体が変わる。
+      - generic [ref=e159]:
+        - generic [ref=e161]:
+          - paragraph [ref=e163]: STEP 1
+          - generic [ref=e164]:
+            - heading "1時間の個別相談（無料）" [level=4] [ref=e165]
+            - paragraph [ref=e166]: 今の状態・目標・気になることを、一緒に整理します。
+        - generic [ref=e168]:
+          - paragraph [ref=e170]: STEP 2
+          - generic [ref=e171]:
+            - heading "検査で「今」を数値化" [level=4] [ref=e172]
+            - paragraph [ref=e173]: 自宅でできる検査キットで、身体の現状を見える化。感覚ではなく、データから始めます。
+        - generic [ref=e175]:
+          - paragraph [ref=e177]: STEP 3
+          - generic [ref=e178]:
+            - heading "あなた専用プランをご提案" [level=4] [ref=e179]
+            - paragraph [ref=e180]: 痩せたい・違和感改善・健康キープ、どこからでも入れます。
+        - generic [ref=e182]:
+          - paragraph [ref=e184]: STEP 4
+          - generic [ref=e185]:
+            - heading "3〜6ヶ月の伴走サポート" [level=4] [ref=e186]
+            - paragraph [ref=e187]: 1ヶ月ごとに確認・調整。サポートが外れても、ひとりで続けられる状態を目指します。
+    - generic [ref=e190]:
+      - paragraph [ref=e192]: FOR YOU
+      - heading "こんな方へ" [level=2] [ref=e194]
+      - generic [ref=e195]:
+        - generic [ref=e197]:
+          - img [ref=e198]
+          - paragraph [ref=e200]: 健康は大事だとわかっているが、何もできていない
+        - generic [ref=e202]:
+          - img [ref=e203]
+          - paragraph [ref=e205]: 疲れやすい、なんとなく不調、でも病気ではない
+        - generic [ref=e207]:
+          - img [ref=e208]
+          - paragraph [ref=e210]: ダイエットを試したが、なぜ効くのかわからないまま終わった
+        - generic [ref=e212]:
+          - img [ref=e213]
+          - paragraph [ref=e215]: 今の自分の状態が本当にいいのか、一度確認してみたい
+        - generic [ref=e217]:
+          - img [ref=e218]
+          - paragraph [ref=e220]: 今の健康を、この先もずっと保っていきたい
+        - generic [ref=e222]:
+          - img [ref=e223]
+          - paragraph [ref=e225]: 根拠を理解して、自分なりに納得してから動きたい
+    - generic [ref=e228]:
+      - paragraph [ref=e230]: PROFILE
+      - generic [ref=e231]:
+        - img "井田 孝 プロフィール写真" [ref=e234]
+        - generic [ref=e236]:
+          - heading "井田 孝" [level=2] [ref=e237]
+          - paragraph [ref=e238]: イダ タカシ ／ 予防医学士® ／ Onc Labo 代表
+          - paragraph [ref=e239]: 有機化学を専門とする研究者として、大手製薬会社で6年間、抗がん剤の新薬開発に携わってきました。
+          - paragraph [ref=e240]: 膨大な論文と人体の研究を重ねる中で、「なる前の段階で整えることが、一人ひとりの人生を守る」という確信が生まれました。
+          - paragraph [ref=e241]: 予防医学士®の資格を取得し、食事・サプリメント・ファスティング・検査を組み合わせた「根拠のある身体づくり」を提供しています。
+          - paragraph [ref=e242]: 2025年5月、Onc Labo（オンクラボ）設立。
+          - generic [ref=e243]:
+            - paragraph [ref=e244]: ACADEMIC
+            - paragraph [ref=e245]:
+              - text: 岐阜薬科大学大学院修了（薬学）
+              - text: 国際学術誌 Advanced Synthesis & Catalysis 論文掲載（2014年）
+              - text: 日本薬学会・複数学会での研究発表実績
+    - generic [ref=e248]:
+      - heading "「少しでも健康を見直してみようかな」 と思ったなら、 ぜひ、話してみませんか。" [level=2] [ref=e250]:
+        - text: 「少しでも健康を見直してみようかな」
+        - text: と思ったなら、
+        - text: ぜひ、話してみませんか。
+      - paragraph [ref=e252]:
+        - text: 突然、健康を失う。その「絶望」を味わう前に。
+        - text: あなたの話を、聞かせてください。
+      - generic [ref=e254]:
+        - button "1時間の個別相談を申し込む（無料）" [ref=e255] [cursor=pointer]
+        - button "サービスの詳細を見る" [ref=e256] [cursor=pointer]
+  - contentinfo [ref=e257]:
+    - generic [ref=e258]:
+      - generic [ref=e259]:
+        - generic [ref=e260]:
+          - paragraph [ref=e261]: Onc Labo
+          - paragraph [ref=e262]:
+            - text: なぜが分かると、身体は動く。
+            - text: あなたの身体に、希望を灯したい。
+        - generic [ref=e263]:
+          - link "ホーム" [ref=e264] [cursor=pointer]:
+            - /url: /
+          - link "私たちについて" [ref=e265] [cursor=pointer]:
+            - /url: /about
+          - link "サービス" [ref=e266] [cursor=pointer]:
+            - /url: /service
+          - link "お問い合わせ" [ref=e267] [cursor=pointer]:
+            - /url: /contact
+        - paragraph [ref=e269]:
+          - text: 予防医学士® 井田 孝
+          - text: Onc Labo（オンクラボ）
+      - paragraph [ref=e271]: © 2026 Onc Labo. All rights reserved.

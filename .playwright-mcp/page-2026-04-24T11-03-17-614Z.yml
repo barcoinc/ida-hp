@@ -1,0 +1,903 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - paragraph [ref=e15]:
+          - link "冷凍野菜は生野菜より栄養価が高い!? 技術進歩で味わいも向上" [ref=e16] [cursor=pointer]:
+            - /url: https://yahoo.jp/up_2dV
+        - generic [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+                - /url: https://www.yahoo.co.jp/
+            - listitem [ref=e21]:
+              - link "ヘルプ" [ref=e22] [cursor=pointer]:
+                - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+          - generic [ref=e25]:
+            - generic "キーワード："
+            - textbox "ウェブ検索" [ref=e26]
+            - button "検索" [ref=e27] [cursor=pointer]
+            - link "ディープボンド 急上昇" [ref=e28] [cursor=pointer]:
+              - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%9C%E3%83%B3%E3%83%89&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+              - text: ディープボンド
+              - img "急上昇" [ref=e29]
+      - generic [ref=e30]:
+        - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+          - img "Yahoo!知恵袋" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - text: IDでもっと便利に
+            - link "新規取得" [ref=e36] [cursor=pointer]:
+              - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078675273%2Fquestion%2Flist&.src=chiebukuro
+          - generic [ref=e37]:
+            - link "ログイン" [ref=e38] [cursor=pointer]:
+              - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078675273%2Fquestion%2Flist
+            - link "ヤフーショッピングなら「毎日5％」おトク" [ref=e40] [cursor=pointer]:
+              - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8yNjU0NDUvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9zaG9wcGluZy55YWhvby5jby5qcC9wcm9tb3Rpb24vY2FtcGFpZ24vcHBldnI1Lz9zY19lPXl5bGtfbWhkX3R4dF9wcGV2cjU/
+    - navigation [ref=e42]:
+      - generic [ref=e45]:
+        - textbox "このカテゴリで探す" [ref=e47]
+        - button [ref=e48] [cursor=pointer]:
+          - img [ref=e49]
+      - list [ref=e51]:
+        - listitem [ref=e52]:
+          - link "カテゴリ" [ref=e53] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e54]:
+          - link "Q&A一覧" [ref=e55] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e56]:
+          - link "公式・専門家" [ref=e57] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e58]:
+          - link "お知らせ" [ref=e59] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e61] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e65]
+        - text: 質問・相談
+    - list [ref=e70]:
+      - listitem [ref=e71]:
+        - link "知恵袋トップ" [ref=e72] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+        - text: ＞
+      - listitem [ref=e73]:
+        - link "カテゴリ一覧" [ref=e74] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category
+        - text: ＞
+      - listitem [ref=e75]:
+        - link "生き方と恋愛、人間関係の悩み" [ref=e76] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category/2079526977/question/list
+        - text: ＞
+      - listitem [ref=e77]:
+        - link "恋愛相談、人間関係の悩み" [ref=e78] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+        - text: ＞
+      - listitem [ref=e79]:
+        - generic [ref=e80]: 家族関係の悩み
+  - generic [ref=e81]:
+    - generic [ref=e82]:
+      - generic [ref=e86]:
+        - heading "家族関係の悩み" [level=1] [ref=e88]
+        - generic [ref=e89]:
+          - generic [ref=e92]:
+            - img [ref=e93]
+            - text: お気に入り
+          - link "このカテゴリに質問" [ref=e96] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/post/form?dnum=2078675273
+            - generic [ref=e97]:
+              - img [ref=e98]
+              - text: このカテゴリに質問
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - list [ref=e105]:
+            - listitem [ref=e106]:
+              - link "回答受付中" [ref=e107] [cursor=pointer]:
+                - /url: /category/2078675273/question/list?flg=0&type=list&sort=16
+                - generic [ref=e108]: 回答受付中
+            - listitem [ref=e109]:
+              - generic [ref=e111]: 解決済み
+            - listitem [ref=e112]:
+              - link "すべて" [ref=e113] [cursor=pointer]:
+                - /url: /category/2078675273/question/list?flg=3&type=list&sort=16
+                - generic [ref=e114]: すべて
+          - generic [ref=e116]:
+            - img [ref=e118]
+            - generic [ref=e120]: 並べ替え：
+            - generic [ref=e123]:
+              - combobox [ref=e124]:
+                - option "質問日時の新しい順"
+                - option "質問日時の古い順"
+                - option "更新日時の新しい順" [selected]
+                - option "更新日時の古い順"
+                - option "回答数の多い順"
+                - option "回答数の少ない順"
+                - option "お礼の多い順"
+              - img
+            - generic [ref=e126]:
+              - generic [ref=e127]: AI質問含む
+              - checkbox [ref=e128] [cursor=pointer]
+          - generic [ref=e129]:
+            - link "家族関係の悩み 男性に質問。 結婚して、子供が産まれて。 セックスレスで、離婚し、妻子を棄てる男性と、 セックスレスになっても、養い続ける男性の、 違いは、何でしょうか？ 詳しく教えてください。 ベストアンサー：一般的な話になりますが、男性は思春期前後から一気に繁殖欲求が増大し、合わせて承認欲求も膨れ続け、女性なら更年期がありますが、男性はまだよくわかっていない更年期を過ぎても欲望は膨れ続けます。 翻っ... 回答数： 5 4/24 18:39" [ref=e132] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327515157
+              - generic [ref=e133]:
+                - paragraph [ref=e134]: 家族関係の悩み
+                - paragraph [ref=e137]: 男性に質問。 結婚して、子供が産まれて。 セックスレスで、離婚し、妻子を棄てる男性と、 セックスレスになっても、養い続ける男性の、 違いは、何でしょうか？ 詳しく教えてください。
+                - paragraph [ref=e140]: ベストアンサー：一般的な話になりますが、男性は思春期前後から一気に繁殖欲求が増大し、合わせて承認欲求も膨れ続け、女性なら更年期がありますが、男性はまだよくわかっていない更年期を過ぎても欲望は膨れ続けます。 翻っ...
+                - generic [ref=e141]:
+                  - generic [ref=e142]:
+                    - generic "回答数：" [ref=e143]:
+                      - img [ref=e144]
+                    - generic [ref=e146]: "5"
+                  - generic "4/24 18:39" [ref=e148]
+            - link "家族関係の悩み 家の弟についてです。 弟は何かすごい冷たい人間になってました。 結婚以前はこんな冷たい人じゃなかったのに。 母が他界して母が滞納したお金３０万以上の額も、 入院している父の入院費もみんなみん... ベストアンサー：最後の？については。はい、支払わないでしょう。 結婚前には気づかなかっただけで、もともとの価値観が兄弟姉妹で真逆のことがあります。 年月とともにそれぞれが重視することがよりかけ離れてしまって... 回答数： 1 4/24 15:18 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e151] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327510786
+              - generic [ref=e152]:
+                - paragraph [ref=e153]: 家族関係の悩み
+                - paragraph [ref=e156]: 家の弟についてです。 弟は何かすごい冷たい人間になってました。 結婚以前はこんな冷たい人じゃなかったのに。 母が他界して母が滞納したお金３０万以上の額も、 入院している父の入院費もみんなみん...
+                - paragraph [ref=e159]: ベストアンサー：最後の？については。はい、支払わないでしょう。 結婚前には気づかなかっただけで、もともとの価値観が兄弟姉妹で真逆のことがあります。 年月とともにそれぞれが重視することがよりかけ離れてしまって...
+                - generic [ref=e160]:
+                  - generic [ref=e161]:
+                    - generic "回答数：" [ref=e162]:
+                      - img [ref=e163]
+                    - generic [ref=e165]: "1"
+                  - generic "4/24 15:18" [ref=e167]
+                  - generic [ref=e168]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e169]:
+                      - img [ref=e170]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e176]: "25"
+            - link "家族関係の悩み 息子の孫が初孫で、娘の孫が2番目に生まれても 初孫のほうが可愛いものですか？ ベストアンサー：初孫と接する時間があれば初孫が可愛いと思います。 ただ、接する時間が短い、嫁との関係が悪い、1番目と2番目の生まれる時期が然程変わらない、などがあれば、やはり娘の子供の方が触りやすいのではないで... 回答数： 2 4/21 22:30 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e179] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327441887
+              - generic [ref=e180]:
+                - paragraph [ref=e181]: 家族関係の悩み
+                - paragraph [ref=e184]: 息子の孫が初孫で、娘の孫が2番目に生まれても 初孫のほうが可愛いものですか？
+                - paragraph [ref=e187]: ベストアンサー：初孫と接する時間があれば初孫が可愛いと思います。 ただ、接する時間が短い、嫁との関係が悪い、1番目と2番目の生まれる時期が然程変わらない、などがあれば、やはり娘の子供の方が触りやすいのではないで...
+                - generic [ref=e188]:
+                  - generic [ref=e189]:
+                    - generic "回答数：" [ref=e190]:
+                      - img [ref=e191]
+                    - generic [ref=e193]: "2"
+                  - generic "4/21 22:30" [ref=e195]
+                  - generic [ref=e196]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e197]:
+                      - img [ref=e198]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e204]: "50"
+            - link "家族関係の悩み 結婚相手が片親だと反対される 差別とは別のところに理由があると思っています 親子の結びつきが強すぎる シンママに育てられた娘が特にその傾向が強くて、夫婦間で何かあれば母娘でタッグを組んで旦那... ベストアンサー：そういう場合もあるかもしれないが、私は差別しています 死別とかは仕方がないにしても適当に選んでいい加減に子供を産んで面倒だからと片親が居なくなった人が育てた子供は歪んでる場合が多いです 当人に非... 回答数： 10 4/10 9:06 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e207] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327097389
+              - generic [ref=e208]:
+                - paragraph [ref=e209]: 家族関係の悩み
+                - paragraph [ref=e212]: 結婚相手が片親だと反対される 差別とは別のところに理由があると思っています 親子の結びつきが強すぎる シンママに育てられた娘が特にその傾向が強くて、夫婦間で何かあれば母娘でタッグを組んで旦那...
+                - paragraph [ref=e215]: ベストアンサー：そういう場合もあるかもしれないが、私は差別しています 死別とかは仕方がないにしても適当に選んでいい加減に子供を産んで面倒だからと片親が居なくなった人が育てた子供は歪んでる場合が多いです 当人に非...
+                - generic [ref=e216]:
+                  - generic [ref=e217]:
+                    - generic "回答数：" [ref=e218]:
+                      - img [ref=e219]
+                    - generic [ref=e221]: "10"
+                  - generic "4/10 9:06" [ref=e223]
+                  - generic [ref=e224]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e225]:
+                      - img [ref=e226]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e232]: "25"
+            - link "家族関係の悩み 結婚5年以上の夫婦の方 いまだに相手が自分を好きかどうか気になりますか？ いちいちそんなことは考えませんか？ ベストアンサー：私は何年たってもやっぱり気になりますね。 好きって信頼してる、ってことじゃないですかね？ 正直、相手に対し無関心なのに、一緒にいるっていうのは私は嫌なので、相手のためにご飯を作ったり、何かをする... 回答数： 7 4/22 11:45 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e235] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327452702
+              - generic [ref=e236]:
+                - paragraph [ref=e237]: 家族関係の悩み
+                - paragraph [ref=e240]: 結婚5年以上の夫婦の方 いまだに相手が自分を好きかどうか気になりますか？ いちいちそんなことは考えませんか？
+                - paragraph [ref=e243]: ベストアンサー：私は何年たってもやっぱり気になりますね。 好きって信頼してる、ってことじゃないですかね？ 正直、相手に対し無関心なのに、一緒にいるっていうのは私は嫌なので、相手のためにご飯を作ったり、何かをする...
+                - generic [ref=e244]:
+                  - generic [ref=e245]:
+                    - generic "回答数：" [ref=e246]:
+                      - img [ref=e247]
+                    - generic [ref=e249]: "7"
+                  - generic "4/22 11:45" [ref=e251]
+                  - generic [ref=e252]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e253]:
+                      - img [ref=e254]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e260]: "100"
+            - link "家族関係の悩み 夫からよくデブいじりされます ご飯を食べると、よく食べるね、俺と同じだけ食ってると言う チキンをコンビニで買って、一口くれというのであげたら、デブの味って言われた 体がでかい、重い、顔が丸い、お... ベストアンサー：こんにちは。 大切なお子様を育み、さらに新しい命を宿しているという、心身ともに最も過酷で尊い時期に、一番身近なパートナーからそのような言葉を投げかけられるのは、本当に辛く、やりきれない思いでしょ... 回答数： 15 4/22 16:26 ベストアンサーへのお礼（知恵コイン）： 500" [ref=e263] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327458096
+              - generic [ref=e264]:
+                - paragraph [ref=e265]: 家族関係の悩み
+                - paragraph [ref=e268]: 夫からよくデブいじりされます ご飯を食べると、よく食べるね、俺と同じだけ食ってると言う チキンをコンビニで買って、一口くれというのであげたら、デブの味って言われた 体がでかい、重い、顔が丸い、お...
+                - paragraph [ref=e271]: ベストアンサー：こんにちは。 大切なお子様を育み、さらに新しい命を宿しているという、心身ともに最も過酷で尊い時期に、一番身近なパートナーからそのような言葉を投げかけられるのは、本当に辛く、やりきれない思いでしょ...
+                - generic [ref=e272]:
+                  - generic [ref=e273]:
+                    - generic "回答数：" [ref=e274]:
+                      - img [ref=e275]
+                    - generic [ref=e277]: "15"
+                  - generic "4/22 16:26" [ref=e279]
+                  - generic [ref=e280]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e281]:
+                      - img [ref=e282]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e288]: "500"
+            - link "家族関係の悩み 離婚してないけど夫婦関係が終わった方！ ・終わってから何年経ってますか？ ・終わったきっかけは？ ・どうなったら夫婦関係終了だと思いますか？ ベストアンサー：終わるのって色んな事の積み重ねで「だんだんと」なのでいつからとはハッキリ言えませんね。 10年以上は経ってます。 因みに30で結婚、現在58歳です。 同棲期間含めて10年付き合ってから結婚したの... 回答数： 4 4/22 16:06 ベストアンサーへのお礼（知恵コイン）： 500" [ref=e291] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327457637
+              - generic [ref=e292]:
+                - paragraph [ref=e293]: 家族関係の悩み
+                - paragraph [ref=e296]: 離婚してないけど夫婦関係が終わった方！ ・終わってから何年経ってますか？ ・終わったきっかけは？ ・どうなったら夫婦関係終了だと思いますか？
+                - paragraph [ref=e299]: ベストアンサー：終わるのって色んな事の積み重ねで「だんだんと」なのでいつからとはハッキリ言えませんね。 10年以上は経ってます。 因みに30で結婚、現在58歳です。 同棲期間含めて10年付き合ってから結婚したの...
+                - generic [ref=e300]:
+                  - generic [ref=e301]:
+                    - generic "回答数：" [ref=e302]:
+                      - img [ref=e303]
+                    - generic [ref=e305]: "4"
+                  - generic "4/22 16:06" [ref=e307]
+                  - generic [ref=e308]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e309]:
+                      - img [ref=e310]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e316]: "500"
+            - link "家族関係の悩み 夫は何を思って夫婦を続けてると思いますか？ ・付き合ってた時からあんまり好きそうじゃなかった ・一緒に出かけると他の人と来たかった、帰りたいなどいう ・家で一緒にテレビ見たりはする ・基本私には... ベストアンサー：それだけで旦那さんの思いは解らないです。そして、たぶん旦那さんが離婚した方がいいと思っている、その思いは勘違いだろうと思います。めんどくさい、じゃなかったら、結婚を続ける思いというものは確実に持... 回答数： 12 4/22 11:53 ベストアンサーへのお礼（知恵コイン）： 500" [ref=e319] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327452859
+              - generic [ref=e320]:
+                - paragraph [ref=e321]: 家族関係の悩み
+                - paragraph [ref=e324]: 夫は何を思って夫婦を続けてると思いますか？ ・付き合ってた時からあんまり好きそうじゃなかった ・一緒に出かけると他の人と来たかった、帰りたいなどいう ・家で一緒にテレビ見たりはする ・基本私には...
+                - paragraph [ref=e327]: ベストアンサー：それだけで旦那さんの思いは解らないです。そして、たぶん旦那さんが離婚した方がいいと思っている、その思いは勘違いだろうと思います。めんどくさい、じゃなかったら、結婚を続ける思いというものは確実に持...
+                - generic [ref=e328]:
+                  - generic [ref=e329]:
+                    - generic "回答数：" [ref=e330]:
+                      - img [ref=e331]
+                    - generic [ref=e333]: "12"
+                  - generic "4/22 11:53" [ref=e335]
+                  - generic [ref=e336]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e337]:
+                      - img [ref=e338]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e344]: "500"
+            - link "家族関係の悩み 京都の事件 報道されてる事実だけ見ても周りの大人がバカしかいない件 勤め先の工場で噂になる程の不倫 バツイチ母親と妻子持ちだった父親 実家敷地内に長男夫婦がいるのに出戻り娘と婿を住まわせ婿を養... ベストアンサー：実家族間での殺人事件発生は50％を超えています。 この国で起きる事件の8割は家族間や近隣住民間、知友人関で。 ヒトなんて、群れでしか生きられないイキモンな癖に 何故にわざわざ自ら群れを壊したが... 回答数： 1 4/16 8:12 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e347] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327280261
+              - generic [ref=e348]:
+                - paragraph [ref=e349]: 家族関係の悩み
+                - paragraph [ref=e352]: 京都の事件 報道されてる事実だけ見ても周りの大人がバカしかいない件 勤め先の工場で噂になる程の不倫 バツイチ母親と妻子持ちだった父親 実家敷地内に長男夫婦がいるのに出戻り娘と婿を住まわせ婿を養...
+                - paragraph [ref=e355]: ベストアンサー：実家族間での殺人事件発生は50％を超えています。 この国で起きる事件の8割は家族間や近隣住民間、知友人関で。 ヒトなんて、群れでしか生きられないイキモンな癖に 何故にわざわざ自ら群れを壊したが...
+                - generic [ref=e356]:
+                  - generic [ref=e357]:
+                    - generic "回答数：" [ref=e358]:
+                      - img [ref=e359]
+                    - generic [ref=e361]: "1"
+                  - generic "4/16 8:12" [ref=e363]
+                  - generic [ref=e364]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e365]:
+                      - img [ref=e366]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e372]: "25"
+            - link "貯金 中学生でお金を稼ぐ方法はありませんか？ 親のお手伝いなどをしてもお小遣いなんてくれません。 そのせいで友達と遊びに行くことができなくて私だけ抜きでみんな遊びに行っています。 やっぱ高校生になるま... ベストアンサー：うちも中学生の子供がいますが、さすがに全く自由にお金が使えないのもどうなのとも思うし、お金の管理の勉強にもなると思って月固定で三千円渡してます。 めげずに交渉してみてください。 全国の平均的なお... 回答数： 13 4/19 19:05" [ref=e375] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327379846
+              - generic [ref=e376]:
+                - paragraph [ref=e377]: 貯金
+                - paragraph [ref=e380]: 中学生でお金を稼ぐ方法はありませんか？ 親のお手伝いなどをしてもお小遣いなんてくれません。 そのせいで友達と遊びに行くことができなくて私だけ抜きでみんな遊びに行っています。 やっぱ高校生になるま...
+                - paragraph [ref=e383]: ベストアンサー：うちも中学生の子供がいますが、さすがに全く自由にお金が使えないのもどうなのとも思うし、お金の管理の勉強にもなると思って月固定で三千円渡してます。 めげずに交渉してみてください。 全国の平均的なお...
+                - generic [ref=e384]:
+                  - generic [ref=e385]:
+                    - generic "回答数：" [ref=e386]:
+                      - img [ref=e387]
+                    - generic [ref=e389]: "13"
+                  - generic "4/19 19:05" [ref=e391]
+            - link "家族関係の悩み 娘が両親を、「親父」「お袋」と呼ぶことはありますか？ ベストアンサー：現実にいましたよ。お互い慣れているせいか違和感を感じさせませんでした。 回答数： 3 4/24 18:06" [ref=e394] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327514238
+              - generic [ref=e395]:
+                - paragraph [ref=e396]: 家族関係の悩み
+                - paragraph [ref=e399]: 娘が両親を、「親父」「お袋」と呼ぶことはありますか？
+                - paragraph [ref=e402]: ベストアンサー：現実にいましたよ。お互い慣れているせいか違和感を感じさせませんでした。
+                - generic [ref=e403]:
+                  - generic [ref=e404]:
+                    - generic "回答数：" [ref=e405]:
+                      - img [ref=e406]
+                    - generic [ref=e408]: "3"
+                  - generic "4/24 18:06" [ref=e410]
+            - link "家族関係の悩み 毒親にアレも駄目これも駄目と言われてあらゆることを禁止・制限された娘は、自分が母親になったら自分が子供時代にやりたかった事を子供に無理矢理やらせて悦に浸るという別のタイプの毒親になる事が多いのですか？ ベストアンサー：それも親に影響されている事になります。 反面教師にしようと、親のようになろうと、親を意識していますよね？ 他者を尊重する、という事がわかれば、子どもも尊重します。親の私的な思いを子どもに負わせ... 回答数： 3 4/22 16:39" [ref=e413] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327458392
+              - generic [ref=e414]:
+                - paragraph [ref=e415]: 家族関係の悩み
+                - paragraph [ref=e418]: 毒親にアレも駄目これも駄目と言われてあらゆることを禁止・制限された娘は、自分が母親になったら自分が子供時代にやりたかった事を子供に無理矢理やらせて悦に浸るという別のタイプの毒親になる事が多いのですか？
+                - paragraph [ref=e421]: ベストアンサー：それも親に影響されている事になります。 反面教師にしようと、親のようになろうと、親を意識していますよね？ 他者を尊重する、という事がわかれば、子どもも尊重します。親の私的な思いを子どもに負わせ...
+                - generic [ref=e422]:
+                  - generic [ref=e423]:
+                    - generic "回答数：" [ref=e424]:
+                      - img [ref=e425]
+                    - generic [ref=e427]: "3"
+                  - generic "4/22 16:39" [ref=e429]
+            - link "家族関係の悩み 去年の年末大きな病気をしました。先月その病気を手術してつい先週退院しました。 医師にかなり脅されたので、一歩間違えたら死ぬと思いました。 そんな時、最初に心残り？に思ったのは、使わないでとってあ... ベストアンサー：退院おめでとうございます。 私も子供いない2人暮らしです。 収入も多くないです。 貯金はしてないで生活と食べるために全投入してますよ。 旅行も年に100万かけますし、車も新車3台です。 た... 回答数： 2 4/23 23:49" [ref=e432] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327498493
+              - generic [ref=e433]:
+                - paragraph [ref=e434]: 家族関係の悩み
+                - paragraph [ref=e437]: 去年の年末大きな病気をしました。先月その病気を手術してつい先週退院しました。 医師にかなり脅されたので、一歩間違えたら死ぬと思いました。 そんな時、最初に心残り？に思ったのは、使わないでとってあ...
+                - paragraph [ref=e440]: ベストアンサー：退院おめでとうございます。 私も子供いない2人暮らしです。 収入も多くないです。 貯金はしてないで生活と食べるために全投入してますよ。 旅行も年に100万かけますし、車も新車3台です。 た...
+                - generic [ref=e441]:
+                  - generic [ref=e442]:
+                    - generic "回答数：" [ref=e443]:
+                      - img [ref=e444]
+                    - generic [ref=e446]: "2"
+                  - generic "4/23 23:49" [ref=e448]
+            - link "家族関係の悩み 1985年、僕が2歳の時におばあちゃんが亡くなりました。 その時の様子をうっすら覚えているのですけど。 なんか外の庭に四段？くらいのタナ？があって そのに神具？がたくさん飾られてて お坊さん... ベストアンサー：白木祭壇とか仏式祭壇だと思います。 個人宅で業者手配とかでない場合、白布を掛ける場合もありますね。 私も5歳くらいに、同様の白布を掛けた祭壇を見た記憶があります。 通常二段か三段で、手前に供物... 回答数： 2 3/26 17:52 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e451] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12326635217
+              - generic [ref=e452]:
+                - paragraph [ref=e453]: 家族関係の悩み
+                - paragraph [ref=e456]: 1985年、僕が2歳の時におばあちゃんが亡くなりました。 その時の様子をうっすら覚えているのですけど。 なんか外の庭に四段？くらいのタナ？があって そのに神具？がたくさん飾られてて お坊さん...
+                - paragraph [ref=e459]: ベストアンサー：白木祭壇とか仏式祭壇だと思います。 個人宅で業者手配とかでない場合、白布を掛ける場合もありますね。 私も5歳くらいに、同様の白布を掛けた祭壇を見た記憶があります。 通常二段か三段で、手前に供物...
+                - generic [ref=e460]:
+                  - generic [ref=e461]:
+                    - generic "回答数：" [ref=e462]:
+                      - img [ref=e463]
+                    - generic [ref=e465]: "2"
+                  - generic "3/26 17:52" [ref=e467]
+                  - generic [ref=e468]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e469]:
+                      - img [ref=e470]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e476]: "50"
+            - link "家族関係の悩み 高一女です。母親に本音を言えなくて悩んでいます。 私の兄が病み系不登校、現在ニートで散々母親を困らせました。その影響で、母親は病み話に弱くなっています。 私はそんな母に負担をかけたくなくて、でき... ベストアンサー：お母さん、しんどかっただろうし気持ちは分かるけれど、あなたもしんどいですよね。本来、弱音は吐いて良いものだし、我慢してきたんだとしたら、それは偉かったな、よく頑張ってきたね、と思いました。 私... 回答数： 1 4/21 16:16" [ref=e479] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327430815
+              - generic [ref=e480]:
+                - paragraph [ref=e481]: 家族関係の悩み
+                - paragraph [ref=e484]: 高一女です。母親に本音を言えなくて悩んでいます。 私の兄が病み系不登校、現在ニートで散々母親を困らせました。その影響で、母親は病み話に弱くなっています。 私はそんな母に負担をかけたくなくて、でき...
+                - paragraph [ref=e487]: ベストアンサー：お母さん、しんどかっただろうし気持ちは分かるけれど、あなたもしんどいですよね。本来、弱音は吐いて良いものだし、我慢してきたんだとしたら、それは偉かったな、よく頑張ってきたね、と思いました。 私...
+                - generic [ref=e488]:
+                  - generic [ref=e489]:
+                    - generic "回答数：" [ref=e490]:
+                      - img [ref=e491]
+                    - generic [ref=e493]: "1"
+                  - generic "4/21 16:16" [ref=e495]
+            - link "家族関係の悩み 当方34歳の女性で、双子の姉です。 私は数年前に離婚して実家に戻り、中2の息子、父母の4人暮らしです。 双子の妹は、2人の甥(小5、中1)と義弟(39歳)の4人家族で、実家から車で2時間強程の距... ベストアンサー：あなたは無理をしないことです。 妹さんは大事ですが、そのためにあなたが病んだら、息子さんはどうするのですか。 あなたが1番守らないといけないのは、我が子です。 あなたも精神科にいき、診断をして... 回答数： 2 4/22 10:05 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e498] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327451008
+              - generic [ref=e499]:
+                - paragraph [ref=e500]: 家族関係の悩み
+                - paragraph [ref=e503]: 当方34歳の女性で、双子の姉です。 私は数年前に離婚して実家に戻り、中2の息子、父母の4人暮らしです。 双子の妹は、2人の甥(小5、中1)と義弟(39歳)の4人家族で、実家から車で2時間強程の距...
+                - paragraph [ref=e506]: ベストアンサー：あなたは無理をしないことです。 妹さんは大事ですが、そのためにあなたが病んだら、息子さんはどうするのですか。 あなたが1番守らないといけないのは、我が子です。 あなたも精神科にいき、診断をして...
+                - generic [ref=e507]:
+                  - generic [ref=e508]:
+                    - generic "回答数：" [ref=e509]:
+                      - img [ref=e510]
+                    - generic [ref=e512]: "2"
+                  - generic "4/22 10:05" [ref=e514]
+                  - generic [ref=e515]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e516]:
+                      - img [ref=e517]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e523]: "50"
+            - link "家族関係の悩み 【知恵コイン250枚】長文です。すみません。 みなさんなら離婚しますか？別居を解消してやり直しますか？どうしますか？ 別居している旦那についてです。 ①お金の管理がとことんできない ・散財癖... ベストアンサー：デメリットの方が多すぎると思います。 実家にいるまま、あなたが自分で稼いで離婚。 回答数： 2 4/21 18:15 ベストアンサーへのお礼（知恵コイン）： 250" [ref=e526] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327433802
+              - generic [ref=e527]:
+                - paragraph [ref=e528]: 家族関係の悩み
+                - paragraph [ref=e531]: 【知恵コイン250枚】長文です。すみません。 みなさんなら離婚しますか？別居を解消してやり直しますか？どうしますか？ 別居している旦那についてです。 ①お金の管理がとことんできない ・散財癖...
+                - paragraph [ref=e534]: ベストアンサー：デメリットの方が多すぎると思います。 実家にいるまま、あなたが自分で稼いで離婚。
+                - generic [ref=e535]:
+                  - generic [ref=e536]:
+                    - generic "回答数：" [ref=e537]:
+                      - img [ref=e538]
+                    - generic [ref=e540]: "2"
+                  - generic "4/21 18:15" [ref=e542]
+                  - generic [ref=e543]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e544]:
+                      - img [ref=e545]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e551]: "250"
+            - link "家族関係の悩み 50過ぎて独身の方って持ち家とか財産とか 誰に相続させるんですか？ あと葬儀とか墓とかは無し？ですか？ この時代そんな人ばっかりなので、 どうなんでしょうね？ ベストアンサー：親族から絶縁されているので、 そのタイミングにならないと分かりませんが、 葬式は不要と置手紙くらいは置いて生きようと思います。 お墓は先祖代々ありますが、 そこには入れてもらわず、 願わくば【... 回答数： 4 4/3 13:44" [ref=e554] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14326883954
+              - generic [ref=e555]:
+                - paragraph [ref=e556]: 家族関係の悩み
+                - paragraph [ref=e559]: 50過ぎて独身の方って持ち家とか財産とか 誰に相続させるんですか？ あと葬儀とか墓とかは無し？ですか？ この時代そんな人ばっかりなので、 どうなんでしょうね？
+                - paragraph [ref=e562]: ベストアンサー：親族から絶縁されているので、 そのタイミングにならないと分かりませんが、 葬式は不要と置手紙くらいは置いて生きようと思います。 お墓は先祖代々ありますが、 そこには入れてもらわず、 願わくば【...
+                - generic [ref=e563]:
+                  - generic [ref=e564]:
+                    - generic "回答数：" [ref=e565]:
+                      - img [ref=e566]
+                    - generic [ref=e568]: "4"
+                  - generic "4/3 13:44" [ref=e570]
+            - link "家族関係の悩み 26歳ADHD娘ですが、生活環境を整える事が出来ず仕事に行けなくなってしまいました。 カードの支払いが滞り、3ヶ月で25万程になっています。その他にも友人に10万の借金があるようです。 今でも精... ベストアンサー：大変お辛い状況ですね。親御さんとしての葛藤、よく分かります。以下の点を考慮されてはいかがでしょうか。 ・ADHDの特性として、金銭管理や生活管理が困難なことは医学的にも知られています。「本人の... 回答数： 1 4/20 19:42 ベストアンサーへのお礼（知恵コイン）： 250" [ref=e573] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327409034
+              - generic [ref=e574]:
+                - paragraph [ref=e575]: 家族関係の悩み
+                - paragraph [ref=e578]: 26歳ADHD娘ですが、生活環境を整える事が出来ず仕事に行けなくなってしまいました。 カードの支払いが滞り、3ヶ月で25万程になっています。その他にも友人に10万の借金があるようです。 今でも精...
+                - paragraph [ref=e581]: ベストアンサー：大変お辛い状況ですね。親御さんとしての葛藤、よく分かります。以下の点を考慮されてはいかがでしょうか。 ・ADHDの特性として、金銭管理や生活管理が困難なことは医学的にも知られています。「本人の...
+                - generic [ref=e582]:
+                  - generic [ref=e583]:
+                    - generic "回答数：" [ref=e584]:
+                      - img [ref=e585]
+                    - generic [ref=e587]: "1"
+                  - generic "4/20 19:42" [ref=e589]
+                  - generic [ref=e590]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e591]:
+                      - img [ref=e592]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e598]: "250"
+            - link "家族関係の悩み 精神科の障碍者の場合 お金を稼ぎたいのならば どのようなことやモノをするのが良いのでしょうか。 私自身がお金を稼ぐということをあまり理解していないので、よろしければ お金を稼ぐということも教えて... ベストアンサー：稼ぐには成果を上げたらいい。 ビジネスは結果が全て、きちんと丁寧に業務するのも成果だし、テキパキこなすことも成果ってわけ 商談に成功して大きな取引も立派な成果 その見返りに給料(お金)をいただ... 回答数： 2 4/24 17:37" [ref=e601] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327513531
+              - generic [ref=e602]:
+                - paragraph [ref=e603]: 家族関係の悩み
+                - paragraph [ref=e606]: 精神科の障碍者の場合 お金を稼ぎたいのならば どのようなことやモノをするのが良いのでしょうか。 私自身がお金を稼ぐということをあまり理解していないので、よろしければ お金を稼ぐということも教えて...
+                - paragraph [ref=e609]: ベストアンサー：稼ぐには成果を上げたらいい。 ビジネスは結果が全て、きちんと丁寧に業務するのも成果だし、テキパキこなすことも成果ってわけ 商談に成功して大きな取引も立派な成果 その見返りに給料(お金)をいただ...
+                - generic [ref=e610]:
+                  - generic [ref=e611]:
+                    - generic "回答数：" [ref=e612]:
+                      - img [ref=e613]
+                    - generic [ref=e615]: "2"
+                  - generic "4/24 17:37" [ref=e617]
+            - link "家族関係の悩み 緊急！ 母の日のちょっとしたおまけで、犬柄の車の芳香剤を見てたんです。 今まで、シーズー、トイプードル、ポメラニアンは飼っていたので、ポメラニアンの柄は見つけることが出来なくて、シーズーとトイプ... ベストアンサー：ポメラニアン芳香剤ありますよ。 Amazonとかに 回答数： 2 4/24 15:56" [ref=e620] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327511439
+              - generic [ref=e621]:
+                - paragraph [ref=e622]: 家族関係の悩み
+                - paragraph [ref=e625]: 緊急！ 母の日のちょっとしたおまけで、犬柄の車の芳香剤を見てたんです。 今まで、シーズー、トイプードル、ポメラニアンは飼っていたので、ポメラニアンの柄は見つけることが出来なくて、シーズーとトイプ...
+                - paragraph [ref=e628]: ベストアンサー：ポメラニアン芳香剤ありますよ。 Amazonとかに
+                - generic [ref=e629]:
+                  - generic [ref=e630]:
+                    - generic "回答数：" [ref=e631]:
+                      - img [ref=e632]
+                    - generic [ref=e634]: "2"
+                  - generic "4/24 15:56" [ref=e636]
+            - link "福祉、介護 知的障害のある女の子は妊娠したらどうなるのですか？ ベストアンサー：周囲の理解とサポートが大事になってきますね。 回答数： 5 4/21 16:45" [ref=e639] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327431519
+              - generic [ref=e640]:
+                - paragraph [ref=e641]: 福祉、介護
+                - paragraph [ref=e644]: 知的障害のある女の子は妊娠したらどうなるのですか？
+                - paragraph [ref=e647]: ベストアンサー：周囲の理解とサポートが大事になってきますね。
+                - generic [ref=e648]:
+                  - generic [ref=e649]:
+                    - generic "回答数：" [ref=e650]:
+                      - img [ref=e651]
+                    - generic [ref=e653]: "5"
+                  - generic "4/21 16:45" [ref=e655]
+            - link "家族関係の悩み こんな家庭でも死んだら悲しんでくれますかね、 〈母親について〉私の母はいわゆる軽い毒親だと思います。父は私が1歳になる前に亡くなっていて、母は家事が何もできなくて、父に任せっきりだったと言います... ベストアンサー：神様の課題をクリアしたら宿題が済んだら、お迎えが来て死ぬのかな。 その場合、災害、事故、自死、病気、老衰、どんな死に方なのかも分かりませんね。 死にたくても思い通りにはいかないみたいです。ある人... 回答数： 4 4/20 4:16" [ref=e658] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327392499
+              - generic [ref=e659]:
+                - paragraph [ref=e660]: 家族関係の悩み
+                - paragraph [ref=e663]: こんな家庭でも死んだら悲しんでくれますかね、 〈母親について〉私の母はいわゆる軽い毒親だと思います。父は私が1歳になる前に亡くなっていて、母は家事が何もできなくて、父に任せっきりだったと言います...
+                - paragraph [ref=e666]: ベストアンサー：神様の課題をクリアしたら宿題が済んだら、お迎えが来て死ぬのかな。 その場合、災害、事故、自死、病気、老衰、どんな死に方なのかも分かりませんね。 死にたくても思い通りにはいかないみたいです。ある人...
+                - generic [ref=e667]:
+                  - generic [ref=e668]:
+                    - generic "回答数：" [ref=e669]:
+                      - img [ref=e670]
+                    - generic [ref=e672]: "4"
+                  - generic "4/20 4:16" [ref=e674]
+            - link "家族関係の悩み ご先祖様について質問です。 自分は母親と祖母に子供の頃から嫌われていると思っていました。 母親には産まなければよかった、あんたがいなければ仕事をやめないで済んだのになどと言われていました。そん... ベストアンサー：親や祖父母でも孫のことを利用していじめ抜いているのに、その祖父母がまともな人だったとは到底思えません。 なので、先祖に感謝は無理なんだと思います。 回答数： 1 4/20 21:17" [ref=e677] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327412118
+              - generic [ref=e678]:
+                - paragraph [ref=e679]: 家族関係の悩み
+                - paragraph [ref=e682]: ご先祖様について質問です。 自分は母親と祖母に子供の頃から嫌われていると思っていました。 母親には産まなければよかった、あんたがいなければ仕事をやめないで済んだのになどと言われていました。そん...
+                - paragraph [ref=e685]: ベストアンサー：親や祖父母でも孫のことを利用していじめ抜いているのに、その祖父母がまともな人だったとは到底思えません。 なので、先祖に感謝は無理なんだと思います。
+                - generic [ref=e686]:
+                  - generic [ref=e687]:
+                    - generic "回答数：" [ref=e688]:
+                      - img [ref=e689]
+                    - generic [ref=e691]: "1"
+                  - generic "4/20 21:17" [ref=e693]
+            - link "事件、事故 今度の日曜日南丹市の容疑者宅まで自宅から１時間２０分なので田舎道ドライブがてらに行って見ようかなと思っています。 たくさんの見物人で混雑していますかな？ お母さんが「あんたあほか行くな」とも言う... ベストアンサー：うちの嫁さんもいってみたいなとかいっていたので、そういう野次馬は仕方がないのでは？ るり渓自然公園に行くことにしておけば一応観光地なので、言い訳としてはマシなのでは？ 回答数： 1 4/16 11:58" [ref=e696] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327284072
+              - generic [ref=e697]:
+                - paragraph [ref=e698]: 事件、事故
+                - paragraph [ref=e701]: 今度の日曜日南丹市の容疑者宅まで自宅から１時間２０分なので田舎道ドライブがてらに行って見ようかなと思っています。 たくさんの見物人で混雑していますかな？ お母さんが「あんたあほか行くな」とも言う...
+                - paragraph [ref=e704]: ベストアンサー：うちの嫁さんもいってみたいなとかいっていたので、そういう野次馬は仕方がないのでは？ るり渓自然公園に行くことにしておけば一応観光地なので、言い訳としてはマシなのでは？
+                - generic [ref=e705]:
+                  - generic [ref=e706]:
+                    - generic "回答数：" [ref=e707]:
+                      - img [ref=e708]
+                    - generic [ref=e710]: "1"
+                  - generic "4/16 11:58" [ref=e712]
+            - link "家族関係の悩み 至急お願い致します。 家族より大切な人がいますか？ ベストアンサー：大切な人が家族になりました。 回答数： 2 4/21 21:25 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e715] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327439791
+              - generic [ref=e716]:
+                - paragraph [ref=e717]: 家族関係の悩み
+                - paragraph [ref=e720]: 至急お願い致します。 家族より大切な人がいますか？
+                - paragraph [ref=e723]: ベストアンサー：大切な人が家族になりました。
+                - generic [ref=e724]:
+                  - generic [ref=e725]:
+                    - generic "回答数：" [ref=e726]:
+                      - img [ref=e727]
+                    - generic [ref=e729]: "2"
+                  - generic "4/21 21:25" [ref=e731]
+                  - generic [ref=e732]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e733]:
+                      - img [ref=e734]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e740]: "100"
+            - link "家族関係の悩み 私が変なのでしょうか… 義家族との旅行について。 急に決まったGWの義母実家県への旅行についてです。 旅行へは私たち夫婦＋子供(5歳)と義母と義弟の5人で行きます。 前から、旅費は全額義母が出... ベストアンサー：旦那なにしとん？ 「おまえもっとしっかりしろよ！」って、私なら言う。 義母さんの前に、旦那さんが頼んない。 回答数： 9 4/21 19:48 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e743] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327436476
+              - generic [ref=e744]:
+                - paragraph [ref=e745]: 家族関係の悩み
+                - paragraph [ref=e748]: 私が変なのでしょうか… 義家族との旅行について。 急に決まったGWの義母実家県への旅行についてです。 旅行へは私たち夫婦＋子供(5歳)と義母と義弟の5人で行きます。 前から、旅費は全額義母が出...
+                - paragraph [ref=e751]: ベストアンサー：旦那なにしとん？ 「おまえもっとしっかりしろよ！」って、私なら言う。 義母さんの前に、旦那さんが頼んない。
+                - generic [ref=e752]:
+                  - generic [ref=e753]:
+                    - generic "回答数：" [ref=e754]:
+                      - img [ref=e755]
+                    - generic [ref=e757]: "9"
+                  - generic "4/21 19:48" [ref=e759]
+                  - generic [ref=e760]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e761]:
+                      - img [ref=e762]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e768]: "50"
+            - link "家族関係の悩み 双子や兄弟に同じ服を着せたがる親の心理は？ ベストアンサー：自分の趣味で色違いで着せれるから。 回答数： 3 4/24 6:57" [ref=e771] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327502386
+              - generic [ref=e772]:
+                - paragraph [ref=e773]: 家族関係の悩み
+                - paragraph [ref=e776]: 双子や兄弟に同じ服を着せたがる親の心理は？
+                - paragraph [ref=e779]: ベストアンサー：自分の趣味で色違いで着せれるから。
+                - generic [ref=e780]:
+                  - generic [ref=e781]:
+                    - generic "回答数：" [ref=e782]:
+                      - img [ref=e783]
+                    - generic [ref=e785]: "3"
+                  - generic "4/24 6:57" [ref=e787]
+            - link "病気、症状 旦那がロングスリーパーなのか、睡眠障害なのか知りたいです 仕事がシフト制で早番遅番夜勤があります。 毎日12時間寝ていて、行き帰りの電車でも寝ていてよく寝過ごしています。休日はもっと寝てます 寝... ベストアンサー：どちらも、という可能性もありますよ。 まず、人類平均である8時間30分を超えるロングスリーパーであり、尚且つ過眠症である、と。 あるいは概日リズム睡眠障害や睡眠時無呼吸症候群、ナルコレプシーなど... 回答数： 2 3/29 6:01 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e790] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12326714752
+              - generic [ref=e791]:
+                - paragraph [ref=e792]: 病気、症状
+                - paragraph [ref=e795]: 旦那がロングスリーパーなのか、睡眠障害なのか知りたいです 仕事がシフト制で早番遅番夜勤があります。 毎日12時間寝ていて、行き帰りの電車でも寝ていてよく寝過ごしています。休日はもっと寝てます 寝...
+                - paragraph [ref=e798]: ベストアンサー：どちらも、という可能性もありますよ。 まず、人類平均である8時間30分を超えるロングスリーパーであり、尚且つ過眠症である、と。 あるいは概日リズム睡眠障害や睡眠時無呼吸症候群、ナルコレプシーなど...
+                - generic [ref=e799]:
+                  - generic [ref=e800]:
+                    - generic "回答数：" [ref=e801]:
+                      - img [ref=e802]
+                    - generic [ref=e804]: "2"
+                  - generic "3/29 6:01" [ref=e806]
+                  - generic [ref=e807]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e808]:
+                      - img [ref=e809]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e815]: "100"
+            - link "家族関係の悩み 誕生日なのに、兄弟姉妹の命日ってどうですか？ ベストアンサー：どうですかとは。 そりゃ重ならない方が良いに決まってますけど選べるもんじゃないので仕方ないですよね。 それぞれをやるしかないんじゃないでしょうか。 うちの母親の誕生日も母の兄と同じ日でした。 回答数： 2 4/21 19:44" [ref=e818] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327436352
+              - generic [ref=e819]:
+                - paragraph [ref=e820]: 家族関係の悩み
+                - paragraph [ref=e823]: 誕生日なのに、兄弟姉妹の命日ってどうですか？
+                - paragraph [ref=e826]: ベストアンサー：どうですかとは。 そりゃ重ならない方が良いに決まってますけど選べるもんじゃないので仕方ないですよね。 それぞれをやるしかないんじゃないでしょうか。 うちの母親の誕生日も母の兄と同じ日でした。
+                - generic [ref=e827]:
+                  - generic [ref=e828]:
+                    - generic "回答数：" [ref=e829]:
+                      - img [ref=e830]
+                    - generic [ref=e832]: "2"
+                  - generic "4/21 19:44" [ref=e834]
+            - link "家族関係の悩み 今日は死んだ妹の誕生日です。 ろくでない奴でした。 死んだのも自業自得といえる。 もう死んだんだから、思い出したくないのに、思い出してしまいます。 本当嫌な奴でした。 どうやったら忘れられますか？ 嫌 ベストアンサー：死んだのに不快な思いをまだしてるんですね。 それは妹さんの問題じゃなくて、あなたの問題です。 今までに、あなたの感じてきた感情を、ちゃんと表に出して認めて下さい。 嫌な奴で嫌いだった、の他に... 回答数： 2 4/21 23:45" [ref=e837] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327444021
+              - generic [ref=e838]:
+                - paragraph [ref=e839]: 家族関係の悩み
+                - paragraph [ref=e842]: 今日は死んだ妹の誕生日です。 ろくでない奴でした。 死んだのも自業自得といえる。 もう死んだんだから、思い出したくないのに、思い出してしまいます。 本当嫌な奴でした。 どうやったら忘れられますか？ 嫌
+                - paragraph [ref=e845]: ベストアンサー：死んだのに不快な思いをまだしてるんですね。 それは妹さんの問題じゃなくて、あなたの問題です。 今までに、あなたの感じてきた感情を、ちゃんと表に出して認めて下さい。 嫌な奴で嫌いだった、の他に...
+                - generic [ref=e846]:
+                  - generic [ref=e847]:
+                    - generic "回答数：" [ref=e848]:
+                      - img [ref=e849]
+                    - generic [ref=e851]: "2"
+                  - generic "4/21 23:45" [ref=e853]
+            - link "家族関係の悩み 明い方が良く眠れます。途中起きる事もないです。 これってどうなんでしょうか。電気代の無駄と言われます。正しいのでしょうか。 ベストアンサー：電気代はどうでも良いです。 それ、ホルモン異常なので、何らかの処置をした方が良いと思いますよ。 回答数： 2 4/21 21:18" [ref=e856] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327439536
+              - generic [ref=e857]:
+                - paragraph [ref=e858]: 家族関係の悩み
+                - paragraph [ref=e861]: 明い方が良く眠れます。途中起きる事もないです。 これってどうなんでしょうか。電気代の無駄と言われます。正しいのでしょうか。
+                - paragraph [ref=e864]: ベストアンサー：電気代はどうでも良いです。 それ、ホルモン異常なので、何らかの処置をした方が良いと思いますよ。
+                - generic [ref=e865]:
+                  - generic [ref=e866]:
+                    - generic "回答数：" [ref=e867]:
+                      - img [ref=e868]
+                    - generic [ref=e870]: "2"
+                  - generic "4/21 21:18" [ref=e872]
+            - link "家族関係の悩み 【至急】70代後半の祖父に誕生日プレゼントを渡すことになったのですがもらって嬉しいものってなんですか？趣味等は無いのでなるべく無難なものが良いです ベストアンサー：気持ちが籠もっていれば何でも嬉しいと思いますよ。孫から何か来ると言うだけでも、普通は嬉しいものだと思いますが。 パワーストーンとかどうですかね？ ブレスレットです。健康長寿の効果効能が年齢的に... 回答数： 3 4/18 15:55 ベストアンサーへのお礼（知恵コイン）： 250" [ref=e875] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327343690
+              - generic [ref=e876]:
+                - paragraph [ref=e877]: 家族関係の悩み
+                - paragraph [ref=e880]: 【至急】70代後半の祖父に誕生日プレゼントを渡すことになったのですがもらって嬉しいものってなんですか？趣味等は無いのでなるべく無難なものが良いです
+                - paragraph [ref=e883]: ベストアンサー：気持ちが籠もっていれば何でも嬉しいと思いますよ。孫から何か来ると言うだけでも、普通は嬉しいものだと思いますが。 パワーストーンとかどうですかね？ ブレスレットです。健康長寿の効果効能が年齢的に...
+                - generic [ref=e884]:
+                  - generic [ref=e885]:
+                    - generic "回答数：" [ref=e886]:
+                      - img [ref=e887]
+                    - generic [ref=e889]: "3"
+                  - generic "4/18 15:55" [ref=e891]
+                  - generic [ref=e892]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e893]:
+                      - img [ref=e894]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e900]: "250"
+            - link "家族関係の悩み 京都の事件でシンママの事も色々と言われてるけど 日本中で全員と言わないけど 子連れでシンママと結婚して、元夫の子種の子供を可愛いと思わない人がいたり。 だから子育てと言うけどめっちゃ怒ってたし。 義 ベストアンサー：＞子連れでシンママと結婚して、元夫の子種の子供を可愛いと思わない これは動物の本能としてあるらしいですね。 だとしても人間は理性があるから、親になったのなら養育の義務は発生するのでその義務をき... 回答数： 4 4/21 13:36" [ref=e903] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327427779
+              - generic [ref=e904]:
+                - paragraph [ref=e905]: 家族関係の悩み
+                - paragraph [ref=e908]: 京都の事件でシンママの事も色々と言われてるけど 日本中で全員と言わないけど 子連れでシンママと結婚して、元夫の子種の子供を可愛いと思わない人がいたり。 だから子育てと言うけどめっちゃ怒ってたし。 義
+                - paragraph [ref=e911]: ベストアンサー：＞子連れでシンママと結婚して、元夫の子種の子供を可愛いと思わない これは動物の本能としてあるらしいですね。 だとしても人間は理性があるから、親になったのなら養育の義務は発生するのでその義務をき...
+                - generic [ref=e912]:
+                  - generic [ref=e913]:
+                    - generic "回答数：" [ref=e914]:
+                      - img [ref=e915]
+                    - generic [ref=e917]: "4"
+                  - generic "4/21 13:36" [ref=e919]
+            - link "家族関係の悩み 実家暮らしの大学生です。 毎月家に8万いれるように言われてます。 収入は月9万。小遣いは無し。 確かに実家暮らしで他の人より必要なお金は少ないです。 でもそこは大学生、服に遊びに昼食、教材とお金... ベストアンサー：９万円中の８万円はさすがに…と思います。ですが、具体的にいくらなら払えるか伝えていますか？もしくは毎月いくら必要なのかを話したことは？ 質問者さんも月に９万円全部は必要ないでしょう。何にどのく... 回答数： 4 4/24 7:15 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e922] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327502633
+              - generic [ref=e923]:
+                - paragraph [ref=e924]: 家族関係の悩み
+                - paragraph [ref=e927]: 実家暮らしの大学生です。 毎月家に8万いれるように言われてます。 収入は月9万。小遣いは無し。 確かに実家暮らしで他の人より必要なお金は少ないです。 でもそこは大学生、服に遊びに昼食、教材とお金...
+                - paragraph [ref=e930]: ベストアンサー：９万円中の８万円はさすがに…と思います。ですが、具体的にいくらなら払えるか伝えていますか？もしくは毎月いくら必要なのかを話したことは？ 質問者さんも月に９万円全部は必要ないでしょう。何にどのく...
+                - generic [ref=e931]:
+                  - generic [ref=e932]:
+                    - generic "回答数：" [ref=e933]:
+                      - img [ref=e934]
+                    - generic [ref=e936]: "4"
+                  - generic "4/24 7:15" [ref=e938]
+                  - generic [ref=e939]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e940]:
+                      - img [ref=e941]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e947]: "100"
+            - link "家族関係の悩み 結婚して子供いない方は夫婦仲は良いですか？ ベストアンサー：悪くはない。すごく良くもない笑 回答数： 6 4/22 12:37" [ref=e950] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327453695
+              - generic [ref=e951]:
+                - paragraph [ref=e952]: 家族関係の悩み
+                - paragraph [ref=e955]: 結婚して子供いない方は夫婦仲は良いですか？
+                - paragraph [ref=e958]: ベストアンサー：悪くはない。すごく良くもない笑
+                - generic [ref=e959]:
+                  - generic [ref=e960]:
+                    - generic "回答数：" [ref=e961]:
+                      - img [ref=e962]
+                    - generic [ref=e964]: "6"
+                  - generic "4/22 12:37" [ref=e966]
+            - link "家族関係の悩み サザエさんの浪平さんは54歳に見えますか？ スマップの 木村拓哉さんも今年54歳です。 ベストアンサー：昭和の感覚じゃ 50代は完全におじさん おじいちゃんですよ サザエさんテレビ放送が始まってから 57年経っています サザエさんの家族構成 年齢は 昭和の時代から ネタにされています キムタクもデ... 回答数： 9 4/21 16:43" [ref=e969] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327431474
+              - generic [ref=e970]:
+                - paragraph [ref=e971]: 家族関係の悩み
+                - paragraph [ref=e974]: サザエさんの浪平さんは54歳に見えますか？ スマップの 木村拓哉さんも今年54歳です。
+                - paragraph [ref=e977]: ベストアンサー：昭和の感覚じゃ 50代は完全におじさん おじいちゃんですよ サザエさんテレビ放送が始まってから 57年経っています サザエさんの家族構成 年齢は 昭和の時代から ネタにされています キムタクもデ...
+                - generic [ref=e978]:
+                  - generic [ref=e979]:
+                    - generic "回答数：" [ref=e980]:
+                      - img [ref=e981]
+                    - generic [ref=e983]: "9"
+                  - generic "4/21 16:43" [ref=e985]
+            - link "家族関係の悩み 中学、高校の娘を、女友達の家に泊めるのを嫌がる親の気持ちを教えてください。 よろしくお願いします。 (分かりやすく説明するために言語化が必要なためです。) ベストアンサー：「うちにも泊め返さないといけない」 「相手のご家族に信頼がない」 …あたりですかねぇ 中高生になると親同士が面識ない事多いですしね 回答数： 6 4/22 0:14 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e988] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327444672
+              - generic [ref=e989]:
+                - paragraph [ref=e990]: 家族関係の悩み
+                - paragraph [ref=e993]: 中学、高校の娘を、女友達の家に泊めるのを嫌がる親の気持ちを教えてください。 よろしくお願いします。 (分かりやすく説明するために言語化が必要なためです。)
+                - paragraph [ref=e996]: ベストアンサー：「うちにも泊め返さないといけない」 「相手のご家族に信頼がない」 …あたりですかねぇ 中高生になると親同士が面識ない事多いですしね
+                - generic [ref=e997]:
+                  - generic [ref=e998]:
+                    - generic "回答数：" [ref=e999]:
+                      - img [ref=e1000]
+                    - generic [ref=e1002]: "6"
+                  - generic "4/22 0:14" [ref=e1004]
+                  - generic [ref=e1005]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e1006]:
+                      - img [ref=e1007]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e1013]: "50"
+            - link "家族関係の悩み 妻の日常について質問です。 先日妻、息子、私で実家に帰省をしました。 途中ホテルに宿泊し片道400kmの旅行で妻は全く運転しません。 運転は全部私 息子にミルクをあげるのも作るのも風呂に入れる... ベストアンサー：パパさん、頑張っておられて素晴らしいです 多分、奥様、少し鬱っぽくなってませんか？ すぐ泣くのは、症状の一つです 毎日母乳(＝血)で栄養吸い取られますから、 鉄などの栄養不足が顕著だと 思考判... 回答数： 15 4/24 8:14 ベストアンサーへのお礼（知恵コイン）： 500" [ref=e1016] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327503540
+              - generic [ref=e1017]:
+                - paragraph [ref=e1018]: 家族関係の悩み
+                - paragraph [ref=e1021]: 妻の日常について質問です。 先日妻、息子、私で実家に帰省をしました。 途中ホテルに宿泊し片道400kmの旅行で妻は全く運転しません。 運転は全部私 息子にミルクをあげるのも作るのも風呂に入れる...
+                - paragraph [ref=e1024]: ベストアンサー：パパさん、頑張っておられて素晴らしいです 多分、奥様、少し鬱っぽくなってませんか？ すぐ泣くのは、症状の一つです 毎日母乳(＝血)で栄養吸い取られますから、 鉄などの栄養不足が顕著だと 思考判...
+                - generic [ref=e1025]:
+                  - generic [ref=e1026]:
+                    - generic "回答数：" [ref=e1027]:
+                      - img [ref=e1028]
+                    - generic [ref=e1030]: "15"
+                  - generic "4/24 8:14" [ref=e1032]
+                  - generic [ref=e1033]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e1034]:
+                      - img [ref=e1035]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e1041]: "500"
+            - link "家族関係の悩み 異次元の少子化対策は30代後半から40歳代以上の独身者が増えているので厳しいですか？ ベストアンサー：元から対象はそれ以下です。 回答数： 1 4/21 16:04" [ref=e1044] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327430535
+              - generic [ref=e1045]:
+                - paragraph [ref=e1046]: 家族関係の悩み
+                - paragraph [ref=e1049]: 異次元の少子化対策は30代後半から40歳代以上の独身者が増えているので厳しいですか？
+                - paragraph [ref=e1052]: ベストアンサー：元から対象はそれ以下です。
+                - generic [ref=e1053]:
+                  - generic [ref=e1054]:
+                    - generic "回答数：" [ref=e1055]:
+                      - img [ref=e1056]
+                    - generic [ref=e1058]: "1"
+                  - generic "4/21 16:04" [ref=e1060]
+        - generic [ref=e1063]:
+          - generic [ref=e1064]:
+            - generic [ref=e1065]: "1"
+            - link "2" [ref=e1066] [cursor=pointer]:
+              - /url: /category/2078675273/question/list?flg=1&type=list&sort=16&page=2
+            - link "3" [ref=e1067] [cursor=pointer]:
+              - /url: /category/2078675273/question/list?flg=1&type=list&sort=16&page=3
+            - link "4" [ref=e1068] [cursor=pointer]:
+              - /url: /category/2078675273/question/list?flg=1&type=list&sort=16&page=4
+            - link "5" [ref=e1069] [cursor=pointer]:
+              - /url: /category/2078675273/question/list?flg=1&type=list&sort=16&page=5
+            - link "6" [ref=e1070] [cursor=pointer]:
+              - /url: /category/2078675273/question/list?flg=1&type=list&sort=16&page=6
+            - link "7" [ref=e1071] [cursor=pointer]:
+              - /url: /category/2078675273/question/list?flg=1&type=list&sort=16&page=7
+            - link "8" [ref=e1072] [cursor=pointer]:
+              - /url: /category/2078675273/question/list?flg=1&type=list&sort=16&page=8
+            - link "9" [ref=e1073] [cursor=pointer]:
+              - /url: /category/2078675273/question/list?flg=1&type=list&sort=16&page=9
+            - link "10" [ref=e1074] [cursor=pointer]:
+              - /url: /category/2078675273/question/list?flg=1&type=list&sort=16&page=10
+            - generic [ref=e1075]: ...
+            - link "次へ" [ref=e1076] [cursor=pointer]:
+              - /url: /category/2078675273/question/list?flg=1&type=list&sort=16&page=2
+              - text: 次へ
+              - img [ref=e1077]
+          - paragraph [ref=e1079]:
+            - generic [ref=e1080]: 約1,921,581件
+      - complementary:
+        - generic:
+          - iframe
+    - generic [ref=e1081]:
+      - link "占い師にお悩み相談" [ref=e1085] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_ca-top_000
+        - img "占い師にお悩み相談" [ref=e1086]
+      - generic [ref=e1089]:
+        - generic [ref=e1090]:
+          - heading "カテゴリQ&Aランキング" [level=2] [ref=e1092]
+          - paragraph [ref=e1095]: 家族関係の悩み
+        - link "1 京都府の安達ゆき君の義父の名前は、安達優季ですが、あだちゆうきと読むのですか？" [ref=e1098] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327277491
+          - generic [ref=e1099]:
+            - generic [ref=e1101]: "1"
+            - paragraph [ref=e1104]: 京都府の安達ゆき君の義父の名前は、安達優季ですが、あだちゆうきと読むのですか？
+        - link "2 子ども子育て支援金65歳の人も払うのか？" [ref=e1107] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327313029
+          - generic [ref=e1108]:
+            - generic [ref=e1110]: "2"
+            - paragraph [ref=e1113]: 子ども子育て支援金65歳の人も払うのか？
+        - link "3 もうあだちゆきくんの件、父親ですよね…" [ref=e1116] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327271546
+          - generic [ref=e1117]:
+            - generic [ref=e1119]: "3"
+            - paragraph [ref=e1122]: もうあだちゆきくんの件、父親ですよね…
+        - link "4 京都行方不明の件についてなのですが、なぜ父親が疑われることになってしまったんでしょうか" [ref=e1125] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327211859
+          - generic [ref=e1126]:
+            - generic [ref=e1128]: "4"
+            - paragraph [ref=e1131]: 京都行方不明の件についてなのですが、なぜ父親が疑われることになってしまったんでしょうか
+        - link "5 「安達結希さんの母親の実家は､地元で有名な大地主（土地を売却すれば数十億円」「それに目を付けた義父は､将来財産を独り占めする際に､結希さんの存在が邪魔になると考えた結果なんだろうな…？」「とも考えられるわけだ。」↑の回答は何ら確かな確証はないのではないでしょうか?" [ref=e1134] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327291239
+          - generic [ref=e1135]:
+            - generic [ref=e1137]: "5"
+            - paragraph [ref=e1140]: 「安達結希さんの母親の実家は､地元で有名な大地主（土地を売却すれば数十億円」「それに目を付けた義父は､将来財産を独り占めする際に､結希さんの存在が邪魔になると考えた結果なんだろうな…？」「とも考えられるわけだ。」↑の回答は何ら確かな確証はないのではないでしょうか?
+        - link "6 継父だけでなく母親や祖母も共謀していたのでしょうか？" [ref=e1143] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327271098
+          - generic [ref=e1144]:
+            - generic [ref=e1146]: "6"
+            - paragraph [ref=e1149]: 継父だけでなく母親や祖母も共謀していたのでしょうか？
+        - link "7 11歳の子供がいるのに新しい男と新婚旅行に行くのは普通なんですか？" [ref=e1152] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327249871
+          - generic [ref=e1153]:
+            - generic [ref=e1155]: "7"
+            - paragraph [ref=e1158]: 11歳の子供がいるのに新しい男と新婚旅行に行くのは普通なんですか？
+        - link "8 安達ゆきくんの事なんですが、母親も怪しくないですか？" [ref=e1161] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327309037
+          - generic [ref=e1162]:
+            - generic [ref=e1164]: "8"
+            - paragraph [ref=e1167]: 安達ゆきくんの事なんですが、母親も怪しくないですか？
+        - link "9 京都の継父の心理はどんなもんだったと思いますか？婿入りした家に居場所なかったんでしょうか？自販機買いに駐車場に止める車の運転荒かったなどからストレスたまってたように見えます。ユキ君に対する嫉妬みたいなもんあったんでしょうか？" [ref=e1170] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327314329
+          - generic [ref=e1171]:
+            - generic [ref=e1173]: "9"
+            - paragraph [ref=e1176]: 京都の継父の心理はどんなもんだったと思いますか？婿入りした家に居場所なかったんでしょうか？自販機買いに駐車場に止める車の運転荒かったなどからストレスたまってたように見えます。ユキ君に対する嫉妬みたいなもんあったんでしょうか？
+        - link "10 今TOTOのユニットバス受注停止に伴い建設業がこれからたくさん倒産すると言われていますが外構業も含まれてしまうのでしょうか？旦那が外構の自営業をしているのですが、中東情勢の問題でこっちにも影響が出始めている。と言っていました。旦那の稼ぎは結構良く、私も専業主婦なのですが今8週目の子供を身篭っており倒産と聞くと少し不安になってしまいました。" [ref=e1179] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327245103
+          - generic [ref=e1180]:
+            - generic [ref=e1182]: "10"
+            - paragraph [ref=e1185]: 今TOTOのユニットバス受注停止に伴い建設業がこれからたくさん倒産すると言われていますが外構業も含まれてしまうのでしょうか？旦那が外構の自営業をしているのですが、中東情勢の問題でこっちにも影響が出始めている。と言っていました。旦那の稼ぎは結構良く、私も専業主婦なのですが今8週目の子供を身篭っており倒産と聞くと少し不安になってしまいました。
+      - generic [ref=e1188]:
+        - generic [ref=e1189]:
+          - heading "カテゴリマスターランキング" [level=2] [ref=e1191]
+          - paragraph [ref=e1194]: 家族関係の悩み
+        - generic [ref=e1195]:
+          - link "1 Takku Takku" [ref=e1197] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1215278977
+            - generic [ref=e1198]:
+              - generic [ref=e1200]: "1"
+              - generic [ref=e1202]:
+                - generic: Takku
+              - paragraph [ref=e1205]: Takku
+          - link "2 あいな あいな" [ref=e1207] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1051818466
+            - generic [ref=e1208]:
+              - generic [ref=e1210]: "2"
+              - generic [ref=e1212]:
+                - generic: あいな
+              - paragraph [ref=e1215]: あいな
+          - link "3 kngthwjgtma kngthwjgtma" [ref=e1217] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1147949663
+            - generic [ref=e1218]:
+              - generic [ref=e1220]: "3"
+              - generic [ref=e1222]:
+                - generic: kngthwjgtma
+              - paragraph [ref=e1225]: kngthwjgtma
+        - heading "急上昇のユーザー" [level=4] [ref=e1226]:
+          - generic [ref=e1227]: 急上昇のユーザー
+        - generic [ref=e1228]:
+          - link "冷静分析 冷静分析" [ref=e1230] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1154427951
+            - generic [ref=e1231]:
+              - img [ref=e1233]
+              - generic [ref=e1236]:
+                - generic: 冷静分析
+              - paragraph [ref=e1239]: 冷静分析
+          - link "******** ********" [ref=e1241] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1241755158
+            - generic [ref=e1242]:
+              - img [ref=e1244]
+              - generic [ref=e1247]:
+                - generic: "********"
+              - paragraph [ref=e1250]: "********"
+        - generic [ref=e1251]: 更新日：2026/04/20
+      - link "公式・専門家の回答はこちら" [ref=e1254] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/expert/
+        - img "公式・専門家の回答はこちら" [ref=e1257]
+      - generic [ref=e1260]:
+        - heading "カテゴリ一覧" [level=2] [ref=e1263]
+        - generic [ref=e1264]:
+          - link "生き方と恋愛、人間関係の悩み 生き方と恋愛、人間関係の悩み" [ref=e1266] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079526977/question/list
+            - generic [ref=e1267]:
+              - img "生き方と恋愛、人間関係の悩み" [ref=e1270]
+              - paragraph [ref=e1273]: 生き方と恋愛、人間関係の悩み
+          - link "恋愛相談、人間関係の悩み 恋愛相談、人間関係の悩み" [ref=e1275] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+            - generic [ref=e1276]:
+              - img "恋愛相談、人間関係の悩み" [ref=e1279]
+              - paragraph [ref=e1282]: 恋愛相談、人間関係の悩み
+          - link "恋愛相談" [ref=e1284] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675272/question/list
+            - generic [ref=e1285]:
+              - img [ref=e1287]
+              - paragraph [ref=e1291]: 恋愛相談
+          - link "友人関係の悩み" [ref=e1293] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675275/question/list
+            - generic [ref=e1294]:
+              - img [ref=e1296]
+              - paragraph [ref=e1300]: 友人関係の悩み
+          - link "家族関係の悩み" [ref=e1302] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675273/question/list
+            - generic [ref=e1303]:
+              - img [ref=e1305]
+              - paragraph [ref=e1309]: 家族関係の悩み
+          - link "職場の悩み" [ref=e1311] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675274/question/list
+            - generic [ref=e1312]:
+              - img [ref=e1314]
+              - paragraph [ref=e1318]: 職場の悩み
+          - link "ご近所の悩み" [ref=e1320] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079495801/question/list
+            - generic [ref=e1321]:
+              - img [ref=e1323]
+              - paragraph [ref=e1327]: ご近所の悩み
+          - link "学校の悩み" [ref=e1329] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401676/question/list
+            - generic [ref=e1330]:
+              - img [ref=e1332]
+              - paragraph [ref=e1336]: 学校の悩み
+        - link "カテゴリ一覧を見る" [ref=e1338] [cursor=pointer]:
+          - /url: /category
+          - text: カテゴリ一覧を見る
+          - img [ref=e1339]
+      - generic:
+        - generic:
+          - iframe
+  - contentinfo [ref=e1342]:
+    - generic [ref=e1343]:
+      - link "Yahoo!知恵袋" [ref=e1344] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e1345]: "|"
+      - link "Yahoo! JAPAN" [ref=e1346] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e1347]:
+      - link "プライバシーポリシー" [ref=e1348] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e1349]: "-"
+      - link "プライバシーセンター" [ref=e1350] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e1351]: "-"
+      - link "利用規約" [ref=e1352] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e1353]: "-"
+      - link "利用のルール" [ref=e1354] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e1355]: "-"
+      - link "広告掲載について" [ref=e1356] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/?utm_source=yahoo&utm_medium=referral&utm_campaign=ysa_cv_link_chiebukuro_241001
+      - generic [ref=e1357]: "-"
+      - link "ご意見・ご要望" [ref=e1358] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e1359]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e1360] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e1361]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e1362]: 画像：アフロ
+    - generic [ref=e1363]: © LY Corporation
+  - generic:
+    - generic:
+      - generic:
+        - paragraph:
+          - img
+          - text: 通信に失敗しました

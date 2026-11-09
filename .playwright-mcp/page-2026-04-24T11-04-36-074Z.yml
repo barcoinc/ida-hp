@@ -1,0 +1,620 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - paragraph [ref=e15]:
+          - link "想定外を生き抜く。10年前の熊本地震の教訓から学ぶ防災術とは？" [ref=e16] [cursor=pointer]:
+            - /url: https://yahoo.jp/TmGP4V
+        - generic [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+                - /url: https://www.yahoo.co.jp/
+            - listitem [ref=e21]:
+              - link "ヘルプ" [ref=e22] [cursor=pointer]:
+                - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+          - generic [ref=e25]:
+            - generic "キーワード："
+            - textbox "ウェブ検索" [ref=e26]
+            - button "検索" [ref=e27] [cursor=pointer]
+            - link "かつみさゆり 急上昇" [ref=e28] [cursor=pointer]:
+              - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=%E3%81%8B%E3%81%A4%E3%81%BF%E3%81%95%E3%82%86%E3%82%8A&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+              - text: かつみさゆり
+              - img "急上昇" [ref=e29]
+      - generic [ref=e30]:
+        - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+          - img "Yahoo!知恵袋" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - text: IDでもっと便利に
+            - link "新規取得" [ref=e36] [cursor=pointer]:
+              - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fsearch&.src=chiebukuro
+          - generic [ref=e37]:
+            - link "ログイン" [ref=e38] [cursor=pointer]:
+              - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fsearch
+            - link "初回購入限定、アプリで使えるお得なクーポン" [ref=e40] [cursor=pointer]:
+              - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8zMDkzODgvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9zaG9wcGluZy55YWhvby5jby5qcC9wcm9tb3Rpb24vY291cG9uL2xpbWl0ZWQvZGVidXRfYXBwLz9zY19lPXl5bGtfbWhkX3R4dF9zaHBfcG1zc191bmxvZ2dlZF9hcHBfZGVidXRjb3Vwb24/
+    - navigation [ref=e42]:
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - textbox "Q&Aを探す" [ref=e47]: お局 職場
+          - button "キーワードを消す" [ref=e48] [cursor=pointer]:
+            - img [ref=e49]
+            - generic: キーワードを消す
+        - button [ref=e51] [cursor=pointer]:
+          - img [ref=e52]
+      - list [ref=e54]:
+        - listitem [ref=e55]:
+          - link "カテゴリ" [ref=e56] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e57]:
+          - link "Q&A一覧" [ref=e58] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e59]:
+          - link "公式・専門家" [ref=e60] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e61]:
+          - link "お知らせ" [ref=e62] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e67] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e68]
+        - text: 質問・相談
+  - generic [ref=e70]:
+    - generic [ref=e71]:
+      - heading "「お局 職場」の検索結果" [level=1]
+      - button "この検索条件を保存する" [ref=e74] [cursor=pointer]:
+        - generic [ref=e75]: この検索条件を保存する
+      - generic [ref=e77]:
+        - generic [ref=e78]:
+          - heading "「お局」には気を使うべき？遠慮して誰も何も言えず毎日モヤモヤ" [level=2] [ref=e79]:
+            - link "「お局」には気を使うべき？遠慮して誰も何も言えず毎日モヤモヤ" [ref=e80] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAAG5m9TYws-4h1gF_UIRR2CrHH8i1DWxim0XE8G2cRB554ydpAh8XkISKst79ZkUMKR17NePf3u7QUvaDJ92w1tZLlw4JUydG78G2sgwd7lHll3_QCcAvuTcnjSV4s9smGWQJ4vuziAc9CKOdBrGhAF476CfyGB2fbJRcfEeGsTyXippMNGtNsXlzjcWuXBlGfJXENsyOSJgzvjUGSwEsNGfhf6ANyxhyP8g-Fai3lTDbkwVrKi31xlAJtgHDvTKgJbLn1PkIQwhc0qdizqzQB7sEHc0JzJoDEOeil-jBlRidS65EKT3_e-hGdS5NVg9ZeqA3I-hIp-uafzVLCrm2_R3A21NQMBUwKPC5qtPxfvtP6DQWAdgM1Tyjgtf-he8ndFudZWuJLvUHhrcwCAh-rmRqwV1bdINrDvRZIHwVN4douFImQ8G1xC57jqi48mwALR7yg9nGDkv_Dx6-UXeC25BqnZUr1zVlAZWx0OC1pygWz5xxhoWb5TXBhoa2KkBu2s71NYKyUQqF27FS991X8cp1Uc1H15OwkThEsTv1xPJpbuKDQNea3ZDeOB2NmPpIVSy0-kpeCUqvAH7JVHmLVN6ApmyXj3fg4Bro9SorXTR0slArUdNhxYIA7IVORGjivP9zJ5qh1sZ2x_XlM_5dEjFJClmlBN5sZNPZbU_uxtvgb8gvjcpO9ruE_v5n5-gOF_IjXa1RmUDx0Q2OIK9uYUhkM44uyd0h9EIec0hNy-JUwZ9LXBP2yQUyn8qJsQujfMBQYYiNzJCQsc40ARSRtfB1OJJmRKNvvj7BEQndxKHIrfQufOOPeBzTxpqUMOWP8a5RnrUdb1Ga1PZquNsSUVJmxImBGzgV6OiVUymtMpH3wFuCBkIy_gdIfGz_O-NeP9HQdnfrtXyzfQ0JvBN0Kt3_idIElDc-59n1NCFiXI1cZpbExVOhNgwvzBJ_xOPGkPlzWYTkG9jkEGUh8giiHdd13ecc8bDz7eQujRXOaVIhQ6kXMKejSeb4I823KYz4qSQX9ho5rk0NytVCOJseRe-KtD_abBOlGpVQ0Ktb-UheWFNu3Fbnzes2C2RQJ7mOodPTR_hXRrf9s_ResuGbpXm5YGRqgp_pkx-8BMRVONddFknRgbEH6COCxH9hbFWv0YVzmviBBKqh8gF5efUcLONu_fsSkFognh5lF9TXMinPM9vtV4Boz-LeHENfgBqCnsYN9yzIH8Hh1ZD5haN0eREkupt5GWa6wcPtxBWj0vXCpdwct08RZHFLMH81Txri8ejN2YpUQnqQ-nz9pJFUfQ71_r4Idyq3mVyk6gsia4ALgGcIzQuZXuygzAvgXoZzDgD4MLcDDJOelxuPUxeg99mNydWGqTqFk9NBARyCD_6Ul5Qs4yoULn3qRqVcQ_BMgigVuMkuARFe74M4kTvHCtihUZ0CYlrnVqhquB80r-NbOJGj4-0vbATSQGlYCmZq4lSAnnj-CNHJJpV1ijQZCg_IBkSlqHkrY4wcQZG6fV8X7a8smABAJBscfmWiqG1VKDbrdGjob2mbKKu_ca-qkrGberkd7tCscqF1LEiasNgl85Mh_fDUHnXLHbOqk1X4FHqwtj-pp48;/?ep=A0NO62kAAAj0GpcCbKyv0vm4PVPko4UyRo2tBqFsEGpZEgCWYDvXCCUkcZpNoF4nuXkdI6QaIB29cwNDCxEZg5fpesxyVbRo0PbMTqyqI-IOlbUbgvVEC34nQzky5_zayMYdXjN6WvrWwch1QYH5mbam_VQ-fjyk8ldt5AETBNf-aTBK8H6yeOrfYWJ_1MHfsbryapP95Hh6vwmwFu8ILRUf998&v=2
+              - text: 「
+              - strong [ref=e81]: お局
+              - text: 」には気を使うべき？遠慮して誰も何も言えず毎日モヤモヤ
+          - paragraph [ref=e82]: 女性が活躍できる求人情報多数！希望にあった求人を見つけよう／転職はdoda。転職活動の疑問に応える充実のコンテンツであなたをサポート！希望の求人を見つけよう。転職の悩みを解決。
+          - generic [ref=e83]:
+            - text: 広告www.doda.jp/
+            - button [ref=e85] [cursor=pointer]:
+              - img [ref=e86]
+        - generic [ref=e88]:
+          - heading "職場の人間関係がつらい時は | 逃げじゃない、選択です | 職場 人間関係" [level=2] [ref=e89]:
+            - link "職場の人間関係がつらい時は | 逃げじゃない、選択です | 職場 人間関係" [ref=e90] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAAGla5x3y2ilJ1EuX_bCHhqPjUZpIXbbeZwK8XVLxmyJLoPap3scjf0rWWzIA80Hjopfrdii6hvu7tktY03cK6kWZRblGqp7gVo5pCmKzHUnEc2OHOefQzT_8d86ckpCgHb7fkxeFAtoJqTZ_VXUI9px8Up0IF4762OZaAHxFbx_zTDRGQaMCT2GOFQSE1MCDD4TrpIPNSmp84aCrlyjAVkZS-H-ujL-sLsGIr-LCb0q7l2wb0Xo51Al8vGM_CuoVWtbSWibXUfLTW5y4-dpSgN513hZfqc_a04ar_0sPNmcNlmC3gj8UdXS--zqwKbLGIpYAcCUablOkKoIU7-IEzvjw_CXrtzZKYWqpBx8pTD-DNN_LftNH3TF9o8pFyEduqChjaa9EYdMCzEwYbDEY61ACD-Nj5zdWnKLyL9QkNoiMDVnOKv4wkux0O09HK-DCYa9XYUtG6XKaC-niYEre6GEc4NXZ3Hhr-Rf3EZcgj9wYjxw4O89AOW9qoV3fPyQ2nW5Yp6ON7CKx0EDrRlMhp1IALRKfv6BzjM-RsfM1N-vv7SyTt5foGpxwK6z_gAzfbRpLDhw4IBz6fkKGvsjsyobAMPMzAMFguX6T0WFa7YoV3PC9XcNDLBckVG6Y8wUoS77UBCO66VHvlSyAv6TSu7zK4H4T0Y9SAiZzfj-Z30fOEqgLSlzMshKxTh5YRkm9J17k99RWtAl2TWqKnqePdatc1bHeNKbQJlJcHV_ORkx-KdWeS5qZ-rmVXddmUnyyhalkFsD_kbkOAotv3LLWoSIcYgYi8PivLwVqa4CEl9n2jXjmQw4rh3WsgaIZhY0E3q8GQBKox9QLnHg0bMMgsQcEfDU27N6zC5T1L6WBK5OJgsV_DSkjypFdKfAA9kpzkgARcUhQwiJ93AjhL-niShmGIEtFlbqtgLUNXJ6RbptB2WMC2rF87-nuRxbGnys9EuDDfQ2VB7oETOqU2_nS98HgCUfGQCYP4WlB5sqDnWoeGHUNU4LKRTbBE-WDIGqRslS1eoNgdWSbPsHfcWbQsJZXhBWYUdfTNQjsZl7iok8Vhxtwew1ujLT79Lc40kq-xoPTuQOao6g-igzEbJkwjgGNOzGh3rx0yJu3Wee2Vy9YQSNMZJngX9eYUUHVnCEblSHKW_6hKG1-NwJO_KWdij6qNKV308Jd0-3OcktyWz511G05vpWGuKn_wQ6Ux_W_o7oxbquW7c5Dae9Xn8kJHCUCuJJzN_x42xRBrnwzyl0G6Gt31n7Y9aB47uwl5rgijmMYmb8YqsHeiyUcrSW48aNf4ohlXHnc5OjJzVB0frxf4IP3CxzjhasoprRaVNN5_qs-gFAuSRUgJOCq4-BSfQonOwgH3M-Ts9RSYXEuyX9CqHCs37QvQL-qG67RH3TAearLz_A_e31mRo32NLe5CWSQtdahcM8Xp7tBNPeTw0-DVISAhnqkCgi_1sLikSTfAJ1g-3eAvJw;/?ep=A0NO62kAAALGd_Ku4_i93NDjIu_27Q9LDhz7c645ht3AG1gZe1_gBgOG7dqG_42xL7cOAL5ydAN2BO0N99sg0ck2tttuPf_YVaKwxObXgbgg1OzxkiSZ08LXgWn4kY4oYIRaZqahqd3r_Z7khCjfWEE6GUX4_RPXflLN1pBIQVwIo_nbFIjXWvJIyo3NnBCMi6AzP2CRVn3i5k_pRPOKOZ1FRJ0&v=2
+              - strong [ref=e91]: 職場
+              - text: の人間関係がつらい時は | 逃げじゃない、選択です |
+              - strong [ref=e92]: 職場
+              - text: 人間関係
+          - paragraph [ref=e93]:
+            - strong [ref=e94]: 職場
+            - text: "の人間関係がつらい方へ。ストレスの原因と対処法を解説。環境を変えて悩みから解放されよう。人間関係の悩みは自分だけでは解決できません。限界が来る前にできる行動を紹介します。仕事の悩み。転職応援メディア。退職したらやること。キャリアについて。転職サービスも紹介。サービス: 非公開求人紹介, 書類添削, 給与交渉。"
+          - generic [ref=e95]:
+            - text: 広告www.naruhodo-tenshoku.jp/職場/人間関係
+            - button [ref=e97] [cursor=pointer]:
+              - img [ref=e98]
+        - generic [ref=e100]:
+          - heading "同僚のフォローに疲れたら" [level=2] [ref=e101]:
+            - link "同僚のフォローに疲れたら" [ref=e102] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAAFSikhOiMIP1YuE54QM1iRdC-bV3emlfpJy1PGuRJCMKVW4tcNce8_F4TtIuuD3JbDRB0jXVV2nvgACa1UlNv0Kf1SrSCXgUKSlrEtr9eUl1aeIAey2PKVESu4C403qq8_tlDwKiV9r_0FrHaUSOBQuOHLYeLPeVrU9QG2fQNgwwBVcFNfPCWMHUoKIXEnk1a7f9s5nTluMENhnAbA59t5RCPMi1GUHMXul-TWfQFi3wC2nsY0IT1vt5nWwFwJkYYF4qE2ZAJNK9AvRkIOONDRx_OxqOpBsvlkxBDeKJrE8OxBYAXW6cOEngelCwnlVO-PMQ2BfhMBntihmAzKjPsJu-HDf8JpW8qJZxv9sE6lJC5FuTFfz4dRS99lo5gkbLoXAATxsL0TBiYlrY545IgksszylE-nG1PZ4ItIcquLJWTAG5oSQe9M5BSPzGsaH59_obf1MZpg3h65qchllPASK9ZiPn_ShbxQi7Rr-v2vo7_5ds_HfJ94zXAuSclyB0wnyjXvzIpNT0mWI9KEhnYcRg4zODjIgqkR5uIABaFtragnGyz_FwPdH_Usa9T6VAzjTMlg_vdEJXasJsm2gCkx94DtunrEiOILVDZbzIPBw7TA4OIwQeWIhUVMdm6uu7F3QtpELVj8wfUyDbwIYc9XIQmSRpaThtnEAElJBVuphRqNqDiSYe5rHXbWNQ500Yt6UVEKdir2ta1BBc2JzK_s8FbkUQBuCPqfNUzvHTrAJn7LhbOFZR_AI0xAOOt0EMzwTh_2bG_XIhv9s83ztntTQqSXOYBB10J7YTKwAAaCfy588EDOe7Z4UQNJ9P1ud4dEswqcCp5CBPT-0k1SzGGV1xed4pQCCxLkgOguRtaE8fVPW8f8e0Xc8QzqIJ5WbwTyJHkUC1GJBElBSjY6WkRCTBf3YU7H5TfK7EUGaI6pphH8FvxOBKyGdT-BgaCHuIk_iIp1JRX-3W6C8O7I7-V1I7NLKkgdhjkHr9Wc-JgsaijVutCjWOS2EgjlD_lLoB6cg8J6B0PSVGxgFqzzKeZNlD8xuM6KLKA8UlNPiGk84v3xg4_gQkXOUjU0_SLEgGNMJZegbpIOBmtsY682ORw9BhJQy0UYaGsFplihtgEJGkDDAJN-s2hNmIxXML-rjfW-BeF-d9Uh3KgYp8vBGbV7bZzQdr1vIUF9tX4WtyAMqg7Mrsav2OmKdKKlMP6M5-TrprKZNXrDAmkgQOQf8Kfmjk6WSCgCztUdVe1BoGrBYdQLJBUHzZgRbvXZFWCrRh78msT-RDaKReKslsmsEvNSfq9pLREzxGFjB6WTPU7L7WBkXqZgMzsdW30J2jJWalziH6Ge7ZrIf-Qk1BoNatwg-lybo4N4-H__QRfA8gqGpNVTxDx4KIGDFRn3Z_vckV7cN5RxHLlyBOKmch6QZdk7ybSBui66MAfoRHlvrlKgkDXh-wtdTfg44oeKzEu7w9cuXZalBvHoqdE93BJGlfxMExGl8AoBirwYGtRaD8WNptpv0sWFgz00cptlTcLIBnqAFzeEeqrNjeWbrQu4AZBhXJAR1nEViWV9mi_AuTY1gFn9h9ySwI9ZbP1LNYQSSap7qqcT1rEysILGDvTDrozAhgck8kpPaQIbsxjEw3tsDmF35c2_C3nvar;/?ep=A0NO62kAADnyv7aNGs4-eZGnzS1GUTd2HsYhxmvUiD1ViMjpXHWyFgqd3LbsbpkN5JqjXwnuY_QvGuvBG5svUkxLm1COzLyCU_WHsaVrw0hgEBtvHy6F6cntqdHKtB-B9XIqxwdbYDtp7a3fQYNsOyLFhGAuPSP8IHTL1SGkjhTgcUXlyVwJ2XTSPMhlq5uF3YZiNtzSW5g0QKpvQPBZ5B_NTgs&v=2
+          - paragraph [ref=e103]: Kindleで最新刊を今すぐ読む - 気になる本は無料で試し読み。豊富なレビューも参考に、お気に入りの一冊を見つけよう。 漫画や雑誌、小説・ビジネス書などAmazonならではの豊富な品揃え。無料で読める本も多数。 季節イベント、セール満載。さらにポイントが貯まる。700万冊以上Kindle本、漫画。手軽に返品できる。
+          - generic [ref=e104]:
+            - text: 広告www.amazon.co.jp/kindle本/お得に買い物
+            - button [ref=e106] [cursor=pointer]:
+              - img [ref=e107]
+          - paragraph [ref=e109]:
+            - link "雑誌・週刊誌" [ref=e110] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAAAT2-9vkPax6nberTcpqw7GWqauinFzSgsIemNPFX1Rq48PbSZnYD14VBKxijQznT-u6Gtf7LHra0GcDLaPxCDqWBjHA-dmG6hvJhEK4qFXhNs_1ySHwkHBqkn621q59Rt3ERqPoRygZPXA0b_Fn8kWZd0J10ATb5NggMBfqH0cIg1o2nC1rNUWCH86QmMvChF_Nbznr6IFcgqxGEBq-sk_7omR7Af1SA4zIIskzdmqOF2-ARHHgeHXz-h2gUvKTNIdttaUVZ1Cp2lBUloeZvzQEpSMtwwG55F10FNO2KwDls1cqOvD2OxZ56UyLVDdsNakst2Fos-D0Dq-ZOABCUoo3rDxQdj3C4yYTmOa_vFVQPeFSGW318wCCVtqZKJlQvoQzXIEjmNg95oIBA4TLwsQrm77uquvoFzw4DgLZnfNMbJychJoZ6r2ylL_571DG7g83IRl5d7Wih_xGt3d2L9jFrRiznC52EgxAEtRqQAd86wfoSv9C_w_iscK_YHY8c5Ps11_o2yRK5PNc2jAWUzinQ-Po0Rn2g5oTnIYvQoaRp5GDRPAAL7xyb2nqAlbzveoPbaDt0UuirU5sxd33WJtgpQ55ZhAG7AGnron0AUaiW36qH2bM5yKKSezOXMfSlrArlBgCc73YZRw6HWYbkvaBZKbwj7B7ZHSf5MFJYXTbGw0sWPzJHDkdGT3-AU-d3-_JHlB0lUuOJsIehCwHfUiNT87DfcrWzqqaAYD1t2DUHDx2itGcHrt9oXFIaqKKv6muWsdiM1Pt1xVqQPpq7GSyFC9Ns5sYo9rb4xnVKpOC0UrWPy0QJc-PYtK3uEuaGE7ji37BDc9q4mgqMBnJeNnJclh7c9U4Iw2B8lVnXM-A1krprC3zUuFqbARjNHfx-G-n3b3tfYKZh9X8qmKM3ScXsbTpcoZQrM0ix3Vtg1zZoQR7KOQEAxzP0n7fUBBnWnpTxP4jj1f4arT78i1LCLIuKZnKd80FP_THm7Dj1oEGETqituWpKcBTBuR70Y7HrUwndU1_HmbfxHiBF25T2HkchN5unyWHWfj1mKzVGp6OPo7e-Ro5GRruLriXwmRn-d55dUpIBQgEzSiPM6PYuYsoZOVNZypMJjAk0fkE6uptxq1BOBbD4X81e6X-jaNwI77zuqAXd4npolZ0Js5mfIa7WTP63qNCQJXAc8QqmyuFiVZ112qwvYqJXiiXT4zSb-RuN2ylNj0H6dLns_9ba-OaDjatLagENSa6EFRZs92g5GRS958kCYmv5Wa9ZqEFJLoXSRYGanXlt-6kTeHF7LpfmrOZkwW6bmeek9cV7g2CejZVoTQulJp-3vndEpBjeUQFXiF4FOHj5fZBC1GenGXSqcQkwuaKkXyRXFxM1oVXr02gYLGt1Z9g-3z55XWGVay9fIZ-NFHj5n_HVE9S70HHpVnFa2s0BvAElJ1c1rKPrE6_VlnHsyvwG3Txg6KftDMo6EK1Chyl55_dKGkl9v6wDYJ9mB6UkWn_nQcFDdgkT7Fw-vtmOPI9VBuP_-Io722c0cXffonSTyG0GgzqJcUx2__VFhr7G9d1H6VZeDJc9oJm_bWb-Tm2sZz8-Bp-_ePbdns;/?ep=A0NO62kAABaFQsp-90Ur2VXqpx68aOhzm7JfmfYKxAkUgR7j8cURnBq-Fpzh0pZDEuxlezos7PrNngsfjHluk9gg05thIslxdVSBiTKDPZb3mh_NM6aXHvY0uwcZH_fhf4xohZVF9b5HoMFt5wIjbnHVkrngGPijy96B4h97IfWVrk46-E6Mp_y5GTC2TQB6xrcrMwQMWFX2vE2Bf0toQbIgZrA&v=2
+            - text: "-"
+            - link "Kindle本セール" [ref=e111] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAAPIZvv6abkkVbOc8L2-NXqTpJi2L_UVg7-h58G-3NZoq5gJnk2RBK8hOZgZaguNeKT64RVW6ojsUSxhBnR9uGh1XuJwHuVKWE96knMlcndhu675werqTrcOXQowAQIWy2FnEA8YPJvT6Y2cfDt82VwRMWHYnKULoHy9Qv4KLL0l9pwsffUWkDp69wrouMgPORxfFhCezwDI_FW-2Yh6h3PxTvCvEEDKwJi8ndGvCKEtLx9XORu8bJhq757cxCSKKAFSao193TUvSmF95Yom_ROaciQp9vMvi2-r6W48t1idWW7NmZsQ9Wn7harP_kZLU2imFN9raI5WzSYi4Kj7p4EbbTYsm5IlsJTL_e4ZYhYxdQhAVyjsIyiWFNFWBlDFAKvH0zTpwRkt6fVloWO9k3JKImFG0qpafMMMmmNgb3OEFCFrxZKR9XfumG3S26niJUuBOCOpH3yIoXMW78DnR2ARUaDtjWc6tFTd6X1L2rmRkJkblA46vJlMV_THK0Hx8an9RtSVHDNnFlaHF92M_y5QUjZkKnRz44mH2qLS39f3PC2bemxXJ1plwK9preAS7fTGFQTywr1XaY7xNH2R2Uh3zSFx4yd5o76MneL1XTWvxSuAHaxmKGqum9x3BvWnLLIYS5jc-DAksjBXL_0tjX5fQvi_o6ceRwTaH4tzm_1CX1wxa3CNoqXKMYbvncCv59SNzqh7lYKAcLHu6szZbow09mZ6u3x6pSFqZGwt-f_h86Xc9YyN54_mHjgGX4U4G7U1I-we0QkQ61AvxWxINTIykOASDkiEaJ62pc7fDI53DyvK7Z9zF5gBcTQWjsAfBIqArfw2IFAkent0Y7dSK20istvq7orGIdSGTTQqPBIiAYc2_UtUnnD2wjhA0ZNc8cLBeGEdWILhrM1VU65DvWrhCjOlWbDxtOlgIhRhYiuT-PxRsOWzBpajAIfR8yYdauDZuZoK6YgAk-rzqb73GD-sfupn1Fs1s-p1plCJ83o5Ijoh0HjeqpP91OlqrVMOpkEDxMu6utT9zNrT0_Ln7iJafjaW51eHOcX4aHq047bZSEJloYYn_PIfn7Qr6JVF4FkrQ3SLhc3gLti2dSw1MAz2haCfkEuX6gKrH9rdL21q8hq0hvdlwXBlGZFI5-urFsDUx2H8UuAoph-PhQmFVp6pvc3qjTlbtchF4S9ObMbZt0wli-_EPmrIFX9b2j85GH3uAfohdeZXOLIB3EfKJuvHBpdH-zvKoVityTBjpc7DClvPUQNJiiT8h20lUi-MyoXyokfQ0asL0EFLSKdLiUb8iKgCEvNHB1l2YKv1kd0vsKTr2Af2WMAdJJcUjbxVpw3yPFbIeuspzlvrQ9x6eBWMmsD82ctVogs8WiYkVIhJl3ges5EL8KvQMPmlFi1IcpBzjdh8hYx4_kQIqilb5ynUrNzOCmeBOlA_lcXSC7_IgyGViBB-nT_yOyA4kZ1Lj035etg0Dc631ylP9zrE_WYWmxYoj4NKB15ZvFFRiORSHNefKpFxRvIevN8dz5YNJmeYM1pckRWXC1ZDRnXKdDg1aWqvqnq3yvX56V1Z-eneufQk;/?ep=A0NO62kAAMnCMoQ7VSB5xyWsd6Q04Kvk8cjjCeLJH1JHM5GiRM2ae9CdY2PiAIrSXszDTKtwet1LZXGBvlDz51SZ47zS73VhNZVuicTzXS_UqiBylFkUXs0OGOvTCtsFJ5LKw2wKQBQwleECbvHCLkrNEDVzmmjKhGZu1nhqMqojN5Eu9sP7fL3RZvkEDJQ8pvUF6z2SrUZrR012nwICl2hyMeM&v=2
+            - text: "-"
+            - link "ライトノベル" [ref=e112] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAAAG7Pj0smvQ4-lJk1SZIOPHOd16aNhBdTt7mUY6Em70kk2VtEfjucSmvA4MzxWHOLLNSNSRIIsXzQDP-dWVf3cIrwAMWLO65wnpPpBrT_KJluuTzrsK7uE1dZcABGme3tD3ytEexYvPraEugtBee3uOx1MRggrSDhG9rOFOJpad_zxEIA_lrssZnK0N6DxRcLB_C7M3r8NKrL-3fO6mgMbWFvG8YWVF-ZZS6SyNcZuwnJESXmeERtQM2bN3LQ45zgYY6bNsJySsZlsEGre6-1ziboOPfOHQB6RkKi-4vf1o2DmXbya2sjvkVgWaQFFyy5T7v1H5Xtye5gI8uJmpgprF6myGLmcVXrW_QmQ7I8vfNaAREVamlh_jR8JPXtlklD6dW2AlU7a-0ZWhTPgE8wkVNFP0gHgeevSVqG4APzVcYD2Mw63tl1N-ODUA6Ui2mthAVFFYORkeQcpqCQH5DxIMeittuhQp3guDoICkL_4Ujx5UKBGh7KVTl2QKkCdCTYLkKmOOuqnAo5fIQJelxbCHyfR1MVnG3uIwvbuOhMnFGLwBCy060F4s0xy2RRzjFTDsT6xVrA7ofrkKwumMYmW1zT3-k75ScoXm5ibjUYJ-PaNL3wEEcB38XY5KEXQ-b2hNfZpGU1tjLFmuHmzLrl1UlC5jViNjOTamDCB3aTPn2XmYfHnn8u900SNibTe40pFaey60D_44Yeeqv1mlIPyQOVIQLapx9Q0xUd7XywGs_P7eD8lH144iG0q7cPLrkL4nIgjp8HyV3hejP15yDpfWbiPCY8sA-v0-4d2MtFaT5ILemkfZ1nQdOiPd75bjRkl_Mq1FxBoR_o6Y1Qqph8ism7v76oSVv8IdLps4ioeAkXKfKDD5l3gKwKsOclUYgVvyXLrj7tidDvLpafCVWd8_rAQvEvSKfSRgdTUZkFbSSEmqIb37fNkeNezEa0Gm0OXw3nfaSdDzOd1GG4VpJ3eduMQglGqd1-AERdw-UWCIjLoQejf0Rt27pmT27cPPF5LQDHrB5di--B3v7YtVwAftdMPAA76L1p9ArOGX02GHNwXSjqCpWZxO6Z2NpkKk-lXXBgVBhni8W51WXcSzlnDn962-aDdBOMxfksUjjxzmHPU0A1VV0JrRj3S9F7jZCkGgnmiLUPgxe9cJtg4Li0d9uFcFpxFc-x2BZ-EckDuCvEzfaCxNtqk5CaNxliPorUTypXriZgSoWqJC66GhowoQM3hfbZAVrd_xbQyuWk6avIITcA3D0_z80YwA7ygKSEVzqMMY7DLdmwzMHWuhaBnwmJ03tS9R695KR-tYT_oWjF8KrIs2wFPJwDMApKAqFWwbweQVXJTCCG1n0A9J2BPSLQiE5aSr7lJOY8LRaaldAOpt8gGnR2y3q_kOq8KhDvx9t_yIkds0u9kwT1xzsvvQpJzLY_RLOCgQ9neuKVt7SY4uikAmlguWtSJjDU6WDNimjQBooHDICZACTh_uzqdd9bKooDbmClYd6t0u-pcB9d_2-Qd-ABgUO0f3CImeY0KDSNb8zglr5P9UYWk6DWJW8nqa6WPvUVe3GEaMi9H6hkqj2B5oSlPf6kGlSWolkQEvElfw;/?ep=A0NO62kAAIpINXtgT3Dh5TEWl-q0BhHIbbu4XfPbsF9G-rU4UzTv7DeEbkgOad0inaHPubquL78oS54Q-pboFnXqd7e6e0d4YbJvak5_IwPCPam-0RK8yOrxAwKnCkMbA6EZdD6oC5NHju4U01Y7sXNEQJ7syjayXmydTkACpyJJ-XwKIvsuv5GS-S8B7-Y5w9HbESMwCNtvj9uVL3aX9YUerUI&v=2
+            - text: "-"
+            - link "小説・文芸" [ref=e113] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAAKYlU_X70sj8jRsoFj_LsY8_hv6BeTDQVcOKVxbOqbS_RngBuLUnKITPdrDctlha1O6mgGK1KilPRywr8OQH0hd7gDIpfsiX91MGG1vPGnPYhy1oWZ-F3lu-MaTgnufnTLBIzsLu0ZDj__GNR9qJRNBVgMOTAyI7BZA_RbkJyc2I76Rf0tDXJURrYz-A0UI2omGo7PcrANApaW1ztIo76yvIaEMwue1Eq4WvgCNJoGAmyCbGW9eZJGDnUj_NqQl1U6o3bkDyFVTtfMg4MyBZORusL4xVOtENnYQPZRLSNOaYUjhfaONDTF1ZlTG7mVI3cPC0dkd64JrJBjNNA8snAooqGHUV0eUx2bU5I9ixv2c-Inb2obk4iGn9ZJy3OgVRhC11MkvYENzmXe2_V6VuIKnmb4wNizn3BklfhWgIY_qlyOwljKpITIhB0MpAJoEIbJZtAb5NhC7XwdYSqA21yL5RmXzB4Mu6pD98z-IiF5MVhEUVI2R6hwBB_yzMG84rS9qClviIOotK8w1JMDU1xm1knXQBUm6EkwgVTy0KhVTFxT8Oxr0XagEmdBl8LYmyhU8WBpprNY5X-zPoZr7PsyLIxgBwqUpNsc2WT351W_BIgklCcJfXJqpQjpi5t7pTPQXlI2cg7XGmR1kmfsAW3DF6HTAEzxMCacx_M_SFCnVrX074KEs4WvcfY6Mf0ZXF8eZGNTcmcqdnEC1rENC-tcsCo_cHJI-oU2CbU_Tw9H1a0vTx_PLXzAL2IrQ2kZ1mZJR9aorT2HUqVG6SnLFB1aHlSZCSF3gXv4tQTJk7DU0TOJ0gA29CXf0-jnby7RBWRPHZN__59we_9mT4S3QZwiBYXSkb-LxDJi1xQwT8W_Wfo6-zUmcJ7XOExi4QESyJiJFXlbuIjxhdIDgpPSNQ_qtI8ueN0_4i-p_wDFWTHmeWENZ9zaz1P9s-wa8D0UuXGcxVjDudg_oK8LDkVDR3RNVKhDBnkH3Madxm8IsTHeqgmBGKJc5pbcQ83nDwLnYynXaagXp4c7cqcMCqQleXmiyGAAm-s5mjnhk9cIgLzBNTsCIocXLnqbTfcmu-E7OUaK5KfoljwVFZEbRHBuMGrlkrPrwMwYCZ-K652AVl0O6jNBsMdfd5CsON5rSWVitQEFH2e6PBACh2X_GHCp2DCortm4z0jS6EZ-OgT2cGR-eandkhF8dd8Nut6Ifs1pM71OaW5lY5QIPQcfAVfPSunr1h-uMGVTP2LEnJyE06tlzNQSabMy13GwRNJUVdt4YusSaUpjuxOrTtPgK1KsEOmVmn56gzCv75Nzzqw1R90XDGlJOPziIbt32x_X8HhvWotaYIatr8-u2iG-yTV7I3lYMoX4UiVaSqrJm-SSKzT6YWsAv01MoHiqpoFFZnjWpsDbiKSKZQCZ-htkLskQa9Dd_yWkRYqnIbyWEfqQnh9XS1tD3pjBCN2CFa7cH5ZM8A9_3VsL6HkKoU_sJEdLz8P7t2vIgMyQPoUTb1o4-75FHyN5xk1BVixPIfbTrr0DBn2r6Du7O4Ul54CB36-5lbTX-DMfIubVTfltnVnh0ceAl-h4xUj0cok07CB0YZ08B9alA5HCE;/?ep=A0NO62kAAGdKl4yrRVkabJ5E_4hKWffZNorhBotzc5-iDxcDQQn_FnxHF4RF6RIkFzEsn9iCsVPkV4KGzOJcvIWlevI_CbRAShnzhIgczdI4h0AWHOUcl937WABNiO_8GhFKOH589hmodMnI5uApGkSoaip3lTUY6I7NUxp6s43xt0MKY1234L8_wuOG3TLHJIZNBzuU4kS77tla5yV8LMNlNys&v=2
+        - generic [ref=e114]:
+          - heading "「お局さま」とどう付き合う？アンケート調査でわかった上手な接し方" [level=2] [ref=e115]:
+            - link "「お局さま」とどう付き合う？アンケート調査でわかった上手な接し方" [ref=e116] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAAGILC1dbegY2w6cAPRbxJosKeix7OmkrYSUPX3G0VES6sfO8RUyY7e2ht3W7s-Umt-AyqvGSmrhZ8HmY17gi0utblMAUxMkeJMAS4lPXCTAvVtO8C3y3QaW598s-8JPJtlQQ7gFwddg-C19r0pxtPvzghBCWMB0iFQSFEXADORc18k0t_cnGf4474tvVlXA_07qh3S5b3TLgRSbH4wPnNaBPrbrhrZflMRGpWHVcbRM9xO_rC7QO7Sv-Q8cjVClySnW0cCx41rh7zSrzs-uwX-n02FvvBdUNa9w744-0bfb0fB7rN-4xKE8lTEb5TpcDOCOQgSMC4ASJ07ox3zZ-DNkTmdj8owgfyqCgNoeBJvmGnxK9WOe79I-fXdNvHQHzrl1rREXe8f-ZBPzxhltVDOAyNPwyppN_HsefBqUWyN1jaxX7RpYZLFiMyZpy5OfXv_tP7j31Hv6tNx8DP8m3r_zS_wmX9J9070lajjg75nFVU4ZMxnESvaorERtJIHMVLD8nvOGpAwssS6rXAmV5GhPHrJWB5T6WJEiefL0kletvrGoKE-huasrWQoTz-Q3_pBHNRvzZm8LBq813k_TmWorPSswzkPmKV7dop8_PO-HHxc41Uwny0M-LXYRJpkfdoiS7zr0IkBrWfygbZXGV0iLLU5P8B9orP0s4OnTNDl-xEneiocpX81pfy8y2L-b5s2q60vgd7_-TRczjYO6sDdr5Df8avj7pTcAhMe6VF0T72M1w-93rkk2gVZGwlxCmfas6uGqgftllin3QqJTF52aanwZUWy42AKO9J7ka4EA1HJy3b8nvRTjbrtxUYi95CNDbbCdeNolIc8zrzlILWXvkyu0ySPse4qfjG9WdplT0WwQoLjYlt4KUXmltnNy7KWDwyfw97nM5BFTzV6XjPyhJ0majhZ9tadXv1KJyLPwJVlmSomCY42_F9WsnV6lCDJ6hmTPJ7nkw2m-66t0r3kuRsl0Qdm0joydSRcGOVZKbRth06rk8YgD8hckLKL7Y6_exdMaxL1unXvDmH1_-R7prWkPLWgUofw0BcpMt4ILKiHQMYqoUmoWBbnYwZD3sr9mWUvVVw2lBdhkEZp7hlIG5i5cmbsSk9rgguOMoYlZ_aY1qC36HF6Kd46qZtJp5mO_37KmZbny6F42mvCqQ7_JfHOd-tYevZzAXaBr6sbYbmyN2YaJ-84xxsFcRkwHlx6-po-G-LzefVnXKBkx0sFfbVCpHR2LkHcEM8pzc0fTZ0waa6RyRV3mQi-2Yiz2tZ0-hkUEsBcRXJ7ZMV_Gd1p08wdYGSfr6zX0Tgau8k6nXLthkVGR6ZU2GHiw97ZQk5kDCk9ygKymQQGWvB1TAa6extaby0MkhDOM;/?ep=A0NO62kAAC2nQ1l2QKTL8GYoFwmtEV682O_UWJvPeoRsFRG0rzVSwBIbYsAgV0GwTk5HjgYQtDLIvKelfsu3t4AQJfTvwNqNCzewiupZOX9vqgLav090n3-d6NAcsKrFT426lAhhYtDM4oR4D3ytwhcebtoOHbf0VupdWmVBQx2_Gz2BVfF8xqD14qf5gpMCGfdin3RdOx9GXU_4eGGwMe3MWg&v=2
+              - text: 「
+              - strong [ref=e117]: お局
+              - text: さま」とどう付き合う？アンケート調査でわかった上手な接し方
+          - paragraph [ref=e118]: 利用者200万人突破/現役医療・介護職が選んだ求人サイト：LINE連携で求人情報がスマホに届く。応募から入職まで完全無料/応募書類作成もジョブメドレーで完結。会員登録でスカウトが届くかも。
+          - generic [ref=e119]:
+            - text: 広告www.job-medley.com/
+            - button [ref=e121] [cursor=pointer]:
+              - img [ref=e122]
+      - generic [ref=e124]:
+        - heading "質問一覧" [level=2]
+        - list [ref=e125]:
+          - listitem [ref=e126]:
+            - heading "お局が職場で好かれているように見えるのですが、気のせいでしょうか…？ 私だけがお局を嫌いなのか..." [level=3] [ref=e127]:
+              - link "お局が職場で好かれているように見えるのですが、気のせいでしょうか…？ 私だけがお局を嫌いなのか..." [ref=e128] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12325444967?__ysp=44GK5bGAIOiBt%2BWgtA%3D%3D
+                - text: お
+                - emphasis [ref=e129]: 局
+                - text: が
+                - emphasis [ref=e130]: 職場
+                - text: で好かれているように見えるのですが、気のせいでしょうか…？ 私だけがお局を嫌いなのか...
+            - paragraph [ref=e131]:
+              - text: お
+              - emphasis [ref=e132]: 局
+              - text: が
+              - emphasis [ref=e133]: 職場
+              - text: で好かれているように見えるのですが、気のせいでしょうか…？ 私だけがお
+              - emphasis [ref=e134]: 局
+              - text: を嫌いなのかも知れないですが。 あるあるかと思いますが、お
+              - emphasis [ref=e135]: 局
+              - text: は常に自分の事しか考えておらず、自己主張が激しく、文句ばかり言ってます。...
+            - paragraph [ref=e136]:
+              - generic [ref=e137]:
+                - img [ref=e138]
+                - generic: 質問日時：
+                - generic [ref=e140]: 2026/2/17 19:03
+              - generic [ref=e141]:
+                - img [ref=e142]
+                - generic: 回答数：
+                - generic [ref=e144]: "1"
+              - generic [ref=e145]:
+                - img [ref=e146]
+                - generic: 閲覧数：
+                - generic [ref=e150]: "46"
+            - paragraph [ref=e151]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "職場の悩み" [ref=e152] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675274/question/list
+          - listitem [ref=e153]:
+            - heading "郵便局の職場関連の話になります。今の時期はりんごやみかん等のナマモノ(御歳暮含む)が郵便局に来ますが…冷蔵・冷凍以外のナマモノ荷物は25℃以上の暖房が効いた部屋で保管しております。" [level=3] [ref=e154]:
+              - link "郵便局の職場関連の話になります。今の時期はりんごやみかん等のナマモノ(御歳暮含む)が郵便局に来ますが…冷蔵・冷凍以外のナマモノ荷物は25℃以上の暖房が効いた部屋で保管しております。" [ref=e155] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12307623237?__ysp=44GK5bGAIOiBt%2BWgtA%3D%3D
+                - text: 郵便
+                - emphasis [ref=e156]: 局
+                - text: の
+                - emphasis [ref=e157]: 職場
+                - text: 関連の話になります。今の時期はりんごやみかん等のナマモノ(御歳暮含む)が郵便
+                - emphasis [ref=e158]: 局
+                - text: に来ますが…冷蔵・冷凍以外のナマモノ荷物は25℃以上の暖房が効いた部屋で保管しております。
+            - paragraph [ref=e159]: りんごやみかん等のナマモノですが暖かい部屋に長時間保管すると痛みの進行が早くなる可能性もあるのでしょうか？
+            - paragraph [ref=e160]:
+              - generic [ref=e161]:
+                - img [ref=e162]
+                - generic: 質問日時：
+                - generic [ref=e164]: 2024/12/5 12:33
+              - generic [ref=e165]:
+                - img [ref=e166]
+                - generic: 回答数：
+                - generic [ref=e168]: "5"
+              - generic [ref=e169]:
+                - img [ref=e170]
+                - generic: 閲覧数：
+                - generic [ref=e174]: "302"
+            - paragraph [ref=e175]:
+              - text: 暮らしと生活ガイド>
+              - link "郵便、宅配" [ref=e176] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2079822377/question/list
+          - listitem [ref=e177]:
+            - heading "職場のお局の不機嫌ハラスメントについてです。 今期退職の方がいて、お局たち(2人)はその方をとても嫌っています。" [level=3] [ref=e178]:
+              - link "職場のお局の不機嫌ハラスメントについてです。 今期退職の方がいて、お局たち(2人)はその方をとても嫌っています。" [ref=e179] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14312938499?__ysp=44GK5bGAIOiBt%2BWgtA%3D%3D
+                - emphasis [ref=e180]: 職場
+                - text: のお
+                - emphasis [ref=e181]: 局
+                - text: の不機嫌ハラスメントについてです。 今期退職の方がいて、お
+                - emphasis [ref=e182]: 局
+                - text: たち(2人)はその方をとても嫌っています。
+            - paragraph [ref=e183]:
+              - text: 送別会も参加しない、目の前で悪口を言うなど 自分たちの不機嫌を
+              - emphasis [ref=e184]: 職場
+              - text: で堂々と現しています。...
+            - paragraph [ref=e185]:
+              - generic [ref=e186]:
+                - img [ref=e187]
+                - generic: 質問日時：
+                - generic [ref=e189]: 2025/3/28 20:07
+              - generic [ref=e190]:
+                - img [ref=e191]
+                - generic: 回答数：
+                - generic [ref=e193]: "2"
+              - generic [ref=e194]:
+                - img [ref=e195]
+                - generic: 閲覧数：
+                - generic [ref=e199]: "769"
+            - paragraph [ref=e200]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "職場の悩み" [ref=e201] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675274/question/list
+          - listitem [ref=e202]:
+            - heading "お局が職場にいる方に質問です。 どうしようもないお局が職場にいる場合、どうしたら良いですか？ ..." [level=3] [ref=e203]:
+              - link "お局が職場にいる方に質問です。 どうしようもないお局が職場にいる場合、どうしたら良いですか？ ..." [ref=e204] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14321061439?__ysp=44GK5bGAIOiBt%2BWgtA%3D%3D
+                - text: お
+                - emphasis [ref=e205]: 局
+                - text: が
+                - emphasis [ref=e206]: 職場
+                - text: にいる方に質問です。 どうしようもないお
+                - emphasis [ref=e207]: 局
+                - text: が
+                - emphasis [ref=e208]: 職場
+                - text: にいる場合、どうしたら良いですか？ ...
+            - paragraph [ref=e209]: その人は表に出る立場で影響力を持っていて、今のところ会社の中で周りの誰もその人のパワハラ気質に対処しません。...
+            - paragraph [ref=e210]:
+              - generic [ref=e211]:
+                - img [ref=e212]
+                - generic: 質問日時：
+                - generic [ref=e214]: 2025/10/13 18:58
+              - generic [ref=e215]:
+                - img [ref=e216]
+                - generic: 回答数：
+                - generic [ref=e218]: "2"
+              - generic [ref=e219]:
+                - img [ref=e220]
+                - generic: 閲覧数：
+                - generic [ref=e224]: "55"
+            - paragraph [ref=e225]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "職場の悩み" [ref=e226] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675274/question/list
+          - listitem [ref=e227]:
+            - heading "職場のうざいお局を黙らせる方法 職場のうざいお局を黙らせる方法ってありますか？暇なのかなんなの..." [level=3] [ref=e228]:
+              - link "職場のうざいお局を黙らせる方法 職場のうざいお局を黙らせる方法ってありますか？暇なのかなんなの..." [ref=e229] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12317637227?__ysp=44GK5bGAIOiBt%2BWgtA%3D%3D
+                - emphasis [ref=e230]: 職場
+                - text: のうざいお
+                - emphasis [ref=e231]: 局
+                - text: を黙らせる方法 職場のうざいお局を黙らせる方法ってありますか？暇なのかなんなの...
+            - paragraph [ref=e232]:
+              - emphasis [ref=e233]: 職場
+              - text: のうざいお
+              - emphasis [ref=e234]: 局
+              - text: を黙らせる方法
+              - emphasis [ref=e235]: 職場
+              - text: のうざいお
+              - emphasis [ref=e236]: 局
+              - text: を黙らせる方法ってありますか？暇なのかなんなのか常に人の行動を観察してきたり業務に関係ないことまで細かくネチネチ指摘してきたりと絡みたくないのに絡んできます正直言ってうざいし迷惑でそんな人に自分の貴重な時間を割きたくないです なにかいい方法があれば教えてください
+            - paragraph [ref=e237]:
+              - generic [ref=e238]: 解決済み
+              - generic [ref=e239]:
+                - img [ref=e240]
+                - generic: 質問日時：
+                - generic [ref=e242]: 2025/7/18 22:04
+              - generic [ref=e243]:
+                - img [ref=e244]
+                - generic: 回答数：
+                - generic [ref=e246]: "4"
+              - generic [ref=e247]:
+                - img [ref=e248]
+                - generic: 閲覧数：
+                - generic [ref=e252]: "955"
+            - paragraph [ref=e253]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "職場の悩み" [ref=e254] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675274/question/list
+          - listitem [ref=e255]:
+            - heading "お局には、こちらから近寄らない方がいいのでしょうか？？ お局に職場の愚痴をボヤいたら 「そんな事私に言われても知らんから！！」" [level=3] [ref=e256]:
+              - link "お局には、こちらから近寄らない方がいいのでしょうか？？ お局に職場の愚痴をボヤいたら 「そんな事私に言われても知らんから！！」" [ref=e257] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327473653?__ysp=44GK5bGAIOiBt%2BWgtA%3D%3D
+                - text: お
+                - emphasis [ref=e258]: 局
+                - text: には、こちらから近寄らない方がいいのでしょうか？？ お
+                - emphasis [ref=e259]: 局
+                - text: に
+                - emphasis [ref=e260]: 職場
+                - text: の愚痴をボヤいたら 「そんな事私に言われても知らんから！！」
+            - paragraph [ref=e261]: ってブチギレられてビックリしました。。。...
+            - paragraph [ref=e262]:
+              - generic [ref=e263]: 回答受付中
+              - generic [ref=e264]:
+                - img [ref=e265]
+                - generic: 質問日時：
+                - generic [ref=e267]: 2026/4/23 2:24
+              - generic [ref=e268]:
+                - img [ref=e269]
+                - generic: 回答数：
+                - generic [ref=e271]: "5"
+              - generic [ref=e272]:
+                - img [ref=e273]
+                - generic: 閲覧数：
+                - generic [ref=e277]: "46"
+            - paragraph [ref=e278]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "職場の悩み" [ref=e279] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675274/question/list
+          - listitem [ref=e280]:
+            - heading "職場の御局のことで悩んでいます。 当方30歳女性です。 前年度に転職して銀行の経理職で勤めています。" [level=3] [ref=e281]:
+              - link "職場の御局のことで悩んでいます。 当方30歳女性です。 前年度に転職して銀行の経理職で勤めています。" [ref=e282] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327043075?__ysp=44GK5bGAIOiBt%2BWgtA%3D%3D
+                - emphasis [ref=e283]: 職場
+                - text: の
+                - emphasis [ref=e284]: 御局
+                - text: のことで悩んでいます。 当方30歳女性です。 前年度に転職して銀行の経理職で勤めています。
+            - paragraph [ref=e285]: 6歳の娘を育てるシングルマザーです。 現職は女性が全体で6名います。...
+            - paragraph [ref=e286]:
+              - generic [ref=e287]:
+                - img [ref=e288]
+                - generic: 質問日時：
+                - generic [ref=e290]: 2026/4/8 13:35
+              - generic [ref=e291]:
+                - img [ref=e292]
+                - generic: 回答数：
+                - generic [ref=e294]: "7"
+              - generic [ref=e295]:
+                - img [ref=e296]
+                - generic: 閲覧数：
+                - generic [ref=e300]: "107"
+            - paragraph [ref=e301]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "職場の悩み" [ref=e302] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675274/question/list
+          - listitem [ref=e303]:
+            - heading "お局が強い職場で働いています。 お局のターゲットになっている先輩が変な人です。 かなりの八..." [level=3] [ref=e304]:
+              - link "お局が強い職場で働いています。 お局のターゲットになっている先輩が変な人です。 かなりの八..." [ref=e305] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10297393375?__ysp=44GK5bGAIOiBt%2BWgtA%3D%3D
+                - text: お
+                - emphasis [ref=e306]: 局
+                - text: が強い
+                - emphasis [ref=e307]: 職場
+                - text: で働いています。 お
+                - emphasis [ref=e308]: 局
+                - text: のターゲットになっている先輩が変な人です。 かなりの八...
+            - paragraph [ref=e309]: 八方美人で、仕事中でも知り合いが通ると飛んでいきます。 顔が広いのか情報通で、裏話などもペラペラ話します。...
+            - paragraph [ref=e310]:
+              - generic [ref=e311]: 解決済み
+              - generic [ref=e312]:
+                - img [ref=e313]
+                - generic: 質問日時：
+                - generic [ref=e315]: 2024/5/2 11:17
+              - generic [ref=e316]:
+                - img [ref=e317]
+                - generic: 回答数：
+                - generic [ref=e319]: "1"
+              - generic [ref=e320]:
+                - img [ref=e321]
+                - generic: 閲覧数：
+                - generic [ref=e325]: "374"
+            - paragraph [ref=e326]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "職場の悩み" [ref=e327] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675274/question/list
+          - listitem [ref=e328]:
+            - heading "職場で上司が退職勧奨して、部下が労働基準に行ったら会社的には まずくなりますか？" [level=3] [ref=e329]:
+              - link "職場で上司が退職勧奨して、部下が労働基準に行ったら会社的には まずくなりますか？" [ref=e330] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327457542?__ysp=44GK5bGAIOiBt%2BWgtA%3D%3D
+            - paragraph [ref=e331]: 退職勧奨自体は問題にはならないです。 断ればいいだけなので、 退職勧奨にパワハラなどがあると問題になります。 相談先も 退職勧奨されたことの相談は労働基準監督署よりも居住している都道府県の労働局や「労働局あっせん...
+            - paragraph [ref=e332]:
+              - generic [ref=e333]: 解決済み
+              - generic [ref=e334]:
+                - img [ref=e335]
+                - generic: 質問日時：
+                - generic [ref=e337]: 2026/4/22 16:01
+              - generic [ref=e338]:
+                - img [ref=e339]
+                - generic: 回答数：
+                - generic [ref=e341]: "4"
+              - generic [ref=e342]:
+                - img [ref=e343]
+                - generic: 閲覧数：
+                - generic [ref=e347]: "69"
+            - paragraph [ref=e348]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "職場の悩み" [ref=e349] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675274/question/list
+          - listitem [ref=e350]:
+            - heading "職場のお局ばばあがムカつきすぎてほんとに明日仕事行きたくありません。鬱です。 ほとんど愚痴に..." [level=3] [ref=e351]:
+              - link "職場のお局ばばあがムカつきすぎてほんとに明日仕事行きたくありません。鬱です。 ほとんど愚痴に..." [ref=e352] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13325477833?__ysp=44GK5bGAIOiBt%2BWgtA%3D%3D
+                - emphasis [ref=e353]: 職場
+                - text: のお
+                - emphasis [ref=e354]: 局
+                - text: ばばあがムカつきすぎてほんとに明日仕事行きたくありません。鬱です。 ほとんど愚痴に...
+            - paragraph [ref=e355]: 愚痴になります、すみません。 何があったかと説明すると、私は某レンタカーの会社でパートしてます。...
+            - paragraph [ref=e356]:
+              - generic [ref=e357]:
+                - img [ref=e358]
+                - generic: 質問日時：
+                - generic [ref=e360]: 2026/2/18 19:02
+              - generic [ref=e361]:
+                - img [ref=e362]
+                - generic: 回答数：
+                - generic [ref=e364]: "5"
+              - generic [ref=e365]:
+                - img [ref=e366]
+                - generic: 閲覧数：
+                - generic [ref=e370]: "189"
+            - paragraph [ref=e371]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "職場の悩み" [ref=e372] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675274/question/list
+      - generic [ref=e374]:
+        - generic [ref=e375]:
+          - heading "「お局」には気を使うべき？遠慮して誰も何も言えず毎日モヤモヤ" [level=2] [ref=e376]:
+            - link "「お局」には気を使うべき？遠慮して誰も何も言えず毎日モヤモヤ" [ref=e377] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAADrJm9TbHU_r1lCdVJn-X2IWXixy2A2cRebXFQ4DVceRuJJNmQWeh7ftldczfG1Nak4OzsGTItfIilkx4WEj0AaekkPZHYIaNrWyFSQLM1PRrJmALppxIpFAiIecumXv5JBPsdhEaeHb2DZXeojlYQ-WiJrF2DNYc005vHj0OyjqqdMUk9n3r7rp5a5GskFEtJEPDXXQEkfHkkrTCnjSFA4MZh-zS2dRznI83wkFaspfrDGVVxht_e8MZNBu7ZYZ2HV7H5ltLj8gLztl2Q0qLWHBFUA7b_rEV2KqXgTNFtbKAxZheW6Qu06mJtdiTdKdWqr2-Z-QdYhOuSN4CpxGv9tPh2z9QfdUIEj73aXQpfgaZKk1a14uFBaEGqNQ_UFFtxLqEFg-uNVkP_eISu-8PhFhLgvmy_g08T4-2zR-MMf0RWQ0GU8l0XcQKJvoH5Ve-So3frg-bS_Yg4JBF72CfUCNZEsiy6nGpL__tJPV-zxByD7F_IHiyDfkn9XjpFNnOtdXxPHam6fgf2uFP-41C-ASX8hG0UHbe0IgQAJwoTYmH67wwnspVz_zDQ8W0jbWjZoQBhAvo5Rqv7Wwdv1h3cH2hNu8wnR7qSJjFRdM78JUPapoOSXyu08uK_TqKiM7lqdn6mRiyOmEBc5Ygxd38E5i0VPj72z8HEvVwY0C1iDNIilHBCgZlk4kSflDojWksJ50BNtvd-CbAJ3mcuSbMvo_VtT2nhs-f9Ag4LV_ZjZ4B3ep6trgzxgZvfOPNM9Fn1M22FivKIMw24NQdtp-_Tg_UfYWoWEg_vCrhOndE3dpI0zimMZ8fuupCLOeKPKZI6lMR0P0zku8WqBRwKh0M0lpb1z7KWYQdE_-P5aBkS5bhwYZdZZKayXkZqMAjVmXAZBNyyi-8A-gtfsehqS_3Bl5G8y25FnIK5QPJcWiKgppW3MZM0BdgApy7p2CBh5e7B6UWUZ09Re2bAXmYCTtG08BNP_0f-5ogIXf7KL9fAbQ6oYvQLhpwPk5bjZAs-6DQu5J57vAKWJRDZhB3BiqSBEgMkDEfXUSo5XHfUVMYdZy7Xz9GTheYpbyJknKWAinnBCzdx0oLrocRi1gHlSPrHlU7nHQ8XUkMaNoBh01IwKZSv3Dee0T04d0w_rSuyuZUbbPVThpPSXo1s-LtD6lQMWO5EZO__U2pauIMFYoJayl2Bg3BKvXK0C019L6jIm9HzzC7DG1sW5gDCli_2CdK3AvaxorNpFnwcoFFPspujqkmI-8flsbRV9_H_3b1Kwyjt0IuTydfAWQEceqZECqUPqKrxWgi_-3Xu2f4MPkMMmO_XhsTKdHFUSb5pll_-Vnz7fj2-glxSGiqc988z4AeGEb-pwpjFtIVimwaWMzXUmuxVJZny_Rkx99QREjHZHHQpxSFj4JpZk_BHJ2DALcnHG2Ai_HdA79GMNg6TCqXKPU7T2tV0YXAgOZ6VyGkfg8s41o3DKgKexBUTT6nA6FUDyGOVj6QVLP4Sywu1n9n6zsKg9V9HhAvYCa46Z1HlGxkxPbHpteFV51jZNeTrd5trW1RC3Rkku1MQjIF3HsLAPPvgxKtGRomTN7KRUXzFGn0AeV-_oR4POgv7XM;/?ep=A0NO62kAAPvdGGoZbAeuqhgZYHq8QaXa9tFIQEv1EPYhqg7GzGwXzfIgF3Cfkf-myUE4POltsUiDn25yi_xq8UsjLVa9rF7HYBKmk2U4kd0356zcntSp0SBxsliChY1PfdM2A6yQgbVPHaWAuumGlmel39GVq2uGx4uyC3k8YJ_uH_Nqps7-k51KNeLPP9MWDbYoaFf3U7Vr_0dKdRSKAN9FdA&v=2
+              - text: 「
+              - strong [ref=e378]: お局
+              - text: 」には気を使うべき？遠慮して誰も何も言えず毎日モヤモヤ
+          - paragraph [ref=e379]: 女性が活躍できる求人情報多数！希望にあった求人を見つけよう／転職はdoda。転職活動の疑問に応える充実のコンテンツであなたをサポート！希望の求人を見つけよう。転職の悩みを解決。
+          - generic [ref=e380]:
+            - text: 広告www.doda.jp/
+            - button [ref=e382] [cursor=pointer]:
+              - img [ref=e383]
+        - generic [ref=e385]:
+          - heading "職場の人間関係がつらい時は | 逃げじゃない、選択です | 職場 人間関係" [level=2] [ref=e386]:
+            - link "職場の人間関係がつらい時は | 逃げじゃない、選択です | 職場 人間関係" [ref=e387] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAAD5sHXUmZZEmvcyQsrCn6H5BOsmFHlsoIRs_-JPkqBpdY9BpXYVpA1B591DLPUNYPxzxMUE4phi9i2Tt3nE9D8x17xBlJ8BhenwflBROhAV1jULoxJZdIlmzKA5Zx7eOCS--SSep_llS0ppCk_LaeeDR8eKVGvUVBwYHxP3RITP5brqEb6-1kh1-2D-Oit-xLbnn4Fb_IPmg8xQ8gMwx8qip3Dx1NZD38XXcmePwahFinntClYEI0UAp0yT6MxywfUWMTPuv2t5-VwxN-2nu_1InDqXHPY0crZcox97pz2OcSrgQ07CwX6GgFO2-8kVZGv1Bd6Yer5-xvgFBIlf0tRrI3kIk9Ew8G-i3mFB1LW-XvRruC6oNvoM7aYvybBChiZPSfLJ1rGww-O-Ysr3TdqcCWtBE1UpjycdriEfcqtsAm-NeP7II8q6QB7EY8PRKfGDbt6hj7YOby-jnqz1wUtYkWwcJVvJKVjH6-XMfnglt21IoDPaB-Q9v5GCn7h-23bTgbbi5B4zf6dj3Z73ij7CKk8WVtyeZ42Omnq_LNjhB5KmQHIQl7Lpi_oq8xzvgtBHH_OspLHIvueMJScMPBSrGADmxbMeV_H16W-J0huWYxvV_W3d-7pqeznNhmMXa4E3BOoFBM3fDuVCwqkYyu8TvQWnhNhPcy_k7S2cUiOEpT2o9Aw6ZwoNm-ZNdM811wvYnh_Thb8dgGYPRUcxubhiMLxi5jGnOAiPL6njtUAiG3CLUUf8It8iAyi2UfZj7mxmT-5ui5bY3kUPLsIBJtvjUaVlBrz7mdznufNGX09tGbh6ihD_e2Ifh0ggxInTu7ri0NzfL8COkO8GpyAcfj6xPk5dY2xOGILEMXkUNWDbKgCNw9ORWntIfPiCf90g2QTmtEEO9KrCfehqgX4vCW_23gTGn7gctuqi5IC6mDT72OGvH1pPiKyDuYAFwjlOKH5knlQp7BTzgNsQf24eKScdUlABvD0FkP9VGiywduHTDnD3NqQtaXGVTlPrpMvKGgusHRIG-EMdd_mtA5LvYSX9-c5Y7l6kL7GSyEoR2PcFQT-mOj8rFP73uvaEfVJx6mQMTN_mcpkUbngZsgsWxeOixHcfmk79xL9Ar9Gmg0MI7UWdQqTNLRslgNlNut8jgGE7DaUsp2UjCm1pzgeg-uDJqoazL8jcuLf6WjAIbF8L625_L-eCwnT-VhyBs0t4_B6PD_eR62C7svIuLbf6EXVi4hQPCNJuVSIGezXZGbqa2hixAfZDdGuEQcE6VwSZ0boToh4y9Cx7etNYUoNQ3WFhUY3l28F7apN0kIySZp-7OD_jcKZx9eDoPSYMXabw-KgRTydgz-6IhKUjeIhE7mxQq8dPOGoa--J8A7uhmw-ZHy2tsw61MtiwmOR3giAX8mBcEmS4QkGidLX97CAOLOUBgzb8vN6FnfycgrH3CXD6lFaXA-tYEiB4MWuymeYi60TbOWKDQAoaePpI;/?ep=A0NO62kAALrZM_qyRPU8LeJFmOUKn0IcvPbwUMf2YL-EoH21MemtRBY2AOG_5bFwFLI2qMEDr5szJKo7b94FBMT8wQIy55ZA513zzLknPpU8TA0m9dZOWD8wNDUWp340ESDRmd73L95K-cDn6ZgOWbajmkHHIiUH6ml9_GXrLsiB2Hrlk3jfbkU_S2qsq2bT-6eiYNRxYO6LuCEmiYlBbxFbApk&v=2
+              - strong [ref=e388]: 職場
+              - text: の人間関係がつらい時は | 逃げじゃない、選択です |
+              - strong [ref=e389]: 職場
+              - text: 人間関係
+          - paragraph [ref=e390]:
+            - strong [ref=e391]: 職場
+            - text: "の人間関係がつらい方へ。ストレスの原因と対処法を解説。環境を変えて悩みから解放されよう。人間関係の悩みは自分だけでは解決できません。限界が来る前にできる行動を紹介します。仕事の悩み。転職応援メディア。退職したらやること。キャリアについて。転職サービスも紹介。サービス: 非公開求人紹介, 書類添削, 給与交渉。"
+          - generic [ref=e392]:
+            - text: 広告www.naruhodo-tenshoku.jp/職場/人間関係
+            - button [ref=e394] [cursor=pointer]:
+              - img [ref=e395]
+        - generic [ref=e397]:
+          - heading "同僚のフォローに疲れたら" [level=2] [ref=e398]:
+            - link "同僚のフォローに疲れたら" [ref=e399] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAAID8FJQyX40SOYOQi3ecjmUMUy9fBH84D-trcoA35xUOSrffSW9h7T3tNkn9pwU6k-Prr6qtk44C4qpk-7o_V_RDmyMpyt9QgJZEzC7itI5zd3mfQ8XImtgy0UmfwZ2Ja6kI-1Joy9JyDPfHaUytHNAdv1VocKkQGVosuo-nDfCYbszjdZGQ779qyJ0YHjgX08Wd2w2Mz9Zi-u5gQL_nWVBOcjgO-FVbA0XtQeVh0Aik0BwtgecZ2jrAV4o4HBNZW4IdlLag4sNFrgUau0fIS6eDpBGGagN3Ph_FmKke3eaLnULFasHtyff3t1PBvWAbu9a0Ktp04huIye1qjDcnRBNtnqJtPlFyWJ8tGXvCXHo1h0EL_rif7cgA7rhiy5UhEELrycyQGedovVoGtPj0aCS0kBst8pyFnTg1UYJU2izx2-kkLKb3bYYxh0sjUKCRG4d0uagj2GbW85LO7RssaNTQXGTMbnB82tDl0WbP-c0EUaU_dXI8Zhuh3kUU0g_3-tVD4QGimTk_WZ33UbiYvM3MHLc4skUMbAdZuBqOHKqHMe1mFLleb7DIbDI6tYKK6m_k7XjHwNF7XewhmhQpOIL3DQI1sQNd6fII3f4bsiirI1p-sWrUzU7fisw27UvvTNuJp-mZKlhx6pdIineWkm1LCvF2fXecO8J8RQ26wBoNgdC1Ymk5RMwYK4UkLtg_9n87CKWEaQB1sNoxOQZl9EfumyV_-DR0MjCv5tOzDMeJ1jXJbCwQ5nub5cVuMzs9hvFqNX-IPXWAcDa8Ys36iIlXgkPy0ALsi6-Ir9CN2M3y103H1jRuzVHkFerIM1_zJyhgRm1dKJS9ogv4OqefKBO7pGhPtgejL82cPX5vdeoL0Cduw7GWU-PD5eo03cAp0jts9NNrDyyDGcaeKYQsco0eJp4FK4QB0V0bIv49ctRMfnfk0GehcHwYV9CkMtdwyTCG3WZEDrxb3gwUQ8tmp9h10wzzX8awV5CRZg4egEO46jRqar8QSCYuw6ODD-NF4Y8Tvz1nJ-9jwL8VsqPGKnsePOdPeZPy4MI0Y5KuecQ2N7goXfeBzBr9FWBaQAPrvcmHJ8YejZ0VF8OS84grdHLjMTx-atjPc5TcMbRWs7LRJHmoilXTMLZ6Mkl1tftlQQyi9vbzZ15xRNvQsUkD4IkcKoeaxije2YkkOipMzLLuvPC_p_0B1wxucGnjpVQIaFUJ1fX1zqbFUEGRnDFpWUYMYnL3VkDwHxlMrW0OEsjXhDxWHA6wyUNrIUwynwvYgPjn97cFzyVjnMeL2p2CN-mZjW7e3YCbEuUjBFxVGtzvuic_YDMFYftIaKdCpHgrY7DJG4qV0yHt2OrCTKGjcNAEwukC6Gxvn2HfSAAC-vBkV-yZMN4yNH3ZHQvv7kh4OTXkHqFYYfDeY_Z5IhR29RrP1I4QjhD01d6K8aDeUwW7Pwv4tixFWu8Qi5NFDu1U5iyR2ItRjMDT1iCFbe5tYIyX2qCDY8nCoNDp7P8KY-81lh0M6nr8KiWURqrQOblMQpfS_reTPIxy8SLNwjHwiJmh4szu-H-GRAYF9N9RyHGlWJSufYPm2JMQc9etyrMO8rVk43_9vftex47b5OAKZZJU6IJaeq4-UI7NcGLS8uI7zNvZVR-zIPyMTrysdw;/?ep=A0NO62kAAJxGlUin9SDHuIINYKJhiHwWIw_27QIGuwZ0wTGMVeYuzaNXbry3wxNQoxv3P0CJY3cmY-qi5da7RQw82fBGz_cCYRSckTxjBenVyUqT2PaG3ekN_vNEPvH7yRKSsZ8cYsdFP7Is7D3J2xRzXKj7N4UK3YbqM9m2mbsSyYfp-Eul4kp92TQk635TsXtsm9olxJP832I3_lvcQururDY&v=2
+          - paragraph [ref=e400]: Kindleで最新刊を今すぐ読む - 気になる本は無料で試し読み。豊富なレビューも参考に、お気に入りの一冊を見つけよう。 漫画や雑誌、小説・ビジネス書などAmazonならではの豊富な品揃え。無料で読める本も多数。 季節イベント、セール満載。さらにポイントが貯まる。700万冊以上Kindle本、漫画。手軽に返品できる。
+          - generic [ref=e401]:
+            - text: 広告www.amazon.co.jp/kindle本/お得に買い物
+            - button [ref=e403] [cursor=pointer]:
+              - img [ref=e404]
+          - paragraph [ref=e406]:
+            - link "雑誌・週刊誌" [ref=e407] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAAHroUdmgwU1P3c_9hIkwybyvRyFglM3o5CzmWb4kFKgK_BKrC-n9ZB_O04bNTqZdgufhaoExXn2OcKvGDwQq2H6x3-lWUpc6XALnEIs80SBqJZwhsz_qbnrSAFU80sIysQpvsv1qgnmqr4ugsR3CPzDEY3FNBS_LgRE7pHQVXuKeIxcsxpqLabd-aaB1ICHF7rU-RtB3EqJmPllXWRFlXeGI1NWsFPFcoRhGoUHrBuRLGoOL33NuePAHHq1Lq-SmM_Bv23tHjZfmPrk96KdUU7WGJqp2J2MfkIGuISZMZ8Qz-Bgj1RgwUxKYvMBY2VGOYCYdQVssolRjWH4-c_MKxF6KfwKwP5IuwxHba_iVGyCBXVXPLvWY56yrG1YyMGaJuUeJl5Y6m9-af4fjIQp8NZSlgJaYucunpZPmvpeaadGbzoBwnRAsf_e91QD3MHweS6xKwnZIYiC1Yod6WgfMd1uiCtfD5doTTe9PUoEOUoIMMKoge_L6ksoaREiFJ5oCU0FRoKeuRxP1RSWDJDw-TPdQm1IBpCuEv2sCIcPZRmMJMj8gesiyQXwPNMTFbE1dnehs7GT5c2Gy0L5JN-s2i1LgNy7oZKtyGO0ZXNOCGNbMy-ee7KYPGEezDjIag7OEOIjR-BxBnJFNBLwkOTj7aizlxbOATFRgkQ_9YbBZYv2cC81Hl58mosfpVamLm6jM-dNHjge7A_phzLH7ISfdhu0KOdOAIMQDbhxuX1C9RQdxmUBZhRhzrECQpCDXVV6d5eqNy0ztkjAGLC-2r1UQFJwpfC4apzxisW-qNjMrOIK8b9PHvXptCwaHyRoN1Gw4cbpwbP80YtKxd1Gu7ZlvURLJPOWvZKvkoED35AT1wOet1o8n7qWtf0C_B7oOxkccrGI1vap8O22P41Pe9tnje_IVxctrkInj98ak_3cYRu2nON2OaTF9Jab5ZzJIeDbGB8R8MHxQpWabFgcaX_jJohGrar8B_BuGBPS_wr0prlmn7YcSySF6VHdYg3-CFVShSfRunmOFcMyLxQil8MiA_JTWOztLpHvphgBTLBcDbR5-YteKF1_DBCq9uQeOotsIMH9DnhsqRQGhGQamlioWYXbA0LGGhSCSv5Z2vyrIfxv6x5cNF_2dMSsd0zPOulS_WZPkUh04dNEpkE6j6-nX4FoE4sKGpf5FHk6P3fyhu0366_SDt5cZ4BO6r-nuuk_HRdgd_yFVf1TOs_PlGucAeON0tmRo5ww-3po59AcfS8__c6YuC5y_pvbz8kFaHioTMuFZYdjx_DvclWrJkTDmgr2o1HK2xqHOowYtwHdmmig8pT5_UmMUr27WGtOeBknzpuAzsyH4RT3uexaLV57GGkG9hj8ovMCnB1Jf-T0uF0mH4vsr-WWe0nsdoKv1LNvSMHtcJzZyfr8-pURMMG91gGZDTdgDXJBok39hJEfAbYOjLjN0VVANWZVwbX45ZX35WOoQHA3WFXFqmYJZMj74_PP0yo8M6O7AxGHT33VkT3pVpHJ1REOrtCKQqR-Mch2XKSjNU6HlegLDl5b1kyexqS0R-jkfxNrVLJ5d0QdF1GX_H9QcbudDqGib0TQ9lZS4evxX-EsR2EmO;/?ep=A0NO62kAAPg3aYIkAtirb7LQDD7Me84u7wurjBtPTF-4LWLz72U6Z-AmI8KEy91JDczdWdmRXsZ9Mo_d7-VNZYmtZm1-Qj9LhdZRC_x6qQl-df5Guznk9ACsLxerzeGGdsuZnHV90uJblooni5cWnEe9N57_eHZFZOByh2oDglFxbxDuQTH44J9WVvFZ5B1Qk0QtkucEShGLHKYIn0Re5UQR22c&v=2
+            - text: "-"
+            - link "Kindle本セール" [ref=e408] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAACrq_QDTJoW1v-K90qaQ0nd5msE-0IfHmmZbcsx2ogOo6t6Yg2Ogvu9u6aFdKqgavqyLjE42FVZGxHg4E7WFrVpgVEkcSJzRQHIMGLDqMjqoxe0SB32zvKtYAgZmt80KNSzBDopauulOM1PFWnRlYPr0TOaEpb7B1PEBHBijhKNGjMYNn98J1d6rqozKxOr7n4l7lKf2xOkBrJy5ZbRd1L_s7rKmL4GZ3DRuI9QUK1KvCHtN4hYSslnSzkupHkhycxorEXMzPygQ8lrNyESwFypHI3BZSKi4LHEKQ6Wo5cmWB9l1Qg25ZLaBMzjBhLnqhxUE5H5KmTYG4Yq9Pf4fBAQtWQ1oL5-SB2QY5U9jG-y2o8ynULQocvNwiGAuIbVFyztp2UkmLvJlyMlVkrVU40FhNs9zx4uQCdPx5pYfKW56pWVwJYy9vni8q98e1Ctf72XtBty6ur3GI8QiCk8ifHhX-FjFZVkfyil5DbV74k_bNSdoSb5Ce02oM2Slrl-CQrgY20E5nsBTfDtylFiTs7Mex-IA_96oIwPAjT1waaHBhQAtszunKRqtpx_3TN0javbIe35ycnn3LLKMP2kdh_0NhB8TpHOf991TxyhM_mHYBKNsNMXAQxQab5IK1oWeXXCzm_3FPg5i583F6Otl2RP-3QIJANgJHrjyCAakkqztRAbRDujv9AB_HtvL5wXEHMnXbRhN-MIzm0iLATDL5s4Wfx4D4AMDoNaZgGEzCIcBFqpQuZxvcTK9Ws3pDQFg7lhQxeQEX7xyIPK-k_BXwvD6KSK3rZHeJ1x_DYZ_sMHiXMjRe_vVv8QT1OgpFJTsgpLOuhnr5qPW8INzIae3DKT7999888l6EWNxojhvGJnb0bJHEuEV376ZA3V2OYrpWP48frGHMnTASokKHgUhMXfZoKXRquNAwvO0KWSSNhg6RdCi7X20ljF1T4PpRrWiOAmSYCG5GnfcOZiIVlQQZETHy4pX0dNvQLmbSAswdDiu8XkQlLjcyiVjjhMJAqxDxzckYXfBRXRSq9JyPaGI4v30Swcyc6fLxM5oDmd6_K4IMVYkaq5vpURhI9IsfZTlSbbkE2h3Y-lm12B4z8_Bf9vTOSe9EEUNep37Yon2wX3vckzLf9RLrYHCo6YeJesMUgfz-B3mc8Uil--ysL3k2GQVkf-v92G2nK5KQbzyOupq8SfoUILPtnYea1dMYOhNXoZ7WcOw7PLlLnYRh3OpSUnV1WqAAGOSDblQvY0ubQ-to7BqSJV5q48LdmBsmMXaADu5DDS2aWnEOaG9UJ9z9oXhsLjSrVUDG8SAKN2_VqlseGeE7u01OKAwC7QCVkQfxtyzTXp-oE9VgB-qXDYDBFasPaFbNLh4tS40IUr_xDNo9B7atfVIIOtWzOtD_A0NNguUCkRAH5aIIQnorL-DFiVR91zulrgodzUEirUY3S_rquoMPLdYv3bdbNO92KruhFzL7APk3WXHGmzahIV9XyAbEL3CqbksGlAS8uQfgDXo6Z3uoIHJpwwtRIgy0aWIa-0p-SyihedvjkcobMT4VpBL70gOKJG_t6ElgxQwhtB8oR2z-Jp7;/?ep=A0NO62kAANWHb0vaRM02K-HdOekgnnzpNBHWIV719spgHSW3fNaQr8g4tziebqNhOHN_qbAY6Hoigl1dnCfqkbzDZI9IL_G2U_rLTSSGexNlsj8j_y-3Qfh6MwVxNdn20WuZZi8EARcFjPUqWEK6IsQ8DujxWaiunMhNGkRBnSps_smU6hRZU8ZDyiXSCvhb3OfZTpUT2K1z9B2JotZ1ZYm5GfA&v=2
+            - text: "-"
+            - link "ライトノベル" [ref=e409] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAAJh5rndq3yi1MVZsZSWI5H8bqZmzzlY57qFTwSpGMrQZA_AnG1LOhihfw85OTCAcjCRU1GIzjApZ3BxpfG5PzolwJW3Z90NxH8JEvE5f-98v4Pw4nz8IBUVhG7n2owutVsprTKP2-WK3DB-nTAbj5IwbyFyQke3ov_6Und4UoJpdCQa4k6-_qebUNZ11yRFfcOhgZt8spe7ktCJp5HiO7qKLIUnxJau9gtG2tfXx40YjPjfflCH5qfb2DE7R8Pos0Cn1iQS8W2LqY79t71Sgnr64rFiTilsdmg4RjtJJO538fhqcCt4AA2DwB5vJ-dCzhjYHxETjGGhRtwwyODFv0FYUVJWmN-erA2WMWdjIQX9uZ-GoJ9YNHRqyceKjRNq76yDaEtZpWDOehOBT0Ve4pzbWWXLmXZT1txGB_L5Zbd4-t05pN00AOHvOSJryg2wkz8vQaLZGZ3LD_f9BzXHkp7oVf0Fevp3CAUZwxPjIIbG9oO-IVzXQeAiz3ZWttvvZ-D07o7Evk5YNhFX_UIvSNSQGXnFlZrxMtB1-n8_Azb67arC0H9HSNpf2E_h2FgyTdqhoZ1ZtIfRYTE3zlLAG2dpJIEpfQwuY6UiLSpREsHuKPuCf873FbgHYAMA8WLy5Ol1_fnWVdcwcA91nmiAJq_SuzbMYwD5CFNiW5IYJmcsMkyMph2ShVS8PGk25QzUx_1tgxidLpFMWHUCwmC-DpoaYIAtGn8bpWI5BTfjwzSVSgDUy1q3rvlHRr0lAd8UGQ7cqxQ41YX-r42Ym0nnG4x6CdoifnpwnE4DMLtATP7hFbcB9-ShUzrwMax_5cAoNCv0yMHSBnx6Te5j90qbgPOjs08QTkjgmj0wcmM-6gwMk-oD4N7tU_YhoY99CdGKbHIaSnJc0j9SyGkEhG1kZjTH-yX_UUlOhKgrMtX2f7oY6xifpH6RTVBRFXoaN0pyA-S7uab_PloYyCEaTSRwiLUnaB6Iro9TzHTCPqGwpYtWEtk-ZGO-rBi4QtD1xzCEOckKCVs3hQsWHafKUfgEy16F7GXFXNYMkdUdp1EWE56d0Q7I5tleHSy3Sasps53q9PfgMJ7hbN__K80heuAXHAuHssFsvrM3OD7j4OgO2JWWrViPdCsJYbABS_-xiJ1zbeof9S1AfiNif9lnlQINjoEpAqMxH8pEri03f9iv3EIZBLdRS-o4PyEsd9ipuJXklRxSzpC-oinTqf2_2GqmAWEaBXi6T7jJ5YVzO1TlHXZgDrzIRKlAcrXFMY2NVzviRTHVKWxrnrLRUb9w-jOUXwQ8jB91h6CFbNx5sc7vfV_TcFA5yd-E8koEU9j6P_pea_5_g5EVnmpTtknDSwxZxyh_kPJBwG1cvfFGrWvC0_Lz0ogg78vDFcdLdfRfh09whG4vk9WLHLWy2Y7m-zumvSkDrI5egvtF9KgUiVoDCyvsmC7RZH_QH52DJwNEac-5qu3WbolcW4-gLfbHXnHeXblfOqX76E9YbB-8xJ9pGLplqvoQBzLtqwIQ6RGSRYnpPRS5fgINc3S1Qi6a_QgodiChPRe-SEfoL0UW5855YyrSX69ZeFrrL1KCECPd5y4p05wM9JUuwtdK0;/?ep=A0NO62kAAL3LjvG96xq01G3c4c4q5AQTwRw0HLntip0X4GXO81xVm7xLgowWNRkOsiwbikMkFcwU30YBfWdm5fe68I09Ugnr8oxbjgR_sz8Rve0hhjttiz6NxfEcHJOcfxbHseAFxo9F9PpWZF3h7zuACCoYkcRcTaDBOYSzdlXI8p3fP2GT3BrDaxkMjMHtKb2NphJEjqzDrMSzeKurGp6X7bQR&v=2
+            - text: "-"
+            - link "小説・文芸" [ref=e410] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAABB_-UptpPAlCZCwRki3TY1QC0CnxpmaRRySZwqo_iflmHOOG_VARqnJrRpFMg5Co6ZoaS7KB4Y7pvFbcMX2w5zzqWa5XnuqfZmCwJtmaiO5lGqkJP7_WFiuT-XZJz3Mw7mrtMWdTyP-snS4UHDFG3X63qefR6_1lmLpPuoYyBm2CFkKkq9DmASc0ZvXSh0uibXaHqDExQ0gRyXLGP137G0yJ-8pe_t1zNpA60tH7t0hv0s9I2lOhOSTWxvde2ZkYKyg-s8pe6tPzl5yBL1mIkfP8EgSv9xn55du6K2_Lxw6COxuxRC6pWbPQ2jgxcjEK8po66RuvEVlSb65rDU5r0ZR_L1CrnbvKnZNhOAEQmqD3o2OObnuOBCBUU-8Jjs0gG35a0ecYZ72UJmH6adbp_HZYkI_QPKfZNYaU_kbrOlQ-ZE4Th5vW4wjJfMmcOrZ75GBTk-d2QBPHtQFfsH131ZvzUaXlEk6NtHWj8zT5ytc3BCegWkGp9pTxcE4u-m2S50ekMlE5nd9ZooHhjYrPTf9o-m7fXga2Ht68gIa5TWoVABo14hxFp_96WfuFYp1fdqnHRhgWKaIEUPuRfqBVvtJhNkUBHs0PdqfojgCQraTfVCYvq5Nyd_77bIhaCsA1No85ZH0vuHPL28Tc-3gEkK-A2AXHC6WrI3PMe-p3ec1hNn--OIjPZRYra9cqc2d5TQkX85glh4bZAkhkRi7_2Npi7ZjEG2GLUmaFrvp0mT_C5pJYC9aarcmwYMesnhJg04pwNeuyAJw57zTZvzUhnaMlHJOO8CYkeLuOo53eCyqhIEcjV1gxeOO52XuHv87xI_cfpdwz8QFnCuzJ0IYQV0xrdM_OEvLRNZOrltVRrADhEroFuU7L7rR8V6b5LJBsHOUP4xetBFOV4umDurg1eOwAY_p0BDbrKrJN5gcSD-rXBpdGsk98iF88ohg_8dJVRR0OMlMhPqK57U4Di7DSBXOJxOfpXm_Y-3Mpx-67N6lS0-wsDfkjeLAk7H3YDUCZOeQDKTqFgYZet1fNP3JKrO8-PsYeYkSqX70TEbZU1wUnp7_zpLqImBLkTzmeCZXM8f6TBfVfsS7epbyjk5JMHEehzWuYC4LM2Dg_jeJk4-pEA2mKNOvgCktyCbNdLLK-hjamDjuxg7xTh60NDigG9LZvY2i6PKoL5EXINCx3zqLc1r_Blqz5-JVgLASb0DBW7V3X85bJarzwzdJ3Ixwk868r3fAqveTFdf1_9HxzyjST2YlaDaJNdDegGMasNqZs_YekwxXD2sNPoGGnLBsqsAmXjTX1oeGTaqOntJ_ECRUs-mb9XICP5ufinm_UH-vShuu-jNKjd0Px7IRxDaNP_QGox6S42BIHFt74Nnp7exZG_dQyzeTA2gVfoTKNAhwElqhLrvmBzDrt7QS8-W54a7G8kZ0bn4YgnzRC41cQbl05prNNVVA9lq1tfqv2GsO85ZdvStiSybN6l3r1frCuLxkBI6tz3EkIVP4b1ZLOb81eRK0l0_0PTHqSTpLDo0-b-c9XxMcka8e369zTgz8pQ6SZGVQ7U_uTRMGFLX2O2UuOLPHGl9PRTjlgdBAcnuQ37Wn1OYwP3o;/?ep=A0NO62kAAJzXs-aayidQ5vNLxJ7_ihSk8KSwaOUzElY2d3bthUawHVcYXsaV1FiUOq7kOQi6qC66VQgMf50Ng_4kndS0dQdh42OE51E6LoFBXJei1FchU3WkLx-0VhP5p5ApyQhgO-WXzTXppJeas5NP1RuCIDcd-JGfQf7TlWVuoozzWe-OaDAvsmhJXi4tjkKr6d4IsTDhMmpSIygnYWbRFDQ&v=2
+        - generic [ref=e411]:
+          - heading "「お局さま」とどう付き合う？アンケート調査でわかった上手な接し方" [level=2] [ref=e412]:
+            - link "「お局さま」とどう付き合う？アンケート調査でわかった上手な接し方" [ref=e413] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=A0NO62kAAI9YfApKtp3OGm6b_0DnDmb9cifEXQktDrtfhr6BKI1VVfaFQYD1DLhsTmyp-cllGwvZbEYp2sd7p0N-JNLxfiF-F88jnx0FdEl7z0Jw9dqBuyiWiruCW_Xo9rVNdo0Ys3H8sOh0Sexm_d2Muh18q4JcNKSF7r4NtI9U-qpjBMz8nH7lojcYzfNaIHfSmH5SX2Q_mtxXnp4h91PpYnNYoBotl1z1IASywFVaSXBn0bSc6c_uhrKZvv-MZ3KHM_s6Ea4u8dI0eid_VcslJPPp0fEFLl2NWf4hD-uTnJwALJH5BO4u2VYRJ14LwbRsDepTfUoencp9F0E63B7OwKHnq-F2XKI-fCB-ltWf20UnILfJtraM83qXMUkIqpGWcIODueRGkiX4zGxtuh7VoShEQmpnYzFCoK35Aar_oVJiGOKRVSZsPlOuRzZolxXqNCQqmtSFEp0BvH6tQBdXGGwy7AwCgR2ybKuiE9SidMQhy__Rw5n9nR4-i0LzOgOboePm0lDO9aSwltF5GXgyYCgg0Wg_qwpTV1RNZR6frWWsS24LHcI2hCidzPVDlIFqLgDG4VDXPrSdANmcqaNpbtpAbsXKZyL6siXoTXAPusHXOF9YDDAgPz6j4ebF0t0LmvRpnthyi0IoBxC7dlSz-EQGyNXnUmfCS5fjQt7IBZsFj7ZueY4ml9SggQf7yfP6SsUSAAgrNbtWbhs34mh35JpzMPqfxDQokvMFrHMmgFIW8ALD7TArfkFNflgIBXjjvY5NgjIrQgukqgXB1rgm7lGON6fq4RnWRBjMwmRVWsIzL7yVmDki9JnxiDQtRys_Xo6yE16hrW3pFGDiLXIowo_a0W-Ug4BB5T50RXsuc3UD06DzoZaMmHs7LWVi__emM0AawCBhSjp8WyH0dSCepaJQkQzWM84499vM2cebxILh01XEji_-bRZ4-Ekvqs4gUE6OaoxyBs_mQADdXmV25cIVle8XRRxmOxB2XUn7pcKPI-604FcsL9YSD5hqT-4pWRST3VyvAnzc54T7F6FS5vnrGhnxM1tC03KfdggeC1yf5ZLsQu6IyMnIVwVfayoQIOb2RtKegd4jY6GGgmJx0mAAA2s6NnkDlsl4B2tpNKdCZ5qX-nCwGu8Skw-RZuR_KKESFb88djL_WJ5tTtGhyqSS5t5sHjKR-rnQsi-bRUoZXkbNbDWWANY_1G9CZVH5b7RG_S-xup9UNce_VHh_GePuHG6xfB2pHBp-_dRGAF85SfqN3xy1rQrtDaWCRk91re8Q_Wyr-GFWXZk0aNzGjigAKMbNweqngopmwdvN-zUWmYnGIoV-mUW5XxGKuEP9fgfyFPuDtYPNse5WGjLJ2bAT9d_4KQNHjWTbOQgs5rMw;/?ep=A0NO62kAAFn1iCWgEMa0owUBSNZs2bGWaHvWEukK1cTKA6YHjVFb9vkP0oYgKI8qPLSirLVLkyeaSAz5Lrk7WgU8JF_cegD2-hJkdqnHN7DpNf52M8LbbGAi8jTEFmOZCoq5-UnGe8Sy9CjejLQZBINBhuH43XfRd_jHoX8UlNZefCNAOxmIC6zKMTG1ieNrJpJxPbIFYuA2ZVO3dmNEpT4keCY&v=2
+              - text: 「
+              - strong [ref=e414]: お局
+              - text: さま」とどう付き合う？アンケート調査でわかった上手な接し方
+          - paragraph [ref=e415]: 利用者200万人突破/現役医療・介護職が選んだ求人サイト：LINE連携で求人情報がスマホに届く。応募から入職まで完全無料/応募書類作成もジョブメドレーで完結。会員登録でスカウトが届くかも。
+          - generic [ref=e416]:
+            - text: 広告www.job-medley.com/
+            - button [ref=e418] [cursor=pointer]:
+              - img [ref=e419]
+      - generic [ref=e421]:
+        - generic [ref=e422]:
+          - link "前へ":
+            - /url: /search?p=%E3%81%8A%E5%B1%80%20%E8%81%B7%E5%A0%B4&type=tag&b=-9
+            - img
+            - text: 前へ
+          - list [ref=e423]:
+            - listitem [ref=e424]:
+              - link "1":
+                - /url: /search?p=%E3%81%8A%E5%B1%80%20%E8%81%B7%E5%A0%B4&type=tag&b=1
+            - listitem [ref=e425]:
+              - link "2" [ref=e426] [cursor=pointer]:
+                - /url: /search?p=%E3%81%8A%E5%B1%80%20%E8%81%B7%E5%A0%B4&type=tag&b=11
+            - listitem [ref=e427]:
+              - link "3" [ref=e428] [cursor=pointer]:
+                - /url: /search?p=%E3%81%8A%E5%B1%80%20%E8%81%B7%E5%A0%B4&type=tag&b=21
+            - listitem [ref=e429]:
+              - link "4" [ref=e430] [cursor=pointer]:
+                - /url: /search?p=%E3%81%8A%E5%B1%80%20%E8%81%B7%E5%A0%B4&type=tag&b=31
+            - listitem [ref=e431]:
+              - link "5" [ref=e432] [cursor=pointer]:
+                - /url: /search?p=%E3%81%8A%E5%B1%80%20%E8%81%B7%E5%A0%B4&type=tag&b=41
+            - listitem [ref=e433]:
+              - link "6" [ref=e434] [cursor=pointer]:
+                - /url: /search?p=%E3%81%8A%E5%B1%80%20%E8%81%B7%E5%A0%B4&type=tag&b=51
+            - listitem [ref=e435]:
+              - link "7" [ref=e436] [cursor=pointer]:
+                - /url: /search?p=%E3%81%8A%E5%B1%80%20%E8%81%B7%E5%A0%B4&type=tag&b=61
+            - listitem [ref=e437]:
+              - link "8" [ref=e438] [cursor=pointer]:
+                - /url: /search?p=%E3%81%8A%E5%B1%80%20%E8%81%B7%E5%A0%B4&type=tag&b=71
+            - listitem [ref=e439]:
+              - link "9" [ref=e440] [cursor=pointer]:
+                - /url: /search?p=%E3%81%8A%E5%B1%80%20%E8%81%B7%E5%A0%B4&type=tag&b=81
+            - listitem [ref=e441]:
+              - link "10" [ref=e442] [cursor=pointer]:
+                - /url: /search?p=%E3%81%8A%E5%B1%80%20%E8%81%B7%E5%A0%B4&type=tag&b=91
+          - generic [ref=e443]: ...
+          - link "次へ" [ref=e444] [cursor=pointer]:
+            - /url: /search?p=%E3%81%8A%E5%B1%80%20%E8%81%B7%E5%A0%B4&type=tag&b=11
+            - text: 次へ
+            - img [ref=e445]
+        - paragraph [ref=e447]:
+          - generic [ref=e448]: 約38,725件中
+          - generic [ref=e449]: 1～10件目
+      - generic [ref=e450]:
+        - paragraph [ref=e451]: 検索しても答えが見つからない方は…
+        - link "質問する" [ref=e452] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+      - generic:
+        - generic:
+          - generic:
+            - paragraph:
+              - text: ログインボーナス
+              - generic "ベストアンサーへのお礼（知恵コイン）：":
+                - img: xmlns="http://www.w3.org/2000/svg">
+              - text: 0枚獲得！
+            - paragraph
+    - generic [ref=e453]:
+      - generic [ref=e454]:
+        - heading "検索対象" [level=2] [ref=e455]
+        - paragraph [ref=e456]:
+          - strong [ref=e457]: すべて
+          - text: （38,725件）
+        - paragraph [ref=e458]:
+          - link "回答受付中" [ref=e459] [cursor=pointer]:
+            - /url: /search?p=%E3%81%8A%E5%B1%80%20%E8%81%B7%E5%A0%B4&type=tag&flg=0
+          - text: （63件）
+        - paragraph [ref=e460]:
+          - link "解決済み" [ref=e461] [cursor=pointer]:
+            - /url: /search?p=%E3%81%8A%E5%B1%80%20%E8%81%B7%E5%A0%B4&type=tag&flg=1
+          - text: （34,661件）
+      - generic [ref=e462]:
+        - heading "表示順序" [level=2] [ref=e463]
+        - generic [ref=e466]:
+          - combobox [ref=e467] [cursor=pointer]:
+            - option "質問日時の新しい順" [selected]
+            - option "質問日時の古い順"
+            - option "更新日時の新しい順"
+            - option "更新日時の古い順"
+            - option "回答数の多い順"
+            - option "回答数の少ない順"
+            - option "閲覧数の多い順"
+            - option "閲覧数の少ない順"
+            - option "お礼の多い順"
+            - option "お礼の少ない順"
+          - img
+      - paragraph [ref=e469]:
+        - link "より詳しい条件で検索" [ref=e470] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/search/advanced?p=%E3%81%8A%E5%B1%80%20%E8%81%B7%E5%A0%B4&type=tag
+      - link "占い師にお悩み相談" [ref=e472] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_qa-res_000
+        - img "占い師にお悩み相談" [ref=e475]
+  - contentinfo [ref=e477]:
+    - generic [ref=e478]:
+      - link "Yahoo!知恵袋" [ref=e479] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e480]: "|"
+      - link "Yahoo! JAPAN" [ref=e481] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e482]:
+      - link "プライバシーポリシー" [ref=e483] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e484]: "-"
+      - link "プライバシーセンター" [ref=e485] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e486]: "-"
+      - link "利用規約" [ref=e487] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e488]: "-"
+      - link "広告について" [ref=e489] [cursor=pointer]:
+        - /url: https://btoptout.yahoo.co.jp/optout/index.html
+      - img [ref=e490]
+      - generic [ref=e494]: "-"
+      - link "検索結果への広告掲載" [ref=e495] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/searchads/?o=JP1160
+      - generic [ref=e496]: "-"
+      - link "利用のルール" [ref=e497] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e498]: "-"
+      - link "ご意見・ご要望" [ref=e499] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e500]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e501] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e502]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e503]: © LY Corporation

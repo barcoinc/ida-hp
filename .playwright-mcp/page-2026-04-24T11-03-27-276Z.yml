@@ -1,0 +1,955 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - paragraph [ref=e15]:
+          - link "冷凍野菜は生野菜より栄養価が高い!? 技術進歩で味わいも向上" [ref=e16] [cursor=pointer]:
+            - /url: https://yahoo.jp/up_2dV
+        - generic [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+                - /url: https://www.yahoo.co.jp/
+            - listitem [ref=e21]:
+              - link "ヘルプ" [ref=e22] [cursor=pointer]:
+                - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+          - generic [ref=e25]:
+            - generic "キーワード："
+            - textbox "ウェブ検索" [ref=e26]
+            - button "検索" [ref=e27] [cursor=pointer]
+            - link "板山 急上昇" [ref=e28] [cursor=pointer]:
+              - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=%E6%9D%BF%E5%B1%B1&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+              - text: 板山
+              - img "急上昇" [ref=e29]
+      - generic [ref=e30]:
+        - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+          - img "Yahoo!知恵袋" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - text: IDでもっと便利に
+            - link "新規取得" [ref=e36] [cursor=pointer]:
+              - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078675275%2Fquestion%2Flist&.src=chiebukuro
+          - generic [ref=e37]:
+            - link "ログイン" [ref=e38] [cursor=pointer]:
+              - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fcategory%2F2078675275%2Fquestion%2Flist
+            - link "ヤフーショッピングなら「毎日5％」おトク" [ref=e40] [cursor=pointer]:
+              - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8yNjU0NDUvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9zaG9wcGluZy55YWhvby5jby5qcC9wcm9tb3Rpb24vY2FtcGFpZ24vcHBldnI1Lz9zY19lPXl5bGtfbWhkX3R4dF9wcGV2cjU/
+    - navigation [ref=e42]:
+      - generic [ref=e45]:
+        - textbox "このカテゴリで探す" [ref=e47]
+        - button [ref=e48] [cursor=pointer]:
+          - img [ref=e49]
+      - list [ref=e51]:
+        - listitem [ref=e52]:
+          - link "カテゴリ" [ref=e53] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e54]:
+          - link "Q&A一覧" [ref=e55] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e56]:
+          - link "公式・専門家" [ref=e57] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e58]:
+          - link "お知らせ" [ref=e59] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e61] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e65]
+        - text: 質問・相談
+    - list [ref=e70]:
+      - listitem [ref=e71]:
+        - link "知恵袋トップ" [ref=e72] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+        - text: ＞
+      - listitem [ref=e73]:
+        - link "カテゴリ一覧" [ref=e74] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category
+        - text: ＞
+      - listitem [ref=e75]:
+        - link "生き方と恋愛、人間関係の悩み" [ref=e76] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category/2079526977/question/list
+        - text: ＞
+      - listitem [ref=e77]:
+        - link "恋愛相談、人間関係の悩み" [ref=e78] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+        - text: ＞
+      - listitem [ref=e79]:
+        - generic [ref=e80]: 友人関係の悩み
+  - generic [ref=e81]:
+    - generic [ref=e82]:
+      - generic [ref=e86]:
+        - heading "友人関係の悩み" [level=1] [ref=e88]
+        - generic [ref=e89]:
+          - generic [ref=e92]:
+            - img [ref=e93]
+            - text: お気に入り
+          - link "このカテゴリに質問" [ref=e96] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/post/form?dnum=2078675275
+            - generic [ref=e97]:
+              - img [ref=e98]
+              - text: このカテゴリに質問
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - list [ref=e105]:
+            - listitem [ref=e106]:
+              - link "回答受付中" [ref=e107] [cursor=pointer]:
+                - /url: /category/2078675275/question/list?flg=0&type=list&sort=16
+                - generic [ref=e108]: 回答受付中
+            - listitem [ref=e109]:
+              - generic [ref=e111]: 解決済み
+            - listitem [ref=e112]:
+              - link "すべて" [ref=e113] [cursor=pointer]:
+                - /url: /category/2078675275/question/list?flg=3&type=list&sort=16
+                - generic [ref=e114]: すべて
+          - generic [ref=e116]:
+            - img [ref=e118]
+            - generic [ref=e120]: 並べ替え：
+            - generic [ref=e123]:
+              - combobox [ref=e124]:
+                - option "質問日時の新しい順"
+                - option "質問日時の古い順"
+                - option "更新日時の新しい順" [selected]
+                - option "更新日時の古い順"
+                - option "回答数の多い順"
+                - option "回答数の少ない順"
+                - option "お礼の多い順"
+              - img
+            - generic [ref=e126]:
+              - generic [ref=e127]: AI質問含む
+              - checkbox [ref=e128] [cursor=pointer]
+          - generic [ref=e129]:
+            - link "友人関係の悩み 友達になりたい人が口数少なめの控えめな子なのですが、何を話せばいいでしょうか？ いつも1人なのですが、話しかけたら迷惑ですか？とりあえずインスタは交換できました。 ベストアンサー：対面で喋るのが苦手なのか 好きな話題じゃないと会話が続かないだけなのか わかりませんが インスタを交換できたなら インスタの投稿にコメントしたり 相手が嫌じゃなければDMで文字で会話して仲を深め... 回答数： 1 4/22 9:07" [ref=e132] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327450094
+              - generic [ref=e133]:
+                - paragraph [ref=e134]: 友人関係の悩み
+                - paragraph [ref=e137]: 友達になりたい人が口数少なめの控えめな子なのですが、何を話せばいいでしょうか？ いつも1人なのですが、話しかけたら迷惑ですか？とりあえずインスタは交換できました。
+                - paragraph [ref=e140]: ベストアンサー：対面で喋るのが苦手なのか 好きな話題じゃないと会話が続かないだけなのか わかりませんが インスタを交換できたなら インスタの投稿にコメントしたり 相手が嫌じゃなければDMで文字で会話して仲を深め...
+                - generic [ref=e141]:
+                  - generic [ref=e142]:
+                    - generic "回答数：" [ref=e143]:
+                      - img [ref=e144]
+                    - generic [ref=e146]: "1"
+                  - generic "4/22 9:07" [ref=e148]
+            - link "レディースバッグ、財布、小物類 至急です お気に入りのカバンを、２色買いするのはおかしいですか？？例えば、白が気に入って黒も買うみたいな... もし、友達と出かけいてその日はその白のカバン、また別にはこの間会った時と色違いの... ベストアンサー：良いと思いますよ。 私はサイズ違いで2個買いして、使い分けてます。 回答数： 8 4/22 11:24" [ref=e151] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327452305
+              - generic [ref=e152]:
+                - paragraph [ref=e153]: レディースバッグ、財布、小物類
+                - paragraph [ref=e156]: 至急です お気に入りのカバンを、２色買いするのはおかしいですか？？例えば、白が気に入って黒も買うみたいな... もし、友達と出かけいてその日はその白のカバン、また別にはこの間会った時と色違いの...
+                - paragraph [ref=e159]: ベストアンサー：良いと思いますよ。 私はサイズ違いで2個買いして、使い分けてます。
+                - generic [ref=e160]:
+                  - generic [ref=e161]:
+                    - generic "回答数：" [ref=e162]:
+                      - img [ref=e163]
+                    - generic [ref=e165]: "8"
+                  - generic "4/22 11:24" [ref=e167]
+            - link "友人関係の悩み 高校２年生です 部活のメンバーに誕プレを渡すのですが、合計2000円弱のものをあげる予定でした。しかし、ほかのメンバーとその話をしているとみんな1000円程のもので、私の値段を言うと結構引かれま... ベストアンサー：みんなに合わせないと、って日本は個人のやってあげたい感情、想いは後回し、大多数のケチの意見に合わせないといけないんですよね。 模範回答は、『相手も同じぐらい返すんだからお互い様で皆千円で合わせま... 回答数： 2 4/23 18:06" [ref=e170] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327488003
+              - generic [ref=e171]:
+                - paragraph [ref=e172]: 友人関係の悩み
+                - paragraph [ref=e175]: 高校２年生です 部活のメンバーに誕プレを渡すのですが、合計2000円弱のものをあげる予定でした。しかし、ほかのメンバーとその話をしているとみんな1000円程のもので、私の値段を言うと結構引かれま...
+                - paragraph [ref=e178]: ベストアンサー：みんなに合わせないと、って日本は個人のやってあげたい感情、想いは後回し、大多数のケチの意見に合わせないといけないんですよね。 模範回答は、『相手も同じぐらい返すんだからお互い様で皆千円で合わせま...
+                - generic [ref=e179]:
+                  - generic [ref=e180]:
+                    - generic "回答数：" [ref=e181]:
+                      - img [ref=e182]
+                    - generic [ref=e184]: "2"
+                  - generic "4/23 18:06" [ref=e186]
+            - link "友人関係の悩み 今会ってから半年くらいのネッ友がいて、そのネッ友が少しいま苦手になってきてます。知り合ったゲームはフォトナです。そのネッ友の良いこと悪いことをお話するので性格が悪いか決めてほしいです。 悪いところ よ ベストアンサー：普通にだるいので私だったらブロックして切ります 回答数： 2 4/21 21:22" [ref=e189] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327439701
+              - generic [ref=e190]:
+                - paragraph [ref=e191]: 友人関係の悩み
+                - paragraph [ref=e194]: 今会ってから半年くらいのネッ友がいて、そのネッ友が少しいま苦手になってきてます。知り合ったゲームはフォトナです。そのネッ友の良いこと悪いことをお話するので性格が悪いか決めてほしいです。 悪いところ よ
+                - paragraph [ref=e197]: ベストアンサー：普通にだるいので私だったらブロックして切ります
+                - generic [ref=e198]:
+                  - generic [ref=e199]:
+                    - generic "回答数：" [ref=e200]:
+                      - img [ref=e201]
+                    - generic [ref=e203]: "2"
+                  - generic "4/21 21:22" [ref=e205]
+            - link "友人関係の悩み 中1の友達が足裏の形や肌質に悩んでいます。この画像からみた足裏はどのような印象ですか？ ベストアンサー：普通だと思います。 ピンぼけしてるので詳しく分かりませんが。 回答数： 1 4/24 0:28 中1の友達が足裏の形や肌質に悩んでいます。この画像からみた足裏はどのような印象ですか？" [ref=e208] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327499359
+              - generic [ref=e209]:
+                - paragraph [ref=e210]: 友人関係の悩み
+                - paragraph [ref=e213]: 中1の友達が足裏の形や肌質に悩んでいます。この画像からみた足裏はどのような印象ですか？
+                - paragraph [ref=e216]: ベストアンサー：普通だと思います。 ピンぼけしてるので詳しく分かりませんが。
+                - generic [ref=e217]:
+                  - generic [ref=e218]:
+                    - generic "回答数：" [ref=e219]:
+                      - img [ref=e220]
+                    - generic [ref=e222]: "1"
+                  - generic "4/24 0:28" [ref=e224]
+              - img "中1の友達が足裏の形や肌質に悩んでいます。この画像からみた足裏はどのような印象ですか？" [ref=e227]
+            - link "恋愛相談、人間関係の悩み ケチな人が嫌われる理由ってつまるところ人をバカにしてるからですよね？ みんなで喫茶店入って「私はお水でいい」 自分だけ得しようとか小賢しいところが嫌われるんですよね？ ベストアンサー：「私は水」って、それは喫茶店に入ってはいけないですよね・・・ バカにしてるというか、常識がないです。 だから嫌われるんだと思いますよ。 回答数： 7 3/26 9:19 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e230] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14326623084
+              - generic [ref=e231]:
+                - paragraph [ref=e232]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e235]: ケチな人が嫌われる理由ってつまるところ人をバカにしてるからですよね？ みんなで喫茶店入って「私はお水でいい」 自分だけ得しようとか小賢しいところが嫌われるんですよね？
+                - paragraph [ref=e238]: ベストアンサー：「私は水」って、それは喫茶店に入ってはいけないですよね・・・ バカにしてるというか、常識がないです。 だから嫌われるんだと思いますよ。
+                - generic [ref=e239]:
+                  - generic [ref=e240]:
+                    - generic "回答数：" [ref=e241]:
+                      - img [ref=e242]
+                    - generic [ref=e244]: "7"
+                  - generic "3/26 9:19" [ref=e246]
+                  - generic [ref=e247]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e248]:
+                      - img [ref=e249]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e255]: "25"
+            - link "友人関係の悩み 中学の友達のラインを消すか、迷っています。 最近中学を卒業したのですが、 大好きな友達以外は、業務連絡以外使わないのでブロ削とはいかなくとも、友達の欄から削除したいと思っています。私の交友関係は... ベストアンサー：全然消していいと思います それくらいの浅い友人だったら、高校行ってからも関わることなんてないですよ スッキリさっぱり整理して、高校での新しい人間関係に思いを馳せた方がいいです 回答数： 3 3/10 15:02" [ref=e258] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13326126128
+              - generic [ref=e259]:
+                - paragraph [ref=e260]: 友人関係の悩み
+                - paragraph [ref=e263]: 中学の友達のラインを消すか、迷っています。 最近中学を卒業したのですが、 大好きな友達以外は、業務連絡以外使わないのでブロ削とはいかなくとも、友達の欄から削除したいと思っています。私の交友関係は...
+                - paragraph [ref=e266]: ベストアンサー：全然消していいと思います それくらいの浅い友人だったら、高校行ってからも関わることなんてないですよ スッキリさっぱり整理して、高校での新しい人間関係に思いを馳せた方がいいです
+                - generic [ref=e267]:
+                  - generic [ref=e268]:
+                    - generic "回答数：" [ref=e269]:
+                      - img [ref=e270]
+                    - generic [ref=e272]: "3"
+                  - generic "3/10 15:02" [ref=e274]
+            - link "恋愛相談、人間関係の悩み 一応至急 男です 好きな子に会うのですが、どう最初に挨拶すればよいでしょうか 「よっ」って話しかけてから色々話し始めるのがいいと思っていますが、大丈夫でしょうか 小6まで同じ小学校で、中学、高校... ベストアンサー：朝会うなら『おはよ』 朝以外で相手が先に来てたなら『おまたせー』 自分が先に来て待ってた場合『迷わなかった？笑』 回答数： 4 4/24 18:15 ベストアンサーへのお礼（知恵コイン）： 50" [ref=e277] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327514498
+              - generic [ref=e278]:
+                - paragraph [ref=e279]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e282]: 一応至急 男です 好きな子に会うのですが、どう最初に挨拶すればよいでしょうか 「よっ」って話しかけてから色々話し始めるのがいいと思っていますが、大丈夫でしょうか 小6まで同じ小学校で、中学、高校...
+                - paragraph [ref=e285]: ベストアンサー：朝会うなら『おはよ』 朝以外で相手が先に来てたなら『おまたせー』 自分が先に来て待ってた場合『迷わなかった？笑』
+                - generic [ref=e286]:
+                  - generic [ref=e287]:
+                    - generic "回答数：" [ref=e288]:
+                      - img [ref=e289]
+                    - generic [ref=e291]: "4"
+                  - generic "4/24 18:15" [ref=e293]
+                  - generic [ref=e294]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e295]:
+                      - img [ref=e296]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e302]: "50"
+            - link "友人関係の悩み 大学2年です。 1年では友達はいても空きコマが合わず、一人でいることが多かったのですが、2年になって仲良い友達が増えた結果4人でお昼を食べるのが日課となっています。 ですが正直一人の時間が欲しい... ベストアンサー：めちゃくちゃ普通だと思うよ。 人といるのが楽しくても、ずっと一緒だとどこかでエネルギー使うし、一人で回復する時間って必要だからね。 「ガチでハッキリ宣言」はいらないけど、ゆるく自分の時間を作る... 回答数： 1 4/24 18:33" [ref=e305] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327514981
+              - generic [ref=e306]:
+                - paragraph [ref=e307]: 友人関係の悩み
+                - paragraph [ref=e310]: 大学2年です。 1年では友達はいても空きコマが合わず、一人でいることが多かったのですが、2年になって仲良い友達が増えた結果4人でお昼を食べるのが日課となっています。 ですが正直一人の時間が欲しい...
+                - paragraph [ref=e313]: ベストアンサー：めちゃくちゃ普通だと思うよ。 人といるのが楽しくても、ずっと一緒だとどこかでエネルギー使うし、一人で回復する時間って必要だからね。 「ガチでハッキリ宣言」はいらないけど、ゆるく自分の時間を作る...
+                - generic [ref=e314]:
+                  - generic [ref=e315]:
+                    - generic "回答数：" [ref=e316]:
+                      - img [ref=e317]
+                    - generic [ref=e319]: "1"
+                  - generic "4/24 18:33" [ref=e321]
+            - link "恋愛相談、人間関係の悩み 相手の名前を間違えてメールしてしまいました。 特に女性の方に見てほしいです 今日学校でたまたま隣になった女の子とLINEを交換したのですが、相手が呼び方を教えてほしいと言われて、（自分からもOO... ベストアンサー：傷つくかどうかは人によるけれど、私はそれぐらいの間違いでは傷つかないですよ。 回答数： 3 4/24 17:53 ベストアンサーへのお礼（知恵コイン）： 500" [ref=e324] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327513922
+              - generic [ref=e325]:
+                - paragraph [ref=e326]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e329]: 相手の名前を間違えてメールしてしまいました。 特に女性の方に見てほしいです 今日学校でたまたま隣になった女の子とLINEを交換したのですが、相手が呼び方を教えてほしいと言われて、（自分からもOO...
+                - paragraph [ref=e332]: ベストアンサー：傷つくかどうかは人によるけれど、私はそれぐらいの間違いでは傷つかないですよ。
+                - generic [ref=e333]:
+                  - generic [ref=e334]:
+                    - generic "回答数：" [ref=e335]:
+                      - img [ref=e336]
+                    - generic [ref=e338]: "3"
+                  - generic "4/24 17:53" [ref=e340]
+                  - generic [ref=e341]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e342]:
+                      - img [ref=e343]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e349]: "500"
+            - link "学校の悩み 【お礼100】 高校2年生で、運動部に所属しています。今は学年の中で責任者なのですが、将来的に部長を任されるかもしれないと言われています。 その中で、自分の気持ちに少し悩んでいます。 部活な... ベストアンサー：あなた個人としてそう思うのは普通のことです。人間なので嫌いな人もいるでしょう。 しかし少なからずリーダーということであればそういう人をまとめるのもあなたの役割だと思います。 回答数： 1 4/18 22:01 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e352] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327270671
+              - generic [ref=e353]:
+                - paragraph [ref=e354]: 学校の悩み
+                - paragraph [ref=e357]: 【お礼100】 高校2年生で、運動部に所属しています。今は学年の中で責任者なのですが、将来的に部長を任されるかもしれないと言われています。 その中で、自分の気持ちに少し悩んでいます。 部活な...
+                - paragraph [ref=e360]: ベストアンサー：あなた個人としてそう思うのは普通のことです。人間なので嫌いな人もいるでしょう。 しかし少なからずリーダーということであればそういう人をまとめるのもあなたの役割だと思います。
+                - generic [ref=e361]:
+                  - generic [ref=e362]:
+                    - generic "回答数：" [ref=e363]:
+                      - img [ref=e364]
+                    - generic [ref=e366]: "1"
+                  - generic "4/18 22:01" [ref=e368]
+                  - generic [ref=e369]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e370]:
+                      - img [ref=e371]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e377]: "100"
+            - link "結婚 プレ花です 結婚式のゲスト（招待）についてです。 小中高って仲のいい子に 式場と日にちが決まったその日に 最速で、来て欲しいから空けておいて！！ と送りましたがその1週間後に既読がつき、 まさ... ベストアンサー：私は同じ状況で、ほんとに迷ってなかなか返事できなかった事があります。 どちらかを断らないといけないなら、先に誘ってもらった方に行くべきとも思ったし、でも行きたいのは後から聞いた方で・・・みたいな。 待 回答数： 7 4/23 11:21" [ref=e380] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327479535
+              - generic [ref=e381]:
+                - paragraph [ref=e382]: 結婚
+                - paragraph [ref=e385]: プレ花です 結婚式のゲスト（招待）についてです。 小中高って仲のいい子に 式場と日にちが決まったその日に 最速で、来て欲しいから空けておいて！！ と送りましたがその1週間後に既読がつき、 まさ...
+                - paragraph [ref=e388]: ベストアンサー：私は同じ状況で、ほんとに迷ってなかなか返事できなかった事があります。 どちらかを断らないといけないなら、先に誘ってもらった方に行くべきとも思ったし、でも行きたいのは後から聞いた方で・・・みたいな。 待
+                - generic [ref=e389]:
+                  - generic [ref=e390]:
+                    - generic "回答数：" [ref=e391]:
+                      - img [ref=e392]
+                    - generic [ref=e394]: "7"
+                  - generic "4/23 11:21" [ref=e396]
+            - link "友人関係の悩み 高校の人間関係についてです。 クラスで関わっているグループがあるのですが、正直うまく馴染めていません。（4人組グループ） 最初の流れでその子たちとお昼を一緒に食べるようになったのですが、まだそ... ベストアンサー：文章を読んで、そそっかしい一面がある方なのかなと思いました。 関わり方に問題があったのかは分かりませんが、ピクミンだと感じているのなら自分をさらけ出せずにいたのがよくないのかもしれません。 笑わ... 回答数： 2 4/24 13:31 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e399] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327508932
+              - generic [ref=e400]:
+                - paragraph [ref=e401]: 友人関係の悩み
+                - paragraph [ref=e404]: 高校の人間関係についてです。 クラスで関わっているグループがあるのですが、正直うまく馴染めていません。（4人組グループ） 最初の流れでその子たちとお昼を一緒に食べるようになったのですが、まだそ...
+                - paragraph [ref=e407]: ベストアンサー：文章を読んで、そそっかしい一面がある方なのかなと思いました。 関わり方に問題があったのかは分かりませんが、ピクミンだと感じているのなら自分をさらけ出せずにいたのがよくないのかもしれません。 笑わ...
+                - generic [ref=e408]:
+                  - generic [ref=e409]:
+                    - generic "回答数：" [ref=e410]:
+                      - img [ref=e411]
+                    - generic [ref=e413]: "2"
+                  - generic "4/24 13:31" [ref=e415]
+                  - generic [ref=e416]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e417]:
+                      - img [ref=e418]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e424]: "100"
+            - link "恋愛相談、人間関係の悩み 女友達から元カノの話を聞いた時どう思いますか？ 私は元カノがいます。中１から中2の終わりくらいまで付き合っていました。もともと友達だったし、ほんとに好きだったので付き合っていました。女の子をすき... ベストアンサー：性的少数派は色々ありますが、LGBの３つに限定した場合、5%前後と見られていますね。 20人に1人くらい。明確に少数派です。 それを「変」と表現するかどうかは、人によると思いますが。 同性の恋... 回答数： 1 4/18 20:49" [ref=e427] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327352013
+              - generic [ref=e428]:
+                - paragraph [ref=e429]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e432]: 女友達から元カノの話を聞いた時どう思いますか？ 私は元カノがいます。中１から中2の終わりくらいまで付き合っていました。もともと友達だったし、ほんとに好きだったので付き合っていました。女の子をすき...
+                - paragraph [ref=e435]: ベストアンサー：性的少数派は色々ありますが、LGBの３つに限定した場合、5%前後と見られていますね。 20人に1人くらい。明確に少数派です。 それを「変」と表現するかどうかは、人によると思いますが。 同性の恋...
+                - generic [ref=e436]:
+                  - generic [ref=e437]:
+                    - generic "回答数：" [ref=e438]:
+                      - img [ref=e439]
+                    - generic [ref=e441]: "1"
+                  - generic "4/18 20:49" [ref=e443]
+            - link "友人関係の悩み 友達とかと飯食ってる時とか、遊んでる時にイヤホンしてる人ってどういう心境なのでしょうか？？？ 自分は大学で野球のサークルに入っており、同級生の子が駅から球場まで送ってほしいと言うので、送ったので... ベストアンサー：補聴器でないなら嫌な気持ちになりますし、イライラします！たぶんその人はイヤホンするのが普通というか、日常になってるので人といるときは外すっていう発想がないんじゃないかな。あくまで予想ですが・・・ 友 回答数： 5 4/24 11:23 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e446] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327506577
+              - generic [ref=e447]:
+                - paragraph [ref=e448]: 友人関係の悩み
+                - paragraph [ref=e451]: 友達とかと飯食ってる時とか、遊んでる時にイヤホンしてる人ってどういう心境なのでしょうか？？？ 自分は大学で野球のサークルに入っており、同級生の子が駅から球場まで送ってほしいと言うので、送ったので...
+                - paragraph [ref=e454]: ベストアンサー：補聴器でないなら嫌な気持ちになりますし、イライラします！たぶんその人はイヤホンするのが普通というか、日常になってるので人といるときは外すっていう発想がないんじゃないかな。あくまで予想ですが・・・ 友
+                - generic [ref=e455]:
+                  - generic [ref=e456]:
+                    - generic "回答数：" [ref=e457]:
+                      - img [ref=e458]
+                    - generic [ref=e460]: "5"
+                  - generic "4/24 11:23" [ref=e462]
+                  - generic [ref=e463]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e464]:
+                      - img [ref=e465]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e471]: "25"
+            - link "友人関係の悩み 至急です。 自分では気持ちの整理がつかないため少し相談させてください。 長文ですし文がおかしいところがあります。 申し訳ありません。 今週の土曜日に推しのイベントがあります。 昨年の12月頃か... ベストアンサー：お相手の子凄いですね、、、話を聞く限り質問者さんがすごく可哀想に思えてきます。お相手さんの推しの熱意がよくない方向にいってる気がします。。全然大人気なくなんてないですよ！通路自引きですよね！日頃... 回答数： 1 4/24 0:30 ベストアンサーへのお礼（知恵コイン）： 250" [ref=e474] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327499380
+              - generic [ref=e475]:
+                - paragraph [ref=e476]: 友人関係の悩み
+                - paragraph [ref=e479]: 至急です。 自分では気持ちの整理がつかないため少し相談させてください。 長文ですし文がおかしいところがあります。 申し訳ありません。 今週の土曜日に推しのイベントがあります。 昨年の12月頃か...
+                - paragraph [ref=e482]: ベストアンサー：お相手の子凄いですね、、、話を聞く限り質問者さんがすごく可哀想に思えてきます。お相手さんの推しの熱意がよくない方向にいってる気がします。。全然大人気なくなんてないですよ！通路自引きですよね！日頃...
+                - generic [ref=e483]:
+                  - generic [ref=e484]:
+                    - generic "回答数：" [ref=e485]:
+                      - img [ref=e486]
+                    - generic [ref=e488]: "1"
+                  - generic "4/24 0:30" [ref=e490]
+                  - generic [ref=e491]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e492]:
+                      - img [ref=e493]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e499]: "250"
+            - link "友人関係の悩み 長文失礼しますm(*_ _)m 私はネット上でよくゲームをしながら話すフレンドがいます。そして、最近別に新しく仲の良いフレンドが出来ました。私はその新しく出来たフレンドとの方がテンション感などが... ベストアンサー：アナタが悪いのって連絡返すの遅いのくらいじゃないんですかね。 回答数： 1 4/21 17:48" [ref=e502] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327433113
+              - generic [ref=e503]:
+                - paragraph [ref=e504]: 友人関係の悩み
+                - paragraph [ref=e507]: 長文失礼しますm(*_ _)m 私はネット上でよくゲームをしながら話すフレンドがいます。そして、最近別に新しく仲の良いフレンドが出来ました。私はその新しく出来たフレンドとの方がテンション感などが...
+                - paragraph [ref=e510]: ベストアンサー：アナタが悪いのって連絡返すの遅いのくらいじゃないんですかね。
+                - generic [ref=e511]:
+                  - generic [ref=e512]:
+                    - generic "回答数：" [ref=e513]:
+                      - img [ref=e514]
+                    - generic [ref=e516]: "1"
+                  - generic "4/21 17:48" [ref=e518]
+            - link "友人関係の悩み 私が少食なせいで途中から友達だけ食べるような感じになってしまって申し訳ない気分になりました。食べる以外の遊びって何かありますか？映画など ベストアンサー：私も少食です。スイーツならどうですか？早く食べ終わっちゃったらドリンク飲みながら時間稼ぐのも手です。友だちはそんなの気にしてないと思いますけどね…。 回答数： 2 4/21 8:12" [ref=e521] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327422190
+              - generic [ref=e522]:
+                - paragraph [ref=e523]: 友人関係の悩み
+                - paragraph [ref=e526]: 私が少食なせいで途中から友達だけ食べるような感じになってしまって申し訳ない気分になりました。食べる以外の遊びって何かありますか？映画など
+                - paragraph [ref=e529]: ベストアンサー：私も少食です。スイーツならどうですか？早く食べ終わっちゃったらドリンク飲みながら時間稼ぐのも手です。友だちはそんなの気にしてないと思いますけどね…。
+                - generic [ref=e530]:
+                  - generic [ref=e531]:
+                    - generic "回答数：" [ref=e532]:
+                      - img [ref=e533]
+                    - generic [ref=e535]: "2"
+                  - generic "4/21 8:12" [ref=e537]
+            - link "学校の悩み 中3です。新クラスになって少し経ちました。 今年は真面目に過ごそうと思っていた矢先、全く話したことがないクラスメイトから急に名前を叫ばれました。フルネームで。何回も。至近距離でも遠距離でも。「な... ベストアンサー：うーん なんかイジメっぽい感じがするよねえ… 先生に相談してみてもいいんじゃない 回答数： 1 4/22 22:37" [ref=e540] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327469258
+              - generic [ref=e541]:
+                - paragraph [ref=e542]: 学校の悩み
+                - paragraph [ref=e545]: 中3です。新クラスになって少し経ちました。 今年は真面目に過ごそうと思っていた矢先、全く話したことがないクラスメイトから急に名前を叫ばれました。フルネームで。何回も。至近距離でも遠距離でも。「な...
+                - paragraph [ref=e548]: ベストアンサー：うーん なんかイジメっぽい感じがするよねえ… 先生に相談してみてもいいんじゃない
+                - generic [ref=e549]:
+                  - generic [ref=e550]:
+                    - generic "回答数：" [ref=e551]:
+                      - img [ref=e552]
+                    - generic [ref=e554]: "1"
+                  - generic "4/22 22:37" [ref=e556]
+            - link "友人関係の悩み 学生生活で気の合う友達の探し方ってなんですか？ 私は今片っ端から話しかけて合いそうな人と仲良くしてみる方法を取っているのですが やめた方がいいですか ベストアンサー：いいと思いますよ！ ただある程度関係が深くなったり、時間が経たないと自分に合うかどうかは分からないので最初の印象だけで判断するのはやめた方がいいかもです。ある程度のグループに属しておくといいと思... 回答数： 1 4/15 19:01" [ref=e559] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327265075
+              - generic [ref=e560]:
+                - paragraph [ref=e561]: 友人関係の悩み
+                - paragraph [ref=e564]: 学生生活で気の合う友達の探し方ってなんですか？ 私は今片っ端から話しかけて合いそうな人と仲良くしてみる方法を取っているのですが やめた方がいいですか
+                - paragraph [ref=e567]: ベストアンサー：いいと思いますよ！ ただある程度関係が深くなったり、時間が経たないと自分に合うかどうかは分からないので最初の印象だけで判断するのはやめた方がいいかもです。ある程度のグループに属しておくといいと思...
+                - generic [ref=e568]:
+                  - generic [ref=e569]:
+                    - generic "回答数：" [ref=e570]:
+                      - img [ref=e571]
+                    - generic [ref=e573]: "1"
+                  - generic "4/15 19:01" [ref=e575]
+            - link "恋愛相談、人間関係の悩み ちょっとした疑問なんですけど、ぶりっ子ってなんで嫌われるんですか？自分に被害来てる訳でもないのになんで嫌うんだろうと思います。 教えてくださいm(_ _)m ベストアンサー：明らかに素の自分ではない人を偽ってるとわかりやすいからじゃないですかね。シンプルに気持ち悪いと思う人とか不快に思う人とかいますけどたしカニなんで不快に思うのでしょうかね。 回答数： 3 2025/9/27 17:25" [ref=e578] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10320446280
+              - generic [ref=e579]:
+                - paragraph [ref=e580]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e583]: ちょっとした疑問なんですけど、ぶりっ子ってなんで嫌われるんですか？自分に被害来てる訳でもないのになんで嫌うんだろうと思います。 教えてくださいm(_ _)m
+                - paragraph [ref=e586]: ベストアンサー：明らかに素の自分ではない人を偽ってるとわかりやすいからじゃないですかね。シンプルに気持ち悪いと思う人とか不快に思う人とかいますけどたしカニなんで不快に思うのでしょうかね。
+                - generic [ref=e587]:
+                  - generic [ref=e588]:
+                    - generic "回答数：" [ref=e589]:
+                      - img [ref=e590]
+                    - generic [ref=e592]: "3"
+                  - generic "2025/9/27 17:25" [ref=e594]
+            - link "友人関係の悩み 結婚式でスピーチをしてもらった友人に、スピーチを頼まれませんでした。 20代の女です。 私には小学生の頃から仲の良い友人Aちゃんがいるのですが、今度Aちゃんの結婚式に招待されました。 中学高... ベストアンサー：小さな子どもがいる人には頼まないですね。 日々バタバタしているのにスピーチ内容を考えさせるのも申し訳ないし、お子さん関係で急な欠席もありえるわけですからね。 2次会に1人で出席ならお断りしても... 回答数： 6 4/24 11:58" [ref=e597] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327507148
+              - generic [ref=e598]:
+                - paragraph [ref=e599]: 友人関係の悩み
+                - paragraph [ref=e602]: 結婚式でスピーチをしてもらった友人に、スピーチを頼まれませんでした。 20代の女です。 私には小学生の頃から仲の良い友人Aちゃんがいるのですが、今度Aちゃんの結婚式に招待されました。 中学高...
+                - paragraph [ref=e605]: ベストアンサー：小さな子どもがいる人には頼まないですね。 日々バタバタしているのにスピーチ内容を考えさせるのも申し訳ないし、お子さん関係で急な欠席もありえるわけですからね。 2次会に1人で出席ならお断りしても...
+                - generic [ref=e606]:
+                  - generic [ref=e607]:
+                    - generic "回答数：" [ref=e608]:
+                      - img [ref=e609]
+                    - generic [ref=e611]: "6"
+                  - generic "4/24 11:58" [ref=e613]
+            - link "友人関係の悩み 友達が電話してる時に眠たくなってきたって言うので電話切って私も寝るんですよ、 でも次の日絶対眠れなくなって起きてたーとか言うしグループ通話してる時に通話始めたばっかなのに眠くなってきたってずっと... ベストアンサー：眠らない組ってグループ別で作って その子が眠い～って言ってきたら即終了。 別のグループで通話しては?! ただのかまってちゃんなだけだと思うよ。 自分が輪の中心にいないと言い出すのか、 喋りが下手... 回答数： 1 2025/11/20 5:20" [ref=e616] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14322427329
+              - generic [ref=e617]:
+                - paragraph [ref=e618]: 友人関係の悩み
+                - paragraph [ref=e621]: 友達が電話してる時に眠たくなってきたって言うので電話切って私も寝るんですよ、 でも次の日絶対眠れなくなって起きてたーとか言うしグループ通話してる時に通話始めたばっかなのに眠くなってきたってずっと...
+                - paragraph [ref=e624]: ベストアンサー：眠らない組ってグループ別で作って その子が眠い～って言ってきたら即終了。 別のグループで通話しては?! ただのかまってちゃんなだけだと思うよ。 自分が輪の中心にいないと言い出すのか、 喋りが下手...
+                - generic [ref=e625]:
+                  - generic [ref=e626]:
+                    - generic "回答数：" [ref=e627]:
+                      - img [ref=e628]
+                    - generic [ref=e630]: "1"
+                  - generic "2025/11/20 5:20" [ref=e632]
+            - link "友人関係の悩み もう限界です。 今16歳で、高校は中退しました、中学から仲が良かった友達がいたのですが(仮名a)の発言で気にかかることがよくありました。 嫌なとこを上げていくと ものを取る (お金が散らばって... ベストアンサー：縁切りたいなら切ればいい 本音ぶつけてキレられたらそれでお互い嫌いになるし縁も切れるかと 回答数： 1 2/20 17:23" [ref=e635] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11325539386
+              - generic [ref=e636]:
+                - paragraph [ref=e637]: 友人関係の悩み
+                - paragraph [ref=e640]: もう限界です。 今16歳で、高校は中退しました、中学から仲が良かった友達がいたのですが(仮名a)の発言で気にかかることがよくありました。 嫌なとこを上げていくと ものを取る (お金が散らばって...
+                - paragraph [ref=e643]: ベストアンサー：縁切りたいなら切ればいい 本音ぶつけてキレられたらそれでお互い嫌いになるし縁も切れるかと
+                - generic [ref=e644]:
+                  - generic [ref=e645]:
+                    - generic "回答数：" [ref=e646]:
+                      - img [ref=e647]
+                    - generic [ref=e649]: "1"
+                  - generic "2/20 17:23" [ref=e651]
+            - link "友人関係の悩み 高校生女子です。 1年生の時から特に仲良くしている子（A、B、C）がいます。 A→文理選択が私と違うため2年から違うクラス（今も親友） 委員会に多く入っていて顔が広い（社交的） B→文理選択... ベストアンサー：本当に一緒にいたくないならはっきり断りましょう。理由を付けても関係が悪化した状態で長引くだけです。 回答数： 1 4/15 20:05 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e654] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327267230
+              - generic [ref=e655]:
+                - paragraph [ref=e656]: 友人関係の悩み
+                - paragraph [ref=e659]: 高校生女子です。 1年生の時から特に仲良くしている子（A、B、C）がいます。 A→文理選択が私と違うため2年から違うクラス（今も親友） 委員会に多く入っていて顔が広い（社交的） B→文理選択...
+                - paragraph [ref=e662]: ベストアンサー：本当に一緒にいたくないならはっきり断りましょう。理由を付けても関係が悪化した状態で長引くだけです。
+                - generic [ref=e663]:
+                  - generic [ref=e664]:
+                    - generic "回答数：" [ref=e665]:
+                      - img [ref=e666]
+                    - generic [ref=e668]: "1"
+                  - generic "4/15 20:05" [ref=e670]
+                  - generic [ref=e671]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e672]:
+                      - img [ref=e673]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e679]: "100"
+            - link "友人関係の悩み 『会えてた！』と『会いたかった』は同じ意味ですか？ たまたまグループメンバーで再会した距離を置かれた友人に『連絡くれたら、会えてたのに。』とそう言ってました。 ベストアンサー：同じ意味ではありません。 『会えてた』 条件が合えば会うこと“が可能だった”という事実寄りの表現で、 『会いたかった』 会いたい“気持ちがあった”という感情寄りの表現 です。 距離を置... 回答数： 1 4/24 8:42" [ref=e682] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327504006
+              - generic [ref=e683]:
+                - paragraph [ref=e684]: 友人関係の悩み
+                - paragraph [ref=e687]: 『会えてた！』と『会いたかった』は同じ意味ですか？ たまたまグループメンバーで再会した距離を置かれた友人に『連絡くれたら、会えてたのに。』とそう言ってました。
+                - paragraph [ref=e690]: ベストアンサー：同じ意味ではありません。 『会えてた』 条件が合えば会うこと“が可能だった”という事実寄りの表現で、 『会いたかった』 会いたい“気持ちがあった”という感情寄りの表現 です。 距離を置...
+                - generic [ref=e691]:
+                  - generic [ref=e692]:
+                    - generic "回答数：" [ref=e693]:
+                      - img [ref=e694]
+                    - generic [ref=e696]: "1"
+                  - generic "4/24 8:42" [ref=e698]
+            - link "友人関係の悩み すみません長文ですが沢山の意見を下さい( ; ; ) 私はゲーム上で仲の良いネッ友がいます、そのネッ友とはLINEも交換して数年ずっと一緒に仲良く遊んでいました、ただその子は1度遊びはじめたらず... ベストアンサー：その子が相当なメンヘラなので100%その子の問題です。あなたは悪くありません。 その子とあなたが付き合ってる異性同士の関係ならまだしも(それでも同性とならいくら遊んでも許されるはずですが)、他の... 回答数： 1 4/23 11:30" [ref=e701] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327479715
+              - generic [ref=e702]:
+                - paragraph [ref=e703]: 友人関係の悩み
+                - paragraph [ref=e706]: すみません長文ですが沢山の意見を下さい( ; ; ) 私はゲーム上で仲の良いネッ友がいます、そのネッ友とはLINEも交換して数年ずっと一緒に仲良く遊んでいました、ただその子は1度遊びはじめたらず...
+                - paragraph [ref=e709]: ベストアンサー：その子が相当なメンヘラなので100%その子の問題です。あなたは悪くありません。 その子とあなたが付き合ってる異性同士の関係ならまだしも(それでも同性とならいくら遊んでも許されるはずですが)、他の...
+                - generic [ref=e710]:
+                  - generic [ref=e711]:
+                    - generic "回答数：" [ref=e712]:
+                      - img [ref=e713]
+                    - generic [ref=e715]: "1"
+                  - generic "4/23 11:30" [ref=e717]
+            - link "友人関係の悩み 私は高校に入学したばかりの女子です。 クラス内でいくつかのグループができているのですが、自分の立ち位置がうまく掴めず、人間関係で悩んでいます。 一応、3人組のグループと関わることが多いのですが... ベストアンサー：自分は現在高2ですが、高1の後半から投稿主さんと似たような状況になりました。自分の場合は高１の後半っていうこともあって、完全にクラス内の人間関係が固まってしまっていたので1人でいるしかなかったで... 回答数： 3 4/23 6:03 ベストアンサーへのお礼（知恵コイン）： 500" [ref=e720] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327474853
+              - generic [ref=e721]:
+                - paragraph [ref=e722]: 友人関係の悩み
+                - paragraph [ref=e725]: 私は高校に入学したばかりの女子です。 クラス内でいくつかのグループができているのですが、自分の立ち位置がうまく掴めず、人間関係で悩んでいます。 一応、3人組のグループと関わることが多いのですが...
+                - paragraph [ref=e728]: ベストアンサー：自分は現在高2ですが、高1の後半から投稿主さんと似たような状況になりました。自分の場合は高１の後半っていうこともあって、完全にクラス内の人間関係が固まってしまっていたので1人でいるしかなかったで...
+                - generic [ref=e729]:
+                  - generic [ref=e730]:
+                    - generic "回答数：" [ref=e731]:
+                      - img [ref=e732]
+                    - generic [ref=e734]: "3"
+                  - generic "4/23 6:03" [ref=e736]
+                  - generic [ref=e737]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e738]:
+                      - img [ref=e739]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e745]: "500"
+            - link "友人関係の悩み みなさんは意見を聞いて公平な判断できますか？ それとも友人が間違っていてもかばい友達の意見が正しいって言いますか？ ベストアンサー：頭の中では公平な判断はされるけど、 それを口に出す時にはある程度 感情や背景に揺さぶられた結果 が反映することはありますね。 回答数： 4 4/21 18:04" [ref=e748] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327433510
+              - generic [ref=e749]:
+                - paragraph [ref=e750]: 友人関係の悩み
+                - paragraph [ref=e753]: みなさんは意見を聞いて公平な判断できますか？ それとも友人が間違っていてもかばい友達の意見が正しいって言いますか？
+                - paragraph [ref=e756]: ベストアンサー：頭の中では公平な判断はされるけど、 それを口に出す時にはある程度 感情や背景に揺さぶられた結果 が反映することはありますね。
+                - generic [ref=e757]:
+                  - generic [ref=e758]:
+                    - generic "回答数：" [ref=e759]:
+                      - img [ref=e760]
+                    - generic [ref=e762]: "4"
+                  - generic "4/21 18:04" [ref=e764]
+            - link "学校の悩み 通信制高校に通っている3年生です。 私の行ってる学校はほとんどの人が散歩に就職か専門を選ぶのでこの時期はみんな遊んでいます。 私は行きたい大学があるので一日中勉強しているのですが、友達が毎日の... ベストアンサー：私も高三のときに全く一緒の状態でした！ インスタとBeRealのアカウントを切ったら察したのか全く話しかけてこなくなりましたね めっちゃドキドキしましたが快適でした 回答数： 3 4/21 10:38" [ref=e767] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327424506
+              - generic [ref=e768]:
+                - paragraph [ref=e769]: 学校の悩み
+                - paragraph [ref=e772]: 通信制高校に通っている3年生です。 私の行ってる学校はほとんどの人が散歩に就職か専門を選ぶのでこの時期はみんな遊んでいます。 私は行きたい大学があるので一日中勉強しているのですが、友達が毎日の...
+                - paragraph [ref=e775]: ベストアンサー：私も高三のときに全く一緒の状態でした！ インスタとBeRealのアカウントを切ったら察したのか全く話しかけてこなくなりましたね めっちゃドキドキしましたが快適でした
+                - generic [ref=e776]:
+                  - generic [ref=e777]:
+                    - generic "回答数：" [ref=e778]:
+                      - img [ref=e779]
+                    - generic [ref=e781]: "3"
+                  - generic "4/21 10:38" [ref=e783]
+            - link "友人関係の悩み 友達と昨日喧嘩？をしてしまいました。 具体的に何があったかは避けますが、私がそのきっかけを作ってしまい相手をもやもやした気持ちにさせてしまいました。 その日のうちに私はこう思ったからこうした、相... ベストアンサー：ハイライト消した？ってわざわざ聞かなくていいです。 きっと友達には仲直りはしたけど、もう少し消化する時間が必要なだけです。 回答数： 1 3/17 14:20" [ref=e786] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14326345839
+              - generic [ref=e787]:
+                - paragraph [ref=e788]: 友人関係の悩み
+                - paragraph [ref=e791]: 友達と昨日喧嘩？をしてしまいました。 具体的に何があったかは避けますが、私がそのきっかけを作ってしまい相手をもやもやした気持ちにさせてしまいました。 その日のうちに私はこう思ったからこうした、相...
+                - paragraph [ref=e794]: ベストアンサー：ハイライト消した？ってわざわざ聞かなくていいです。 きっと友達には仲直りはしたけど、もう少し消化する時間が必要なだけです。
+                - generic [ref=e795]:
+                  - generic [ref=e796]:
+                    - generic "回答数：" [ref=e797]:
+                      - img [ref=e798]
+                    - generic [ref=e800]: "1"
+                  - generic "3/17 14:20" [ref=e802]
+            - link "友人関係の悩み 定時制午前部の方に入学して1週間経ちました。友達出来ません。 同じ中学らしかった人とは仲良くなったけど同じクラスじゃないし授業も中々被らなくて寂しいですT_TだからSHRかLHRで同じ授業が多い... ベストアンサー：私ならうれしいですし、私も定時制でしたが相手の事気にせずガンガン話しかけ経ってたんで今思えば投稿者様のような気遣いするべきだったなと少し反省です(笑) 回答数： 1 4/24 14:02 ベストアンサーへのお礼（知恵コイン）： 250" [ref=e805] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327509455
+              - generic [ref=e806]:
+                - paragraph [ref=e807]: 友人関係の悩み
+                - paragraph [ref=e810]: 定時制午前部の方に入学して1週間経ちました。友達出来ません。 同じ中学らしかった人とは仲良くなったけど同じクラスじゃないし授業も中々被らなくて寂しいですT_TだからSHRかLHRで同じ授業が多い...
+                - paragraph [ref=e813]: ベストアンサー：私ならうれしいですし、私も定時制でしたが相手の事気にせずガンガン話しかけ経ってたんで今思えば投稿者様のような気遣いするべきだったなと少し反省です(笑)
+                - generic [ref=e814]:
+                  - generic [ref=e815]:
+                    - generic "回答数：" [ref=e816]:
+                      - img [ref=e817]
+                    - generic [ref=e819]: "1"
+                  - generic "4/24 14:02" [ref=e821]
+                  - generic [ref=e822]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e823]:
+                      - img [ref=e824]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e830]: "250"
+            - link "友人関係の悩み 今一緒にいる友達についてです。 お弁当を一緒に食べているときに豚汁についてきた七味唐辛子を捨てようとすると、いらないなら貰う！といってきたり、私がおにぎりを買ってると高〜って横から口出ししてきた... ベストアンサー：うーーーん。 まあ嫌なら嫌と ほっといてくれと言えばいいとは思うんですけど、心は広くした方が楽だとは思います。 回答数： 3 4/24 12:50" [ref=e833] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327508193
+              - generic [ref=e834]:
+                - paragraph [ref=e835]: 友人関係の悩み
+                - paragraph [ref=e838]: 今一緒にいる友達についてです。 お弁当を一緒に食べているときに豚汁についてきた七味唐辛子を捨てようとすると、いらないなら貰う！といってきたり、私がおにぎりを買ってると高〜って横から口出ししてきた...
+                - paragraph [ref=e841]: ベストアンサー：うーーーん。 まあ嫌なら嫌と ほっといてくれと言えばいいとは思うんですけど、心は広くした方が楽だとは思います。
+                - generic [ref=e842]:
+                  - generic [ref=e843]:
+                    - generic "回答数：" [ref=e844]:
+                      - img [ref=e845]
+                    - generic [ref=e847]: "3"
+                  - generic "4/24 12:50" [ref=e849]
+            - link "友人関係の悩み 不快なコメントする人（ノンデリおじさん）にどのように返答すれば、気づいてくれますか？ いちいち、私の外見や変化についてコメントします。 例えば、狭い場所に座れるかどうか躊躇した時に「お尻が小さい... ベストアンサー：そんなに嫌悪する前に手を打つのが正解でしたね。 「お尻が小さいから大丈夫よね」はセクハラ発言と解釈できますよね。 セクハラなのでそういう発言はやめてください、と伝えることができた。 保母さん... 回答数： 1 4/19 9:15 ベストアンサーへのお礼（知恵コイン）： 25" [ref=e852] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327364524
+              - generic [ref=e853]:
+                - paragraph [ref=e854]: 友人関係の悩み
+                - paragraph [ref=e857]: 不快なコメントする人（ノンデリおじさん）にどのように返答すれば、気づいてくれますか？ いちいち、私の外見や変化についてコメントします。 例えば、狭い場所に座れるかどうか躊躇した時に「お尻が小さい...
+                - paragraph [ref=e860]: ベストアンサー：そんなに嫌悪する前に手を打つのが正解でしたね。 「お尻が小さいから大丈夫よね」はセクハラ発言と解釈できますよね。 セクハラなのでそういう発言はやめてください、と伝えることができた。 保母さん...
+                - generic [ref=e861]:
+                  - generic [ref=e862]:
+                    - generic "回答数：" [ref=e863]:
+                      - img [ref=e864]
+                    - generic [ref=e866]: "1"
+                  - generic "4/19 9:15" [ref=e868]
+                  - generic [ref=e869]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e870]:
+                      - img [ref=e871]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e877]: "25"
+            - link "小学校 小2娘の友だち関係について 先日公園で保育園から一緒で同じ小学校に通う友だち2人にたまたま会い、娘が一緒に遊びたいと伝えたら2人から『約束していないから一緒に遊べない』と言われその場で号泣してし... ベストアンサー：あなたの対応がよかったと思います。 まだ小学２年生なので、断り方も下手ですが、「約束している子と今日は遊びたい」という日もあるのだと言い訳して、おっしゃる通りお子さんは悪くないわけですから、「あ... 回答数： 5 4/20 22:02 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e880] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327413619
+              - generic [ref=e881]:
+                - paragraph [ref=e882]: 小学校
+                - paragraph [ref=e885]: 小2娘の友だち関係について 先日公園で保育園から一緒で同じ小学校に通う友だち2人にたまたま会い、娘が一緒に遊びたいと伝えたら2人から『約束していないから一緒に遊べない』と言われその場で号泣してし...
+                - paragraph [ref=e888]: ベストアンサー：あなたの対応がよかったと思います。 まだ小学２年生なので、断り方も下手ですが、「約束している子と今日は遊びたい」という日もあるのだと言い訳して、おっしゃる通りお子さんは悪くないわけですから、「あ...
+                - generic [ref=e889]:
+                  - generic [ref=e890]:
+                    - generic "回答数：" [ref=e891]:
+                      - img [ref=e892]
+                    - generic [ref=e894]: "5"
+                  - generic "4/20 22:02" [ref=e896]
+                  - generic [ref=e897]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e898]:
+                      - img [ref=e899]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e905]: "100"
+            - link "友人関係の悩み 私はいつも4人組でいるのですがその中の一人の子の誕生日があり私以外の2人でその子に誕生日プレゼントでアルバムを渡していたのですがそのアルバムの中に私が写っている写真も含まれていて誕生日の子にも申... ベストアンサー：お友達が勝手に貴方も映ってる写真をプレゼント それは嫌な気分になりますね この写真貴方も映ってるけどプレゼントしていいかなー？とか聞かずに…。しかも4人でいるのに一人だけプレゼント参加させず。 お前 回答数： 3 4/23 16:25" [ref=e908] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327485457
+              - generic [ref=e909]:
+                - paragraph [ref=e910]: 友人関係の悩み
+                - paragraph [ref=e913]: 私はいつも4人組でいるのですがその中の一人の子の誕生日があり私以外の2人でその子に誕生日プレゼントでアルバムを渡していたのですがそのアルバムの中に私が写っている写真も含まれていて誕生日の子にも申...
+                - paragraph [ref=e916]: ベストアンサー：お友達が勝手に貴方も映ってる写真をプレゼント それは嫌な気分になりますね この写真貴方も映ってるけどプレゼントしていいかなー？とか聞かずに…。しかも4人でいるのに一人だけプレゼント参加させず。 お前
+                - generic [ref=e917]:
+                  - generic [ref=e918]:
+                    - generic "回答数：" [ref=e919]:
+                      - img [ref=e920]
+                    - generic [ref=e922]: "3"
+                  - generic "4/23 16:25" [ref=e924]
+            - link "恋愛相談、人間関係の悩み 男の人が「オス」のことを「男」っていうことは多いのに、女の人が「メス」のことを「女」って言うのが少ないのはなぜですか？ 呼び方に限らず男性って自分たちのことをよく下げますよね。「男って馬鹿やから... ベストアンサー：いや、普通に女って言うよ。 でもメスはあまり言わないかな。 どちらかと言うと「メス」って、 男性への褒め言葉で使う気がするから。 メス堕ちとか(笑) 回答数： 1 2025/5/13 0:04 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e927] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13314929073
+              - generic [ref=e928]:
+                - paragraph [ref=e929]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e932]: 男の人が「オス」のことを「男」っていうことは多いのに、女の人が「メス」のことを「女」って言うのが少ないのはなぜですか？ 呼び方に限らず男性って自分たちのことをよく下げますよね。「男って馬鹿やから...
+                - paragraph [ref=e935]: ベストアンサー：いや、普通に女って言うよ。 でもメスはあまり言わないかな。 どちらかと言うと「メス」って、 男性への褒め言葉で使う気がするから。 メス堕ちとか(笑)
+                - generic [ref=e936]:
+                  - generic [ref=e937]:
+                    - generic "回答数：" [ref=e938]:
+                      - img [ref=e939]
+                    - generic [ref=e941]: "1"
+                  - generic "2025/5/13 0:04" [ref=e943]
+                  - generic [ref=e944]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e945]:
+                      - img [ref=e946]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e952]: "100"
+            - link "恋愛相談、人間関係の悩み INTJの女性が気になっております。 私は男性で、INFJです。彼女持ちです。 別に、そのINTJの女性に好感はあるけれど、LOVEという好意は持っていません。 その女性とは話すことも楽しく、... ベストアンサー：あなたの場合、彼氏持ちの女の子と仲良くなりたいですか？ フリーの女の子とは少し違う感覚では。 親切に教えてあげますが、 彼女持ちを伝えずに、好きなところや、尊敬しているところを伝えたというのは... 回答数： 3 4/24 4:43" [ref=e955] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327501412
+              - generic [ref=e956]:
+                - paragraph [ref=e957]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e960]: INTJの女性が気になっております。 私は男性で、INFJです。彼女持ちです。 別に、そのINTJの女性に好感はあるけれど、LOVEという好意は持っていません。 その女性とは話すことも楽しく、...
+                - paragraph [ref=e963]: ベストアンサー：あなたの場合、彼氏持ちの女の子と仲良くなりたいですか？ フリーの女の子とは少し違う感覚では。 親切に教えてあげますが、 彼女持ちを伝えずに、好きなところや、尊敬しているところを伝えたというのは...
+                - generic [ref=e964]:
+                  - generic [ref=e965]:
+                    - generic "回答数：" [ref=e966]:
+                      - img [ref=e967]
+                    - generic [ref=e969]: "3"
+                  - generic "4/24 4:43" [ref=e971]
+            - link "恋愛相談、人間関係の悩み 気になっている人と帰る際の話題について 今年の4月から大学生になった者です。 興味のある分野なので勉強に対するやる気も強く 友達もたくさんできて幸せな毎日です。 そして少し早すぎるかもしれませ... ベストアンサー：まずは、悪い所を直した方が良さそうに見えますね。 不要な情報がたっぷりあるから長くなる。 ムダに長いから回答をもらえなくなる。 回答してもらえそうな質問の仕方をする、真剣に聞いてもらえそうな相談... 回答数： 1 4/21 20:24 ベストアンサーへのお礼（知恵コイン）： 100" [ref=e974] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327437746
+              - generic [ref=e975]:
+                - paragraph [ref=e976]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e979]: 気になっている人と帰る際の話題について 今年の4月から大学生になった者です。 興味のある分野なので勉強に対するやる気も強く 友達もたくさんできて幸せな毎日です。 そして少し早すぎるかもしれませ...
+                - paragraph [ref=e982]: ベストアンサー：まずは、悪い所を直した方が良さそうに見えますね。 不要な情報がたっぷりあるから長くなる。 ムダに長いから回答をもらえなくなる。 回答してもらえそうな質問の仕方をする、真剣に聞いてもらえそうな相談...
+                - generic [ref=e983]:
+                  - generic [ref=e984]:
+                    - generic "回答数：" [ref=e985]:
+                      - img [ref=e986]
+                    - generic [ref=e988]: "1"
+                  - generic "4/21 20:24" [ref=e990]
+                  - generic [ref=e991]:
+                    - generic "ベストアンサーへのお礼（知恵コイン）：" [ref=e992]:
+                      - img [ref=e993]: xmlns="http://www.w3.org/2000/svg">
+                    - generic [ref=e999]: "100"
+            - link "恋愛相談、人間関係の悩み 私は内向型で初対面の人が苦手です。ですが、長い間関わりのあるバイト先の人や友人などには、素を出せます。そのため、かなりのギャップがあることに最近気づきました。 初対面の印象（静か、優しい、頭良さ... ベストアンサー：危うい印象ですね。 天然、変わり者、子供っぽいの3点が非常に気になる。 発達障害の可能性が匂ってくる言葉が3個も並んでるのがとても気になる。 もちろん断定などできるはずないが、気になる。 恋愛... 回答数： 1 4/23 12:27" [ref=e1002] [cursor=pointer]:
+              - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327480822
+              - generic [ref=e1003]:
+                - paragraph [ref=e1004]: 恋愛相談、人間関係の悩み
+                - paragraph [ref=e1007]: 私は内向型で初対面の人が苦手です。ですが、長い間関わりのあるバイト先の人や友人などには、素を出せます。そのため、かなりのギャップがあることに最近気づきました。 初対面の印象（静か、優しい、頭良さ...
+                - paragraph [ref=e1010]: ベストアンサー：危うい印象ですね。 天然、変わり者、子供っぽいの3点が非常に気になる。 発達障害の可能性が匂ってくる言葉が3個も並んでるのがとても気になる。 もちろん断定などできるはずないが、気になる。 恋愛...
+                - generic [ref=e1011]:
+                  - generic [ref=e1012]:
+                    - generic "回答数：" [ref=e1013]:
+                      - img [ref=e1014]
+                    - generic [ref=e1016]: "1"
+                  - generic "4/23 12:27" [ref=e1018]
+        - generic [ref=e1021]:
+          - generic [ref=e1022]:
+            - generic [ref=e1023]: "1"
+            - link "2" [ref=e1024] [cursor=pointer]:
+              - /url: /category/2078675275/question/list?flg=1&type=list&sort=16&page=2
+            - link "3" [ref=e1025] [cursor=pointer]:
+              - /url: /category/2078675275/question/list?flg=1&type=list&sort=16&page=3
+            - link "4" [ref=e1026] [cursor=pointer]:
+              - /url: /category/2078675275/question/list?flg=1&type=list&sort=16&page=4
+            - link "5" [ref=e1027] [cursor=pointer]:
+              - /url: /category/2078675275/question/list?flg=1&type=list&sort=16&page=5
+            - link "6" [ref=e1028] [cursor=pointer]:
+              - /url: /category/2078675275/question/list?flg=1&type=list&sort=16&page=6
+            - link "7" [ref=e1029] [cursor=pointer]:
+              - /url: /category/2078675275/question/list?flg=1&type=list&sort=16&page=7
+            - link "8" [ref=e1030] [cursor=pointer]:
+              - /url: /category/2078675275/question/list?flg=1&type=list&sort=16&page=8
+            - link "9" [ref=e1031] [cursor=pointer]:
+              - /url: /category/2078675275/question/list?flg=1&type=list&sort=16&page=9
+            - link "10" [ref=e1032] [cursor=pointer]:
+              - /url: /category/2078675275/question/list?flg=1&type=list&sort=16&page=10
+            - generic [ref=e1033]: ...
+            - link "次へ" [ref=e1034] [cursor=pointer]:
+              - /url: /category/2078675275/question/list?flg=1&type=list&sort=16&page=2
+              - text: 次へ
+              - img [ref=e1035]
+          - paragraph [ref=e1037]:
+            - generic [ref=e1038]: 約1,145,772件
+      - complementary [ref=e1039]:
+        - generic [ref=e1040]:
+          - iframe
+          - iframe [ref=e1042]:
+            - generic [ref=f290e3]:
+              - generic [ref=f290e8]:
+                - link [ref=f290e9] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A_5N62kAAK7F1xt_3bYmBFilRaB6eStDz5SXzYPYJCWsmRVifAQ4hERMUIOjUWY1l8qp346h5hBONXdRBdCQG3Kou2p2_OSq8y77ElNNOyuq0ZYUNOgKd8J-TrGGPIiNg6KYa3EQ7nd08gp9XFygyU6dHHD4IjgM-25qRd0pkSwBHQcuDVKlINwa1mUP3TgaOB_QW2xhDS8asC508Qt-MPF_sPrhN-CynqePrfQfY_ckyMpRRzwmZAe4VToMnztSjBbRIJFspk22DCP0avx1Kda-kS4VXDwttKDCoVx_JIxFDA__h94vho-h5m7PVfeH8TzeapTAprQrSyNMhrX1uS2u9O6qTG1mm1e11D6IjGNORlDSZBoDcKJpcFs0w2_UXSqfYS3pfLOaDg_Dunj-VUN8VokKes-vV9IbKIFjQAE-b6fvgHwP0xCRCplHYFOZv_qFBeA2rvCszbv7e1xWT7vr519ktFOI7zilXjzfv_annf7ygxqapoP959d8pcMkX0-AtvwkjVtsgzduq5A0r27OUdKviJDAnRalwikXC1Y1ybDM7NjSkHPhTo-9iL1eHw_I_N1ib1o9Q1UIHdvtg7wXerDRP_N6FvN-nJ1agrktW9J-xNh4-t7c-5HxXfTw4ZgkUk6QFsW5uFvPgBZ5cahh2dELnmp5q6DyZeufU_IsMKHCfMm-7NHgIpTdnCQpKI9eP0iyRCLHkiJrwUgRtZM-iL0VDUSUI94j8l3FqBPoOtFhbltMgtn2QY64rca1b6JIKlvrwTMee6xuTTstW_EE6jvImIk6dknh9HTHFbWGcnSqXBxD1TwdWeK6WnDWjOQVqauBkEjE3mvWp48MD_9bfoUW3Tpf48O8AA93iLv9r7iM8FjiQMakS7E36x64QnkC4ctuYbs_aTSjVtN9qhsEhzF9JS5HoWnCJEcJz9kmFVwO4EcE1xf3x-CX2a6pnt03zkr77kX1g6emxuG4Vq0Xy2FaMS0EZlzYVLkbGvOQ5ZTDmRYokJn5LFXSrV6vdc5YKjdnqEtiFPG6UF6yKVtJItEW4xw-tV862aNdz120xkLqY1GMtyjnMiX3UNJTxpTIw2B8hfi8U2vOr4YpQIc9V5GDDl6brCKMi-DrFEifZSSvu4CORHSwe_weLp3V5xjIS0gAGSWj4MfE7B9f0_QkOE9MajIIDUNRzMR1-931sfpchILp52dBlDbaTjlHUoK0zoV2cKP5I5LakomRaK8Z8EdKhOZeLutRx5LbWp_Vtgsny7P9h7i8yYtYc7tArDh3Y2rAA1P5yF9yhVhkfvB17AF1QgDyayXDuKFBCJRD6ooJIof2N3vqlclym_Yt5eHyEQElmtoDwrdgO8tPx-UY3P45-DJoELftxJQ93lgZqUbHfowsKgjGlTMbRMYhkxRaCio247MrUKeUHiRA5s8rBmV9I0gPjLPrrag7M6SiC-LYxHA3u78NmYkTE4q3reBlNb9plrAFLvBn3bQvUb6o_5m4xNIPIfbsaEOwdEPa9cyjT-uFLfSygLoCoG7kuasr6iHF96JNOgfmgAZOgCcr9AuQZ6Vn1AKxSTVgULzEMAka&v=5
+                  - img [ref=f290e10]
+                - generic [ref=f290e11] [cursor=pointer]:
+                  - link "広告" [ref=f290e14]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A_5N62kAAOweP_7jB44NjM1cGTYCbo9Hns_5-2aH-y7qkcpt8Sw-SWPEP8tnEGiBZS7rys4vCp6skrBH1DH-reBYcDeK6p6AEJQ1CvssDwbeg0YXymHSRAxmwFXuM2PUCFac7nbYyXzPbTcJdN_FhuF9-S4cMdUOOygnr1lcNcOnfbZ43KtX9F0fqkqIXu5d2H5JfAaYye1pzSlNa-hjTkSpqjrFUPMmyl9D0NUYLigC_ahAbOF3KaCTKufUS0TyzrhJuQa-Afd7fhgk1IUb7pf2vYCFNqpp0-9yqKGYX7oK7IL8JLyc&o=A_5N62kAABvbSV2szblKU1zLVGqAlYbMW-66lHcaywYuppOoHf7xTkaizRvQbEglEaWiLCj4LwiwcrTB3KrbYnnDQz3WL4Jb-I-V-lg4WCIwLadUw-KJvDRzwkh8-zm1oU3wxCfEEJass4XUUOzPByWJARkYrDpqi2eX6-hxe1TKMYDkINB7F4TdO_Vf9UpTzMxdhu2aLc57KMc-6c35IX3dCOFIhuzrSZkD0IkPYKk_4A9EoAsCIpgRMkjKKfmkUsy4nvu-kxvLDH0PiFnFl5ffazz3
+                    - generic [ref=f290e16]:
+                      - generic [ref=f290e17]: 広告
+                      - img [ref=f290e19]
+                  - img [ref=f290e24]
+              - generic [ref=f290e29]:
+                - link "大田区の住所入力で土地価格がわかる 詳しくはこちら かんたん不動産比較" [ref=f290e30] [cursor=pointer]:
+                  - /url: https://apm.yahoo.co.jp/rd?ep=A_5N62kAALi32E8crjWCRXlkhz1td4Qe_wJupN3nYInstkDI6udl559TcQ66L8kAPBeiDSI9JA3faQBdmNkCuSm51BNDJQtgQ2jnBhLcAqp6UPLEB6KyBj-4rz1nNWwXdvdjKl66I-XOj6hZ1OoODWog_vZ9iIfNxfbWha0lsclxnsSZJUtpX-Oy629bOZlQRcOT60UCy-IHt5zvwOKm1efshiNWjbsCHve1PJuSpEP0vUyvwLzm3ykk7dqc79BFxA24e4tawb4Zfqjdqfnyp521sYdEVODmREL6Q-7fXODJXoNTlcZBYjO1RfE-40AIrfZzTaGHG4rK8XKSsOLwokMWQS8JH_r8cPND5ZFExIuo1W3xPDrfoPryYbr3r8aKagJhs7tBZ2bhQxe5YDnpmtHWg7Tn15cXtY9jiIIigC8Cj4YkLal6CokAh85RZYt7ghuhEfbwo-_-WOAoBq3KmrcbCh38iMAZ5KDvZJXxvmTPD0FRr0MWR1Ddj9uByMxoCph4mosYki-9psA1f29-H0BYioVHTcuRYgm1xyc1poJEBceUxtIMDA28IUtVl3xWmBhq7NW6DnEtxKBkyMy8htHAvUTg5O2wx76B7n90WviV118QqcZFy1Jhve7iwkDR7XfFW_OUurU49g9HIL00vCMB6Ux8w1hObNgNslJMoTZnT-jnFeEjzSyzdY3Xst9Lkn04bhrkzG2ey1SKWpGQSm7Se8iNYl-9bykSoSgIeTtJY2oD0gT3-upBzfLPv1lVHLzonFgVnK7mAViYXbhCaTQ4_T7iWz4Ag8LANSLrgKWleGV0sWtIvo8kn5DuhDakdglBUFoBfSGT0hc-6eTJmCGEpwHwcx_hg6wEYPR_a5qivx5KXcHmIwJmBphLr3dN206217tggaaQNOJHjnjRiQmmR6ibXqsh9bNVenNbaFyudg2FuPH7a6zHLj8i4W8DtKRWWoaj7vgmO6bSXA5MrW_5YEmttPgtuSys24rx4SROXVtBUh9LNyeHUNM5LWZe_Q0-c0LuPj7H3p_oig5x6efi8ncjV_402QcordNoz87hvGTajg4muPFAmkOQNuy87a6-_YWD51E9D7gCX_m61igLUbh_ueXb-v6IStmozeNOweF8OSRpJaEThr1NMUEaSmbSLwCQ9EcMOYbFrUv5BdLWPY_l4UIBHYNje0kP4ccL3lRjNr1fJqGsRYrW48wyAulJ-ZwdhAI0K-c8MbAiOSBXde7ng38Kz_nh4TojW_f8fDzNzUwEAl9M0-1PLBdsFGr0EOKzjpHoO9aAna-Me58TInPKHT8AZZObx_UU03k4hwj_pqK3Vz0llVVcEROlpxU9IfJ-bs7WjGJpuGuuhe1VDzNLbeBVa6-nSLgtwbEvLJ6ITDhdMISGuY2CRCNaENgQTbd8RcCnDb3XvuVsLxlE1TYCKpEmLufStkrxT8pKmfqfWiSGII5NNiruYNSdAkQ99I-BFy8UuZCUBVYDM4Lege8vhtiP7wTE6dbREGyEy5fGmVqd_ell2sz8XXOrwM3X3nF7plcoBdYQLYAatM6VRlZ8dI-XEISNfs1N41mmUa_FzFLqO9H_3gpZ0K-f&v=5
+                  - paragraph [ref=f290e33]: 大田区の住所入力で土地価格がわかる
+                  - paragraph [ref=f290e34]:
+                    - generic [ref=f290e35]: 詳しくはこちら
+                  - paragraph [ref=f290e36]: かんたん不動産比較
+                - generic [ref=f290e37] [cursor=pointer]:
+                  - link "広告" [ref=f290e40]:
+                    - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A_5N62kAAC_lycybMJmOW8Fw_-Dy830aT8fEA2ENW-jqE-semN2UKMbPluaL5kpcVyoxhfKn2UHsOppfa5i0V4m8cOSqSwP_qBwKtTYpv4m4BJzuEBVxb68EpnkelqldV1CwxKe8EGd9b9mvCMPYlS5LcqtIeV-Bfv3vmTiaEDoNWsrFSA_QSEdV2oO_dH8zOWRyAvfxUTEEC88zM7o5rUOGnmKPVKqnUKx-pPwyU_OJ67K0yWueWnMnx8hUuMB4Ff_ew77N-lGpkj6wy-707jPYVqfLQh9dn4o001nlL9ldRlUr&o=A_5N62kAAKczEVd1nJubby2nMi880YSKyW5Fds9wwrXfWLUsrH7Sl03dZ-2GiWxgKQDMXOvkA811ar_hf4Q4UnR798ahirzRqHn5dRJ89QP3DbgVgFR4V6pfFYZyf45FkDpWORtUTK5CORjgDlroJhtJbRVe8G_PG3Tgx3VuErbQJYmkPqV8r0tuHtctqsme0WxiMhxThz5tZQYcdsSKPtToti6pwe95BCv--STTi9bi418FQXVxTCTRZ2vmINAV3uhdSkmIuHgS6fhoXPrIC1pcJ-2J
+                    - generic [ref=f290e42]:
+                      - generic [ref=f290e43]: 広告
+                      - img [ref=f290e45]
+                  - img [ref=f290e50]
+    - generic [ref=e1043]:
+      - generic [ref=e1044]:
+        - generic [ref=e1046]:
+          - iframe
+          - iframe [ref=e1048]:
+            - generic [ref=f293e6]:
+              - link [ref=f293e7] [cursor=pointer]:
+                - /url: https://apm.yahoo.co.jp/rd?ep=A_5N62kAAF-y1ZxYr-UXl670BhDHwwiQ-NYYJamdx3vNy2dksyzYUeHUPMFfPFIsJu8SEDVM1FDCan5jx1-1GoIexZY4zhVirASpEt5jdkuZh8waGidnd88njO2WmgnNKfsMkAcSdiqVO_ldJo-5RJ7g762yMZQGfw5ts-ppvlkjy9kxEodUS_-pS-6yHRbyqBOO5jNgFAD68azRlrtLgX88QObRfbEsiNRcyJtikWykywg3leI4hSSpNwMS-KJMArK9i84jqNH-wFKXXyzqz5RiuZAu5r2GwTYxmam74Dn1zLQtVkAK3iNKVomyVZZS_BqGOhq0cUDgPpeVt-4EFTm-NzqRJ0PcUPkDSsTbmxAHCSBUi56KxHL6dOiQYZywZYlcqBXRqFYW5L4tu1_0aOYeMSDzpCGQVBPExgzCc797EVUXvyVio02mq7P-rNMZzfF-mid49FvlRFPzfG9jCb1onSzgif9mi_UJPVL5c6Glc7pzhBEUALE4cPU60-EGC0A56sb8iOknC1mc9Mwl5f25W8b5v4va6JVMVjD3tGVpPsJ6uae1PSZEYqH187dMQnEbKEy7cdJK_DJUbZhUVYY89ulySPxdkf-sX0ny5MxYrKmPfdYh72-s8cJwUCKoJk06GDwF4oCxwVDcxpmaJvEUv7BS-CldkRyIMENBMBfis8iIpwYAWUGRjmRZ5RzlFCEAqDRDJNZjHv0E4f96ob8Mdyqh4nWPoSBssiXB3VqmjLu2jV52SrYnOj6tAfQtFkv7p1BG3xayiRqPEp9bIGJWW-kv2jO7zgkFrVpPsTdtvGIVT40C9-ONxy2_eaqynQ851EoXL6zhgrLuUzrNfGPoL_Ep44GgajcjUnRPsh2-bDeDyTcJ_YQ2BK5Ao7YLUdY6zR3WPhA__DeEawkUgAv9YcvR0O-Ri40MrIeOosV3xx0-TGw8p-tKp0vzpTXPGp0eMTmnXN8ItarVE6EKrMErP62q9rtR-vCllXnObYFcPJI0INj6t58RA8QdQj1SqXJJPY0fh8rN9E7CfikI4JGpxaiyZvlGNY94lTXBmk-m2j10pgLgWSc6FxpXJzhH6QcIDdW5biyaZVwy9B9dkgNoyPquUwG86Bggbm8J4gT8Q2ulyds5ivCjaXSbMpNw2HWGT5Jt7BHaJzQnVNTjxdQa3BWCi1Wmhv2tD_AbG7vO5Kq-EWaSFNEINWbdo7r7n4H_ohEEI7_uTNDuFHHUEuAgZUQJjVlJTfpwo8CtHVBkVYbOm-j7mx7lqaKNPo-RTNl_DYS-t5CaWvea_KEIV9vzI6WAaGK1up2K9123JoHOivOhxOAMlnyNRC0fdqqpNp_X2TkVMpEh4JV-r8JFRqjJ7HJr0aYlj-eMWoEkQ5MvWDNQknBW5WxZ508nL19gTtIpEC4qf97_sapTXWxuCvGU-ahzq5gICPX-N_Jpi9WJzKMssO8RlZpzsWFpZkV-qTG1hPS4-tLppVAS_eLGABttjto2bwKaS8yIIR5QXoxCLQLQJIiTZ2FDye7n4r-dA0tUntPM5DsJbTp5kRZKVeGkMNhBFalE8cnI-MXG5CgO-F7NUKw&v=5
+                - img [ref=f293e8]
+              - generic [ref=f293e9] [cursor=pointer]:
+                - link "広告" [ref=f293e12]:
+                  - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A_5N62kAAEoyep8F5or7b9gvZPBgqlHheV0PIxAyxz6Bb85Xmz94y_CJSfvzD73Jt1aTa7CplfyIhcMdNDxxlWlNCgaZ6-OZ8CCVcB2Xk_uNY-8sW2ZEZ16QN2Cqfd-sD7EExNzpfNLfDFBXWgj5Xt6OR1OpYhWBkwD3obF1lo38_1i8poIncsR5L5qx52mRnDRq-P71iWBAe87vv_QF-x1dJkUETj5Lvk5D0yNOcFfGyKw_eZbY6mLXWAkI5kqbd2QZq71b3BzLHIL9w-i2rVL4Pq8yYrII5rzrODlgY81f7sGDCFQ&o=A_5N62kAAKwyEFRgG6UJzPbY5PzpqKjkQmqO7qTwga0-x7dOItYgI_9UnCI7Fsb53lziq8UNdulPWGyDYNmi8yyYUNvLuYlEfm6dUtVD1DIYV_W_c4kfEKqLw-tKOck2GW14bO2XsU0MkAXQZLYITFzLac9ggXeYo32-I1D1TQG7c1QnA21NHpihWuFFhftTRedE2nC7X_GuoHwFtuSEh8__0YBIzR84OJPUttGKnwRSCkP6osPqXMvTykrVCFdQwmZyqi_-vnnDg-7Q_3Ik6fZ8FrvA
+                  - generic [ref=f293e14]:
+                    - generic [ref=f293e15]: 広告
+                    - img [ref=f293e17]
+                - img [ref=f293e22]
+        - generic [ref=e1054]:
+          - link [ref=e1055] [cursor=pointer]:
+            - /url: https://apm.yahoo.co.jp/rd?ep=A_5N62kAACDkRP-KrAIc25dOwt3rd6y3K9zjqc7VJqkcRWCPkpAkrwjJ33DfkwYKFWusN2jHnOph_f-xzS8Lv4Cu2wnAReiLtJUd2SYE6plugAvZLdMDPVP6chszFNwtG05FURdkw8XE43PZWxuaAYXsJ9S1okulCZuyFUt0mJCphUHjXuO3czAwKuVeY9SijZyWDj_XAnjHf7uKIDRRSLSCBadRidO1mPWT3ptFDVrCsUXJ_krCIG5wXmVCImgn-pG5GgaDnEzY5T-GGZ9A0ScF3LdYaqvDy1VdZmCEcmLkoPxZ7jdiIvqBQC8Ee_UEIKFsdjiRelAF44CxfxZhwWE6K_l8qSIO1LSk8Ys9xI4t0OC0AEFTppy3o8XM3CX35Q9ZSQtdS7q6Hw664JtIpiUsSWXCd_1_N1jJrrdgM4e8l_644k9o5c4wycCvZCfcwYuoAgc9yAezxh_ZDs_jT1YGskS_jcXUmZ2k38nMOxOvQtgyQmUnQr4oHhnDECc1wAzR2gyL3HoL7WmSSS92Ln1BMjo-NRkFpoHdCIuyFEHXgpgbsab-dVldpwhhK1IPWujbvFY2ZT9YIWqQd7GbNq95Zpnr2vh5vejwFR90ozS1doNr_oAg5NeiwdUbI_yfK8Q1KkQsfcxRzDi9TD8aVDHaVZZTCdBOJBoN2Y24SiX4CmHAbkenv3UPWRn9vECmkydQBeNvu4C4ehjcJfcaYlPuXEFYavNrvWzI0RsPCh7BL0132mPtJjEbEzwEthAeg4qGWWIz5W16pL9ru5T-v9XwBPtGS1EAzH4VMRXblGJKQEZTHry03CNj9ixRYMkl3hgXkcIs2LdMDyTmCpu_Z0rnDM0MXT4KFTMqvJStLaGB9ObbjKNf8JfnKG-GSYgLnpZrkMwOzpQ3ZfOwK5Mcn7ls7LCUNgi06O-eR2X9r-glI1fL2pdC5AhFboqqxla_t7A26GnF6b2kFesb8xoLqFBiWNc3WYBCkYMqcl3zKVHSMZg_tEQv5Xn9VAF8inWsZESPOSJhaym3bd0tzwUmOqp5o16B9rkVKPuZ7n8W8JpedqRnE911o_LJK35FA6LB2gtglu2EAKDd4hNbc5GluY6_pmcgZ1OeVENRrwYdNUZEERoQtSQ0VPpj9uU0O2HJOe193twFAxrHs1WwQcZb9ivKHdVzGyTBHaAwYqvmvL8EBtlFp0UxIX-0UiafAwgf6TylxnNWAESxHSNEutP1vbrlip1P7_vVUaLmRvEKzZ_2JPA87xAt8BmJkY3i06VV8bWm9HuSrTJ1h_xoEXAeYb7YOpDCzp5lbA6QoBJAewzWvzRX8ghzbohBniRX8meTwD0-6twQr_I0jIvBpGGSJ-uUaGcOJLdJb2U1Q8hC6JgyDljkUso&v=5
+            - img [ref=e1056]
+          - generic [ref=e1057] [cursor=pointer]:
+            - link "広告" [ref=e1060]:
+              - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A_5N62kAAKvCDXQ7Edl1K7HHHzaKnFB_MGsazqyc1fSHCavI0lyraXWUMhG-dLhptvX40XU41kGqUKmAkvFubDB4F99sMUvx6Fu3KAk9zOK0Cjq2QMKtoRunASAM2FHz6cB5uw_PgfmxB0JiYvjhpB9fZ3q0jG075HxSe22VaYb1G4i2hnzGtin_izNpSG8y7nphXTlbWLYGSk2H_ZLKX8StVbaxj5TBCPpWurnvrS1xY8GJGA-PkXHjaCPzw6Yf7PG7l3X_vomW_QXBOKhoJV-Yc6w3iNusmZ-dvKutEThuAVOFZ5Z5&o=A_5N62kAAL_1FG2si_2CJF_uAyxAoTfiqYw1n8DBk3qVLYIELFo47sdfLKsokEDkar98RvcngTq-zZRX1yrq7QdrTt07KOisWyvrXhov9e2rIZTaRAECrt2zMfxothGgpnajUpGiCpxk_86nkugRK6YlfvS-WevN2BhXnQg-sbPkV-TF3I9LVUrhr5YPRtrzJakORfwOf35HWkMiizGUYHln3TJvqfjkbKTr3-Tt8YAg6nhbRIStSG4IpYZqFUNJ8hJ6It7pPU5bAieT0H1sJ0QYDWhb_A
+              - generic [ref=e1062]:
+                - generic [ref=e1063]: 広告
+                - img [ref=e1065]
+            - img [ref=e1070]
+      - link "占い師にお悩み相談" [ref=e1075] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_ca-top_000
+        - img "占い師にお悩み相談" [ref=e1076]
+      - generic [ref=e1079]:
+        - generic [ref=e1080]:
+          - heading "カテゴリQ&Aランキング" [level=2] [ref=e1082]
+          - paragraph [ref=e1085]: 友人関係の悩み
+        - link "1 早稲田卒の僕が同窓会に参加したらサインとか求められますかね？エリートの宿命というかサイン作りとか難しそう" [ref=e1088] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327451513
+          - generic [ref=e1089]:
+            - generic [ref=e1091]: "1"
+            - paragraph [ref=e1094]: 早稲田卒の僕が同窓会に参加したらサインとか求められますかね？エリートの宿命というかサイン作りとか難しそう
+        - link "2 高校で友達ができなくて全然楽しくないです新高校1年生女子です入学式らへんでは、自分から積極的に話しかけて席の周りの子とは結構仲良くなれていましただけど、入学早々風邪を引いてしまい、3日後に登校すると、もうすでにグループが形成され、私のはいる隙間はありませんでした。入学式で仲良くなれた子も、今ではもうあまり話してくれず、ずっとボッチなんです…。大人はよく、「高校が一番楽しい」と言いますが、マジで今のところ何も楽しくないです部屋で一人で泣いてるだけです放課後友達とカラオケ行ったり買い物行ったりといったキラキラな青春に憧れていたのに、遅れる気配が全くないです中学の友達ともよく連絡は取っているの..." [ref=e1097] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327150216
+          - generic [ref=e1098]:
+            - generic [ref=e1100]: "2"
+            - paragraph [ref=e1103]: 高校で友達ができなくて全然楽しくないです新高校1年生女子です入学式らへんでは、自分から積極的に話しかけて席の周りの子とは結構仲良くなれていましただけど、入学早々風邪を引いてしまい、3日後に登校すると、もうすでにグループが形成され、私のはいる隙間はありませんでした。入学式で仲良くなれた子も、今ではもうあまり話してくれず、ずっとボッチなんです…。大人はよく、「高校が一番楽しい」と言いますが、マジで今のところ何も楽しくないです部屋で一人で泣いてるだけです放課後友達とカラオケ行ったり買い物行ったりといったキラキラな青春に憧れていたのに、遅れる気配が全くないです中学の友達ともよく連絡は取っているの...
+        - link "3 謙虚に厚かましい人に、どのように返せばいいですか？例えば、知り合いの男性が帰りのついでに「送るよ」と車で送ってくれる途中に、お礼として軽くカフェに入った時に、その男性から「○○も頼んでいい？」「あ、△△も」「あと□□も追加で」とどんどん追加されてしまうのですが、「ダメです」とも言えない、、、こちらはお礼の気持ちとして、という意味ではあったものの、相手男性は「ここで出してもらう機に沢山頼んでしまおう」みたいなノリが見えてしまいます。（割り勘でお食事する時も、自分だけ多く食べる展開に持って行かれます）こういう時、どのように言えばいいのでしょうか？それとも従うしかないのか？そもそも、この男性が..." [ref=e1106] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327396920
+          - generic [ref=e1107]:
+            - generic [ref=e1109]: "3"
+            - paragraph [ref=e1112]: 謙虚に厚かましい人に、どのように返せばいいですか？例えば、知り合いの男性が帰りのついでに「送るよ」と車で送ってくれる途中に、お礼として軽くカフェに入った時に、その男性から「○○も頼んでいい？」「あ、△△も」「あと□□も追加で」とどんどん追加されてしまうのですが、「ダメです」とも言えない、、、こちらはお礼の気持ちとして、という意味ではあったものの、相手男性は「ここで出してもらう機に沢山頼んでしまおう」みたいなノリが見えてしまいます。（割り勘でお食事する時も、自分だけ多く食べる展開に持って行かれます）こういう時、どのように言えばいいのでしょうか？それとも従うしかないのか？そもそも、この男性が...
+        - link "4 【質問】幼なじみの結婚式に出席したくありません。どうするべきでしょうか？保育園から高校まで同じだった幼なじみが結婚式を挙げることになり、招待状が届きました。ただ、クラスや部活が一緒だったわけでもなく、高校卒業後はほとんど連絡を取っていません。LINEやインスタは繋がっている程度です。正直、自分が相手の立場なら招待しないと思うくらいの関係性で、あまり出席したい気持ちがありません。すでに親同士は仲が良く、私の母は相手の兄姉の結婚式にも出席しています。今回も親は出席の返事をしてしまったようです。また、友人席は5人程度で、私と母＋同級生3人が同じテーブルになるようです。私が欠席するのは簡単ですが..." [ref=e1115] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327297056
+          - generic [ref=e1116]:
+            - generic [ref=e1118]: "4"
+            - paragraph [ref=e1121]: 【質問】幼なじみの結婚式に出席したくありません。どうするべきでしょうか？保育園から高校まで同じだった幼なじみが結婚式を挙げることになり、招待状が届きました。ただ、クラスや部活が一緒だったわけでもなく、高校卒業後はほとんど連絡を取っていません。LINEやインスタは繋がっている程度です。正直、自分が相手の立場なら招待しないと思うくらいの関係性で、あまり出席したい気持ちがありません。すでに親同士は仲が良く、私の母は相手の兄姉の結婚式にも出席しています。今回も親は出席の返事をしてしまったようです。また、友人席は5人程度で、私と母＋同級生3人が同じテーブルになるようです。私が欠席するのは簡単ですが...
+        - link "5 親や友達にカッコいい、イケメンと言われ微妙な反応、特に女性から数秒無言の時間が流れ「そうだね」「イケメン!」など言われた際なんか、物凄い心に来ます。私個人としてはまあ肌汚くて変だと思う(良くて中の上)ので、結構構えてるんですけどまあだいぶ来ます。人に良いと言われておいてこの有り様かよと、なんか自分に対しても腹が立ってくる気もします。また、この事を友達や親に言う勇気もありません。(´∀｀)長々と失礼しました。聞いてほしいだけだったのかもしれません。このような出来事にあった時どのような反応、返しをすれば良いでしょうか。傷のダメージを減らす方法、対策をご教授ください。お願いします" [ref=e1124] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327122589
+          - generic [ref=e1125]:
+            - generic [ref=e1127]: "5"
+            - paragraph [ref=e1130]: 親や友達にカッコいい、イケメンと言われ微妙な反応、特に女性から数秒無言の時間が流れ「そうだね」「イケメン!」など言われた際なんか、物凄い心に来ます。私個人としてはまあ肌汚くて変だと思う(良くて中の上)ので、結構構えてるんですけどまあだいぶ来ます。人に良いと言われておいてこの有り様かよと、なんか自分に対しても腹が立ってくる気もします。また、この事を友達や親に言う勇気もありません。(´∀｀)長々と失礼しました。聞いてほしいだけだったのかもしれません。このような出来事にあった時どのような反応、返しをすれば良いでしょうか。傷のダメージを減らす方法、対策をご教授ください。お願いします
+        - link "6 ズル休みした人にノートを見せたくないのはケチですか？大学生で、今日の授業を友達が遊びに行くからサボるそうです。ドーナツあげるからノートを見せてと言われたのですが普通に遊びに行く人に見せたくないので断りました。それが体調不良なら無償で見せますが遊びに行くなら授業を飛ぶ覚悟を持ってきめたんじゃないかよとおもいます。さらにその授業はテスト100で、レジュメも保存できないものです。そしたら断った時相手がすごく不機嫌になってとてもうざかったので結局ドーナツ3つで見せることにしたのですがまだモヤモヤしています。私がケチ過ぎるのでしょうか。" [ref=e1133] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327450124
+          - generic [ref=e1134]:
+            - generic [ref=e1136]: "6"
+            - paragraph [ref=e1139]: ズル休みした人にノートを見せたくないのはケチですか？大学生で、今日の授業を友達が遊びに行くからサボるそうです。ドーナツあげるからノートを見せてと言われたのですが普通に遊びに行く人に見せたくないので断りました。それが体調不良なら無償で見せますが遊びに行くなら授業を飛ぶ覚悟を持ってきめたんじゃないかよとおもいます。さらにその授業はテスト100で、レジュメも保存できないものです。そしたら断った時相手がすごく不機嫌になってとてもうざかったので結局ドーナツ3つで見せることにしたのですがまだモヤモヤしています。私がケチ過ぎるのでしょうか。
+        - link "7 フレネミー？友達に婚約指輪を「マイナー」と言われ少しモヤッとしています。その他にも、モヤッとポイントが多いです。ちょっとまとまってないですすみません。私は25歳女で結婚して数ヶ月です。女友達Aちゃんがいます。Aちゃんは高校からの友達で、定期的に飲みに行く仲です。Aちゃんと婚約してから会った際に、婚約指輪はどこのブランドなの？と聞かれ、BOUCHERONだよと答えました。お花の形のピヴォワンヌという婚約指輪で100万を超えます。もちろん金額は伝えず、BOUCHERONってブランドだよとしか伝えてません。多分SNSで私の指輪の写真は見てると思います。それを「へーなんかマイナーなブランドで被ら..." [ref=e1142] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327427529
+          - generic [ref=e1143]:
+            - generic [ref=e1145]: "7"
+            - paragraph [ref=e1148]: フレネミー？友達に婚約指輪を「マイナー」と言われ少しモヤッとしています。その他にも、モヤッとポイントが多いです。ちょっとまとまってないですすみません。私は25歳女で結婚して数ヶ月です。女友達Aちゃんがいます。Aちゃんは高校からの友達で、定期的に飲みに行く仲です。Aちゃんと婚約してから会った際に、婚約指輪はどこのブランドなの？と聞かれ、BOUCHERONだよと答えました。お花の形のピヴォワンヌという婚約指輪で100万を超えます。もちろん金額は伝えず、BOUCHERONってブランドだよとしか伝えてません。多分SNSで私の指輪の写真は見てると思います。それを「へーなんかマイナーなブランドで被ら...
+        - link "8 過保護3泊4日家出高校2年生の女子です。過保護な親に内緒で親が寝静まった後に家を出て行き、夜行バスで5時間かけて東京へ行きます。2泊4日予定です。どのくらいの過保護かと言うと・位置情報アプリを入れられていて止めると怒られる・22時すぎても帰ってこないと鬼電で位置情報を見て勝手にお迎えへ来るこの程度です。流石に東京まではお迎えに来るとは思えませんが位置情報を止めるかどうか迷っています。友達と二人で行き、2日目はその友達とホテルへ。3日目はその友達とは別でわたしは仲の良い先輩の家に泊まる予定です。先輩の家がバレるのが嫌で、友達にはスマホもう1台買って、元のスマホを駅のロッカーにでも置いて｢駅..." [ref=e1151] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327259377
+          - generic [ref=e1152]:
+            - generic [ref=e1154]: "8"
+            - paragraph [ref=e1157]: 過保護3泊4日家出高校2年生の女子です。過保護な親に内緒で親が寝静まった後に家を出て行き、夜行バスで5時間かけて東京へ行きます。2泊4日予定です。どのくらいの過保護かと言うと・位置情報アプリを入れられていて止めると怒られる・22時すぎても帰ってこないと鬼電で位置情報を見て勝手にお迎えへ来るこの程度です。流石に東京まではお迎えに来るとは思えませんが位置情報を止めるかどうか迷っています。友達と二人で行き、2日目はその友達とホテルへ。3日目はその友達とは別でわたしは仲の良い先輩の家に泊まる予定です。先輩の家がバレるのが嫌で、友達にはスマホもう1台買って、元のスマホを駅のロッカーにでも置いて｢駅...
+        - link "9 なんか面白い話してください。実話でもいいし、作り話でもいいです。一日の疲れが吹っ飛びそうな話待ってます" [ref=e1160] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327371046
+          - generic [ref=e1161]:
+            - generic [ref=e1163]: "9"
+            - paragraph [ref=e1166]: なんか面白い話してください。実話でもいいし、作り話でもいいです。一日の疲れが吹っ飛びそうな話待ってます
+        - link "10 結婚式の返事を忘れていたら絶縁された28歳、未婚の会社員です。大学時代からの友人で、社会人になってからも何度も旅行に行っていたA子とのことで相談です。昨年6月、A子から「来年5月の式に良かったら来てほしい」と打診されました。共通の友人が少ないのが気まずく難色を示したのですが、彼女が「気持ちはわかるから無理しなくていいよ、一応同じ学部の子と席は一緒にするけど、出欠は任せる」と優しく言ってくれたので、自分から「いつまでに返事すればいい？」と聞き、彼女は「10月までには知りたい」と答えました。しかし、仕事が忙しく失念し、期限を放置してしまいました。（10月までに知りたいというのも忘れてた）学部..." [ref=e1169] [cursor=pointer]:
+          - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14327464194
+          - generic [ref=e1170]:
+            - generic [ref=e1172]: "10"
+            - paragraph [ref=e1175]: 結婚式の返事を忘れていたら絶縁された28歳、未婚の会社員です。大学時代からの友人で、社会人になってからも何度も旅行に行っていたA子とのことで相談です。昨年6月、A子から「来年5月の式に良かったら来てほしい」と打診されました。共通の友人が少ないのが気まずく難色を示したのですが、彼女が「気持ちはわかるから無理しなくていいよ、一応同じ学部の子と席は一緒にするけど、出欠は任せる」と優しく言ってくれたので、自分から「いつまでに返事すればいい？」と聞き、彼女は「10月までには知りたい」と答えました。しかし、仕事が忙しく失念し、期限を放置してしまいました。（10月までに知りたいというのも忘れてた）学部...
+      - generic [ref=e1178]:
+        - generic [ref=e1179]:
+          - heading "カテゴリマスターランキング" [level=2] [ref=e1181]
+          - paragraph [ref=e1184]: 友人関係の悩み
+        - generic [ref=e1185]:
+          - link "1 sapphire☆ sapphire☆" [ref=e1187] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1210524944
+            - generic [ref=e1188]:
+              - generic [ref=e1190]: "1"
+              - generic [ref=e1192]:
+                - generic: sapphire☆
+              - paragraph [ref=e1195]: sapphire☆
+          - link "2 茶々猫 茶々猫" [ref=e1197] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1149606116
+            - generic [ref=e1198]:
+              - generic [ref=e1200]: "2"
+              - generic [ref=e1202]:
+                - generic: 茶々猫
+              - paragraph [ref=e1205]: 茶々猫
+          - link "3 あ あ" [ref=e1207] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/11370370
+            - generic [ref=e1208]:
+              - generic [ref=e1210]: "3"
+              - generic [ref=e1212]:
+                - generic: あ
+              - paragraph [ref=e1215]: あ
+        - heading "急上昇のユーザー" [level=4] [ref=e1216]:
+          - generic [ref=e1217]: 急上昇のユーザー
+        - generic [ref=e1218]:
+          - link "******** ********" [ref=e1220] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1241755158
+            - generic [ref=e1221]:
+              - img [ref=e1223]
+              - generic [ref=e1226]:
+                - generic: "********"
+              - paragraph [ref=e1229]: "********"
+          - link "冷静分析 冷静分析" [ref=e1231] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/user/1154427951
+            - generic [ref=e1232]:
+              - img [ref=e1234]
+              - generic [ref=e1237]:
+                - generic: 冷静分析
+              - paragraph [ref=e1240]: 冷静分析
+        - generic [ref=e1241]: 更新日：2026/04/20
+      - link "公式・専門家の回答はこちら" [ref=e1244] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/expert/
+        - img "公式・専門家の回答はこちら" [ref=e1247]
+      - generic [ref=e1250]:
+        - heading "カテゴリ一覧" [level=2] [ref=e1253]
+        - generic [ref=e1254]:
+          - link "生き方と恋愛、人間関係の悩み 生き方と恋愛、人間関係の悩み" [ref=e1256] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079526977/question/list
+            - generic [ref=e1257]:
+              - img "生き方と恋愛、人間関係の悩み" [ref=e1260]
+              - paragraph [ref=e1263]: 生き方と恋愛、人間関係の悩み
+          - link "恋愛相談、人間関係の悩み 恋愛相談、人間関係の悩み" [ref=e1265] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+            - generic [ref=e1266]:
+              - img "恋愛相談、人間関係の悩み" [ref=e1269]
+              - paragraph [ref=e1272]: 恋愛相談、人間関係の悩み
+          - link "恋愛相談" [ref=e1274] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675272/question/list
+            - generic [ref=e1275]:
+              - img [ref=e1277]
+              - paragraph [ref=e1281]: 恋愛相談
+          - link "友人関係の悩み" [ref=e1283] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675275/question/list
+            - generic [ref=e1284]:
+              - img [ref=e1286]
+              - paragraph [ref=e1290]: 友人関係の悩み
+          - link "家族関係の悩み" [ref=e1292] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675273/question/list
+            - generic [ref=e1293]:
+              - img [ref=e1295]
+              - paragraph [ref=e1299]: 家族関係の悩み
+          - link "職場の悩み" [ref=e1301] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2078675274/question/list
+            - generic [ref=e1302]:
+              - img [ref=e1304]
+              - paragraph [ref=e1308]: 職場の悩み
+          - link "ご近所の悩み" [ref=e1310] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2079495801/question/list
+            - generic [ref=e1311]:
+              - img [ref=e1313]
+              - paragraph [ref=e1317]: ご近所の悩み
+          - link "学校の悩み" [ref=e1319] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category/2080401676/question/list
+            - generic [ref=e1320]:
+              - img [ref=e1322]
+              - paragraph [ref=e1326]: 学校の悩み
+        - link "カテゴリ一覧を見る" [ref=e1328] [cursor=pointer]:
+          - /url: /category
+          - text: カテゴリ一覧を見る
+          - img [ref=e1329]
+      - generic [ref=e1332]:
+        - iframe
+        - iframe [ref=e1334]:
+          - generic [ref=f291e5]:
+            - link "石丸伸二「大学の時に僕は病んだ」 “本気の恋を忘れた大人たち”が本音で向き合うABEMAオリジナル恋愛番組『恋…｜ABEMA" [ref=f291e6] [cursor=pointer]:
+              - /url: https://apm.yahoo.co.jp/rd?ep=A_5N62kAANNCp9YPhHqxxLhyWKslTCIJGGXFHE_KJs8-65xjWOtK7EWTQB__970tES-4DtEdpGzWhr2Q5SpwSqxcQUBvLTo91n6qXO7kewG0a3TfgBPluS1Xzr7gicyFCJjPc-7QITGcXysILUJU4vSKK1iyt8aAciGL47obrefKWYz1IvAsUVXQvaPKpPp3YycKRT14Ov-LTOmuie3rB6J3HdPXd4IUcJRHkI0eZurmFp1p3per6yEWHjMBeS_Clryi4FxVL5_aFkHEFpfi3LD5mEpyUprX0zEdmY-NCYD5vN-RBtZasb1mdBP15h52tqS_wu6my6znusqMjMSM7WeRMX3HkPnjdHuyVjUOnwu9zzvTU-0nrKGd1M3bDL0WAKkLy53SHk7Q4RPmR2pAa_dDV8Z8kKmAAyjueX_K6ELSUsGCzKJ8vIC5cvLJcdvWSsVDcjQxd87x790mmHhK0r7xxanQ2rbamIBQ4HHYQKlkPRiKe5vz3SjrvmI8P0P5NnwCyUX_YAiZIKCP7JQwMZLVd4ADU3W_FJWVlHatMSPuxhXJ2FeB230HXWqfg5RezeIwewxiXLvvDYLhD6hCRwHvexh3fDC0jrbQXDqQSi4peolm0X2ysWnz7JR3vfkcYamlO4tqh58Gu0NNSxnYrO0RHBofbYj9PpilcFnzv5WaG89Mg4kirFWZknPMRQ2CmBz1pvB2yJrEOWb6x9s9mOPMgoF2qDvJCoBSZhzvj1x8EJleB-VJ3MtckcPuXWURCCgxDCRvacrNtAKh7si3XHF4cqdcsjri6ppt2YurGY9He2nCdpWU5A9YFqBkJ7-4sCldQv039I617KsMgNn08MnN5pyqwMk-Gu-hPs6aBd9-RFV0Xtxmvhja4_EWgOXDLjw9FdvVpbiCo_MhisyeYr4iL0b5xJdX2Nl95vJY2tp9LPKaE_kHt0zojeJ6YZFpdioa0SF1jcbGFz2HA4_8xHjuHSMA1BaIoWwzAZ0iUAJPddoXowSPQ01yc2p6sTeBmjWVi8FWBIp6Zkcn2M_Q8zGZiaKdRshTnpFCaL15SRYoTdDb1ed_B34qhFLXSSjEPKzTksfeJUEcSobJW2FZ1No-gtJsK4cIvjZz0WIjnLd2IHvHSFutwyubM7kyJ8kJUURnu0c6LwiJ6tKg1wqZG0VtDtTXjdv7TSXPOhH1zBgKKzRSEcnnsdc7pq8sptGZQG3lI7f4ZQeRHZVXRRdSs66QF9W9piggAdU1DLE0111A-M4IVVtILXe-e3sORZ7FHP5OPveb2Zv9mqkx2sFgImkGQzmQi2JoLZNA3xth4a-OG0S5bFJigVmrSSclambaqfLFumiXU-KF2hIvp_mrxQ7ynMuQjqAjuHIyxsf4OA3f7cj4Y6fBQxgavGh23BD5e4Hn4yMOkn1W7Zi-__ZUjvE&v=5
+              - generic [ref=f291e7]:
+                - generic [ref=f291e8]: 石丸伸二「大学の時に僕は病んだ」
+                - generic [ref=f291e9]:
+                  - img
+              - generic [ref=f291e11]:
+                - img
+                - img
+              - generic [ref=f291e14]: “本気の恋を忘れた大人たち”が本音で向き合うABEMAオリジナル恋愛番組『恋…｜ABEMA
+            - generic [ref=f291e15] [cursor=pointer]:
+              - link "広告" [ref=f291e18]:
+                - /url: https://ads-feedback.yahoo.co.jp/fdbk2?m=A_5N62kAAAwwJ6rBl9QQpfDLvz6KL5VMnPx1obmqe6CLc6zadxTenNzZUugGjT9HDWZ4ceSmh72J6gydPITu6KvNVdc3XNqaxUgSI3lQXLjM7vVVbSvMGXOwTMtRzE94pO-0Pur62NhNVzFp5qx07r0B-ru3ZCjO4_e3gvimuASZllf94hub5apaALooDiXpy1WuwNlSlM1POIi2zFb4dQKalLlOcinZP3APAbjTixwU0VyrvOfdHznwB8fU2Elsd1WlAelp9ytJBmIWtsFNFDCIYDyfV0uyFzLikiOS4uIXyfklIojWxGxyN3nwrg&o=A_5N62kAAPUFCgxbl9Odsf2iV-JvKdejAV-CvBfzXHcAFcC36x4TxjRm26grK_pJ8Ggw-6_YGKQhtzvfn4DdwqJ13QN8MfCPWt5kaj7UZWdUiGI3t3wmaTVZiKv5YEZMR8UU-pte_1Mfa5A3b1wuPB18IzcMiDTMt9Q1say0bvd0luFBeI0jj1sawqdhhIwpMlGrRjFaimaBkBsfc6-Nsux1WE-0XiWBX2BiSkLjr5QSz37FTSCxABzbhoZwtwjxB_vVs0amSBNGdwFEGGhNZiUrBkqk
+                - generic [ref=f291e20]:
+                  - generic [ref=f291e21]: 広告
+                  - img [ref=f291e23]
+              - img [ref=f291e28]
+  - contentinfo [ref=e1336]:
+    - generic [ref=e1337]:
+      - link "Yahoo!知恵袋" [ref=e1338] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e1339]: "|"
+      - link "Yahoo! JAPAN" [ref=e1340] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e1341]:
+      - link "プライバシーポリシー" [ref=e1342] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e1343]: "-"
+      - link "プライバシーセンター" [ref=e1344] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e1345]: "-"
+      - link "利用規約" [ref=e1346] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e1347]: "-"
+      - link "利用のルール" [ref=e1348] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e1349]: "-"
+      - link "広告掲載について" [ref=e1350] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/?utm_source=yahoo&utm_medium=referral&utm_campaign=ysa_cv_link_chiebukuro_241001
+      - generic [ref=e1351]: "-"
+      - link "ご意見・ご要望" [ref=e1352] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e1353]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e1354] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e1355]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e1356]: 画像：アフロ
+    - generic [ref=e1357]: © LY Corporation
+  - generic:
+    - generic:
+      - generic:
+        - paragraph:
+          - img
+          - text: 通信に失敗しました

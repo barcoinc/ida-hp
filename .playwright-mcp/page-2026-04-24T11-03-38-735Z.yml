@@ -1,0 +1,642 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - paragraph [ref=e15]:
+          - link "想定外を生き抜く。10年前の熊本地震の教訓から学ぶ防災術とは？" [ref=e16] [cursor=pointer]:
+            - /url: https://yahoo.jp/TmGP4V
+        - generic [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Yahoo! JAPAN" [ref=e20] [cursor=pointer]:
+                - /url: https://www.yahoo.co.jp/
+            - listitem [ref=e21]:
+              - link "ヘルプ" [ref=e22] [cursor=pointer]:
+                - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+          - generic [ref=e25]:
+            - generic "キーワード："
+            - textbox "ウェブ検索" [ref=e26]
+            - button "検索" [ref=e27] [cursor=pointer]
+            - link "電気・ガス料金 急上昇" [ref=e28] [cursor=pointer]:
+              - /url: https://search.yahoo.co.jp/search?ei=UTF-8&rkf=1&p=%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%96%99%E9%87%91&sks=bzw&fr=ush_krank&t.rltm.w2s=true
+              - text: 電気・ガス料金
+              - img "急上昇" [ref=e29]
+      - generic [ref=e30]:
+        - link "Yahoo!知恵袋" [ref=e32] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/
+          - img "Yahoo!知恵袋" [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - text: IDでもっと便利に
+            - link "新規取得" [ref=e36] [cursor=pointer]:
+              - /url: https://account.edit.yahoo.co.jp/signup?.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fsearch&.src=chiebukuro
+          - generic [ref=e37]:
+            - link "ログイン" [ref=e38] [cursor=pointer]:
+              - /url: https://login.yahoo.co.jp/config/login?.src=chiebukuro&lg=jp&.intl=jp&.done=https%3A%2F%2Fchiebukuro.yahoo.co.jp%2Fsearch
+            - link "ヤフーショッピングなら「毎日5％」おトク" [ref=e40] [cursor=pointer]:
+              - /url: https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC90ZXh0L3BjLzI1MjMwMS8yNjU0NDUvMTk1NjA5NC8x/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9zaG9wcGluZy55YWhvby5jby5qcC9wcm9tb3Rpb24vY2FtcGFpZ24vcHBldnI1Lz9zY19lPXl5bGtfbWhkX3R4dF9wcGV2cjU/
+    - navigation [ref=e42]:
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - textbox "Q&Aを探す" [ref=e47]: 縁切り
+          - button "キーワードを消す" [ref=e48] [cursor=pointer]:
+            - img [ref=e49]
+            - generic: キーワードを消す
+        - button [ref=e51] [cursor=pointer]:
+          - img [ref=e52]
+      - list [ref=e54]:
+        - listitem [ref=e55]:
+          - link "カテゴリ" [ref=e56] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/category?fr=common-navi
+        - listitem [ref=e57]:
+          - link "Q&A一覧" [ref=e58] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/question/list?flg=0&fr=common-navi
+        - listitem [ref=e59]:
+          - link "公式・専門家" [ref=e60] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/expert/?fr=common-navi
+        - listitem [ref=e61]:
+          - link "お知らせ" [ref=e62] [cursor=pointer]:
+            - /url: https://chiebukuro.yahoo.co.jp/notification?fr=common-navi
+            - text: お知らせ
+      - link "My知恵袋のご利用にはログイン、利用登録が必要です" [ref=e64] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/registration
+      - link "質問・相談" [ref=e67] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+        - img [ref=e68]
+        - text: 質問・相談
+  - generic [ref=e70]:
+    - generic [ref=e71]:
+      - heading "「縁切り」の検索結果" [level=1]
+      - button "この検索条件を保存する" [ref=e74] [cursor=pointer]:
+        - generic [ref=e75]: この検索条件を保存する
+      - generic [ref=e76]:
+        - paragraph: 関連検索ワード
+        - img [ref=e77]
+        - list [ref=e79]:
+          - listitem [ref=e80]:
+            - link "縁切り神社" [ref=e81] [cursor=pointer]:
+              - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A%E7%A5%9E%E7%A4%BE&fr=common-navi&rs=1
+              - emphasis [ref=e82]: 縁切り
+              - text: 神社
+          - listitem [ref=e83]:
+            - link "縁切り榎" [ref=e84] [cursor=pointer]:
+              - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A%E6%A6%8E&fr=common-navi&rs=2
+              - emphasis [ref=e85]: 縁切り
+              - text: 榎
+          - text: で検索
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - heading "貴方を責任もって守る縁切り解決 | 貴方を守る人生を守る縁切り解決" [level=2] [ref=e89]:
+            - link "貴方を責任もって守る縁切り解決 | 貴方を守る人生を守る縁切り解決" [ref=e90] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AwhO62kAAKBUo8V98WS91-WkTSIboeeOxmmq71T9zpsAIKI8IO7cIrjh1MfuFW_dlAlYdaxRGUebx9TBX-ese0AccCO_ZFqIVZaXyZxlV1VI2Z2_NgUbiwxo71ohL5fqoX8adCzZTeXb4S2VF0dtafqP_QDGdHk2RMvQ6OeRKrzMc7-JvPonx45WMJP7j97xJtE1phtv116_Um84H9Yq67C9lZdzX4DKMjWYJ_1OXVZ928W86MnO5AQR8O5zLMCFv72MqU97NAea7NAa3tT5tPJjBLrGoiFy9fWH5a8Xk0V4xZtA2s6dqyFoxUdZ0YjBX3oWLLtanSJuRo5YxUrN2q8akinLQA-YXZVXQ4jbOq-tdGJ4v7nRy2N9NmNByDXnvBSdtVbXvGtUAjA_Rjv-vmXizBzdAXP2AeP8DSxCNWDCZc6ROgdp6gLpLUzsuoOq0tr4v11q5FPN4Siu8N92Q4j6I7vVGMA9FG1jd5FRHsmoGpLKeiHNP1iMsnWxaa2UF5llDi9kejtDxqv7wDmLGPTduGnRRwE6czMX0JXdyGE_MdYgHcJqIQW2zy4F6eTpE1YqIB-TIoD1swlKzyQa2GQt78sRi_yg5SMYoygRLJxPy2WoGbRdrsNDHZSiSZSdIQaOg6VWhBLxvR7sa7w8Z6-h37y_ZflKLj3He3eO5nFI7pEuj9tC57AEaXU6tl8v_yFeIVJd6bBa6HMoFS9b2BJ8BX6z2bNp0fZUzP90PLPJ5Snqo9mfXhOd9axF0bQkzjh3rr47ND2UDefQKLyVuPQYognCK767lxSXp9m7F3i-nUfodVNe4QTK0qOtgXSiodC2opvnbr19wDSCeA3In-QmYpV8NszhBVFUvC685uK7ZhBTEx5e1jcghYuM53ugB_CYorcExooGG13x8DuMXfmhbh234KXFJbnvTQkvph8c2DvL1z-vBGzzd7Hgtf3GptW9nSwFKai5MvTzFEwvb8Gx1uSU6btA08xdTYPpfSdd2C5dZp_npv6ji87hjkP4TwQryggb9ornrBkOvyhsfdwi576LuBg6q3e4Lm-1GzqD9nlPE9RMr7vFQF_CodpxMnw36H8zP357Mca7UX4ge4IGglkOF2XFv_LfwWF7dxNoCUYfqRV3t4Q1eyiXBO2NV1JiuV4Jqrw5lBSwZnsSsktPc90nEVTcZN5R1dXYGDMKH_LQmvVfRi-VpShXWAEEcgnQJ1S9VpZdFNuxScoiQACi3hWfL_Msk7FCRdiiLsvcZH-UvwR_QhJU2eKaNgT-UIx1ac7ald_wG3egp9Zf3Uiwa7Ob_lLwdSdnIxFLBiM;/?ep=AwhO62kAAIk-TSPdFIVMyZ38nkjVhyZXvYUB5dZXhDNMwE1LsNduTrbxRvVo2iDeVCXBWzwVOP1__5Unmt2jyX99WJ0kANSMwlNLC_c7HY7PdClcXrZ83EogzO7WfWnfVUhj932_yKEQ86AAQf1a3mws4ZLqiVvgIPdjaq-zMYRtvFHRoVk1S2k1cdPUOxB0ZU0KxEZYUY4G6ndjKjz7Kb3HvLE&v=2
+              - text: 貴方を責任もって守る
+              - strong [ref=e91]: 縁切り
+              - text: 解決 | 貴方を守る人生を守る
+              - strong [ref=e92]: 縁切り
+              - text: 解決
+          - paragraph [ref=e93]:
+            - text: 安心安全な生活を送れるように貴方の人生を守ります。厄介な相手、危険な相手と
+            - strong [ref=e94]: 縁切り
+            - text: します。 貴方の人生を破壊しようとする危険人物から守ります。厄介な相手、危険な相手と
+            - strong [ref=e95]: 縁切り
+            - text: します。
+          - generic [ref=e96]:
+            - text: 広告www.justiceoffice.biz/
+            - button [ref=e98] [cursor=pointer]:
+              - img [ref=e99]
+        - generic [ref=e101]:
+          - heading "除霊お祓いのご相談は天光寺へ | 関東東京唯一 | 【霊的問題】根本解決へ導きます" [level=2] [ref=e102]:
+            - link "除霊お祓いのご相談は天光寺へ | 関東東京唯一 | 【霊的問題】根本解決へ導きます" [ref=e103] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AwhO62kAAF69gzF_Od9z-k50XSOHNvbjN1aKBhyHwuGuH7UNjrsXvnbWk9kd_-Z_q49LYYCKTO8n_oZeHqYiNaEK3uf4Pbz0a3olUMafzsBTHFyKlR0lxBcWbItgZtPq7GZNEQewMP2k5x5ulWu5WeH3_hneIwqgcRh3wl-WWjEonNVA3NQ1NctXKeXhZrRwS-wbHxDSo5CCVok_xJe_LX23sg8ffOwN3CQq573HPG-kpab59TA-Jlk_KCnXmSMs4rQ8mO-ozO-NPEDjWY8nXYUVicBQ-wwCY8ZCLgXnrUtdod_HvL_S_HNg5Ngi5yXcH_6EsQ2JiRBmhQxmP990O8-tPzpilA9cj5IQoFCeF8f_n8gDYbM2xLBidZNJnuugP_Ew04y5rUCilSeu6Esx_RKYhNsWs-0XlV950la8-cADfPARmfszmCE9kQn-jtqgUWlvXbKdnMJfk38opF-eSv1mcdateATTQid9DqKYr7czZPMHBVlEZHdmJUTSJlOSKgmajjsek528YUPUFSkdMvk6Noqo1FlR1nOox0Pz8uoY4QuHiNLKllEvxv2GUrKwVWgmqR6fQTqZHSdM3SYmxoTj9LqdXo5vsMpRIWRcVo4VCAwFVW2tXdZxbGYtGd3MKXAQFrBS64ks9ZHbFAfxkTUKLTMTok3yLMB_Syj-0NUYZcllm67Xx-iSIdg89fjjO7Ve3V-DJRm0iPMnwv7rN6Tik8OJFaCwsHYXMy2YYwh-btavoTw760YF8GdinjJFr7hszZTSuMX5QHtCG2E5ExS14cnrBhWsLmfNkkMjm19jkWXDPtdIfkOXzy_7FXkg2LGkTvaOK_MFVTg7Aa6ACNHsmu_AWFa8nPyJ4JlrvbhvLS4knh5pTUaHrRKzEa1wRkHBq4-MxWkVfY5PeSan8YROD180VRBHveWf-VIPeM--rbKno2OZA2Iwel3xoNxyqEvFvuWss-vJn1W4IQKCrlImdemu9--slyqDjdNMAA2LvHdPtYZq-NX9hqtJUGEWF4a1maSD_eStT1Ub8JDLZoc7oqebXIzZ4RQcX65_53oF1TO_ICwgdSQOKtSn1Z2tuHMq2EoN2mk6vVdt3pYNUMgQ9InwWF-lCqqAZC9QFfpVsEw9EP_tV5C9by_SrJxbxnyImAkzDWWWpXNAfCPSK9jFvTikpuFqK5U9usm8Kbga8bch3LdyF3YkvN8fdNZibv7VfCq0XEEXjp1QpfL4bKTzNGZJTw7OeGDyAf-GDjuwaxoNarPQIozJMNk1f2-Ov9aNRVe0VEFv1tP9uH75c5vvcJ9TXtQ6BwuxRdPTo3_TTdwJY2vNSeL2d_wfK9U;/?ep=AwhO62kAADM8SIbdCDDEuBbntnpRF4y33Flx5fElrHQRMFflAPw-IFwAicZK9EpOukNCgqZDUrXyztF2hSUaVf4FM3KOimsI1prgmPbVf6rgnsZqfaJ1Aw6lPRL00uftZAynZ07x5aWZmwWBSWpR4ry6gR8TCA9hleL4JjxXXLFBtxgAQ9qwBOMsgu-9geFay8VNnBlApL5NKxTHh2w3xrbBKQ&v=2
+          - paragraph [ref=e104]: 【相談無料】解決できないお悩み等お気軽にご相談ください。除霊お祓いのご相談は是非天光寺へご相談ください。
+          - generic [ref=e105]:
+            - text: 広告www.tenjiku-jyorei.com/
+            - button [ref=e107] [cursor=pointer]:
+              - img [ref=e108]
+        - generic [ref=e110]:
+          - heading "お伊勢さんスプレー 縁切り" [level=2] [ref=e111]:
+            - link "お伊勢さんスプレー 縁切り" [ref=e112] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AwhO62kAABDPUg9jLkNIwi8AkHJYgLLffEyU07z6_X9PxqEmSL-sXZ0zdssFhSiM_gaqwXTbR-6i2r0mxykl1WLZNI1bGMr7AF3gy8owrY2dc08iCwdaJmf6ZqKgTHmtHP2xvO14C0xjxsZsUtjNvUoXgYFbhupDuVeFQ_LKBCaSSS83bulNvNTBNaXheUcGEoopyXxlIfjeu3oV3_PbDViRlHBU7G3B89qpDtApLsNK8UVt6js6BKGhNwrw-Ij1W4qnUG9LZzw6x4piLbfnNj0bdsMPT76ivwv6m6hwAZVDRUPVdip03vNzuPlSVmTjBCL4UDrwF-E10syJ5e4O-iku9WACycq0qjTqfpAznkTi_kGkSg9DOcNiRb8VOLc-CLwrgtUB7BERU3mrwIIV_4aTtjPJssTy7yE4tflX50ngWEkxV6LKDeaKnj_rbyLMIC6fEg3SaeByKe0st4812bHjge4p-z6q8VVJQzinhFSWhsJipYD_jhRhhXWxoa8m7YTn9tfImoCHuv5xo0GkY-nsyeEY57kkx5nVvsJ21NVkN3o62K6IYF4RaOIlsUt181bQ_bzoORnTIGc8_Z4ceh2T8vWVLyT3J9lfIa_0xysCzYhEm5MmCZOm6X2Tzmnqs2XXfjATbvJ41rhsOHxDVveQRj_3wi92neYyait3AyfoxjnmSQ3Er7J1PKz-eco5__ikDBz-J3WedXBE4j-0vpgfRIDdgMD1Bq7VsNqil7ubxnGWIrDHkcCniYBHK3TFnbMNBGHXacC5KzLF-Xy7ZpxeswYjDXvSCm8tBH1fco71FLu7yIFZPOROI0PD9qIdCxk6k0T4gFUBybe9VkdX0uHAYq4svxsbhfnDEvpCajt4-svpcjVU7TPMkBfByduKvbjaZ5LoGCLwEkIy1FQcHTKaUEq8BRBevtqOFb0RWr3CzvjrU0XIHzIFqe59-YuS99JITDxr6p5R_K_EYp5srcVgN8IuWoN1cLa5E4x9Yxu7YLebrLDv3iQdA5TnyFy2Fa-ERal6y5P9v0AG5u10ve-ogW4ZHBIOtPJovnuxrfH_SwRJK5s9NrkK9OWcTt9u7Ndu8g7XJ7f1YW9qwT3Pq76uQnkty59k-fEX9XBNev0tZQZC4AyZul_SVN20ekr-YnTb2Gt-YnlZOtOdxvsIyPAN6rkO7wPmsAloawWO25VpaOEdqL5bhCk0A3q-4oG3WkWrJtRdaYyVSOmqezOT-OHPH7ke_fWs7pMUBvXnoiBsd0XjBADkjEho3p0EVKo0zfx86dvEI5IhO9KviaY05RzToOW1eTiAnpRorSGhJ9BzmytrRBVknX0YnZ9nbxvyWOBJKHNMUOUHD5m-53NVsR1IyirWGulA-JVSWkfXHjE_YHPbJC7cn66OT7zl21EwD9KUbqnAH9OcU9dI0V_N7Sr4FbHqoI8xQNAD-klv-npawRa3fLzLp-zTcsSUD8j8-9g_02HqUHD24CPfal9vVyr2I76zbwhb3w3tlYQXkiSsHj-QXKxkuvRzj5Gb-eVuFI0imRheFV8P5n8Ls17bxVe7bbjG-QibkzF7L4f7vKC6in1BowjXYj6FiHr5B2ql80No-kvkzERvfX8aaY2af5eOH7QJwsqTriS0WIcTqZ-qrKbz5xBwCg4qoOaDdKhvnx13LS9chg;/?ep=AwhO62kAAMp4dadoalWAfbZqHhOWlVPrUyyBsg1uLs_7Cf2oaQAaiWwoadt0-Y7BzJNI7kwKtN_mUwLGdABCop584-HO_YlBZUe5LBMwJkaG6M35tdY3OuqZSY_Ap91IyaGLI_nut6RLsh34Ds__LhDm41vjSl6rloK6RDarPKWsBvTU3_w6_C9fhpLo3GCm0bvg8HpqT985IoG4mI_fHnyPzxM&v=2
+              - text: お伊勢さんスプレー
+              - strong [ref=e113]: 縁切り
+          - paragraph [ref=e114]:
+            - text: 新作アイテムが続々登場 - 欲しかったアロマアイテムが充実の商品ラインナップから探せる。人気のブランド、アイテムなど。アマゾンならお伊勢さんスプレー
+            - strong [ref=e115]: 縁切り
+            - text: がいつでも買える。初期不良時のサポートも充実だから安心。700万冊以上Kindle本、漫画。手軽に返品できる。Primeなら通常送料無料。数億種の品揃え。
+          - generic [ref=e116]:
+            - text: 広告www.amazon.co.jp/アマゾン/ヘルスケア
+            - button [ref=e118] [cursor=pointer]:
+              - img [ref=e119]
+          - paragraph [ref=e121]:
+            - link "ビューティー" [ref=e122] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AwhO62kAAAMxwyxR97ZnbTBOESvZ2oqGSb3VrWZYiGnPb0jLOg3MOmvFmxiAP_RcaeorlsxXNgyMvpOt8eVYnEAischbLWG6yx2V6PmLv8ecLcQarPDysQ8ChY26lRKdH9ZYu_xzh_OSkybJuRvtPKQJf5P2IsDnUnpYFMeOZxX05OMMpmGFIPD1zgb96PRl-ZGUWB_jMXl5ABW6e2ZgrIcT0exPMFJz-81Rz4q_7bKtZJ664_j-yS1IZTjUbtExiNh_hH-1RTbC2lKRCangvePSR2GEcRedL4zfOJkVyWEgvnDwjmdzCFqSRgLXkDHVyJrf2My-m4Qu0YX4fBmbLGlzH7ZZwVZY_plEnjUMT7rxuEeSYUFQAoRo6TPwOwKjVjmurgJXhHPWv16-s6RVtOAx9GvGdNdtB9MhwxV6JV065Nxp7pTx5PQl6E7H2DEjfBMnCsbcubrFMX7r3Lm2insfD3797SXEPfHVehbNTiO1AfLrqBO6jEbxCWdHqZWmbmHZsseSY5SHpDDsIdkaT-5dnNG5h3QCPzq2HFarUBP5zJfxHdKxHnt8iAcz9oG9lYRZmhQHCwfSfrnZvriJfToGxfFr_87fQbB3Hz_vIQ8YbsvArb6CvUHPUbG90Nun8BFOEe_wuKk4Palkdayh-u3yWJVVs_Cf4sIyequ5vdi4Rb9TaF1_N4XYCjUi5YRz7ziF3COfBs8bK3KHDiodzyQfpRTtSwT53As9XvYjmna_hPjiXgnpQQwhTd_LBSdWy6Ulosi1gWcfsoRjqpOU_QSO2xJz0XKaAiMwpJY9nqzPbsGZAqnc4egaDjw5q7uNHVqPaix1vBHU49oqLoBV-OF65cEs9WHVG2HTC813mEX8ihXvMKmW8alB1diCj-ZPHzZh-mw2q6ylreTtrdr1_-rdq6Mgb8tRCfrJrGpxw_PDut761qZ-mYJRsA-yXvb9jdiLeB_E9mRS-7gdOz7g68AKDeXNUOaw4T8pfbJ9I1a4Wr2bwULGXR8Tzc-Uf1bTkm-QKax0wY3VvHlwLKjzDrV_Xa8NGG89dEnm5VVdwwSqYeRqekZRY_hA_xVlKL5mOqiIejvyVJG0QVpStNyhj3iSO4V4BshR9zK1qbFQW0J6KVGi54EJ8agOsktY_EbRJnu5ae_goc1_NW0p9wQpniVB29q2jeimgmRkC2j-GlO3uttxR5LGmucpQDgAM35WkjQYRNzR56QldUvnYX67N9PmVThne3Uqm0erMn6XxLbHMeVeX9qgpnT1jVIM4WMp3lDwq81JpP7WfHXmPmJrIZlrxMECEDQfpgsK-TMKoXXdlWizTJ2RUYsYGl-3elTaGryqIBmH0k90-9ZPviLKUpNXhJB7eIS6Rjq5T7V4XK2laKVNQor_HrA96XZ3CNd0QPa8UiESfcRfnCuwM3tcJHPQRwQW-P4IbdMi6fZ3BmwQh56pVfZHQMynn5wFF80kqPxOZrqC084opMZTNgPRBgz-2w5pWmY54Z5vVEwPQqLHx_Fl36Ses13zxWy4XhDyKzeXxNkxSi34GJ9TkaJZDiG7ztwc6NqOxOdOx2Z5VQf2_IO8yLXj4Ns7m55PttyavLUI_01cZUQLUuc;/?ep=AwhO62kAADANyKhZoIUJSuEb3Z4XgsUqmXOVl8JUzWYtXWvsCL8RTUQKmJu4_LbebYL_1hOSXti9bNaduyuyVCYcrGn-Vcpa6jKxC2h9zh0AE6XyK03YKRqFB8dj9ZkeoS3n3bxkXSmsp9A-nvalHc0nCnDhuzEPw-fLKnqLyl9U_MslfPrfwzeEFWBmvchYw9guQVQw9gQBl4bynOzTIBCiQg&v=2
+            - text: "-"
+            - link "医薬品" [ref=e123] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AwhO62kAAD5gJY51mrolA_4tBbfoubcV2ZUvoSQ5phzarGke6GvApDJF3Q5vT_Enn2VdqDpg85FoSXVPPjGneGvJP83HV5beGBP_kT2l2FYG63GPkwPEGmli9zylpXL8CUxlCabk2JGAyzar8A6-E5h19cBCvpOiRX02GJXQhRzUrkf7dp87P026ZbWzjxTrSBnaHOiPx7guoE_a2lnMTpWBwzX3lDp01mySIjaaHRiAL_VLVUsAc-sNwvhCM-nBmgJilcYD1cHI6_StrEP3QTIf8DKN3GQ6XgbIdtEmrfF9j7P4Apux-1NPceYSekgTqDKb8SGa8FPhPLcMn11f7wqQS9apot9lUCx57J0x6CKdJoh0j1fYZUWrBw0sKtqukhMpmfWW2jHf0ArWEOjbyLgjpNUkTRIfB5pNO900XahdtR23otpNAswSct3UH_5mGF9SfBknQe2WbtkyUKnIdgk9Rv1RRbN1vBDNHK3hHytP9gcE87sSvx0BS7U5SthWQWkJD_wVcetcplb0PtWUBzn3JDHIU4P-1H4eIXyS40StdXYUfI-enwlbfWobqz4SMN-V7dp1-sc0CEuZU1UP66Lres28cQYnkKmRjhoeMKFD6f5foPbHcI7RAytEnLCwNix-R-oQxKy3oLew1AvTuM-6WAPdccbn397Fw75Lfb2Fucml3X9bf9Jp8M2dvHfaNSHkGfpTeZrD5QseJunFc5y8kVzKwAnPIb-Kx300Ys8PfriKoFDUCDOxZCWILDdEwmzHnr5n0knWkpsDhC4gEL7qH_Kxke_wtI1OgBqZHGly8za2OD4uvHOeKOt9D6F1WHOGJ71n-IH5cNUY-OBG05reKMV4XV80JQmY-sojjqFXH8Rq9dcK_9YxjpJmbBgaD1royIt7rXUxm7L-pi3LDUFa9Q9_MMSPeYgTl2S6Lxz6a6pnYPIBWHgVdUgxsUPfOog8vov9SZfFg6iMVVQhOI1J4FOIJNerDcSTmcClNRldzo9GAuQyfrXvDJNtOXEs5FiQ93kcKmFkopt_-Qdy5XVnFnV-KEuX9ozRB0LkPr0SXdfvcJOwhW1AoUbwThAN1FalJvrG6G5jorKofF_qP6g4F78eIH-S19i9L86IUi0z0ou5hrIKMmk-PAS9-qpwlfuNYOI6c3SPm1pANYX8juCtvu9qq1yah_m_RCwr1qzsleAs2L2cCQYRDWaSYC2qWNqJ7ujghdAx8jvHJld-Udgar15ezWU7U9idxz1wG22idUQsSQwXAzR3v8y-amnZC7F1tfNTJ7MMoCi5LhGGdr_0SZAuisSnRyqJylxF4XhnRQ-ZDMkgcU813JZ3wG0zXcMSK9482LR3lKJYE7qMVPrsR-N_FABCMidxWpQTF0Fe-OJwBBm2tFG9zF7luuKqKJjTyQM8a70yPDMViK4qHSkz_a3plX458QPTFL3WjoYAYUTTyw7D05QX-gCxpSBErxpDOsRS3qkwCrwI6rXR035LpsDaSE6-RA6ZOFeApbJpl95rAIZ7SCePpSJcqMG9bU435nere6uwfaFgLwTpPnow3YqneCXT6a6DDpOxZAFKMKQVne0gaVsmvUVCAOe1-oxt5vojApqbOWT2Bg;/?ep=AwhO62kAAM2LLVL05Rb2KjvEdyBO93Z5k8IzlMAtGhmqWlSQIz8ZnuWkymBJxZU4D6jHkN-imJIM4pM9QQ9QvdAn-C0xSr9FiNNnhqRTV8QpDB9ORikUJ2MPbuo-vpCSbFCDFh3D_yEcxYi7U0EaSohALNTTl3b6cipToTHyhyEgY2L3WRXL6G9WXvR-t6g1hfz9MbFs8SBqzf1OoyvjOo8d4Q&v=2
+            - text: "-"
+            - link "おむつ・おしりふき" [ref=e124] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AwhO62kAAP3r9uPVBbpXwJBK0l6IvrEtF4GLQzY-dBBg6QFf-9Do7-_FrDkc6BLy46ojrwYhte6MdDXwqGm15azm2vWAhaDYEbENVYJduojcbCN_EhUu4x8qDiiZOAhUbSqea2hIgyp8i9RkS9gmlLyTSSi65dMuRMNQZ-PvQXQKDntR4eGyJ5eihy_olhasC4P0BvGNvh2url4DBGV15ak9Mq06H6SzIJLEVgPstrln_JQpqiYzzxWlK_XqAlEbm4kvh54mSDf4FKgILx6-JCBIYkh9xXJjiyGk8tMmUZdj5DN1XrAT_GyY76UUPN1lRfimNdyiZYC7bUtyXZmXM1HOfN84PtyYth1jbHQbJPQlC1CATE-kyT7ifAuguy0Yjh5J9YubvYoPDVqfh41k_jPTT-HJELw4S_Ky4lHILcWP7nsnkw9_HcAG6Zji47zexRFyHHxoVRuuAxxGsGU8g4XQ6VbaR1b-_WyfozRNwPAHrOIW3c_lpcCvSc1X8y7A2FP11Xxm7WN8FjG7qp-8IBBbmdIyU1CyzJnzluVCbLnZmY28CmkCBmAL6tfHVCnGNP53-MmQJLo7BAfQ2wdi8mvAinKRXz5HvMu-ZShT1d-3H8Z_8FLXM_7HOnudY1Mvr_EAqvqBwgzwh1B54Uy-AbiSzUAOp1he-H3S452B6sA7UsfSgR7uMvgf1GjgEaYf7c8mDOXdy0ukMQoUhkTcCTL2NkJ04TY-ld6R_oPBgIZXV3f1wGzXId-KRFq74BP8M6wCeq1jG-0UEidIXF-GTY3C5w9k2QzTySLe5_8t44P2Y3Ym3ZrK-rtZtQccEmB4aZtoJL2b2sSqWoG7l0KdVsAhuVFVc2Q5WflJf7hCi88PLevmWKoApec2dUT8dTZXypDBVaARj4TRmwGpndWmK8xzcKj4VKnMB_npCm0uZpb387GnTx6Ne_nhxY2F9_S8zin_e5PkCugN9IT1ORTeHuFVX3eeSM1B7iVpSGdcxkPTTzAZXseuVOrVRoYIO6e4kZbnlIOxnwwcP4-FhwDE0DrKQEoZeridDlfiHsu-o4TWXV2rQ57GSbXsSZyYovVgLXFoP1MXrHp2nAafoSqMO6aBqMrEAe1Q_dyZ3XAJevp36peL65enwIKq3sg-Od90SW3G3gHZ0Nl1VJW_gud_pqr-jowsGfGFjexSNsiwbDmy2HbELLx3JXmjUc0QDY7_2uGOrXvNdY0s3FYurO6AbKTNrPc-ELjy-fjTU_HiPNGyoARPzi2H1WucCst8D-FXN9e_TQJrPdiaV5Y396jT3NF6poXw2OKjpyODuNIkWWHhLtY82Ywv9BYrYxldRilRzQXyNWqAyY1FBiUc2n-aGrzWjrMErq2z2X-Bauv_BYsJyaTJn6HfjA-BtckmF0B3dzAaD8Y6T1-GSytZgK5VRW172A3GwAkx6tRrLClw-cveLCs555s26IR_fUXT5R7pkRNGlTO2x642rC4MwmBD2Nouaeohmfk-wIS49mKcaCScgohN66LgbPvUFzH3bgLXIzUqJGhuwK19KPCbNs14JmrH9-cFmuwn5ovMNPsO38oT1dW7nja_7ervY732ulPHCV7xIManjEev;/?ep=AwhO62kAAB_KCzEIvtbzjfLD9A6zao1wyozJNGsbc6WKphHdXUkJ_vNcPwgOeuR-lRAWbDkCPl0U8ndGuPfmiWSS5njgR9AMGD3gqCMNhoP9lR82s31SzvikOXBRXtMON0N0m1oKFBoUJUBhcUTgu58ObWchpEVVCZIZEi40tFotu-m_Q7-nrW75DmicN9E3Tfgmn5S5YWmU1R4UhB3eS0opKw&v=2
+            - text: "-"
+            - link "日用品" [ref=e125] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AwhO62kAANRfUaNnvl0HrLvz8hDpTg-FAtjXDbRRxsA3OgaUmqsx9ahsa-B7NHg-DAEVOaUiwMcg8fVYz5_OzyWQMPxLZm07oDrJseuorfA2VJRYaIMwKJdzF51V_nA7yly2FIHLlDAVKF4pVIgrnL-NtX1BlJb-HP59iNSJrln1OXUR68KLAEMvpYZ5h-1k8TSbuypjhl8L-Ssd3NBzuWCJiBb-vbhWw_ObcFk-L8OV98J7E25ISsxPTRLYd5ClB3nvKV53-lP8IqENFEud3pwjClCg9PxfEpBKID6fYCcB0oug8jdLneOLW1U5Xxc87FpZl037BCoHu6ia939DpMSpJDs5cGX3E8xlGLcbQHxY2VSchk3162i6Tk32gtoiqlYmtAFOO4qBR-QXvKA4PBKkkv45GamMN8RcOSOA6TnSv6i4i4Emlh_ZmuTVNXafsb7tyuuXzIAEnx-dUtcBukogOqIJwhhVmPOzK1qHxEAItVKluznfxT0RIIkspE9ssrgGA-TTeECiA6AY1MrZpuKWx5u6LsZcUWIkVl7PdA4pDAVIF_JENQRvukdSCo54O5Ia5zbO9P01xYpIYcxm6z-Uu1sSydHhprz5IffYjWAEPw2FkheaZbyHpdgwSmD5gF4w8k5cRMfNbzEFwTpH9RZvR0zqzuC_Ku4ffYIqZt4AIasU7RLiIUKOdb7sTVzQCAN-cO0yely5654rg-p6hb8_VesRUHXdD7jqzw3mm78fEwObQuXOjxfcT2rtkZNgQOs1kDhjCu2fLMtgZhVJU1MQK3XRmjQRFI1JS2TIhaPHNS_KQD61Rjrz06ZM3-78qymGnbnsjNalD5msJIuGg71W1h-GmWgwn8AJYeR0-Cz6GXnEcuYIl9vKxZT0_-7DmUadrq5dtZ2k0zWO9d06FP26xSsMjkwN3Ik-2IFl0OS11eCSiqVLzAcwtqLWpGqkfF91rvtrFQr8E_7XhwtDss8FD1cJGAP7vbQ7rgLxrQ5yDCw9zSj1p87esIep9tXCjZpNPgr2su3IZTcexd8Uek9jzaohlVrne7u5TQVoVX8xtzfWWXU-rW6GgZTmnAyLQdWeBpm-PDWCNmlIDqu-2OiyMMmy9QYZKXya03AE4z7za4Ex-3YJY80uzhqK0t-Rm_Ji0oXiNsZn8dDp17a5qgcsDKfEFROrhqAgtVoEC5e1K1EvmCbnYfLTgsIpY6spzBHgdQWWTUMemV01ZEQHfVP2oJLe50cXlvS8pHb6OIreGtZI4krXhZsZtOX1_IkpXDWittK_5p4omLmu3dU4N-epqfYO2OyxFhHKWCBGilt5k0at8JtOSiDWx6A17WswiQ1QlSNXi8XO7VtqK5ypXRq1Bmi9hEt11htdIK-sSMKuXMnP63eXFQ8h8e5GJdXCZ1G39jIP78LciPxvZEZudq7BHiSabN1rnLglljyZH68K47gVNJoOjWiTFML1_muFfOpwW3YAHWtnnYzNNa1V8xZJAw68zCN2dTa5tcaETW2vhu-Gdmg5AoTQyUxCTJFrd9HXyllfYOTijINFccf7Tx6YTalHpgYZJFfoH0z3E_FJQmiV6zdBecRMROOPlFjc3Zj7E-FihW90V9U;/?ep=AwhO62kAAE5Sq0HwG7MPHvel8EqdUDFWgVL-RgbzH3NH3j33sELeZgtKYcLTRR8C12JF_oPK3ksN82p22KwSAYzv6kxOmYRYM9rvkOwI6UCoVyakHb2jzM0bUo1NCAJhcYUE0fO-PVDuPVJZM0JmVDzo4TtYC8UazgYGtaXh_z-fw218MQAKS7bonjOQdfPpvCy_23fzsgb1Hpf3UB-dFXbyKgs&v=2
+      - generic [ref=e126]:
+        - heading "質問一覧" [level=2]
+        - list [ref=e127]:
+          - listitem [ref=e128]:
+            - heading "縁切り（悪縁切）神社に関する質問です よく、縁切り神社て、御利益の効果が高い神社であればあるほど、切りたくない縁まで切ってしまう恐れがあると、言われていますが" [level=3] [ref=e129]:
+              - link "縁切り（悪縁切）神社に関する質問です よく、縁切り神社て、御利益の効果が高い神社であればあるほど、切りたくない縁まで切ってしまう恐れがあると、言われていますが" [ref=e130] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12326637812?__ysp=57iB5YiH44KK
+                - emphasis [ref=e131]: 縁
+                - emphasis [ref=e132]: 切り
+                - text: （悪
+                - emphasis [ref=e133]: 縁切
+                - text: ）神社に関する質問です よく、
+                - emphasis [ref=e134]: 縁切り
+                - text: 神社て、御利益の効果が高い神社であればあるほど、切りたくない
+                - emphasis [ref=e135]: 縁
+                - text: まで切ってしまう恐れがあると、言われていますが
+            - paragraph [ref=e136]: 言われていますが 名前を挙げますと、京都の安井金比羅宮と宇治市の橋姫神社 それと栃木の門田稲荷神社など。...
+            - paragraph [ref=e137]:
+              - generic [ref=e138]:
+                - img [ref=e139]
+                - generic: 質問日時：
+                - generic [ref=e141]: 2026/3/26 19:14
+              - generic [ref=e142]:
+                - img [ref=e143]
+                - generic: 回答数：
+                - generic [ref=e145]: "8"
+              - generic [ref=e146]:
+                - img [ref=e147]
+                - generic: 閲覧数：
+                - generic [ref=e151]: "87"
+            - paragraph [ref=e152]:
+              - text: マナー、冠婚葬祭>
+              - link "宗教" [ref=e153] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297816/question/list
+          - listitem [ref=e154]:
+            - heading "縁切寺とか縁切り神社って、 義理の家族にでも対応してくれるのでしょうか？ 皆さんは実績ありますか？" [level=3] [ref=e155]:
+              - link "縁切寺とか縁切り神社って、 義理の家族にでも対応してくれるのでしょうか？ 皆さんは実績ありますか？" [ref=e156] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12277118282?__ysp=57iB5YiH44KK
+                - emphasis [ref=e157]: 縁切
+                - text: 寺とか
+                - emphasis [ref=e158]: 縁
+                - emphasis [ref=e159]: 切り
+                - text: 神社って、 義理の家族にでも対応してくれるのでしょうか？ 皆さんは実績ありますか？
+            - paragraph [ref=e160]: 全国的に威力が知れ渡っているのは、 縁切り榎(東京都板橋区) でしょう！ (２) あとは、「生駒の聖天」の名で全国的に有名な宝山寺(奈良県生駒市)の大聖歓喜天への浴油供ですね。こちらは「郵送対応も可」で、...
+            - paragraph [ref=e161]:
+              - generic [ref=e162]: 解決済み
+              - generic [ref=e163]:
+                - img [ref=e164]
+                - generic: 質問日時：
+                - generic [ref=e166]: 2023/3/17 10:43
+              - generic [ref=e167]:
+                - img [ref=e168]
+                - generic: 回答数：
+                - generic [ref=e170]: "5"
+              - generic [ref=e171]:
+                - img [ref=e172]
+                - generic: 閲覧数：
+                - generic [ref=e176]: 5,024
+            - paragraph [ref=e177]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "家族関係の悩み" [ref=e178] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675273/question/list
+          - listitem [ref=e179]:
+            - heading "縁切り榎で縁切り願掛けした方、お話聞かせて下さい。 私も、縁切り榎へ行きましたが怖いといわれる理由が分かりました。" [level=3] [ref=e180]:
+              - link "縁切り榎で縁切り願掛けした方、お話聞かせて下さい。 私も、縁切り榎へ行きましたが怖いといわれる理由が分かりました。" [ref=e181] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11264892741?__ysp=57iB5YiH44KK
+                - emphasis [ref=e182]: 縁
+                - emphasis [ref=e183]: 切り
+                - text: 榎で
+                - emphasis [ref=e184]: 縁
+                - emphasis [ref=e185]: 切り
+                - text: 願掛けした方、お話聞かせて下さい。 私も、
+                - emphasis [ref=e186]: 縁切り
+                - text: 榎へ行きましたが怖いといわれる理由が分かりました。
+            - paragraph [ref=e187]:
+              - text: 確かに、自分のプラスにならない
+              - emphasis [ref=e188]: 縁
+              - text: がどんどん切れていきます。...
+            - paragraph [ref=e189]:
+              - generic [ref=e190]:
+                - img [ref=e191]
+                - generic: 質問日時：
+                - generic [ref=e193]: 2022/7/17 2:20
+              - generic [ref=e194]:
+                - img [ref=e195]
+                - generic: 回答数：
+                - generic [ref=e197]: "1"
+              - generic [ref=e198]:
+                - img [ref=e199]
+                - generic: 閲覧数：
+                - generic [ref=e203]: 16,202
+            - paragraph [ref=e204]:
+              - text: 生き方と恋愛、人間関係の悩み>
+              - link "恋愛相談、人間関係の悩み" [ref=e205] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+          - listitem [ref=e206]:
+            - heading "縁切榎という縁切り神社に行ったことがある方いますか？ 昨年結婚しましたが、高校の時に告白してフラれた人を未だに思い出してインスタやfacebookをストーカーしてしまいます。" [level=3] [ref=e207]:
+              - link "縁切榎という縁切り神社に行ったことがある方いますか？ 昨年結婚しましたが、高校の時に告白してフラれた人を未だに思い出してインスタやfacebookをストーカーしてしまいます。" [ref=e208] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11293972986?__ysp=57iB5YiH44KK
+                - emphasis [ref=e209]: 縁切
+                - text: 榎という
+                - emphasis [ref=e210]: 縁
+                - emphasis [ref=e211]: 切り
+                - text: 神社に行ったことがある方いますか？ 昨年結婚しましたが、高校の時に告白してフラれた人を未だに思い出してインスタやfacebookをストーカーしてしまいます。
+            - paragraph [ref=e212]: 夢にまで出てくるのが辛いのと、今目の前にいる人たちを大切にしたいです。 神社で、どのようにお祈りをすれば良いでしょうか。 その人に不幸になってほしいとかではなく、私の意識から永遠に消えて欲しいです。 正直、今は好...
+            - paragraph [ref=e213]:
+              - generic [ref=e214]: 解決済み
+              - generic [ref=e215]:
+                - img [ref=e216]
+                - generic: 質問日時：
+                - generic [ref=e218]: 2024/2/24 20:40
+              - generic [ref=e219]:
+                - img [ref=e220]
+                - generic: 回答数：
+                - generic [ref=e222]: "1"
+              - generic [ref=e223]:
+                - img [ref=e224]
+                - generic: 閲覧数：
+                - generic [ref=e228]: 2,995
+            - paragraph [ref=e229]:
+              - text: 生き方と恋愛、人間関係の悩み>
+              - link "恋愛相談、人間関係の悩み" [ref=e230] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297875/question/list
+          - listitem [ref=e231]:
+            - heading "縁切神社に行った後、本当に友達が1人もいなくなりました。 彼氏と別れたくて縁切神社に行ったので..." [level=3] [ref=e232]:
+              - link "縁切神社に行った後、本当に友達が1人もいなくなりました。 彼氏と別れたくて縁切神社に行ったので..." [ref=e233] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12233786277?__ysp=57iB5YiH44KK
+                - emphasis [ref=e234]: 縁切
+                - text: 神社に行った後、本当に友達が1人もいなくなりました。 彼氏と別れたくて縁切神社に行ったので...
+            - paragraph [ref=e235]:
+              - emphasis [ref=e236]: 縁切
+              - text: 神社に行った後、本当に友達が1人もいなくなりました。 彼氏と別れたくて
+              - emphasis [ref=e237]: 縁切
+              - text: 神社に行ったのですが、 彼氏とも別れた挙句、親とも
+              - emphasis [ref=e238]: 縁
+              - text: が切れてしまい、 友達とも疎遠になり1人ぼっちになりました。...
+            - paragraph [ref=e239]:
+              - generic [ref=e240]:
+                - img [ref=e241]
+                - generic: 質問日時：
+                - generic [ref=e243]: 2020/10/31 13:48
+              - generic [ref=e244]:
+                - img [ref=e245]
+                - generic: 回答数：
+                - generic [ref=e247]: "2"
+              - generic [ref=e248]:
+                - img [ref=e249]
+                - generic: 閲覧数：
+                - generic [ref=e253]: 35,728
+            - paragraph [ref=e254]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "友人関係の悩み" [ref=e255] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675275/question/list
+          - listitem [ref=e256]:
+            - heading "縁切り神社で縁切りしたいと考えています 息子が部活の監督（先生）から理不尽な対応を受けています。" [level=3] [ref=e257]:
+              - link "縁切り神社で縁切りしたいと考えています 息子が部活の監督（先生）から理不尽な対応を受けています。" [ref=e258] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14304946019?__ysp=57iB5YiH44KK
+                - emphasis [ref=e259]: 縁
+                - emphasis [ref=e260]: 切り
+                - text: 神社で
+                - emphasis [ref=e261]: 縁
+                - emphasis [ref=e262]: 切り
+                - text: したいと考えています 息子が部活の監督（先生）から理不尽な対応を受けています。
+            - paragraph [ref=e263]: 話し合いが通じない先生なので気を揉んでいます。引退まであと一年続けたいと言っています。...
+            - paragraph [ref=e264]:
+              - generic [ref=e265]: 解決済み
+              - generic [ref=e266]:
+                - img [ref=e267]
+                - generic: 質問日時：
+                - generic [ref=e269]: 2024/10/5 12:41
+              - generic [ref=e270]:
+                - img [ref=e271]
+                - generic: 回答数：
+                - generic [ref=e273]: "3"
+              - generic [ref=e274]:
+                - img [ref=e275]
+                - generic: 閲覧数：
+                - generic [ref=e279]: "342"
+            - paragraph [ref=e280]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "学校の悩み" [ref=e281] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2080401676/question/list
+          - listitem [ref=e282]:
+            - heading "縁切り神社や縁切り祈祷など効果あったよーって方、どこが一番良かったか教えてもらえませんか？ ち..." [level=3] [ref=e283]:
+              - link "縁切り神社や縁切り祈祷など効果あったよーって方、どこが一番良かったか教えてもらえませんか？ ち..." [ref=e284] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10321157445?__ysp=57iB5YiH44KK
+                - emphasis [ref=e285]: 縁
+                - emphasis [ref=e286]: 切り
+                - text: 神社や
+                - emphasis [ref=e287]: 縁
+                - emphasis [ref=e288]: 切り
+                - text: 祈祷など効果あったよーって方、どこが一番良かったか教えてもらえませんか？ ち...
+            - paragraph [ref=e289]:
+              - text: ちなみに関東圏ならありがたいです。
+              - emphasis [ref=e290]: 縁切り
+              - text: 榎は行ったけど全く効果なかったです…
+            - paragraph [ref=e291]:
+              - generic [ref=e292]:
+                - img [ref=e293]
+                - generic: 質問日時：
+                - generic [ref=e295]: 2025/10/16 11:04
+              - generic [ref=e296]:
+                - img [ref=e297]
+                - generic: 回答数：
+                - generic [ref=e299]: "3"
+              - generic [ref=e300]:
+                - img [ref=e301]
+                - generic: 閲覧数：
+                - generic [ref=e305]: "962"
+            - paragraph [ref=e306]:
+              - text: エンターテインメントと趣味>占い、超常現象>
+              - link "占い" [ref=e307] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078645002/question/list
+          - listitem [ref=e308]:
+            - heading "先日縁切り神社安井金毘羅宮に縁切りにいきました。終わって神社出る前からものすごい勢いで気持ち悪くなりバスに乗って帰れませんでした。" [level=3] [ref=e309]:
+              - link "先日縁切り神社安井金毘羅宮に縁切りにいきました。終わって神社出る前からものすごい勢いで気持ち悪くなりバスに乗って帰れませんでした。" [ref=e310] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11327221661?__ysp=57iB5YiH44KK
+                - text: 先日
+                - emphasis [ref=e311]: 縁
+                - emphasis [ref=e312]: 切り
+                - text: 神社安井金毘羅宮に
+                - emphasis [ref=e313]: 縁
+                - emphasis [ref=e314]: 切り
+                - text: にいきました。終わって神社出る前からものすごい勢いで気持ち悪くなりバスに乗って帰れませんでした。
+            - paragraph [ref=e315]: そのあと主人がトラックで事故を起こし人が一人亡くなりました。...
+            - paragraph [ref=e316]:
+              - generic [ref=e317]:
+                - img [ref=e318]
+                - generic: 質問日時：
+                - generic [ref=e320]: 2026/4/17 8:01
+              - generic [ref=e321]:
+                - img [ref=e322]
+                - generic: 回答数：
+                - generic [ref=e324]: "1"
+              - generic [ref=e325]:
+                - img [ref=e326]
+                - generic: 閲覧数：
+                - generic [ref=e330]: "159"
+            - paragraph [ref=e331]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "家族関係の悩み" [ref=e332] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675273/question/list
+          - listitem [ref=e333]:
+            - heading "縁切り神社に行こうと考えている者です。 縁切り神社は1人で参拝に行った方がいいと聞いたことがあるのですが、1人で行く勇気がなく、目的地まで友人と一緒に行こうと考えてます。" [level=3] [ref=e334]:
+              - link "縁切り神社に行こうと考えている者です。 縁切り神社は1人で参拝に行った方がいいと聞いたことがあるのですが、1人で行く勇気がなく、目的地まで友人と一緒に行こうと考えてます。" [ref=e335] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14318744349?__ysp=57iB5YiH44KK
+                - emphasis [ref=e336]: 縁
+                - emphasis [ref=e337]: 切り
+                - text: 神社に行こうと考えている者です。
+                - emphasis [ref=e338]: 縁
+                - emphasis [ref=e339]: 切り
+                - text: 神社は1人で参拝に行った方がいいと聞いたことがあるのですが、1人で行く勇気がなく、目的地まで友人と一緒に行こうと考えてます。
+            - paragraph [ref=e340]: 相手に神社の外で待っててもらい片方の参拝が終わったらもう片方も参拝するのでもダメなのでしょうか。 また、おすすめの縁切り神社を教えていただきたいです。 有識者さんご教授いただけると幸いです。...
+            - paragraph [ref=e341]:
+              - generic [ref=e342]:
+                - img [ref=e343]
+                - generic: 質問日時：
+                - generic [ref=e345]: 2025/8/15 11:37
+              - generic [ref=e346]:
+                - img [ref=e347]
+                - generic: 回答数：
+                - generic [ref=e349]: "4"
+              - generic [ref=e350]:
+                - img [ref=e351]
+                - generic: 閲覧数：
+                - generic [ref=e355]: "736"
+            - paragraph [ref=e356]:
+              - text: 地域、旅行、お出かけ>国内>
+              - link "ここ、探してます" [ref=e357] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078297930/question/list
+          - listitem [ref=e358]:
+            - heading "縁切り神社で他人の縁切りをお祈りするのはどうなんでしょうか。調べたら不倫等の縁切りは見かけたのですが。" [level=3] [ref=e359]:
+              - link "縁切り神社で他人の縁切りをお祈りするのはどうなんでしょうか。調べたら不倫等の縁切りは見かけたのですが。" [ref=e360] [cursor=pointer]:
+                - /url: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14286634839?__ysp=57iB5YiH44KK
+                - emphasis [ref=e361]: 縁
+                - emphasis [ref=e362]: 切り
+                - text: 神社で他人の
+                - emphasis [ref=e363]: 縁
+                - emphasis [ref=e364]: 切り
+                - text: をお祈りするのはどうなんでしょうか。調べたら不倫等の
+                - emphasis [ref=e365]: 縁切り
+                - text: は見かけたのですが。
+            - paragraph [ref=e366]:
+              - text: 先日テレビで
+              - emphasis [ref=e367]: 縁
+              - emphasis [ref=e368]: 切り
+              - text: 神社のことをやっており、今度京都大阪方面へ旅行に行くので、せっかくだし行きたいと思っています。...
+            - paragraph [ref=e369]:
+              - generic [ref=e370]:
+                - img [ref=e371]
+                - generic: 質問日時：
+                - generic [ref=e373]: 2023/9/27 13:34
+              - generic [ref=e374]:
+                - img [ref=e375]
+                - generic: 回答数：
+                - generic [ref=e377]: "1"
+              - generic [ref=e378]:
+                - img [ref=e379]
+                - generic: 閲覧数：
+                - generic [ref=e383]: 5,188
+            - paragraph [ref=e384]:
+              - text: 生き方と恋愛、人間関係の悩み>恋愛相談、人間関係の悩み>
+              - link "友人関係の悩み" [ref=e385] [cursor=pointer]:
+                - /url: https://chiebukuro.yahoo.co.jp/category/2078675275/question/list
+      - generic [ref=e387]:
+        - generic [ref=e388]:
+          - heading "貴方を責任もって守る縁切り解決 | 貴方を守る人生を守る縁切り解決" [level=2] [ref=e389]:
+            - link "貴方を責任もって守る縁切り解決 | 貴方を守る人生を守る縁切り解決" [ref=e390] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AwhO62kAAGmQG5d6omer95taWfH1ZepZTkColfKffizXpn8vZJHOnQ2J0EGnvinbQ-FnoM35sCqAKPln1lbrJFhltKIqvwBVN9QoOzLy_RwpDU7LQFkShd8eY__DaMbgRHNeR9jIhlB9R5z7o3H1rfeP7zo-8TPVdpAEcFfkCVRY1xkj6pkleHIV0Dk1OSHvcJZPQCn9UXc_mNnTDnNXDWm9L36hit60Z_BGADcBAGv-pZOGZSvspGIe67q-v35mLesGogSr39KOev5gYfnt5RfztMevREhK3Do5Zn5haKRaWC9HSDcNBI2saof-llFxZEyDjxG2ra8EOcjOdrwzMXD8kO75g_LTgGHFbALav7GOJNqNJfZh_1gL7hLQ6WkzGRoeLEQDclbO2hikFo_L1CSgU7bDvyJ3Rm5xLMIGymH-k5g0OM8rarnQDxMJoYLujsDxO2Uy8Y9rN0oH-gCLVHOqzhrFepN4VYCKjOWXjAjC3KZ514A24tOpIa_Vp4vUz1HOSd5K1FbRU8WZ5Ed-js8qVejD9RHYxFH5IVzC-7FC8sMJy9vXMHgFs7cEs47JfoljggjLrVsoOPoo-AqDf56ny6UzbJEl97eZsuLZ9PWPLDZWdnhUHu5k2i5VnKY5eG_UYdUH_s25FgD7bc7gHcYXWi-Ee-nheXv7dna9cfLANb49ubWCfulP3aqMsFmijXWoIgfWCUB8oonBus2BuLcEZY1AUtgMmvvyteJFWpJ3-j771Q7uQl59L8x-aZvMsE5DuWBhXq6kZ_Bm1iKny2437FpOXM8uaQwCDyhGwFUe3OsM6UIO07kZI5D_8rSQDBizxFY055UKOgWLoUnhXxfTWEpzHYJJEDvDH2ATSAAXEpzDkTheG-FOH8riPGAYhUiRZF7AuM4dlPqjVTp9103LLz_27tR1ZbwaK6MxGn-x20oecMOczX_3NDoVl1Kmf7khPlEJirT5ZuN1sOMLqVtqVXnb1NnOLRoBzSwKF12VT03TUy1v8x6e0BZBOywxqcGhFU_g2dEDzKNwLBn4ipd8QcePBX2QyninZe30fb2OcBD2eSrI1ipVWd1qfCMfbuiEJGVM8e5E6hBygBim-JH2n2x2FrCJ-8LN4qQ65G7wMSCsjPt6QbLoo-nZxQPP5VInL_wvFAzKNbi_L9WFaimYXBqke_dlShntcjBDuV1oZRsQ1jH1qmnoKnfZIw7_15EcRkLEobkt-8d-6JxOrCUqamg-56AjsywzYYB3ietQE4ZrEQ3BtvmaS88kFJoK-XhsCEhyArIi1vL6rnDEijKr3USBbgwEfeulgA2pIQ1uPSdS;/?ep=AwhO62kAAMNt7XzvFfpAdfR1xU7dEGIqmsibNWlOuU1QuYLLqbkhjH40Jyn2MpRQybrxig2PisbTndO3V1_CLJJPhYxK1xr_iA6mYUeQuF41MkWF4pzS_jSxo3083MEb5YsiXNunpaWVKKXAxIzZJ97GPKqC3V5YXTNXB3Ce7i6Nqm3lJ-MXoCNsRxJ88AdVInW_Z8D8xK3NzVGsI8JnRYYQ_ic&v=2
+              - text: 貴方を責任もって守る
+              - strong [ref=e391]: 縁切り
+              - text: 解決 | 貴方を守る人生を守る
+              - strong [ref=e392]: 縁切り
+              - text: 解決
+          - paragraph [ref=e393]:
+            - text: 安心安全な生活を送れるように貴方の人生を守ります。厄介な相手、危険な相手と
+            - strong [ref=e394]: 縁切り
+            - text: します。 貴方の人生を破壊しようとする危険人物から守ります。厄介な相手、危険な相手と
+            - strong [ref=e395]: 縁切り
+            - text: します。
+          - generic [ref=e396]:
+            - text: 広告www.justiceoffice.biz/
+            - button [ref=e398] [cursor=pointer]:
+              - img [ref=e399]
+        - generic [ref=e401]:
+          - heading "除霊お祓いのご相談は天光寺へ | 関東東京唯一 | 【霊的問題】根本解決へ導きます" [level=2] [ref=e402]:
+            - link "除霊お祓いのご相談は天光寺へ | 関東東京唯一 | 【霊的問題】根本解決へ導きます" [ref=e403] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AwhO62kAALfJYi_1j134ZvYbwhO9nxMP2xq0Hw_G-rCjgPZzqqt-F3q1lopsMZSlgKsypiIaN61C0RXnAJEH00CtUOC8eqUxpqGWDRoRCZyHq569FXsqkcrox_0TUe1MzY8tIysGiTlpi5Q1Cz3K4JRjUtpsS3_tyNP4Ne5pBpGndKSPFyBAggy7Xw3eb4uVMElMOUEzZqEe2UtGif4rIbuzaypCXzjWwfBBmNa1TfTceeKEIxzc-UHv5zH9IZhOkZWeKiZYgl8MstQyujFCaAM3NR2RLLwWyhQK1m8IBNlGYV6QkPGo0ON9pRTV3ZEWdyOpqyFkTCwpQww05dqcZnHMooi2ML_NtfSjvcfuiVCBz7PaxwjOnTkGg_DzBAZCXEAByU9iqGUkvuDJNhQaREskz-j1ZnhMHZEau2SbHBy1K0F2CLKiZ02nr2QNY0vnVhh_cOmtSz8wC_X3ib92x4G9WQyPLQLLBsvgPyg6Nc3i6vdmLgpSK6A3yz6rrUiJBRVUfIoGa6f30mSM4mQ9GVD5rYmjLkGLJZg0hzBJ9fci5Qkf9v-W-TVzEannPWa-eUscVHM5Y0C4i-ng232Y_CLlrqGprnytAT3uNSP2Cku7y3fcR8a50HN4OKk_7rRJm2SJPaiFAjWra7cvqCecd0Mw88Y3MmGjKxnHqB3IM8OYuycKeTcci7BQAWHBSJWc4Que4yG6sJc_WbHXllJi_uSH3NUYqsy85cssm3Mjp8Y6BCxZi1dO2pvoFfmG3tBigjYvhkOeE3DPHqpjtRmvlfc623Odoe_kYQ295vICfB0CY43Qbrje4MvVtyrK79nBOS4qvSyGCLfFsobUWfCgz_0ZbeMrWxBwh7LIh7t4ZfqQ11k4zA88L4JQo5OCs9dWj4cbC5MI-btChDY30ww-YuduXD_uz9l-YVON_S2kuGDhNf71PHvbwCWs-EH9IcdrE_4SB0OHjGRuBIQzVPPER0gTe9J4PzGnuHbVUhRJi8LhVbQKvc7GRPv39YG9fq5suj8J_NOOdgDL9Sx50sXg66VCFql29-tNOm9xEfSCwWDP5w54nYq9BZuRecdA08BLU8y3uQBzq7NbI-J7erKfue5kXydpq6xcVW2K6a-pqI27pPFUdDO9P-M00STKrXwuPpakBfcjykgH4UtFig_vuC1fZnhuq0OpsWIQ6Dpw2ww7Sk0nnFVyaxO5NTLNYozwBlb5Nb7B-VkeHS_4x5KFlXX1xTme1M4DbCR6BCZvQUR3L3Aw9OfJhLrTIGDuCU56lTwtAEuWzDoKt7I17kLOXNVu_rg4ULe-kt2URanXcTDhQ7KrvhEQTLLujyZjSO4ofbI;/?ep=AwhO62kAALBSS2vMeYoJB_PE6MjGkyhSGdzFQ13pb8JmNEIK1UHn_GdAiH4Nrbp4sHlcFJ826YZM9psR3bNPF4f7cRRKE4Mk38phE19gx7VrzaDkk4KYQsRMJKyp1MLi8HfRLjc7oo78EoNPhUmWk_a8E9Eh58W3SENuVCTimtbXArBn83zdLYlN_bfVYeR3OwlCgUQ5O5KRFx4PEaxr0KE4y_I&v=2
+          - paragraph [ref=e404]: 【相談無料】解決できないお悩み等お気軽にご相談ください。除霊お祓いのご相談は是非天光寺へご相談ください。
+          - generic [ref=e405]:
+            - text: 広告www.tenjiku-jyorei.com/
+            - button [ref=e407] [cursor=pointer]:
+              - img [ref=e408]
+        - generic [ref=e410]:
+          - heading "お伊勢さんスプレー 縁切り" [level=2] [ref=e411]:
+            - link "お伊勢さんスプレー 縁切り" [ref=e412] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AwhO62kAAGft3wFKPxWmj23MUv8p1jilrM1B0iKgi0jj9wFHQ3HD6H2vinx8qMDHNYJwPe2W-GA5B9mclMS-URIx0rSy49ZgoOHwknAJag7nKYq0MVdhcnFS6BprpUNWUuQ2nVxUeq1sUm0608MsZEfFO-8eeXv1BnrcRVRz3ZmImsDEX0RO_p_sokfifHyFD1xrlUZlp8UEOecW6ram4E1DXUvFG6zs_aB1T356ZO-zGwM_f0KKtx_4Vsfu2UZBbe7JlTgyTx9Hb9Vo9PgERBtdnHVfv2Fqnhq6m_wD020YhQpXZT7qUswrTahrbqnFYglmrg5j7Ae4ier0tYBL_-LqzyVoDWnqO1IPmsLM4MJgQIIbSXFstQktAc3qsTwzwrb0t9OXShyBtVXAixizV8FM83mJTVBAcqRHUwd1SlP9oILD5f5iA7-6A7C0JZ7nJh0-WHgb_F00pWkKB76o-KaVPJGWPMTW3D3MPHbRy0pQoZYHrfeH0-LTBf50B886tQ000hD5ANgKn4D-M_2Qk4LLcwe7Dawwgbo9NreLCU3c2u8u80rsVTqClIImWGIkYRgn0kJiWV_S1vo089p79Gl0J8GkSyn7z1jTqJmNGbCtlKz_v4HzEwC66uI66z01IHC9RCe59JrtEIqb6nLxSUmPc_1-1OujonCmD60skMtJ4wnqO5Rmkh7tq2BXpsR_FF7P5Pbhk7YTfUmQ96zJ0AeIsIl5GD-0EXG4E1qankS5hy3hi49BkSXpQpoR4yULttdevSPVakXWHZL_t1JmyoBQtJDiZTBYEjclhks_NskBZI6tZCJ6qzyt_jG491yNqeHGBCfyryfJFqjsuSYgkxM11SPKb3XXcOz7NCVJSn0F2ctw7QdsCPEGo2sNOjrl2X7yFGEbKlufS936Z3GL1Sc8tVOonj7U9ukGiYI1yO-72FvQTFr2VV7LsEl9jfdZQ-5PisWHuK1MT66wd9sFR9CMXEDACMB3DFqAZixs_8ZKLlrb70D6mowB3Wc1xoa69nwS-1G-gt36gLgkzp3PCSa1w_D3JjX7nSOYfGDPSg0IGCN8ip_rxwf2wvEw3SpaYMPaWJ31xbLcsFzxSOhm5S7VKCTDjdZxPk_mpgF2L25zMnoNCT5kL_eJl9zz-70oI2FRj26pNayvKwBa0rLCgNWHkdRVkcAgRZUEpwyGSqXIlprqPCd1A2Nx0a5UT0grGFaA-8EXw2T5G_MxVE97gc2aITEOc_BEYCLnctmwi9dWXM7lvRBZIoYSnjtGWsxbRWlOfEwESuAE5hUOo3MyCY0yCGBbvLEarm5Q04QmRmyMTjUvAl3tfEO2pSZW5RYZ1ESgnxeu0gKFFbNC_znfnMz0LalunWDX5qY4zdzAdx3AgB2eziVBlfP6pMMYm7SfUL9oJdUpkfInsQSgDGf5KDxikhxxiXyNUzgYYJIYVuUdZXn1gpV6VraeouMQfrMsBZqeQv2UJwZisAzzbBFm1S86ykzBDTla2gDPhHXD8ZIFn-kckQKgxd1J6LLPj8e5Xl9UGNfXBfb4EbS8pcH-WjUOqfxw7DGs-P4URjgqxaOs_mmM6zYoeEH4C5EB-MekNgCoQVS0d9CyEvrzimFIdYrXk2zhs2RDi2PqwGaiGXkD2hEuQgaCuo5SCSk1M0FS5kdbUVsLIUEthPQ;/?ep=AwhO62kAAPzsQxBdM2-Wd3Dt0JuyzA-aMhG4PR5QcN6fPDrABaBOWjV4M1HoVH7u0e5inWsUthW-9ztuV0-b-FQCJbD7d5PXMF3AcJrsqBk9WU5Cjx5nhUwEQTleyoVqzR8cOmR8u1CIekcFDI2sfx8aRVQgUUCTXXHzrXH50Fxc-53j1WYOs8z36r3i79qX3TuHDTsTskCa-zlg4MrcwidTsg&v=2
+              - text: お伊勢さんスプレー
+              - strong [ref=e413]: 縁切り
+          - paragraph [ref=e414]:
+            - text: 新作アイテムが続々登場 - 欲しかったアロマアイテムが充実の商品ラインナップから探せる。人気のブランド、アイテムなど。アマゾンならお伊勢さんスプレー
+            - strong [ref=e415]: 縁切り
+            - text: がいつでも買える。初期不良時のサポートも充実だから安心。700万冊以上Kindle本、漫画。手軽に返品できる。Primeなら通常送料無料。数億種の品揃え。
+          - generic [ref=e416]:
+            - text: 広告www.amazon.co.jp/アマゾン/ヘルスケア
+            - button [ref=e418] [cursor=pointer]:
+              - img [ref=e419]
+          - paragraph [ref=e421]:
+            - link "ビューティー" [ref=e422] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AwhO62kAADUeiJi5Dg3L1yaVfdmFvoAz4kTu-G-QuHVtxhPHLjUaB6k47sVEzxWwq_rEIu3ymTB2BXMzlvgaFem931b8yB4o9-3NKdLHmUTRVMzDvew9NYRrCn14-bkgtPk6w6RB8WPlR86LDQfvcuod9JIjUrxjHjgCLWpW-z-y8xv8zRGnm2Ljr_fal6JJ1h6FFPdcBhQd-1WGlViaFsZ2qxgSjyGpq5B_V7ueTnY13UqbPikBOHAQtTPUkqSj0PLHIt8KSLwbsYKMCZPEBuY66MmqmMmjH1WATylEe3_MYshM9XTjoF29NCkwpx4HkXcx77Xkoz3MvLttQtON-MeadCXVphb-K6Qt5JPMBtkP57yE_Xx7QlNdHJ1COmXXinkjRjkSaL47PBIYW-hsPoMM8-coZx5NZA-bm5JRbuqMD5sj2E2ESlbUFnHFT2p59og5gu90pvphVN31jnNPVmWliAts5nK19-AwaQAxQIohXGZMjEGbrdzwAhgMRYWqd7NplVJ-Gn6ViuIsH6YC3ZeeUMD8u6sy_TtyOyp949O_ftLlqSRBsKVZdr86FVXntgA3ow2VOB2SPraz5zOE0LhJey8r_nmDXh1eytwh9zukTRiurzZYAN1nWbi-s6TuEv5GlXiMHKBzuUlRnpxwxdQYjLrbweQASc0Kzy6m0hzchrN_d2C6V1dgNAzwbV5M2C9o0ajX9RT4-VgqtQBBlSlWrm013CdiVT4Sj4dYpb8IA2PoROMYMeNNjmaNZijjfCzvTXkOKVEo-HNkOoKhS0cZgwYAvOXuITpgoTcEcCk7NaiTFvanocuj-BHWA6-fJXloikDK_ce5dYzhGe7Ir8Kw3JVCXbt6j3Gqcv6Gqx3nPTGjC-r4mRssPvysiGWU1dHp3UDX61eXqghiY-l3PYr5XKQoldvxBSyVfLMw_qXuIiVcx8AdYbOlxFKb16Ljs4A6g6M4qaqpmEPYyD6wWPUxJ3DtI2E66wLEKsUqckCqeWVkwIHCUm_UqQQqohXXssdYUj9yieHgSec-WheicYFcOZrOaxJVkcoGOB3LbEK7rS2DG-71pSgdHLvzK9a_RNyLznFleRpPzp7a8J-XNyeoYR0HFic7CIJr8zFO8UQkBwQ63yPAGIZUT8_zbXZj1LHmDrWrP8szM5DMPKMvlocIl5_lze0KGleWsfiDmmqUZeCb4eUPNfqt1BHMVGSMSaGVVMG4-hpAmBmFUTaHJh921hW1cjEC0e_9GWcC0L-ZhucT-W_eLnqIr8fCwOYVlIXvERyeVMy800DonC0vtzyg6nbf12MbomiQ30nrgaBT07Bp0C8m3iY_KFlWAhVjRAD35JikZzQGvUMbK1cd8UNc_HadhmIFWU3yLhWnLWG8m_hy7jdG52ZElHaV7v9LpNFWjuiLg-rU9MkO_XJJslbIAKSgOlMQ-9-Dl8Nz8H2XzJh2wQuuRsUr8L70l7uj0omAJtaiQCdDN6TzQgcXyD4I8mZVLH74YhXkQvFdWuouD1EiiH47yvbNrPFKcfXhS6G7AduHfF8yjKKkNqL67k_zAM2lwTa48NUYZBZr9X_BD8g26qTQTA-NhLjuLJZXF03gpVv-BnYtMQfiGE8;/?ep=AwhO62kAALAVx0zhOQUe3sWqd0SBZPsHHTwHZXvmbJzmhQYPvAuIeBxeD0JZBi9VBEk698ItC9aM_fOThzQDgSbZlVwBFj8vhjiVdhvM76Z9ix1klHr2Od_AMq0qp5lSzgR_oRJ5PtXrmUyQZZVXbGwwummtDlMErTkGcoEUkiVcmRz1k7tqBBqXjqbKmVO9d-vysAf-Tj9Hfv_rBampIlmO8MA&v=2
+            - text: "-"
+            - link "医薬品" [ref=e423] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AwhO62kAAMfLIbaO8J4f8ushfEwjPQI-RzC8YgTb1beckEQmcf-zljPRsEOmYaBZwC855OsnX6MgtqrhI2UgHvMkxofqpCxbtL1HiQr8qirPcbaJSqrfcx7IfV7-wIjS5wYoKSQyJn6XqI0GDCLIDr75QzlXp-lP-g3639zCX4MbEZRdt0XXjP8VkU8r-Sm5M3urvifDUEifq_FpXksjQKOrhkaFmKzZLXy3oIwkOBc0zwfdkzpEMd1oOZVovecpp0Ir18Rj8IvaOFSdJb6-uSVi14jztED8PWj_URGpsPiJwH_0dl6RJzM-7tEny64MsdtLf2tMpPQpq1Y2u2-V4_hJL-4LDtsgSxkWx7DF94oh_0ic6j520bzX2PxH_j8UTSJ92WNsKmT1pxTwLsI8NGWWa-5Y1ZWn7DDyDCvxW6yUEtJbdR_Z14HCNiI9vFdNJako7yiEL6WYOg8CorQOxRYR6QJVy_qw3SVbDJReVPvX-xqvZ1uQTrkeAO_yEwpmE9og5pNMc4tGqX2LkU8ora2i0Es_gXzhaZkPsVmycuPRS2RT9uotkmlXgmkZ99pb6FYR39CGfbik0dipUh4pwInyuuMQ4zxgYDZ-MSxpud6rgippwIGkjv5daQHZ1nmauB9YXgGfSLjuXrpHSFg4xIR14ZS4B-a2qLpgkgjt0ATLILeJfoyfH8n4WPDdmGeg2n41HQBe9CuXaPNhfV5piLDqDg90iwqOZ5rY2L9KP3LXX3u7ehY8ZLeMmvyuphEy_bjEWQyOfhK0SS2UMDfbkeaHvWT8aSbGzWZSaOPfnlOPI-H7dxM0HY-hYQcbNraCnjDktDy12jaotS5L6jsvcSX5ixkGd025hjWf3ECFjoyJyVxpywlIklQhTxB3NP2OLDgm4jYp7OhiKZbi97NIQj-brHt8hAaBPSHUxxyBTLVKuXkXVD5gbliNnJ5e3EoxacPpjuFagaOShGWzMIbPStVbcL7brXqwjVvR3JLXWNCHfxhos6RK-LCU0l7gS5eDe_IxnuXWDHnucRUzNb20zL95eruPJwnH1EgLZ_ODI5v0h2sFJSVtNr5xJ-2CvcZ9ksC56l4e06n5m05ZbKeZLbgYzWDKXnI4-w0y4PKqF-FATzqNXPsjMBrB9giAP2vOsWZj1rxgqQ_gZ5V7DgdYS0G1G698bYDTb-gXm_qRpaptt-kb-QNGMUENbwesMjp0QmpGKvXuWMsbU_aKdb29DS4n7FLTbKEvp-zsKR10JjzmB8KxMd0wAeL5OTWTuSfh3V7ZY2xh_N5eYm7Az1KTj1X6HYAuiaahhYCJs7-DtTifSIsG67ItsRzZA8c5s4UR5YufgzDaaBDBc4iMQWji5fNIZq7B1T78xHnv9_urbHW_WcYL8Exueyl2ihnU5u-kFwCEJkT1AdEho9m3cuNG_eCmgT17L1Hdv2Xu6TwOo6rDAFYKz0CpqiA4bKPIJ8A0R37-5w9gjuIte2SQDmjYSkMV04rDy7MYwrOjIVGuHJ9LjjF-ek1OfeP2iSqKukf7Gh_kXDF9YhwRdFJe5X1NfHqALu1zs1NqV9RkAKAIKjzsQ_yJexH3uZ7m-zrWQvtvqQ1x2xk6QYlh7eEXvM8HMbQ;/?ep=AwhO62kAAL6H83GB28Rp0GEwINOJU5FF-BL5INs0xiu1AoPVlPEtv5FGGqh4q9OHROu92NN0HkcZrr0JOuxvhXKl0F5lE6KM1PGVfi6xCgf2HnD4Jg1g9DNXPG0146eySBcO61dgji-rWnH0t32yqrRWcg0xCM_cYmdAj7n_7UWXbJSLFg8_keBPF3p9lC--aJj5-Y2foVWM5DBJFg2xLldFLTg&v=2
+            - text: "-"
+            - link "おむつ・おしりふき" [ref=e424] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AwhO62kAAIMphlFAf6hIckMfWhIhwjQWiERwN28Fn8d8UihhfYNYnqEpOvlPZ1k0dSetuZlTwxSC3sg_XUk6uDklc3W3iFFq_TkgnQEI7ILiv04D32UhcdxoX2wypK9tvpHR7ZKOT2fzUzX6ThXU2t_AbSn-ZMQoyJN2mk8gSweT8jtWpFplbd1A_-Z22BP3pGS7UdFELRF9EscouMEORGMikUZqMYxMR9-ZYFEL2IO4skqQl4oIzd6SZByrOcnuDaYQ24Vv45X9ZfwD_JtaUmlFLIdeTEn7OT83T4dueyQMN0GPE5_xKiYA9EsE6yJU9_-Z-LNL5tC5dMXWq3frGkFPNJsEeBiV8YxNoxht294mBRmr_yicYAEZbzagPF1dND5NoLwjQheZSeG6uy9chKuxaGzhTcsaXOyjh6oQ4ofe0QK80HNzhEytuS99WRZ0zjKGx1DgRpdx1KStYaTDVQirNsrqES_9TkvXudYCP5s0G1jx3M8LZJ9rnyZ3_l2P-MKt3ukWKlUFEWyqa_sS80RGUaygL5aE8JA2zuZezxMtLPiAxIoYpObl6PjhNNK6a6osfvAIZnqVrFmjMj99Wq4U4n0dBAHl0ettLgqF1YJ4g4Rekk5w52r37bdrrvklj1KZYRmV9aGu1eKqFG3kzYVLHkq3QvcevX54ZfAt4K9h4d6jzoM610pe3-_jDjFOZ1XI-BD3dgyAu1cJrfRQdgPgIVBMLVhisNHcNMPuq4Yl4bGBxyvrFUQi6z9MUhYFJ31ffBw99kfC-eRISzuPCHDDSOxnkLRQpzv8HtK37miBNM1nrIoBp8_r-QcZCKxRst-CIXc_-Q-gOpDMZ83zOS7hZGJCPVcPM9_cMvKRH3OWNGhf1ljvCxev-mSI3QtUhK0WLpSGd0hgrA4lDnYMZtvlPxHCxDQVKH3BL67bx9i7sLb1JlP0A-NgCC17UkQB4U_SpFqJJE8398apuYMB785GvJfM5stj2Nm9ntKY99AXYp_7t_E3ghyrv7u3Tka1edVuQk_9N8Y8K9nP3G9q9OiQl0ZbyYjXhLa3oMUGk-jV9TeDSzwEJhKAlBpvzPrOBiGnUg_OEnDjzCSMu7LTapyE0xYTtg_BBHKl0Q98Mr9HyKrLKY5aGjieNd23t3iVs8oL3H5jBQdWwgUHoKZg4WEXX9N_ZHnocb14CEa4isQv7d_r_vs06CJh0f6ywbBmUVF3LBsuJnN44ftNy5NWKG_6-q-vE3z1dNymDPcdvjb_B0z1wdTk_Bs7EJC3lgqZlxg9sUXNuO0MeGNCCKuzGtnfdAXSo2M_56tHLuDdQUMwLYxw_-YZYrtM0LoN06Hta1dsWJHcaSvTY7fa4h5zV5Pig3Zg63wV1LrIgH1UDp188VFJJlJ4A06Eqw1w9n0ZBE-v4mvL6Ymxho5xH-JNnAN8DtbtLxIImEOuj3HgFha6lpdVbfmU0NJ6JnMl82vsJeW5MSGTsMRkLqWzheuJN2qywudJizRCIw2MyjLlsS2SlK1e3hFcETZrPUhM4NXY4zAydjcNGA6xNqbHl4-ZhrZIEunmNy2ll7iFSCBiFXymKOLxb0Fi96R9id4QULhP3hz8ozepZVx5pMj5ow;/?ep=AwhO62kAAHhVL3OgdChElCkqHxUT_ZqqMY6lFrCaho8E5qeQUeeWylQ6K9K78R33k_xOaMNWos9TicdB-ACywq62xVQzGl67gGiqKT0d7ASgE_Ay7Ok5LyfEy-Lt680NJXfV8-pk_cxHVLJfMUd_r3j_3F_bTZl1VCh27zSnFDcfqLWzxPkxi37_Wv4PX1fG00xVEB5VyV3TlTirxqRpPJ5ilq1t&v=2
+            - text: "-"
+            - link "日用品" [ref=e425] [cursor=pointer]:
+              - /url: https://rd.listing.yahoo.co.jp/p/GU=AwhO62kAAMOunXKgi7ItvXnBV2dk0aOxCB93hlIC_viM0Z1M4-fqqMVPKMQDeVDhTlxhtigWuu8HgE0FR5FVRUQFsI041tgotFltunhljhmhPzLSUvvRTdL8IppPgYewh2DljcjIresCx6_ASjWe4sD1QFvIbvAvHycFrw7yPSgBWA1ruC3kZc_j6kJoGjY6uods0D6fxsLJN_CS1Jz_HkNTUGVVWS1vtYXDhu-auMv8Tq2Vhl0qN4gvTxeHUxG7Pba9iKdSp8gGp5eJQDjbixtoD1eev3AI-1vkGPJOzjMNTf4jXYEtcXhLU_iBcl_wzprAJUuZndOepn9Cv9WNxcRv770MMBJUKIyI0hwlwYKslRTArax86Ki6y7ByJqEBsuBlYRcc8ojZjRcppiJmGHthpsX0tLaScOskXFA4hKbUm-LKgXNKKZ8ioc2KJXTsA_Ub8DVXB6plo38BMguUuF1AW4Tfh38F-dWtGJik7wJOmyU_jQKIaxz2MMkqMTcKfXQCG6vV1s4-1L7EudSypWhPvq4QhvM7y-uu1fJOul3m3jOtY6MJ02Eu0ChU8IB297WP4g-UFozysnDThZWomQzcrcQRb7ZwLsM8K4t8aogrCUDZVjV1HM5Y1END4btjdDapfGacn3EZdPxcb50kfdmbfh16_Nk9moJi5uBA6sPE_fkGFFnmtPwfhVsd0hY6SKvZB3DijollAhszWIvYhkrWXUc_YWH3vWBWKNpwB2Cad0MTgLEq9Q0E63GTzoRihdSjViiT1tkSZjlcQzQk4qb_ug-ZwZ9XsGD5HOEJ3apf6p4EatqIw1q32VXbrU1OmEZ9j46QnEpgQYJLMcSqsrEyVIqvNhAHIf5Rmpvl2eiK2t2QYuDovwTE9-7TQBt_DAuyYcEH25JO5ITnESI47v5evWt1YgEjCGLRDGKuCnueUXRfMEOJ4t1AS3GxTrcKHUZoZV02fQw8MawJSGYlF-3Bvw22hpTZQ9zh7HaXqY6Tq87-S2OR7rb8qpqGPAgjEEs5ncfySAqAOhLmQ1ZKTJ3XcBwze1WlcMCpS1qS-Ml2DSOXmbqGjokWNLDQSzl5OVwsfOmLqM1caKGnyhf-ZAZRBZMb7GwD27KcHtU7TPaq2ZMRSRr6TKf0IkFaYBoqV1yvNsxS3NKyoetXlX0eJ7n_a3w3IlN0yJntkX3FrxXc4zM2SrQoC8kuvPtmh4GZROBiIpMui6vmv7FVcwj5LKIZfAn6itDsG5pQaeq9ffV681V_051psEnz5uw2dELi9eMLdx1Tvzr89hM8FHMeoKwX5r0M8xMe6aJjBUxwqOa051PPpM4WV_aiaa_nDYxV3Xpp4EpC7Od1gN1yg9Ok5goU8jLjlxp3qJx44Z7j5DcVbMsVO5tP5t88lOCNyybFuC7z7h2uHoQVaUj-PeYPfH2DnxmkZooZnsySnoWkcXUiLI82Gf7LeRweLLCf1xVTbJokRsngKJ_7BE_4OamRwpIpF0NDsKM3hCULs601Hp3fMZ7QTcHPtvH6FcZS0hdJQCONlpp2vfZ13F1OdVkfOkXnWWllSIqPC5GXsw9rmf9EiBXBj5lK4ZLtUIFnQ0tJHifhtaio_BUbAPa1Xez3;/?ep=AwhO62kAAJrHvioW7BaKrYcaIiiYzIPVncym_USEyf2elntUTHWGhzW4KMN1zwYWYXFP1YJomiVVneMwSA4TSZLPONunyaLGDUBurp2DBkPvxySxL_lmixPO7w0hGiVVg4OgkCeXrG9_CktprTyq1-OwGt7vk83h2I0MtMyAKUWqr7AN4BAd4XAhio8rJF_VMGaVfw7hqkgnvQ-mCQeQ8vFAk4A&v=2
+      - generic [ref=e426]:
+        - paragraph: 関連検索ワード
+        - img [ref=e427]
+        - list [ref=e429]:
+          - listitem [ref=e430]:
+            - link "縁切り神社" [ref=e431] [cursor=pointer]:
+              - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A%E7%A5%9E%E7%A4%BE&fr=common-navi&rs=1
+              - emphasis [ref=e432]: 縁切り
+              - text: 神社
+          - listitem [ref=e433]:
+            - link "縁切り榎" [ref=e434] [cursor=pointer]:
+              - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A%E6%A6%8E&fr=common-navi&rs=2
+              - emphasis [ref=e435]: 縁切り
+              - text: 榎
+          - text: で検索
+      - generic [ref=e436]:
+        - generic [ref=e437]:
+          - link "前へ":
+            - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A&type=tag&fr=common-navi&b=-9
+            - img
+            - text: 前へ
+          - list [ref=e438]:
+            - listitem [ref=e439]:
+              - link "1":
+                - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A&type=tag&fr=common-navi&b=1
+            - listitem [ref=e440]:
+              - link "2" [ref=e441] [cursor=pointer]:
+                - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A&type=tag&fr=common-navi&b=11
+            - listitem [ref=e442]:
+              - link "3" [ref=e443] [cursor=pointer]:
+                - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A&type=tag&fr=common-navi&b=21
+            - listitem [ref=e444]:
+              - link "4" [ref=e445] [cursor=pointer]:
+                - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A&type=tag&fr=common-navi&b=31
+            - listitem [ref=e446]:
+              - link "5" [ref=e447] [cursor=pointer]:
+                - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A&type=tag&fr=common-navi&b=41
+            - listitem [ref=e448]:
+              - link "6" [ref=e449] [cursor=pointer]:
+                - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A&type=tag&fr=common-navi&b=51
+            - listitem [ref=e450]:
+              - link "7" [ref=e451] [cursor=pointer]:
+                - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A&type=tag&fr=common-navi&b=61
+            - listitem [ref=e452]:
+              - link "8" [ref=e453] [cursor=pointer]:
+                - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A&type=tag&fr=common-navi&b=71
+            - listitem [ref=e454]:
+              - link "9" [ref=e455] [cursor=pointer]:
+                - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A&type=tag&fr=common-navi&b=81
+            - listitem [ref=e456]:
+              - link "10" [ref=e457] [cursor=pointer]:
+                - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A&type=tag&fr=common-navi&b=91
+          - generic [ref=e458]: ...
+          - link "次へ" [ref=e459] [cursor=pointer]:
+            - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A&type=tag&fr=common-navi&b=11
+            - text: 次へ
+            - img [ref=e460]
+        - paragraph [ref=e462]:
+          - generic [ref=e463]: 約19,842件中
+          - generic [ref=e464]: 1～10件目
+      - generic [ref=e465]:
+        - paragraph [ref=e466]: 検索しても答えが見つからない方は…
+        - link "質問する" [ref=e467] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/question/post/form
+      - generic:
+        - generic:
+          - generic:
+            - paragraph:
+              - text: ログインボーナス
+              - generic "ベストアンサーへのお礼（知恵コイン）：":
+                - img: xmlns="http://www.w3.org/2000/svg">
+              - text: 0枚獲得！
+            - paragraph
+    - generic [ref=e468]:
+      - generic [ref=e469]:
+        - heading "検索対象" [level=2] [ref=e470]
+        - paragraph [ref=e471]:
+          - strong [ref=e472]: すべて
+          - text: （19,842件）
+        - paragraph [ref=e473]:
+          - link "回答受付中" [ref=e474] [cursor=pointer]:
+            - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A&type=tag&fr=common-navi&flg=0
+          - text: （122件）
+        - paragraph [ref=e475]:
+          - link "解決済み" [ref=e476] [cursor=pointer]:
+            - /url: /search?p=%E7%B8%81%E5%88%87%E3%82%8A&type=tag&fr=common-navi&flg=1
+          - text: （16,758件）
+      - generic [ref=e477]:
+        - heading "表示順序" [level=2] [ref=e478]
+        - generic [ref=e481]:
+          - combobox [ref=e482] [cursor=pointer]:
+            - option "質問日時の新しい順" [selected]
+            - option "質問日時の古い順"
+            - option "更新日時の新しい順"
+            - option "更新日時の古い順"
+            - option "回答数の多い順"
+            - option "回答数の少ない順"
+            - option "閲覧数の多い順"
+            - option "閲覧数の少ない順"
+            - option "お礼の多い順"
+            - option "お礼の少ない順"
+          - img
+      - paragraph [ref=e484]:
+        - link "より詳しい条件で検索" [ref=e485] [cursor=pointer]:
+          - /url: https://chiebukuro.yahoo.co.jp/search/advanced?p=%E7%B8%81%E5%88%87%E3%82%8A&type=tag&fr=common-navi
+      - link "占い師にお悩み相談" [ref=e487] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/professional/fortune?utm_campaign=fortune_talk_other_chie_in_bnr01_qa-res_000
+        - img "占い師にお悩み相談" [ref=e490]
+  - contentinfo [ref=e492]:
+    - generic [ref=e493]:
+      - link "Yahoo!知恵袋" [ref=e494] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/
+      - generic [ref=e495]: "|"
+      - link "Yahoo! JAPAN" [ref=e496] [cursor=pointer]:
+        - /url: https://www.yahoo.co.jp/
+    - generic [ref=e497]:
+      - link "プライバシーポリシー" [ref=e498] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/privacypolicy/
+      - generic [ref=e499]: "-"
+      - link "プライバシーセンター" [ref=e500] [cursor=pointer]:
+        - /url: https://privacy.lycorp.co.jp/ja/
+      - generic [ref=e501]: "-"
+      - link "利用規約" [ref=e502] [cursor=pointer]:
+        - /url: https://www.lycorp.co.jp/ja/company/terms/
+      - generic [ref=e503]: "-"
+      - link "広告について" [ref=e504] [cursor=pointer]:
+        - /url: https://btoptout.yahoo.co.jp/optout/index.html
+      - img [ref=e505]
+      - generic [ref=e509]: "-"
+      - link "検索結果への広告掲載" [ref=e510] [cursor=pointer]:
+        - /url: https://www.lycbiz.com/jp/service/yahoo-ads/searchads/?o=JP1160
+      - generic [ref=e511]: "-"
+      - link "利用のルール" [ref=e512] [cursor=pointer]:
+        - /url: https://chiebukuro.yahoo.co.jp/topic/guide/rule/
+      - generic [ref=e513]: "-"
+      - link "ご意見・ご要望" [ref=e514] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/voc/s/chiebukuro?id=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%20like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36
+      - generic [ref=e515]: "-"
+      - link "ヘルプ・お問い合わせ" [ref=e516] [cursor=pointer]:
+        - /url: https://support.yahoo-net.jp/PccChiebukuro/s/
+    - generic [ref=e517]: JASRAC許諾番号：9008249113Y38200
+    - generic [ref=e518]: © LY Corporation
